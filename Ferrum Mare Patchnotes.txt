@@ -1,0 +1,179 @@
+Ferrum Mare Patchnotes
+Current Version: 1.0.0
+Date: 25/12/24
+Checksum: XDQP
+
+Acknowledgments
+My deepest gratitude to:
+- Pero
+- Rennes
+- CE
+- Zombie
+- Ethan
+- Reno
+- SirRunner
+- KevinG
+
+for helping me so much with the development of this mod
+
+The Base of this mod is CoRGI_puir 18.0
+
+
+VERSION 1.0.0 BELOW THIS LINE Checksum ( XDQP )
+
+# **Changelog**
+
+Map
+	Channels
+		There exist 4 classic Channels
+		Active from Gamestart:
+			Channel #1 connecting "Sunda trench" and "Tusei Bank" via "Missolonghi"
+			Channel #2 connecting "Northern Sumatra Trench" and "Moonless Seamounts" via "Jaffa"
+		To be constructed by owner or spherelord:
+			Channel #3 connecting "Central Indian Basin" and "Yekaterina Plains" via "Suwayda"
+			Channel #4 connecting "Coast of Brunei" and "Coast of Annam" via "Sabara"
+
+	Crossings
+		All crossings are now market with a red stripe in the sea
+		Additionally, any crossing split between two sea zones need to be blocked on both sides of a crossing is still possible
+
+	New dual Channel-Crossing
+		Via a specific combination of channels and crossings I was able to construct a new type of channel which I simply call a "Crossing-Channel"
+		a "Crossing-Channel" can be understood according to two simple rules:
+		1. To Channels has two provinces needed to close off the channel (one on each side)
+			if only one of these provinces is occupied by either side then both sides can traverse it freely
+		2. These provinces are always connected via a crossing (red stripe) and thus both sea sides of the "Crossing-Channel" have to be occupied by navy to stop army movement across
+		
+		TLDR: both sides of any component have to be controlled to allow movement or movement-suppression
+
+		PS: If the controller of both sides of a channel is not allied with a nation, said nation cannot pass the channel even in peace time!
+
+	Oil and Rubber spawn regions
+		Both Oil and Rubber spawn is divided by regions which each allow a set number of Provinces with each of the resource,
+
+		The Regions for Rubber are:
+			Region 1: North-West Troida 
+			Region 2: New World Sea 
+			Region 3: East Servile Jungle and Jungle Adjacent
+			Region 4: South Desperos
+
+		The Regions for Oil are:
+			Region 1: West Pillars
+			Region 2: Central Pillars
+			Region 3: East Pillars
+			Region 4: North Desperos
+			Region 5: South West Desperos
+			Region 6: South East Desperos
+			Region 7: South East Servile
+			Region 8: South West Servile
+			Region 9: Central Fidem
+			Region 10: Central Troida
+			Region 11: North Western Servile
+
+		PS: I intend to make a decision for single-player that allows to showcase all the regions
+
+	The Dark continent (Dynamic random pop)
+		The host Nation has the ability to activate a dynamic randomizer on the pop in the colonizable regions of the Continent Servile
+		Said pop are allocated according to:
+		1: A randomized bonus between 13 subregions in which 4 have 20 more pop and 4 have 20% less pop
+		2: Terrain
+
+		This causes variation between the top states of the continent which I hope makes for a more interesting, varied and dynamic colonial contests
+
+Gameplay
+	Assim boosts
+		Gardian Assimilation for bonus for FO1/HER/NEO/PAL/VER after their respective "Concordance with the Gardian people" decisions
+		Perovania Assimilation for PAL after the "Integration of Perovania" decision
+		Haldosi Assimilation for PAL after the "Conflict between the Triachy" decision 
+		Sinray Assimilation for HAA after the "You too can be Haatosi!" decision 
+		Namar Assimilation for ESP and TRO after either power takes the "Empire's Edge" decision
+		Zyrosie Assimilation for ESP and HAA after either power takes the "Unite the Zyrosie" decision
+		Terilem Assimilation for EMA and DEV and RE1 after either power takes the "Dissolve the Crown of Teril" decision
+		Ormale Assimilation for HAA and DEV and RE1 after either power takes the "Dissolve the Crown of Ormal" decision
+		Nadorilem Assimilation for HER and DEV and EMA after either power takes the "Dissolve the Crown of Nadorilem" decision
+		Adranai Assimilation for M12 (Zeek) and LAY after either power takes the "The Eternal Strife over Adranal" decision
+		Macerian Assimilation for VAR and LUD after either power takes the "Jewel of the Narrow Sea" decision
+		Quardorian Assimilation for VAR and PIN after either power takes the "Dominion Over Quardoria" decision
+		Coordie Assimilation for VAR and PIN and LUD and SPH/CAL after the year 1845
+		Halladian Assimilation for SPH/HAM and STR and ELI after either power takes the "Absorption of the Sister Republics" decision
+		Elowaar Assimilation for SPH/CAL after taking either the "Rewrite the Consitution" or the "Calero Takeover" decisions
+		Lothradem Assimilation for SPH/HAM after taking either the "Rewrite the Consitution" or the "Hamero Takeover" decisions
+		Devayan Assimilation for SPH/HAM after taking either the "Rewrite the Consitution" or the "Hamero Takeover" decisions
+		Calero Assimilation for SPH/HAM after taking either the "Rewrite the Consitution" or the "Hamero Takeover" decisions
+		Hamero Assimilation for SPH/CAL after taking either the "Rewrite the Consitution" or the "Calero Takeover" decisions
+
+	Accepted cultures
+		PIN gets Calero accepted after the "Land and Legacy of Calero" decisions
+		SPH/CAL gets Pinaro accepted after the "Reconquest of the White Coast" decisions and the civilwar resolution
+
+	Tech Schools
+		Neodore
+			Neodorean Imperial Scientific Aspirations: gives a 20% researchbonus on ALL CATEGORIES  for 5 years after which Neodore
+			gains a -15% research penatly for another 5 years then it can switch to a new tech school if the usuall conditions are met 
+
+		Pergard
+			The Pergardean Ethos of Progress
+				Pergard gains: +5% Army Tech, +5% Commerce Tech, -15% Culture Tech, -15% Industry Tech, +15% Navy Tech.
+
+	Unciv Rework
+		There are four basic reform categories 1. Military, 2. Industrial, 3. Culture, 4. Special
+		The only requirement for westernization is the completion of the industrial reforms (15 Reforms)
+		Culture and Military reforms give their respective tier 1 techs and are alwas avalaiable but are not required
+		The Special refroms are unlockable via "reform perks" which are sprinkled into the industrial reforms,
+		after taking such a perk one may choose which special reform to unlock. 
+		IMPORTANT! Most special reforms have a requirement indicated by the coored symbole at its right side!
+
+
+	Tradeport mechanics
+		There exist special Tradeport states across the map, owning no such state gives a -2% factory output modfier for each such owned state this penalty changes by +2% factory output.
+
+	Pera unique CB
+		A Unqiue CB only useable for all pea culture nations which targets any majority pera culture state for 
+			48WS in 1836 to 1870
+			24WS from 1870 onwards
+
+		Additionally each seperate set of core CBS for 50% the cost
+			24WS in 1836 to 1870
+			12WS from 1870 onwards
+
+		Any pera culture nation will instantly core a pera culture state taken with this CB or the transfeer state CB	
+
+
+	Immigration
+		The immigration in FM uses a completely new system, all nations are paired up in blocks of 4 which gain access to immigration and lose it again in every possible combination over a 6 year window. This effectively makes each immigration cycle a contest to now be the owrst performing nation amoung 4 peers in which one loses, however the end result is very well spread out.
+		Additionally whenever a immigration nation is eliminated from the game its slots in the contests becomes non-competetive meaning any possible kill is always a benefit to ALL remaining immigration nations.
+
+
+
+	Overseas imperium
+		The Nation Verspodia and Trocia have a special interaction with the Continent of Troida (New world continent near the equator)
+		both nations have a decision which upon activation grants any province of the continent Troida in the activators ownership a massive pop growth boost and a modifier causing internal migartion out of said province. additionally all cores of the acivator gain modifiers channeling the migration there. Effectively those two nation can for a limited amount of time gain a pop growth boost proportional to the amount of Troidan provinces they own.
+
+	The second Rising
+		The second Rising is an event which causes the Gardian nations to revolt against their oproessors (the neigbouring player nations)
+		when the vent fires depends on the passage of time and the amount of event options taken by the neighbouring player nations which increase the gardian nationalism.
+		This allows those 5 players to attempt to hasten or delay the event from firing (or to work against each other).
+		After firing all gardian nation declare war on their repsective spherelord, the spherelord gain a free conquest cb on all of them in the process. This is meant to nullify the bufferzone between the player nation in the region and enter a sort of hot phase of the game since the option of reaching the "Concordance with the Gardian people" decision requirements becomes realistic from that point onwards.
+
+	Doridian claims
+		The nation of Doridia has a special start in the game,it has pockets of accepted pop across its borders, it is sorrounded by larger player nations and it has a large amount of cores at gamestart, these cores are however not premanent.
+		Any core which the doridia palyer does not recoqnuer until the year 1850 will be removed, additionally one of 3 outcomes will be reached dependent on the amount of cores Doridia had reconquered.
+		0 to 10 cores Reclaimed, Doridia loses 10 Prestige
+		11 to 30 cores reclaimed, Doridia gains 50 Prestige
+		30 to 40 cores reclaimed, all cores owned by Doridia gain 1 LR
+
+	Redrogard sudden strike
+		Redorgard gets access to a onetime instant CB on ANY of its ususal neighbouring player nations after finishing Nationalism and Imperialsim tech
+
+Graphic
+	Integrated Crimea mod dark UI
+	Integrated BelleCartographie dark graphics with some adjustements
+	Integrated mapfont_56
+	Used various Vic3 Images on for the loading screens
+
+Other
+	HM governments can no longer manually enable Communist or Fascist governments. Players must fall to revolution.
+	Academic confusion (tech schools changes) now gives -10% education efficiency (lasts 10 years)
+
+Tech 
+	Removed the unciv block from the Personal Category Tables invention for more interesting possiblities with the new unciv reforms

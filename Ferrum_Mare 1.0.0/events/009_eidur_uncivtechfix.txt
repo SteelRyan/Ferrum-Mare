@@ -1,0 +1,699 @@
+country_event = {
+	id = 999001
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_1_1
+		has_country_flag = reform_1_2
+		NOT = { medicine = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = medicine
+	}
+}
+
+country_event = {
+	id = 999002
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_2_1
+		NOT = { experimental_railroad = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = experimental_railroad
+	}
+}
+
+country_event = {
+	id = 999003
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_2_2
+		NOT = { stock_exchange = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = stock_exchange
+	}
+}
+
+country_event = {
+	id = 999004
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_3_1
+		NOT = { associationism = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = associationism
+	}
+}
+
+country_event = {
+	id = 999005
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_3_2
+		NOT = { ideological_thought = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = ideological_thought
+	}
+}
+country_event = {
+	id = 999006
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_4_1
+		NOT = { ad_hoc_money_bill_printing = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = ad_hoc_money_bill_printing
+	}
+}
+
+country_event = {
+	id = 999007
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_4_2
+		NOT = { organized_factories = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = organized_factories
+	}
+}
+
+country_event = {
+	id = 999008
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_5_1
+		has_country_flag = reform_5_2
+		NOT = { military_plans = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = military_plans
+	}
+}
+
+country_event = {
+	id = 999009
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_6_1
+		has_country_flag = reform_6_2
+		NOT = { iron_muzzle_loaded_artillery = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = iron_muzzle_loaded_artillery
+	}
+}
+
+country_event = {
+	id = 999010
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_7_1
+		NOT = { muzzle_loaded_rifles = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = muzzle_loaded_rifles
+	}
+}
+
+country_event = {
+	id = 999011
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_7_2
+		NOT = { strategic_mobility = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = strategic_mobility
+	}
+}
+
+country_event = {
+	id = 999012
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_8_1
+		NOT = { clean_coal = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = clean_coal
+	}
+}
+
+country_event = {
+	id = 999013
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_8_2
+		NOT = { cheap_iron = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = cheap_iron
+	}
+}
+
+country_event = {
+	id = 999014
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_9_1
+		NOT = { positivism = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = positivism
+	}
+}
+
+country_event = {
+	id = 999015
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_9_2
+		NOT = { idealism = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = idealism
+	}
+}
+
+country_event = {
+	id = 999016
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_10_1
+		NOT = { market_structure = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = market_structure
+	}
+}
+
+country_event = {
+	id = 999017
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_10_2
+		NOT = { business_regulations = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = business_regulations
+	}
+}
+
+country_event = {
+	id = 999018
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_11_1
+		NOT = { practical_steam_engine = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = practical_steam_engine
+	}
+}
+
+country_event = {
+	id = 999019
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_11_2
+		NOT = { mechanical_production = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = mechanical_production
+	}
+}
+
+country_event = {
+	id = 999020
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = reform_12_1
+		has_country_flag = reform_12_2
+		NOT = { army_professionalism = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = army_professionalism
+	}
+}
+
+country_event = {
+	id = 999021
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Mil_4
+		NOT = { army_command_principle = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = army_command_principle
+	}
+}
+
+country_event = {
+	id = 999022
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Mil_3
+		NOT = { military_staff_system = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = military_staff_system
+	}
+}
+
+country_event = {
+	id = 999023
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Mil_1
+		NOT = { flintlock_rifles = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = flintlock_rifles
+	}
+}
+
+country_event = {
+	id = 999024
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Mil_2
+		NOT = { post_napoleonic_thought = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = post_napoleonic_thought
+	}
+}
+
+country_event = {
+	id = 999025
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Mil_5
+		NOT = { bronze_muzzle_loaded_artillery = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = bronze_muzzle_loaded_artillery
+	}
+}
+
+
+country_event = {
+	id = 999026
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Eco_15
+		has_country_flag = fire_tech_event
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		clr_country_flag = fire_tech_event
+	}
+
+	option = {
+		name = "Ok"
+		activate_technology = water_wheel_power
+		activate_technology = no_standard
+		activate_technology = basic_chemistry
+		activate_technology = private_banks
+		activate_technology = freedom_of_trade
+		activate_technology = post_nelsonian_thought
+		activate_technology = clipper_design
+		activate_technology = mechanized_mining
+		activate_technology = guild_based_production
+		activate_technology = early_classical_theory_and_critique
+		activate_technology = publishing_industry
+	}
+}
+
+country_event = {
+	id = 999027
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Cul_4
+		NOT = { enlightenment_thought = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = enlightenment_thought
+	}
+}
+
+country_event = {
+	id = 999028
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Cul_1
+		NOT = { introspectionism = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = introspectionism
+	}
+}
+
+country_event = {
+	id = 999029
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Cul_5
+		NOT = { late_enlightenment_philosophy = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = late_enlightenment_philosophy
+	}
+}
+
+country_event = {
+	id = 999030
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Cul_2
+		NOT = { classicism_n_early_romanticism = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = classicism_n_early_romanticism
+	}
+}
+
+country_event = {
+	id = 999031
+	title = "Tech reforms"
+	desc = "Techs Acquired"
+	picture = "Unite"
+	
+	trigger = {
+		civilized = yes
+		has_country_flag = Cul_3
+		NOT = { malthusian_thought = 1 }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Ok"
+		activate_technology = malthusian_thought
+	}
+}

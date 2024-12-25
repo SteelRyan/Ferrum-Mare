@@ -1,0 +1,1436 @@
+#
+
+276  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 90300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 7300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+277  = {
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 2760
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 4760
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 476
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 95300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 7300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+278  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 92300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+279  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 65300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+280  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 80300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+421  = {
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 3612
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 5612
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 561
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 208300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 9300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+422  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 70300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+423  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 75300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+424  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 72300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+425  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 82300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+486  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 36000
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 45300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+487  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 65000
+    }
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 2382
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 4382
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 438
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 33300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+488  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 68300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+489  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 65300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+490  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 75300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+501  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 67300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 2000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+502  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 58300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 4300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 2000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+503  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 36000
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 25300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 2000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+504  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 45000
+    }
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 1692
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 3692
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 369
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 25300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 2000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+505  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 67300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 2000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+506  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 64300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+507  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 75300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+508  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 45000
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 35300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+509  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 35000
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 35300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 5800
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+510  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 30000
+    }
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 2328
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 4328
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 432
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 62300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+606  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 72300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6000
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+607  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 82300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6500
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+608  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 35300
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 60000
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+609  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 75300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6200
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+610  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 120300
+    }
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 3470
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 6470
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 647
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 140300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 16300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+    
+	craftsmen = {
+		culture = opales
+        religion = catholic
+		size = 1000
+	}
+    
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+611  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 83300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6800
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+612  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 35000
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 39300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6100
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+613  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 40000
+    }
+    bureaucrats = {
+        culture = opales
+        religion = catholic
+        size = 2308
+    }
+    aristocrats = {
+        culture = opales
+        religion = catholic
+        size = 4308
+    } 
+    officers = {
+        culture = opales
+        religion = catholic
+        size = 430
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 44300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6600
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+614  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 40000
+    }
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 28300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}
+
+615  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 70300
+    }
+
+    artisans = {
+        culture = opales
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = opales
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = opales
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = opales
+        religion = catholic
+        size = 392
+    }
+}

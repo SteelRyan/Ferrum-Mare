@@ -1,0 +1,181 @@
+#
+
+1  = {
+    farmers = {
+        culture = elysan
+        religion = catholic
+        size = 60480
+    }
+	
+	craftsmen = {
+		culture = elysan
+        religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1225
+    }
+
+    bureaucrats = {
+        culture = elysan
+        religion = catholic
+        size = 3137
+    } 
+    aristocrats = {
+        culture = elysan
+        religion = catholic
+        size = 3137
+    } 
+    officers = {
+        culture = elysan
+        religion = catholic
+        size = 313
+    }       
+}
+
+2  = {
+    farmers = {
+        culture = elysan
+        religion = catholic
+        size = 48480
+    }
+	
+	craftsmen = {
+		culture = elysan
+        religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1225
+    }
+
+}
+
+3  = {
+    farmers = {
+        culture = elysan
+        religion = catholic
+        size = 52480
+    }
+	
+	craftsmen = {
+		culture = elysan
+        religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1225
+    }
+
+}
+
+4  = {
+    farmers = {
+        culture = elysan
+        religion = catholic
+        size = 58480
+    }
+	
+	craftsmen = {
+		culture = elysan
+        religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1225
+    }
+
+}
+
+5  = {
+    farmers = {
+        culture = elysan
+        religion = catholic
+        size = 38480
+    }
+	
+	craftsmen = {
+		culture = elysan
+        religion = catholic
+		size = 2000
+	}
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1225
+    }
+
+}

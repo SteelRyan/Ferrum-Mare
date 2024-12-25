@@ -1,0 +1,64 @@
+army = {
+	name = "Army 1"
+	location = 2246
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2246
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2247
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2248
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2249
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2250
+	}
+
+	regiment = {
+		name= "6th Cavalry Regiment"
+		type = cavalry
+		home = 2231
+	}
+	
+	regiment = {
+		name= "7th Cavalry Regiment"
+		type = cavalry
+		home = 2232
+	}
+
+	regiment = {
+		name= "8th Cavalry Regiment"
+		type = cavalry
+		home = 2233
+	}
+
+	regiment = {
+		name= "9th Cavalry Regiment"
+		type = cavalry
+		home = 2234
+	}
+	
+	regiment = {
+		name= "10th Cavalry Regiment"
+		type = cavalry
+		home = 2235
+	}	
+}

@@ -1,0 +1,259 @@
+army = {
+	name = "Army 1"
+	location = 2239
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2237
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2238
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2239
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2240
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2451
+	}
+
+	regiment = {
+		name= "6th Cavalry Regiment"
+		type = cavalry
+		home = 2453
+	}
+	
+	regiment = {
+		name= "7th Cavalry Regiment"
+		type = cavalry
+		home = 2455
+	}
+
+	regiment = {
+		name= "8th Cavalry Regiment"
+		type = cavalry
+		home = 2431
+	}
+
+	regiment = {
+		name= "9th Cavalry Regiment"
+		type = cavalry
+		home = 2432
+	}
+	
+	regiment = {
+		name= "10th Cavalry Regiment"
+		type = cavalry
+		home = 2433
+	}	
+}
+
+army = {
+	name = "Army 2"
+	location = 2432
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2434
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2435
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2626
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2627
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2628
+	}
+
+	regiment = {
+		name= "6th Cavalry Regiment"
+		type = cavalry
+		home = 2629
+	}
+	
+	regiment = {
+		name= "7th Cavalry Regiment"
+		type = cavalry
+		home = 2630
+	}
+
+	regiment = {
+		name= "8th Cavalry Regiment"
+		type = cavalry
+		home = 2622
+	}
+
+	regiment = {
+		name= "9th Cavalry Regiment"
+		type = cavalry
+		home = 2623
+	}
+	
+	regiment = {
+		name= "10th Cavalry Regiment"
+		type = cavalry
+		home = 2621
+	}	
+}
+
+army = {
+	name = "Army 3"
+	location = 2625
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2624
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2625
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2221
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2222
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2223
+	}
+
+	regiment = {
+		name= "6th Cavalry Regiment"
+		type = cavalry
+		home = 2224
+	}
+	
+	regiment = {
+		name= "7th Cavalry Regiment"
+		type = cavalry
+		home = 2225
+	}
+
+	regiment = {
+		name= "8th Cavalry Regiment"
+		type = cavalry
+		home = 2226
+	}
+
+	regiment = {
+		name= "9th Cavalry Regiment"
+		type = cavalry
+		home = 2227
+	}
+	
+	regiment = {
+		name= "10th Cavalry Regiment"
+		type = cavalry
+		home = 2228
+	}	
+}
+
+army = {
+	name = "Army 4"
+	location = 2430
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2229
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2230
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2201
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2202
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2203
+	}
+
+	regiment = {
+		name= "6th Cavalry Regiment"
+		type = cavalry
+		home = 2204
+	}
+	
+	regiment = {
+		name= "7th Cavalry Regiment"
+		type = cavalry
+		home = 2205
+	}
+
+	regiment = {
+		name= "8th Cavalry Regiment"
+		type = cavalry
+		home = 2429
+	}
+
+	regiment = {
+		name= "9th Cavalry Regiment"
+		type = cavalry
+		home = 2426
+	}
+	
+	regiment = {
+		name= "10th Cavalry Regiment"
+		type = cavalry
+		home = 2430
+	}	
+}

@@ -1,0 +1,8 @@
+owner = JOG
+controller = JOG
+add_core = JOG
+
+trade_goods = tea
+life_rating = 35
+
+set_province_flag = mine

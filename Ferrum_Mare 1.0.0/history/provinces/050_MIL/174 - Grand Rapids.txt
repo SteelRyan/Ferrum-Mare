@@ -1,0 +1,12 @@
+owner = VOR
+controller = VOR
+add_core = VOR
+
+trade_goods = iron
+
+
+
+
+life_rating = 35
+
+set_province_flag = mine

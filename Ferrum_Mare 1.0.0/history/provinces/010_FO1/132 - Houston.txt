@@ -1,0 +1,23 @@
+owner = FO1
+controller = FO1
+add_core = FO1
+
+trade_goods = fruit
+
+life_rating = 35
+
+set_province_flag = farm
+
+naval_base = 1
+
+	state_building = {
+		level = 1
+		building = explosives_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = cement_factory
+		upgrade = yes
+	}

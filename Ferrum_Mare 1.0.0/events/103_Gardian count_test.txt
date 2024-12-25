@@ -1,0 +1,26 @@
+country_event = {
+	id = 4760666
+	title = "TP-Check"
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	immediate = {
+	
+	}
+
+	option = {
+		any_country = {
+			limit = { NOT = { primary_culture = gardian } }
+			any_owned = {
+				limit = { pop_majority_culture = gardian }
+				owner = { 
+					change_variable = {
+						which = gardian_control_score
+						value = 1
+					}
+				}
+			}
+		}
+	}
+}

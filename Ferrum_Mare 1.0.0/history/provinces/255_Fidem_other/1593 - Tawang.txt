@@ -1,0 +1,10 @@
+owner = NIK
+controller = NIK
+add_core = NIK
+
+trade_goods = coal
+
+
+life_rating = 35
+
+set_province_flag = mine
