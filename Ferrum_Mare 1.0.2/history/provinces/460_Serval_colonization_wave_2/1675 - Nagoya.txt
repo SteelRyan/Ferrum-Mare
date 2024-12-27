@@ -1,0 +1,10 @@
+
+
+
+trade_goods = cattle
+
+life_rating = 15
+
+set_province_flag = farm
+
+add_core = UNC

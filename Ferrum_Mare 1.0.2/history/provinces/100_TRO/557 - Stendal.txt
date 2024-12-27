@@ -1,0 +1,15 @@
+owner = TRO
+controller = TRO
+add_core = TRO
+
+trade_goods = grain
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 2
+		building = fabric_factory
+		upgrade = yes
+	}

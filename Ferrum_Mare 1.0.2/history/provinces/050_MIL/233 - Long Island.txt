@@ -1,0 +1,8 @@
+owner = ESO
+controller = ESO
+add_core = ESO
+
+trade_goods = timber
+life_rating = 35
+
+set_province_flag = farm

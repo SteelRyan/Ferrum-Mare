@@ -1,0 +1,15 @@
+owner = STR
+controller = STR
+add_core = STR
+
+trade_goods = fish
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = fertilizer_factory
+		upgrade = yes
+	}

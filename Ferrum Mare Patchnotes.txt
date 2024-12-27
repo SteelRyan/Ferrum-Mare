@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.1
+Current Version: 1.0.2
 Date: 27/12/24
-Checksum: LFLS
+Checksum: PRRK
 
 Acknowledgments
 My deepest gratitude to:
@@ -17,6 +17,15 @@ My deepest gratitude to:
 for helping me so much with the development of this mod
 
 The Base of this mod is CoRGI_puir 18.0
+
+VERSION 1.0.2 BELOW THIS LINE Checksum ( PRRK )
+
+Changelog
+
+	Fixed Issues
+		Accidentally changed the event callup on another game version then the 1.01 I was developing
+		Finally Fixed now
+
 
 VERSION 1.0.1 BELOW THIS LINE Checksum ( LFLS )
 

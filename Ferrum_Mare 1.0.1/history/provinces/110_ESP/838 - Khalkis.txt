@@ -1,8 +1,0 @@
-owner = ESP
-controller = ESP
-add_core = ESP
-
-trade_goods = fish
-life_rating = 35
-
-set_province_flag = farm
