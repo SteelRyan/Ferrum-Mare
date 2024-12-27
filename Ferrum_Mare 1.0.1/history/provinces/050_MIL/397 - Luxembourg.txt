@@ -1,0 +1,12 @@
+owner = HEL
+controller = HEL
+add_core = HEL
+
+trade_goods = iron
+
+
+
+
+life_rating = 35
+
+set_province_flag = mine

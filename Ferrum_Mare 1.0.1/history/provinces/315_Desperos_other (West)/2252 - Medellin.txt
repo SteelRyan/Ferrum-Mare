@@ -1,0 +1,8 @@
+owner = M22
+controller = M22
+add_core = M22
+
+trade_goods = tea
+life_rating = 35
+
+set_province_flag = mine

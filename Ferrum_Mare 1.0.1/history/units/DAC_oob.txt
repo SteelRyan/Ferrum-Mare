@@ -1,0 +1,34 @@
+army = {
+	name = "Army 1"
+	location = 1488
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1486
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1487
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1488
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1489
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1490
+	}
+}

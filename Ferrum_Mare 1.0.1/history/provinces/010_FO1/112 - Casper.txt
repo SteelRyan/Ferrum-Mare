@@ -1,0 +1,11 @@
+owner = FO1
+controller = FO1
+add_core = FO1
+
+trade_goods = sulphur
+
+
+
+life_rating = 35
+	
+set_province_flag = mine

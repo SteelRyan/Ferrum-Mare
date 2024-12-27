@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.0
-Date: 25/12/24
-Checksum: XDQP
+Current Version: 1.0.1
+Date: 27/12/24
+Checksum: LFLS
 
 Acknowledgments
 My deepest gratitude to:
@@ -18,6 +18,32 @@ for helping me so much with the development of this mod
 
 The Base of this mod is CoRGI_puir 18.0
 
+VERSION 1.0.1 BELOW THIS LINE Checksum ( LFLS )
+
+Changelog
+
+	Fixed Issues
+		Resolved an issue where the startup event was repeatedly triggered due to a wrong event callup inside another event chain
+		Corrected various coastal province positions across the map
+		Fixed missing starting uncivilized perks
+		Adjusted port provinces incorrectly located inland (e.g., port province in Devogard)
+		Addressed missing AI National Focus (NF) localization
+		Fixed missing canal name localization
+
+	Removed Content
+		Removed Event 4760666 (Gardian Number Test Check), a remnant from the creation of the Second Rising Event Chain
+		Cleared leftover terrain files (e.g., seamap_copy)
+
+	Completed Updates
+		Provided all meme rivers with empty names
+		Enabled troop transports for Her and Ver in Desperos
+		Updated starting spheres of influence for:
+			Opales Nations
+			Teril
+			Ormal
+			Impelia
+
+			
 
 VERSION 1.0.0 BELOW THIS LINE Checksum ( XDQP )
 

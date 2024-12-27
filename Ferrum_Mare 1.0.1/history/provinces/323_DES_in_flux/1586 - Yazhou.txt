@@ -1,0 +1,9 @@
+owner = M06
+controller = M06
+add_core = M06
+
+trade_goods = grain
+
+life_rating = 35
+
+set_province_flag = farm

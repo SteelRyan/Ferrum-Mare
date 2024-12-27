@@ -1,0 +1,29 @@
+owner = FO1
+controller = FO1
+add_core = FO1
+
+trade_goods = grain
+
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = steel_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = glass_factory
+		upgrade = yes
+	}
+	

@@ -1,0 +1,9 @@
+owner = DAC
+controller = DAC
+add_core = DAC
+
+trade_goods = cattle
+
+life_rating = 35
+
+set_province_flag = farm
