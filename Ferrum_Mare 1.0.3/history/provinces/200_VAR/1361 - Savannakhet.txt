@@ -1,0 +1,11 @@
+owner = VAR
+controller = VAR
+add_core = VAR
+
+trade_goods = sulphur
+
+
+
+life_rating = 35
+
+set_province_flag = mine

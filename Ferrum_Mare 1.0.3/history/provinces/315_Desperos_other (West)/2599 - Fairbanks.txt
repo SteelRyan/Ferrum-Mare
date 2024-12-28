@@ -1,0 +1,8 @@
+owner = M23
+controller = M23
+add_core = M23
+
+trade_goods = tropical_wood
+life_rating = 35
+
+set_province_flag = farm

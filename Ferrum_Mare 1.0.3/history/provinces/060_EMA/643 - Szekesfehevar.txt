@@ -1,0 +1,21 @@
+owner = EMA
+controller = EMA
+add_core = EMA
+
+trade_goods = fish
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}	

@@ -1,8 +1,0 @@
-owner = M14
-controller = M14
-add_core = M14
-
-trade_goods = coal
-life_rating = 25
-
-set_province_flag = mine

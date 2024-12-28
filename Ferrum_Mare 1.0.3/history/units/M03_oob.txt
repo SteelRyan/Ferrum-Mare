@@ -1,0 +1,196 @@
+
+army = {
+	name = "Army 1"
+	location = 2336
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 2336
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 2337
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 2338
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 2339
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 2340
+	}
+	
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = irregular
+		home = 2551
+	}
+	
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = irregular
+		home = 2552
+	}
+	
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = irregular
+		home = 2553
+	}
+	
+	regiment = {
+		name= "9th Infantry Regiment"
+		type = irregular
+		home = 2554
+	}
+	
+	regiment = {
+		name= "10th Infantry Regiment"
+		type = irregular
+		home = 2555
+	}
+}
+
+
+army = {
+	name = "Army 2"
+	location = 2369
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 2366
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 2367
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 2368
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 2369
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 2370
+	}
+	
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = irregular
+		home = 2371
+	}
+	
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = irregular
+		home = 2372
+	}
+	
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = irregular
+		home = 2373
+	}
+	
+	regiment = {
+		name= "9th Infantry Regiment"
+		type = irregular
+		home = 2374
+	}
+	
+	regiment = {
+		name= "10th Infantry Regiment"
+		type = irregular
+		home = 2375
+	}
+}
+
+army = {
+	name = "Army 3"
+	location = 2378
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 2376
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 2376
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 2377
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 2377
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 2378
+	}
+	
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = irregular
+		home = 2378
+	}
+	
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = irregular
+		home = 2379
+	}
+	
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = irregular
+		home = 2379
+	}
+	
+	regiment = {
+		name= "9th Infantry Regiment"
+		type = irregular
+		home = 2380
+	}
+	
+	regiment = {
+		name= "10th Infantry Regiment"
+		type = irregular
+		home = 2380
+	}
+}

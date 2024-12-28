@@ -1,0 +1,134 @@
+political_decisions = {
+	form_HAM = {
+		picture = form_HAM
+		potential = {
+			tag = SPH
+			NOT = { has_country_flag = spherso_civilwar }
+		}
+		allow = {
+			war = no
+			year = 1837
+		}
+		effect = {
+			any_owned = { remove_core = SPH add_core = HAM }
+			any_owned = { 
+				limit = { 
+					OR = { 
+						pop_majority_culture = calero
+						pop_majority_culture = coordie
+						pop_majority_culture = pinaro
+						pop_majority_culture = elowaar
+					}
+				}
+				secede_province = CAL
+				add_core = CAL 
+				remove_core = HAM 
+				CAL = {
+					set_country_flag = spherso_civilwar
+					set_country_flag = calero_elite
+					clr_country_flag = the_end_of_the_sister_republics
+					ruling_party_ideology = conservative
+					primary_culture = calero
+					remove_accepted_culture = hamero
+					add_accepted_culture = spherso
+				}
+			}
+			government = absolute_monarchy
+			change_tag = HAM
+			primary_culture = hamero
+			remove_accepted_culture = calero
+			add_accepted_culture = spherso
+			set_country_flag = spherso_civilwar
+			set_country_flag = hamero_elite
+			clr_country_flag = coordie_assim
+	        war = {
+	            target = CAL
+	            attacker_goal = {
+	                casus_belli = civil_war
+	            }
+	            defender_goal = {
+	                casus_belli = status_quo
+	            }
+	        }
+		}
+		ai_will_do = {
+			factor = 15
+		}
+	}
+	form_CAL = {
+	picture = form_CAL
+		potential = {
+			tag = SPH
+			NOT = { has_country_flag = spherso_civilwar }
+		}
+		allow = {
+			war = no
+			year = 1837
+		}
+		effect = {
+			any_owned = { remove_core = SPH add_core = CAL }
+			any_owned = { 
+				limit = { 
+					OR = { 
+						pop_majority_culture = hamero
+						pop_majority_culture = lothradem
+						pop_majority_culture = devayan
+						pop_majority_culture = halladian
+					}
+				}
+				secede_province = HAM
+				add_core = HAM 
+				remove_core = CAL 
+				HAM = {
+					set_country_flag = spherso_civilwar
+					set_country_flag = hamero_elite
+					clr_country_flag = coordie_assim
+					primary_culture = hamero
+					remove_accepted_culture = calero
+					add_accepted_culture = spherso
+				}
+			}
+			government = democracy
+			change_tag = CAL
+			primary_culture = calero
+			remove_accepted_culture = hamero
+			add_accepted_culture = spherso
+			set_country_flag = spherso_civilwar
+			set_country_flag = calero_elite
+			clr_country_flag = the_end_of_the_sister_republics
+	        war = {
+	            target = HAM
+	            attacker_goal = {
+	                casus_belli = civil_war
+	            }
+	            defender_goal = {
+	                casus_belli = status_quo
+	            }
+	        }
+		}
+		ai_will_do = {
+			factor = 35
+		}
+	}
+	ultimate_compromise = {
+	picture = ultimate_compromise
+		potential = {
+			tag = SPH
+			NOT = { has_country_flag = spherso_civilwar }
+		}
+		allow = {
+			war = no
+			year = 1837
+		}
+		effect = {
+			set_country_flag = spherso_civilwar
+			set_country_flag = hamero_elite
+			set_country_flag = calero_elite
+			remove_accepted_culture = calero
+			remove_accepted_culture = hamero
+		}
+		ai_will_do = {
+			factor = 50
+		}
+	}
+}

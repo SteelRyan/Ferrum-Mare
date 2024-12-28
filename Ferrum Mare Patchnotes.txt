@@ -18,6 +18,14 @@ for helping me so much with the development of this mod
 
 The Base of this mod is CoRGI_puir 18.0
 
+VERSION 1.0.3 BELOW THIS LINE Checksum ( CUIO )
+
+Changelog
+
+	Fixed Issues:
+	    Resolved an issue where Westernization was not possible because progress within a single tech section was not cumulative
+	    Fixed a game crash caused by the removal of the military/economic reform distinction during Westernization
+
 VERSION 1.0.2 BELOW THIS LINE Checksum ( PRRK )
 
 Changelog

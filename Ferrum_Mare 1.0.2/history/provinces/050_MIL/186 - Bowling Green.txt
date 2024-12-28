@@ -1,9 +1,0 @@
-owner = EMO
-controller = EMO
-add_core = EMO
-
-trade_goods = cattle
-
-life_rating = 35
-
-set_province_flag = farm

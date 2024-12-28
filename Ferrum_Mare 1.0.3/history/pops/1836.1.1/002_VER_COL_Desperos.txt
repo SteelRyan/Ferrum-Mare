@@ -1,0 +1,481 @@
+#
+
+2546  = {
+   farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 187950
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 18150
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2547  = {
+  farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 202950
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 19650
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2548  = {
+  farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 165450
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 14400
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2549  = {
+  farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 127950
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 12150
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2550  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 127950
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 12150
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2501  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 172950
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 14400
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2502  = {
+   farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 120450
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 11400
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2503  = {
+   farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 247950
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 23400
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2504  = {
+  farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 150450
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 13650
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2505  = {
+   farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 180450
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 16650
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1913
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 8151
+    }
+}
+
+2561  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 120000
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 11400
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 1000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 9413
+    }
+}
+
+2562  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 180000
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 16650
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 1000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 9413
+    }
+}
+
+2563  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 150000
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 12900
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 9413
+    }
+}
+
+2564  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 150000
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 13650
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 1000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 9413
+    }
+}
+
+2565  = {
+    farmers = {
+        culture = mamaxian
+        religion = catholic
+        size = 112500
+    }
+    
+    artisans = {
+        culture = mamaxian
+        religion = catholic
+        size = 10650
+    }
+    
+    soldiers = {
+        culture = mamaxian
+        religion = catholic
+        size = 1000
+    }
+    
+    clergymen = {
+        culture = mamaxian
+        religion = catholic
+        size = 1500
+    }
+
+    slaves = {
+        culture = mamaxian
+        religion = catholic
+        size = 9413
+    }
+}

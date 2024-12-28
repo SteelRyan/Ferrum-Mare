@@ -1,0 +1,21 @@
+owner = HAA
+controller = HAA
+add_core = HAA
+
+trade_goods = coal
+
+life_rating = 35
+
+set_province_flag = mine
+
+	state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = transport_shipyard
+		upgrade = yes
+	}
