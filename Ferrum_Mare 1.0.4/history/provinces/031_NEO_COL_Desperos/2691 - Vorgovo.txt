@@ -1,0 +1,10 @@
+owner = NEO
+controller = NEO
+
+
+colonial = 2
+
+trade_goods = timber
+life_rating = 25
+
+set_province_flag = farm

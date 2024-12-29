@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.2
-Date: 27/12/24
-Checksum: PRRK
+Current Version: 1.0.4
+Date: 29/12/24
+Checksum: WHLZ
 
 Acknowledgments
 My deepest gratitude to:
@@ -17,6 +17,22 @@ My deepest gratitude to:
 for helping me so much with the development of this mod
 
 The Base of this mod is CoRGI_puir 18.0
+
+VERSION 1.0.4 BELOW THIS LINE Checksum ( WHLZ )
+
+Changelog
+
+	Fixed Issues:
+		gardian culture loci were missing
+		Rebel names were not properly displayed (issue due to non-existent tags being called up in the rebel_types file)
+
+		Uncolonized Nationalist rebels (core removal was missing)
+
+		Liberals now always support the political reforms (as in basegame, the rest is scaled)
+		Socialists now always support the social reforms (as in basegame, the rest is scaled)
+
+		Increased the LR gain from the fully resurgent resolution on the Doridian cores to 2 LR
+			/no pop growth increase from 35LR to 36LR
 
 VERSION 1.0.3 BELOW THIS LINE Checksum ( CUIO )
 

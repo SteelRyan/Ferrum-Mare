@@ -1,0 +1,11 @@
+owner = TRO
+controller = TRO
+add_core = TRO
+
+trade_goods = fruit
+
+
+
+life_rating = 35
+
+set_province_flag = farm

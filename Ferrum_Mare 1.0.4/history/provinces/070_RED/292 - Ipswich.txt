@@ -1,0 +1,15 @@
+owner = RE1
+controller = RE1
+add_core = RE1
+
+trade_goods = fish
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 2
+		building = artillery_factory
+		upgrade = yes
+	}

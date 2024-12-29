@@ -1,0 +1,13 @@
+owner = VER
+controller = VER
+
+
+
+trade_goods = grain
+
+
+life_rating = 35
+
+set_province_flag = farm
+
+naval_base = 1

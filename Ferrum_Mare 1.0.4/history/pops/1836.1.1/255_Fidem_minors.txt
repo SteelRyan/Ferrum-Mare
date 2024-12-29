@@ -1,0 +1,815 @@
+#
+
+1471  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 8055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 740
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1472  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1473  = {
+    bureaucrats = {
+        culture = halladian
+        religion = catholic
+        size = 145
+    }
+    aristocrats = {
+        culture = halladian
+        religion = catholic
+        size = 645
+    } 
+    officers = {
+        culture = halladian
+        religion = catholic
+        size = 64
+    }
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 13055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1240
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1474  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 12055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1140
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1475  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 10055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 940
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1486  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 12055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1140
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1487  = {
+    bureaucrats = {
+        culture = halladian
+        religion = catholic
+        size = 165
+    }
+    aristocrats = {
+        culture = halladian
+        religion = catholic
+        size = 665
+    } 
+    officers = {
+        culture = halladian
+        religion = catholic
+        size = 66
+    }
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 14055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1488  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1040
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1489  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 10055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 940
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1490  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 9055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 840
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1491  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 12055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1140
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1492  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 13055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1493  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 15055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1440
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1494  = {
+    bureaucrats = {
+        culture = halladian
+        religion = catholic
+        size = 230
+    }
+    aristocrats = {
+        culture = halladian
+        religion = catholic
+        size = 830
+    } 
+    officers = {
+        culture = halladian
+        religion = catholic
+        size = 83
+    }
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 18055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1740
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1495  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 13055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1240
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1496  = {
+    bureaucrats = {
+        culture = halladian
+        religion = catholic
+        size = 168
+    }
+    aristocrats = {
+        culture = halladian
+        religion = catholic
+        size = 668
+    } 
+    officers = {
+        culture = halladian
+        religion = catholic
+        size = 66
+    }
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1497  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1498  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1499  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}
+
+1500  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11055
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 134
+    }
+	
+	artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1340
+    }
+	
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 335
+    }
+
+    slaves = {
+        culture = halladian
+        religion = catholic
+        size = 111
+    }
+}

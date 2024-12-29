@@ -1,0 +1,211 @@
+#
+
+586  = {
+    farmers = {
+        culture = emacy
+        religion = catholic
+        size = 55600
+    }
+    
+    artisans = {
+        culture = emacy
+        religion = catholic
+        size = 3600
+    }
+    
+    soldiers = {
+        culture = emacy
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = emacy
+        religion = catholic
+        size = 800
+    }
+    
+    craftsmen = {
+        culture = emacy
+        religion = catholic
+        size = 400
+    }
+    
+    slaves = {
+        culture = emacy
+        religion = catholic
+        size = 348
+    }
+}
+
+587  = {
+    farmers = {
+        culture = emacy
+        religion = catholic
+        size = 52600
+    }
+    
+    artisans = {
+        culture = emacy
+        religion = catholic
+        size = 3600
+    }
+    
+    soldiers = {
+        culture = emacy
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = emacy
+        religion = catholic
+        size = 800
+    }
+    
+    craftsmen = {
+        culture = emacy
+        religion = catholic
+        size = 400
+    }
+    
+    slaves = {
+        culture = emacy
+        religion = catholic
+        size = 348
+    }
+}
+
+588  = {
+    farmers = {
+        culture = emacy
+        religion = catholic
+        size = 58600
+    }
+    
+    artisans = {
+        culture = emacy
+        religion = catholic
+        size = 3600
+    }
+    
+    soldiers = {
+        culture = emacy
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = emacy
+        religion = catholic
+        size = 800
+    }
+    
+    craftsmen = {
+        culture = emacy
+        religion = catholic
+        size = 400
+    }
+    
+    slaves = {
+        culture = emacy
+        religion = catholic
+        size = 348
+    }
+}
+
+589  = {
+    farmers = {
+        culture = emacy
+        religion = catholic
+        size = 49600
+    }
+    
+    artisans = {
+        culture = emacy
+        religion = catholic
+        size = 4000
+    }
+    
+    soldiers = {
+        culture = emacy
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = emacy
+        religion = catholic
+        size = 800
+    }
+    
+    craftsmen = {
+        culture = emacy
+        religion = catholic
+        size = 400
+    }
+    
+    slaves = {
+        culture = emacy
+        religion = catholic
+        size = 348
+    }
+}
+
+590  = {
+    farmers = {
+        culture = doridian
+        religion = catholic
+        size = 30000
+    }
+    bureaucrats = {
+        culture = emacy
+        religion = catholic
+        size = 3159
+    }
+    aristocrats = {
+        culture = emacy
+        religion = catholic
+        size = 3159
+    } 
+    officers = {
+        culture = emacy
+        religion = catholic
+        size = 315
+    }
+    farmers = {
+        culture = emacy
+        religion = catholic
+        size = 33600
+    }
+    
+    artisans = {
+        culture = emacy
+        religion = catholic
+        size = 5400
+    }
+    
+    soldiers = {
+        culture = emacy
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = emacy
+        religion = catholic
+        size = 800
+    }
+    
+    craftsmen = {
+        culture = emacy
+        religion = catholic
+        size = 400
+    }
+    
+    slaves = {
+        culture = emacy
+        religion = catholic
+        size = 348
+    }
+}

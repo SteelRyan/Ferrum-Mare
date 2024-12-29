@@ -1,0 +1,11 @@
+owner = HER
+controller = HER
+add_core = HER
+
+trade_goods = fruit
+
+
+
+life_rating = 35
+	
+set_province_flag = farm

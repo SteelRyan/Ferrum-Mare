@@ -1,0 +1,11 @@
+owner = OES
+controller = OES
+add_core = OES
+
+add_core = DOR
+
+trade_goods = fruit
+
+life_rating = 35
+
+set_province_flag = farm
