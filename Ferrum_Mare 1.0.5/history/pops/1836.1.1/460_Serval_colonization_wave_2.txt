@@ -1,0 +1,4320 @@
+#
+
+1661  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1662  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1663  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1664  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1665  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1671  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1672  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1673  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1674  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1675  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1681  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1682  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1683  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1684  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1685  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1686  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1687  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1688  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1689  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1690  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1701  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1702  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1703  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1704  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1705  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1706  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1707  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1708  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1709  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1710  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1731  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1732  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1733  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1734  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1735  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1741  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1742  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1743  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1744  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1745  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1771  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1772  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1773  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1774  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1775  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1781  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1782  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1783  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1784  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1785  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1786  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1787  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1788  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1789  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1790  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1791  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1792  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1793  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1794  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1795  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1796  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1797  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1798  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1799  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1800  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1801  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1802  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1803  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1804  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1805  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1846  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1847  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1848  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1849  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1850  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+1851  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1852  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1853  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1854  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1855  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1856  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1857  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1858  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1859  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1860  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1861  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1862  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1863  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1864  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1865  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1866  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1867  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1868  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1869  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1870  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1871  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1872  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1873  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1874  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1875  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1911  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1912  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1913  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1914  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1915  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1931  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1932  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1933  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1934  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1935  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1996  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1997  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1998  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+1999  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2000  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2016  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2017  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2018  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2019  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2020  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2091  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2092  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2093  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2094  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2095  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2096  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2097  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2098  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2099  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+	
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+	
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2100  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2101  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2102  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2103  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2104  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}
+
+2105  = {
+    farmers = {
+        culture = servile
+        religion = catholic
+        size = 4000
+    }
+    
+    artisans = {
+        culture = servile
+        religion = catholic
+        size = 500
+    }
+    
+    soldiers = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+    
+    clergymen = {
+        culture = servile
+        religion = catholic
+        size = 100
+    }
+
+    slaves = {
+        culture = servile
+        religion = catholic
+        size = 1000
+    }
+}

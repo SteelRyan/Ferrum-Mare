@@ -1,0 +1,15 @@
+owner = VER
+controller = VER
+add_core = VER
+
+trade_goods = grain
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = glass_factory
+		upgrade = yes
+	}

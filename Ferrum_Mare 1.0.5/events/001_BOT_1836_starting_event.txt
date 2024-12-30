@@ -1,0 +1,1095 @@
+country_event = {
+	
+	id = 4760060
+	title = "Money injection"
+	desc = "Upon discovering that no single person in the world has any money, they have all raided their grandparents stockings to get at those savings."
+	
+	trigger = {
+		year = 1836
+		TAG = BOT
+		NOT = { has_global_flag = money_injected }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Great!"
+################################################################################################ Set untouchable nations
+
+		BOT = { set_country_flag = untouchable }
+		UNC = { set_country_flag = untouchable } 
+		LCT = { set_country_flag = untouchable }
+
+################################################################################################ Initial Tradeport check
+
+		BOT = { country_event = { id=4760072 days=0 } }
+
+################################################################################################ Set Ressource Variables
+
+		BOT = { 
+			set_variable = {
+				which = rubber_region_1
+				value = 7
+			}
+			set_variable = {
+				which = rubber_region_2
+				value = 17
+			}
+			set_variable = {
+				which = rubber_region_3
+				value = 16
+			}
+			set_variable = {
+				which = rubber_region_4
+				value = 9
+			} 
+		}
+
+################################################################################################ Set Coordie Assim flags
+
+		VAR = { set_country_flag = coordie_assim }
+		LUD = { set_country_flag = coordie_assim }
+		PIN = { set_country_flag = coordie_assim }
+		CAL = { set_country_flag = coordie_assim }
+		SPH = { set_country_flag = coordie_assim }
+
+################################################################################################ Money injection (Credit to Nurse Reno)
+
+		set_global_flag = money_injected
+		any_country = {
+			limit = { is_greater_power = yes }
+			treasury = 100000
+		}
+		any_country = {
+			limit = { is_greater_power = no }
+			treasury = 50000
+		}
+
+################################################################################################ Goods injection #Extreme consumption of these day 1 possibly due to loack of starting ports?
+
+		any_country = {
+			limit = { ai = yes }
+			cement = 500
+			machine_parts = 200
+		}
+
+################################################################################################ Starting Generals
+
+		any_country = {
+			define_general = {
+				name = "Julius Valeria"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Hadrian Claudia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Trajan Flavia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Gaius Octavia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Antoninus Tullia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Alexander Licinia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Homer Aemilia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Lucius Pomponia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+			define_general = {
+				name = "Constantine Cornelia"
+				personality = defence_1.1
+				background = attack_1.1
+			}
+		}
+
+################################################################################################ Starting-Unciv-Perks
+
+		M17 = { set_variable = { which = Unciv_perks value = 2 } }
+		LAY = { set_variable = { which = Unciv_perks value = 2 } }
+		M21 = { set_variable = { which = Unciv_perks value = 2 } }
+		M22 = { set_variable = { which = Unciv_perks value = 2 } }
+		M23 = { set_variable = { which = Unciv_perks value = 2 } }
+		M07 = { set_variable = { which = Unciv_perks value = 2 } }
+		M08 = { set_variable = { which = Unciv_perks value = 2 } }
+		M09 = { set_variable = { which = Unciv_perks value = 2 } }
+		M12 = { set_variable = { which = Unciv_perks value = 2 } }
+		SPU = { set_variable = { which = Unciv_perks value = 2 } }
+
+################################################################################################ Canals
+
+
+	#West-Central Sea Canal 
+		enable_canal = 1
+		837 = { set_province_flag = 1_canal }
+
+	#Central-East Sea Canal 
+		enable_canal = 2
+		919 = { set_province_flag = 2_canal }
+
+														#east-Ocean Canal 
+															#enable_canal = 3
+															#906 = { set_province_flag = 3_canal }
+
+														#Fidem-Servile Canal
+															#enable_canal = 4
+															#2442 = { set_province_flag = 4_canal }	
+
+	#Southern Herra Canals
+		enable_canal = 5
+		enable_canal = 6
+
+	#Northern Herra Canals
+		enable_canal = 7
+		enable_canal = 8
+
+	#Troida-Servile Canals
+		enable_canal = 9
+		enable_canal = 10
+
+	#North Varan Canals
+		enable_canal = 11
+		enable_canal = 12
+
+	#South Varan Canals
+		enable_canal = 13
+		enable_canal = 14
+
+	#Asphat Canals
+		enable_canal = 15
+		enable_canal = 16
+
+	#Sinray Canals
+		enable_canal = 17
+		enable_canal = 18
+
+	#Mamaxian Canals
+		enable_canal = 19
+		enable_canal = 20
+
+
+################################################################################################ Individualized literacy
+
+
+		BOT = {	
+			TOP_1 = {
+				any_pop = {
+					literacy = 0.20
+				}
+			}
+			TOP_2 = {
+				any_pop = {
+					literacy = 0.05
+				}
+			}
+			TOP_3 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_4 = {
+				any_pop = {
+					literacy = 0.10
+				}
+			}
+			TOP_5 = {
+				any_pop = {
+					literacy = 0.10
+				}
+			}
+			TOP_6 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_7 = {
+				any_pop = {
+					literacy = 0.10
+				}
+			}
+			TOP_8 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_9 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_10 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_11 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_12 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_13 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_14 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_15 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_16 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_17 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_18 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_19 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_20 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_21 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_22 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_23 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+			TOP_24 = {
+				any_pop = {
+					literacy = 0.50
+				}
+			}
+		}
+
+################################################################################################
+
+		any_country = {
+			limit = { primary_culture = elysan }
+			any_pop = {
+				limit = { has_pop_culture = elysan }
+				literacy = 0.40
+			}
+		}
+
+		any_country = {
+			limit = { tag = FO1 }
+			any_pop = {
+				limit = { has_pop_culture = forsean }
+				literacy = 0.30
+			}
+			any_pop = {
+				limit = { has_pop_culture = gardian }
+				literacy = 0.45
+			}
+			any_pop = {
+				limit = { has_pop_culture = elysan }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = verspodean }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = sinray }
+				literacy = 0.06
+			}
+			any_pop = {
+				limit = { has_pop_culture = lothradem }
+				literacy = 0.30
+			}
+		}
+		
+		any_country = {
+			limit = { tag = VER }
+			any_pop = {
+				limit = { has_pop_culture = quardorian }
+				literacy = 0.09
+			}
+			any_pop = {
+				limit = { has_pop_culture = mamaxian }
+				literacy = 0.05
+			}
+			any_pop = {
+				limit = { has_pop_culture = servile }
+				literacy = 0.01
+			}
+			any_pop = {
+				limit = { has_pop_culture = perovania }
+				literacy = 0.45
+			}
+			STA_11 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.40
+				}
+			}
+			STA_10 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.40
+				}
+			}
+			STA_12 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.40
+				}
+			}
+			STA_9 = {
+				any_pop = {
+				limit = { has_pop_culture = verspodean }
+					literacy = 0.40
+				}
+			}
+			STA_17 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.30
+				}
+			}
+			STA_18 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.30
+				}
+			}
+			STA_19 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.30
+				}
+			}
+			STA_20 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.30
+				}
+			}
+			ISL_8 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.45
+				}
+			}
+			STA_8 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.45
+				}
+			}
+			STA_13 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.45
+				}
+			}
+			STA_14 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.45
+				}
+			}
+			STA_15 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.45
+				}
+			}
+			STA_16 = {
+				any_pop = {
+					limit = { has_pop_culture = verspodean }
+					literacy = 0.45
+				}
+			}
+			any_pop = {
+				limit = { has_pop_culture = karach }
+				literacy = 0.30
+			}
+			any_pop = {
+				limit = { has_pop_culture = synocean }
+				literacy = 0.45
+			}
+			any_pop = {
+				limit = { has_pop_culture = forsean }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = gardian }
+				literacy = 0.45
+			}
+		}
+		
+		BOT = {
+			STA_31 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.45
+				}
+			}
+			STA_34 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.45
+				}
+			}
+			STA_35 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.45
+				}
+			}
+			STA_36 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.45
+				}
+			}
+			STA_37 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.45
+				}
+			}
+			STA_43 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.45
+				}
+			}
+			STA_38 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.55
+				}
+			}
+			STA_39 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.55
+				}
+			}
+			STA_40 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.55
+				}
+			}
+			STA_41 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.55
+				}
+			}
+			STA_47 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.55
+				}
+				any_pop = {
+					limit = { has_pop_culture = neodorean }
+					literacy = 0.65
+				}
+			}
+			STA_78 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.60
+				}
+			}
+			STA_79 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.60
+				}
+			}
+			STA_80 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.60
+				}
+			}
+			STA_81 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.60
+				}
+			}
+			STA_82 = {
+				any_pop = {
+					limit = { has_pop_culture = gardian }
+					literacy = 0.60
+				}
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = gardian }
+			any_pop = {
+				limit = { has_pop_culture = perovania }
+				literacy = 0.45
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = herradosi }
+			any_pop = {
+				limit = { OR = { has_pop_culture = herradosi has_pop_culture = serman } }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = elysan }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = lesetrani }
+				literacy = 0.04
+			}
+			any_pop = {
+				limit = { has_pop_culture = sinray }
+				literacy = 0.01
+			}
+		}
+
+		BOT = {
+			STA_74 = {
+				any_pop = {
+					literacy = 0.30
+				}
+			}
+			STA_75 = {
+				any_pop = {
+					literacy = 0.30
+				}
+			}
+			STA_76 = {
+				any_pop = {
+					literacy = 0.30
+				}
+			}
+			STA_77 = {
+				any_pop = {
+					literacy = 0.30
+				}
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = neodorean }
+			any_pop = {
+				limit = { has_pop_culture = neodorean }
+				literacy = 0.65
+			}
+			any_pop = {
+				limit = { has_pop_culture = gardian }
+				literacy = 0.60
+			}
+			any_pop = {
+				limit = { has_pop_culture = haldosi }
+				literacy = 0.45
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = palpedian }
+			any_pop = {
+				limit = { has_pop_culture = palpedian }
+				literacy = 0.45
+			}
+			any_pop = {
+				limit = { has_pop_culture = perovania }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = malordosi }
+				literacy = 0.35
+			}
+			any_pop = {
+				limit = { has_pop_culture = doridian }
+				literacy = 0.55
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = doridian }
+			any_pop = {
+				limit = { has_pop_culture = doridian }
+				literacy = 0.55
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = emacy }
+			any_pop = {
+				limit = { has_pop_culture = emacy }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = doridian }
+				literacy = 0.55
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = trocean }
+			any_pop = {
+				limit = { has_pop_culture = trocean }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = emacy }
+				literacy = 0.25
+			}
+			any_pop = {
+				limit = { has_pop_culture = synocean }
+				literacy = 0.45
+			}
+			any_pop = {
+				limit = { has_pop_culture = pinaro }
+				literacy = 0.15
+			}
+			any_pop = {
+				limit = { has_pop_culture = servile }
+				literacy = 0.01
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = namar }
+			any_pop = {
+				limit = { has_pop_culture = namar }
+				literacy = 0.15
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = esporosdie }
+			any_pop = {
+				limit = { has_pop_culture = esporosdie }
+				literacy = 0.30
+			}
+			any_pop = {
+				limit = { has_pop_culture = deromadie }
+				literacy = 0.25
+			}
+			any_pop = {
+				limit = { has_pop_culture = myham }
+				literacy = 0.10
+			}
+			any_pop = {
+				limit = { has_pop_culture = doridian }
+				literacy = 0.55
+			}
+			any_pop = {
+				limit = { has_pop_culture = zyrosie }
+				literacy = 0.15
+			}
+			any_pop = {
+				limit = { has_pop_culture = emacy }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = redrean }
+				literacy = 0.20
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = opales }
+			any_pop = {
+				limit = { has_pop_culture = opales }
+				literacy = 0.22
+			}
+			any_pop = {
+				limit = { has_pop_culture = doridian }
+				literacy = 0.55
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = emadosi }
+			any_pop = {
+				limit = { has_pop_culture = emadosi }
+				literacy = 0.22
+			}
+			any_pop = {
+				limit = { has_pop_culture = malordosi }
+				literacy = 0.22
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = terilem }
+			any_pop = {
+				limit = { has_pop_culture = terilem }
+				literacy = 0.15
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = ormale }
+			any_pop = {
+				limit = { has_pop_culture = ormale }
+				literacy = 0.10
+			}
+			any_pop = {
+				limit = { has_pop_culture = khalarosie }
+				literacy = 0.20
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = redrean }
+			any_pop = {
+				limit = { has_pop_culture = redrean }
+				literacy = 0.26
+			}
+			any_pop = {
+				limit = { has_pop_culture = opales }
+				literacy = 0.22
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = haatosi }
+			any_pop = {
+				limit = { has_pop_culture = haatosi }
+				literacy = 0.40
+			}
+			any_pop = {
+				limit = { has_pop_culture = khalarosie }
+				literacy = 0.20
+			}
+			any_pop = {
+				limit = { has_pop_culture = sinray }
+				literacy = 0.01
+			}
+			any_pop = {
+				limit = { has_pop_culture = zyrosie }
+				literacy = 0.15
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = zyrosie }
+			any_pop = {
+				limit = { has_pop_culture = zyrosie }
+				literacy = 0.15
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = west_devonian }
+			any_pop = {
+				limit = { has_pop_culture = east_devonian }
+				literacy = 0.23
+			}
+			any_pop = {
+				limit = { has_pop_culture = nadorilem }
+				literacy = 0.07
+			}
+			any_pop = {
+				limit = { has_pop_culture = ormale }
+				literacy = 0.10
+			}			
+			any_pop = {
+				limit = { has_pop_culture = khalarosie }
+				literacy = 0.20
+			}
+		}
+
+################################################################################################
+
+		any_country = {
+			limit = { primary_culture = quardorian }
+			any_pop = {
+				limit = { has_pop_culture = quardorian }
+				literacy = 0.09
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = varany }
+			any_pop = {
+				limit = { has_pop_culture = varany }
+				literacy = 0.21
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = macerian }
+			any_pop = {
+				limit = { has_pop_culture = macerian }
+				literacy = 0.20
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = harbar }
+			any_pop = {
+				limit = { has_pop_culture = harbar }
+				literacy = 0.06
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = ludosie }
+			any_pop = {
+				limit = { has_pop_culture = ludosie }
+				literacy = 0.14
+			}
+			any_pop = {
+				limit = { has_pop_culture = elowaar }
+				literacy = 0.12
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = elowaar }
+			any_pop = {
+				limit = { has_pop_culture = elowaar }
+				literacy = 0.12
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = coordie }
+			any_pop = {
+				limit = { has_pop_culture = coordie }
+				literacy = 0.18
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = pinaro }
+			any_pop = {
+				limit = { has_pop_culture = pinaro }
+				literacy = 0.12
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = spherso }
+			any_pop = {
+				limit = { has_pop_culture = spherso }
+				literacy = 0.09
+			}
+			any_pop = {
+				limit = { has_pop_culture = hamero }
+				literacy = 0.12
+			}
+			any_pop = {
+				limit = { has_pop_culture = pinaro }
+				literacy = 0.12
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = eliadem }
+			any_pop = {
+				limit = { has_pop_culture = eliadem }
+				literacy = 0.25
+			}
+			any_pop = {
+				limit = { has_pop_culture = lothradem }
+				literacy = 0.29
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = halladian }
+			any_pop = {
+				limit = { has_pop_culture = halladian }
+				literacy = 0.17
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = strayan }
+			any_pop = {
+				limit = { has_pop_culture = strayan }
+				literacy = 0.22
+			}
+			any_pop = {
+				limit = { has_pop_culture = devayan }
+				literacy = 0.26
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = abradorean }
+			any_pop = {
+				limit = { has_pop_culture = abradorean }
+				literacy = 0.13
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = belorean }
+			any_pop = {
+				limit = { has_pop_culture = belorean }
+				literacy = 0.09
+			}
+		}
+
+################################################################################################
+
+		any_country = {
+			limit = { OR = { tag = M08 tag = M09 } }
+			any_pop = {
+				limit = { has_pop_culture = zeekan }
+				literacy = 0.30
+			}
+		}
+		
+		any_country = {
+			limit = { OR = { tag = M07 tag = M21 tag = M22 } }
+			any_pop = {
+				limit = { has_pop_culture = zeekan }
+				literacy = 0.08
+			}
+		}
+
+		any_country = {
+			limit = { OR = { tag = M12 tag = M23 tag = SPU } }
+			any_pop = {
+				limit = { has_pop_culture = zeekan }
+				literacy = 0.20
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = layonnel }
+			any_pop = {
+				limit = { has_pop_culture = layonnel }
+				literacy = 0.20
+			}
+		}
+
+		any_country = {
+			limit = { tag = M17 }
+			any_pop = {
+				limit = { has_pop_culture = pergardian }
+				literacy = 0.14
+			}
+			any_pop = {
+				limit = { has_pop_culture = pera }
+				literacy = 0.08
+			}
+			any_pop = {
+				limit = { has_pop_culture = layonnel }
+				literacy = 0.20
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = pera }
+			any_pop = {
+				limit = { has_pop_culture = pera }
+				literacy = 0.05
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = soldrai }
+			any_pop = {
+				limit = { has_pop_culture = soldrai }
+				literacy = 0.06
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = lesetrani }
+			any_pop = {
+				limit = { has_pop_culture = lesetrani }
+				literacy = 0.08
+			}
+			any_pop = {
+				limit = { has_pop_culture = soldrai }
+				literacy = 0.06
+			}
+		}
+
+		any_country = {
+			limit = { primary_culture = mamaxian }
+			any_pop = {
+				limit = { has_pop_culture = mamaxian }
+				literacy = 0.08
+			}
+			any_pop = {
+				limit = { has_pop_culture = soldrai }
+				literacy = 0.06
+			}
+		}
+
+		any_country = {
+			limit = { OR = { tag = HAA tag = HER } }
+			any_pop = {
+				limit = { has_pop_culture = sinray }
+				literacy = 0.02
+			}
+		}
+
+################################################################################################
+
+		any_country = {
+			any_pop = {
+				literacy = -0.005 #-1% literacy to offset the neccessary 1% starting literacy
+			}
+		}
+	}
+}

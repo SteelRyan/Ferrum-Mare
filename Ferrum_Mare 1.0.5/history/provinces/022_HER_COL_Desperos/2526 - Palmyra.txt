@@ -1,0 +1,10 @@
+owner = HER
+controller = HER
+
+colonial = 2
+
+trade_goods = fruit
+
+life_rating = 35
+
+set_province_flag = farm

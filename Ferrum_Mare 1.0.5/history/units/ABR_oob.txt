@@ -1,0 +1,123 @@
+army = {
+	name = "Army 1"
+	location = 1643
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1607
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1609
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1615
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1611
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1613
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1424
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1425
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1421
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1422
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1423
+	}
+}
+
+army = {
+	name = "Army 2"
+	location = 1423
+
+	regiment = {
+		name= "6th Artillery Regiment"
+		type = artillery
+		home = 1641
+	}
+
+	regiment = {
+		name= "7th Artillery Regiment"
+		type = artillery
+		home = 1645
+	}
+	
+	regiment = {
+		name= "8th Artillery Regiment"
+		type = artillery
+		home = 1642
+	}
+	
+	regiment = {
+		name= "9th Artillery Regiment"
+		type = artillery
+		home = 1643
+	}
+	
+	regiment = {
+		name= "10th Artillery Regiment"
+		type = artillery
+		home = 1639
+	}
+}
+
+
+
+
+
+
+
+
+navy = {
+	name = "Abeadorean Flotilla"
+	location = 1606
+
+	# 10 Clipper Transport ships
+	ship = { name= "Ship 1" type = clipper_transport }
+	ship = { name= "Ship 2" type = clipper_transport }
+	ship = { name= "Ship 3" type = clipper_transport }
+	ship = { name= "Ship 4" type = clipper_transport }
+	ship = { name= "Ship 5" type = clipper_transport }
+	ship = { name= "Ship 6" type = clipper_transport }
+	ship = { name= "Ship 7" type = clipper_transport }
+	ship = { name= "Ship 8" type = clipper_transport }
+	ship = { name= "Ship 9" type = clipper_transport }
+	ship = { name= "Ship 10" type = clipper_transport }
+}

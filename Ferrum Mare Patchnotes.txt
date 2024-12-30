@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.4
-Date: 29/12/24
-Checksum: WHLZ
+Current Version: 1.0.5
+Date: 30/12/24
+Checksum: IBUA
 
 Acknowledgments
 My deepest gratitude to:
@@ -17,6 +17,19 @@ My deepest gratitude to:
 for helping me so much with the development of this mod
 
 The Base of this mod is CoRGI_puir 18.0
+
+VERSION 1.0.5 BELOW THIS LINE Checksum ( IBUA )
+
+Changelog
+
+	Fixed Issues:
+		Fixed Localisation for UNCIV reforms
+
+		Fixed Literacy (half the intended literacy, trough mistakes carried over from the previously solved repeat event bug)
+
+		Fixed overtuned AI agression accidentally carried over from testing
+
+		Fixed the Military Staff Systems unit activations bugging out for westernized uncivs
 
 VERSION 1.0.4 BELOW THIS LINE Checksum ( WHLZ )
 

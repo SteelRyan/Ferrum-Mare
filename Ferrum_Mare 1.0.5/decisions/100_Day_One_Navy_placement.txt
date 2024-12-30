@@ -1,0 +1,1148 @@
+political_decisions = {
+	HAA_Navy_Outer_sea = {
+		potential = {
+			tag = HAA
+			NOT = { has_country_flag = HAA_Navy_set }
+		}
+		allow = {
+			year = 1836
+			NOT = { year = 1837 }
+			war = no
+		}
+		effect = { 
+			set_country_flag = HAA_Navy_set
+
+			242 = {
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+			}
+		}
+	}
+	HAA_Navy_inner_sea = {
+		potential = {
+			tag = HAA
+			NOT = { has_country_flag = HAA_Navy_set }
+		}
+		allow = {
+			year = 1836
+			NOT = { year = 1837 }
+			war = no
+		}
+		effect = { 
+			set_country_flag = HAA_Navy_set
+
+			915 = {
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+			}
+		}
+	}
+
+	ESP_Navy_inner_sea = {
+		potential = {
+			tag = ESP
+			NOT = { has_country_flag = ESP_Navy_set }
+		}
+		allow = {
+			year = 1836
+			NOT = { year = 1837 }
+			war = no
+		}
+		effect = { 
+			set_country_flag = ESP_Navy_set
+
+			836 = {
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+			}
+		}
+	}
+
+	ESP_Navy_outer_sea = {
+		potential = {
+			tag = ESP
+			NOT = { has_country_flag = ESP_Navy_set }
+		}
+		allow = {
+			year = 1836
+			NOT = { year = 1837 }
+			war = no
+		}
+		effect = { 
+			set_country_flag = ESP_Navy_set
+
+			811 = {
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = frigate
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+			}
+		}
+	}
+
+	SPH_Navy_East_Coast = {
+		potential = {
+			tag = SPH
+			NOT = { has_country_flag = SPH_Navy_set }
+		}
+		allow = {
+			year = 1836
+			NOT = { year = 1837 }
+			war = no
+		}
+		effect = { 
+			set_country_flag = SPH_Navy_set
+
+			1470 = {
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+			}
+		}
+	}
+
+	SPH_Navy_West_Coast = {
+		potential = {
+			tag = SPH
+			NOT = { has_country_flag = SPH_Navy_set }
+		}
+		allow = {
+			year = 1836
+			NOT = { year = 1837 }
+			war = no
+		}
+		effect = { 
+			set_country_flag = SPH_Navy_set
+
+			1306 = {
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = manowar
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+				sub_unit = {
+					type = clipper_transport
+					value = current
+				}
+			}
+		}
+	}
+}

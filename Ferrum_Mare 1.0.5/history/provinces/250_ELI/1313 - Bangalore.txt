@@ -1,0 +1,11 @@
+owner = ELI
+controller = ELI
+add_core = ELI
+
+trade_goods = fruit
+
+
+
+life_rating = 35
+
+set_province_flag = farm

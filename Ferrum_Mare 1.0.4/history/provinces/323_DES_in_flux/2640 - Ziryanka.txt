@@ -1,9 +1,0 @@
-owner = M11
-controller = M11
-add_core = M11
-
-
-trade_goods = tropical_wood
-life_rating = 35
-
-set_province_flag = farm
