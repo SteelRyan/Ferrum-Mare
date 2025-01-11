@@ -1,0 +1,9 @@
+owner = M05
+controller = M05
+add_core = M05
+
+
+trade_goods = coffee
+life_rating = 35
+
+set_province_flag = farm

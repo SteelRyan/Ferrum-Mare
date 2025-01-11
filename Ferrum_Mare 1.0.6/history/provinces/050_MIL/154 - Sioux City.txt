@@ -1,0 +1,11 @@
+owner = TOL
+controller = TOL
+add_core = TOL
+
+trade_goods = coal
+
+
+
+life_rating = 35
+	
+set_province_flag = mine

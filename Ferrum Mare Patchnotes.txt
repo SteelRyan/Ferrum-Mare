@@ -1,10 +1,11 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.5
-Date: 30/12/24
-Checksum: IBUA
+Current Version: 1.0.6
+Date: 11/01/25
+Checksum: SZBR
 
 Acknowledgments
-My deepest gratitude to:
+My deepest gratitude to...
+
 - Pero
 - Rennes
 - CE
@@ -13,23 +14,85 @@ My deepest gratitude to:
 - Reno
 - SirRunner
 - KevinG
+- Proxy
 
-for helping me so much with the development of this mod
+...for helping me so much with the development of this mod
+
 
 The Base of this mod is CoRGI_puir 18.0
+VERSION 1.0.6 BELOW THIS LINE Checksum ( SZBR )
+
+Changelog	
+
+	Fixed Issues:
+
+		Fixed the WB breaking due to number overlow in the construction cost (buildings.txt) (Credit to Reno for figuring this out)
+
+		Added various missing loci
+
+		Resolved crash issues caused by a false flag ("the little Rat")
+
+		Adjusted LCT and BOT rankings: removed their prestige tech and redistributed 15 Prestige across other world tags
+
+		Fixed bugged oil spawns
+
+		Removed "Basic Chemistry" tech from Layonell (does not have the reform)
+
+		Corrected continent assignment for States 309, 318, and 304
+
+		Fixed 2 duplicate province id's in continent.txt
+
+		Fixed the national promotion bonuses
+
+		Fixed Leda back to unciv
+
+Removed:
+
+		Removed CE AI focuses.
+
+Quality of live:
+
+		Included numeric values for assimilation boosts in all relevant decisions.
+
+		Set AI assimilation decision activation to 0 for the first three years (timegated decisions only)
+
+		Implemented province and country modifiers to indicate boosts
+
+Gameplay Balance:
+		
+		Made a special Take Sphere CB for guardians costing 20WS
+
+		Added special no-war-score CB for RE1 sudden strike
+
+		Fixed 25LR false spots using the Clausewitz Editor
+
+		Removed unciv assimilation block, enabling assimilation for uncivs
+
+		Moved research and reforms back into decision effects, avoiding a six-month reform cooldown trigger
+
+		Locked Spherso assimilation boosts behind post-civil war resolution decisions
+
+		Improved starting positions for Mamaxis, Lesetre, and all Pera Leagues. 
+			Special thanks to Proxy for substantial enhancements to the unciv system.
+
+		Timegated the "Reunite the White Coast" decisions (Pinaro vs Spherso) to be taken before 1880; tech requirement changed to Nationalism and Imperialism.
+
+		Removed diplomatic_points_modifier = -0.25 from uncivs.
+
+		Added research_points = 1 to uncivs.
 
 VERSION 1.0.5 BELOW THIS LINE Checksum ( IBUA )
 
 Changelog
 
 	Fixed Issues:
-		Fixed Localisation for UNCIV reforms
+		Fixed Localization for UNCIV reforms
 
 		Fixed Literacy (half the intended literacy, trough mistakes carried over from the previously solved repeat event bug)
 
-		Fixed overtuned AI agression accidentally carried over from testing
+		Fixed over-tuned AI aggression accidentally carried over from testing
 
-		Fixed the Military Staff Systems unit activations bugging out for westernized uncivs
+		Fixed the Military Staff Systems unit activation bugging out for westernized uncivs
 
 VERSION 1.0.4 BELOW THIS LINE Checksum ( WHLZ )
 

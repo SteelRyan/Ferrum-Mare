@@ -1,8 +1,0 @@
-owner = SPH
-controller = SPH
-add_core = SPH
-
-trade_goods = tea
-life_rating = 35
-
-set_province_flag = farm

@@ -1,0 +1,22 @@
+owner = VER
+controller = VER
+add_core = VER
+
+trade_goods = silk
+life_rating = 35
+
+set_province_flag = farm
+
+naval_base = 1
+
+	state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = transport_shipyard
+		upgrade = yes
+	}

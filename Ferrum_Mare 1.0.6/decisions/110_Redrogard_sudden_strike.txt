@@ -1,0 +1,122 @@
+political_decisions = {
+	Redrogard_sudden_strike_against_HAA = {
+		picture = attack_the_laagers
+		potential = {
+			tag = RE1
+			NOT = { has_country_flag = sudden_strike_done }
+			exists = HAA
+			NOT = { year = 1870 }
+		}
+		allow = {
+			exists = HAA
+			nationalism_n_imperialism = 1
+			NOT = { year = 1870 }
+		}
+		effect = {
+			set_country_flag = sudden_strike_done
+			HAA = {
+				add_casus_belli = {
+					target = THIS
+					type = sudden_strike
+					months = 3
+				}
+			}
+		}
+	}
+	Redrogard_sudden_strike_against_DEV = {
+		picture = attack_the_laagers
+		potential = {
+			tag = RE1
+			NOT = { has_country_flag = sudden_strike_done }
+			exists = DEV
+			NOT = { year = 1870 }
+		}
+		allow = {
+			exists = DEV
+			nationalism_n_imperialism = 1
+			NOT = { year = 1870 }
+		}
+		effect = {
+			set_country_flag = sudden_strike_done
+			DEV = {
+				add_casus_belli = {
+					target = THIS
+					type = sudden_strike
+					months = 3
+				}
+			}
+		}
+	}
+	Redrogard_sudden_strike_against_ESP = {
+		picture = attack_the_laagers
+		potential = {
+			tag = RE1
+			NOT = { has_country_flag = sudden_strike_done }
+			exists = ESP
+			NOT = { year = 1870 }
+		}
+		allow = {
+			exists = ESP
+			nationalism_n_imperialism = 1
+			NOT = { year = 1870 }
+		}
+		effect = {
+			set_country_flag = sudden_strike_done
+			ESP = {
+				add_casus_belli = {
+					target = THIS
+					type = sudden_strike
+					months = 3
+				}
+			}
+		}
+	}
+	Redrogard_sudden_strike_against_EMA = {
+		picture = attack_the_laagers
+		potential = {
+			tag = RE1
+			NOT = { has_country_flag = sudden_strike_done }
+			exists = EMA
+			NOT = { year = 1870 }
+		}
+		allow = {
+			exists = EMA
+			nationalism_n_imperialism = 1
+			NOT = { year = 1870 }
+		}
+		effect = {
+			set_country_flag = sudden_strike_done
+			EMA = {
+				add_casus_belli = {
+					target = THIS
+					type = sudden_strike
+					months = 3
+				}
+			}
+		}
+	}
+	Redrogard_sudden_strike_against_DOR = {
+		picture = attack_the_laagers
+		potential = {
+			tag = RE1
+			NOT = { has_country_flag = sudden_strike_done }
+			exists = DOR
+			NOT = { year = 1870 }
+		}
+		allow = {
+			exists = DOR
+			nationalism_n_imperialism = 1
+			NOT = { year = 1870 }
+		}
+		effect = {
+			set_country_flag = sudden_strike_done
+			DOR = {
+				add_casus_belli = {
+					target = THIS
+					type = sudden_strike
+					months = 3
+				}
+			}
+		}
+	}
+}

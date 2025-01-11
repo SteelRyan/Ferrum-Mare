@@ -1,0 +1,15 @@
+owner = EMO
+controller = EMO
+add_core = EMO
+
+trade_goods = grain
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = luxury_clothes_factory
+		upgrade = yes
+	}

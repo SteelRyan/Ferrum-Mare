@@ -1,0 +1,8 @@
+owner = THY
+controller = THY
+add_core = THY
+
+trade_goods = coal
+life_rating = 35
+
+set_province_flag = mine

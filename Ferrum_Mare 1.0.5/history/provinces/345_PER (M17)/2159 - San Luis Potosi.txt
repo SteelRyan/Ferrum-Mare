@@ -1,8 +1,0 @@
-owner = M17
-controller = M17
-add_core = M17
-
-trade_goods = timber
-life_rating = 25
-
-set_province_flag = farm

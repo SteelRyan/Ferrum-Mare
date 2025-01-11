@@ -1,0 +1,15 @@
+owner = BON
+controller = BON
+add_core = BON
+
+trade_goods = fruit
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 2
+		building = ammunition_factory
+		upgrade = yes
+	}

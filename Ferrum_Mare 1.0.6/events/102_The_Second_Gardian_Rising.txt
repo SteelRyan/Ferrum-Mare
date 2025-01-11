@@ -1,0 +1,457 @@
+country_event = {
+    id = 4760074
+    title = "Whispered Words of Rebellion"
+    desc = "Secret gatherings across Gardian lands fuel whispers of rebellion, and the flames of nationalism start to grow"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Encourage the whispering"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "Silence the dissenters"
+    }
+    option = {
+        name = "Turn a blind eye"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+
+country_event = {
+    id = 4760075
+    title = "Gathering in the Shadows"
+    desc = "Gardian communities gather in hidden places, where the seeds of a nationalist movement are sown"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Let them gather"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "Disperse these gatherings"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "Send spies to infiltrate"
+
+    }
+}
+
+country_event = {
+    id = 4760076
+    title = "Symbols of Resistance"
+    desc = "Symbols of Gardian independence appear on walls and in public spaces, reminding everyone of their cultural pride"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Let them express themselves"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "Destroy the symbols"
+    }
+    option = {
+        name = "Imprison those responsible"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+
+country_event = {
+    id = 4760077
+    title = "A Song of Freedom"
+    desc = "A song celebrating Gardian freedom and independence begins to spread, igniting nationalistic pride"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Let them sing"
+
+    }
+    option = {
+        name = "Outlaw the song"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "Suppress the song and punish the agitators"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+}
+
+country_event = {
+    id = 4760078
+    title = "Underground Publications"
+    desc = "Pamphlets circulate detailing Gardian history and urging the people to seek their independence"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Allow the pamphlets to circulate"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+
+    }
+    option = {
+        name = "Confiscate all copies"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "Ignore the pamphlets"
+
+    }
+}
+
+country_event = {
+    id = 4760079
+    title = "Rally of the Youth"
+    desc = "Young Gardian activists hold rallies, inspired by the call for freedom"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Let the youth rally"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "Disperse the rally with force"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "Encourage peaceful protest"
+
+    }
+}
+
+country_event = {
+    id = 4760080
+    title = "Rumors of Foreign Support"
+    desc = "Rumors spread that a foreign nation might support Gardian independence"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        NOT = { any_sphere_member = { primary_culture = gardian } }
+    }
+
+    mean_time_to_happen = { months = 24 }
+
+    option = {
+        name = "Spread the rumors further"
+        BOT = { change_variable = { which = gardian_nationalism value = 3 } }
+    }
+    option = {
+        name = "Openly dismiss the rumors"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "Ignore the rumors"
+    }
+}
+
+country_event = {
+    id = 4760081
+    title = "Declaration of Rights"
+    desc = "A Gardian nationalist organization issues a declaration demanding autonomy and rights for Gardian people"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Accept their demands"
+        BOT = { change_variable = { which = gardian_nationalism value = 3 } }
+    } 
+    option = {
+        name = "Reject the declaration outright"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "Meet with their leaders"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+
+country_event = {
+    id = 4760081
+    title = "Declaration of Rights"
+    desc = "A Gardian nationalist organization issues a declaration demanding autonomy and rights for Gardian people"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 96 }
+
+    option = {
+        name = "Accept their demands"
+        BOT = { change_variable = { which = gardian_nationalism value = 3 } }
+    }
+    option = {
+        name = "Reject the declaration outright"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "Meet with their leaders"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+
+country_event = {
+    id = 4760082
+    title = "Dark Clouds Gathering spread"
+    desc = "This is a inbetween event"
+    picture = "Factoryattack"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        tag = BOT
+        OR = {
+            AND = {
+                FO1 = { war = no }
+                PAL = { war = no }
+                NEO = { war = no }
+                HER = { war = no }
+                VER = { war = no }
+                NOT = { year = 1860 }
+            }
+            year = 1860
+        }
+        OR = {
+            AND = {
+            year = 1836
+            BOT = { check_variable = { which = gardian_nationalism value = 100 } }
+            }
+            AND = {
+            year = 1840
+            BOT = { check_variable = { which = gardian_nationalism value = 75 } }
+            }
+            AND = {
+            year = 1845
+            BOT = { check_variable = { which = gardian_nationalism value = 50 } }
+            }
+            AND = {
+            year = 1850
+            BOT = { check_variable = { which = gardian_nationalism value = 25 } }
+            }
+            AND = {
+            year = 1855
+            }           
+        }
+    }
+
+    mean_time_to_happen = { 
+        months = 80
+
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 100 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 95 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 90 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 85 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 80 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 75 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 70 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 65 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 60 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 55 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 50 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 45 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 40 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 35 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 30 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 25 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 20 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 15 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 10 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 5 } }
+        }
+    }
+
+    option = {
+        name = "Send the messengers"
+        BOT = { set_country_flag = second_rising }
+        any_country = {
+            limit = {
+                is_greater_power = yes
+                any_sphere_member = { primary_culture = gardian }
+            }
+            country_event = { id=4760083 days=0 }       
+        }
+    }
+}
+
+country_event = {
+    id = 4760083
+    title = "The Milogardian rising!"
+    desc = "4760083_desc"
+
+    major = yes
+    
+    immediate = {
+        any_country = {
+            limit = {
+                in_sphere = THIS
+                primary_culture = gardian
+            }
+            country_event = { id=4760084 days=0 }
+            add_country_modifier = {
+                name = surge_of_patriotism
+                duration = 730
+            } 
+        }
+    }  
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+    option = {
+        name = "this_means_war_4760083"
+
+    }
+}
+
+country_event = {
+    id = 4760084
+    title = "Rise up!"
+    desc = "We Gardians declare the reunifcation of Milogard"
+
+    picture = "Factoryattack"
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+    option = {
+        name = "ATTACK!"
+        THIS = {
+            sphere_owner = {
+                diplomatic_influence = {
+                    who = THIS
+                    value = -200
+                    }
+                }
+            }
+        war = {
+            target = FROM
+            attacker_goal = {
+                casus_belli = second_gardian_rising
+            }
+            defender_goal = {
+                casus_belli = conquest_gardian
+            }
+        }
+        any_country = {
+            limit = { primary_culture = gardian }
+            create_alliance = THIS
+            military_access = THIS
+        }      
+    }
+}
