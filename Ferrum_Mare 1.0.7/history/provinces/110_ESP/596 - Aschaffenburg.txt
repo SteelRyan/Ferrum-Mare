@@ -1,0 +1,17 @@
+owner = ESP
+controller = ESP
+add_core = ESP
+
+add_core = DOR
+
+trade_goods = grain
+
+life_rating = 35
+  
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+	}

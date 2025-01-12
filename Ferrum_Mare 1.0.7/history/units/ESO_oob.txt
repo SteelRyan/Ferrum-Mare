@@ -1,0 +1,34 @@
+army = {
+	name = "Army 1"
+	location = 233
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 231
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 232
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 233
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 234
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 235
+	}
+}

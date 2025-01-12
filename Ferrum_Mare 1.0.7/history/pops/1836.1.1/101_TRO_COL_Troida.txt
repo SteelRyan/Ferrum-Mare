@@ -1,0 +1,391 @@
+#
+
+1591  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 9832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1592  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 18832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 1072
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1593  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 12832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1594  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 14832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1595  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 13832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1596  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 22832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1597  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 28832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1598  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 16832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1599  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 19832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1600  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 15832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1601  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 13832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1602  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 9832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1603  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 10832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1604  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 9832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}
+
+1605  = {
+    farmers = {
+        culture = harbar
+        religion = catholic
+        size = 16832
+    }
+	
+	artisans = {
+        culture = harbar
+        religion = catholic
+        size = 572
+    }
+	
+    soldiers = {
+        culture = harbar
+        religion = catholic
+        size = 1050
+    }
+	
+	clergymen = {
+        culture = harbar
+        religion = catholic
+        size = 132
+    }
+}

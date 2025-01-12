@@ -1,0 +1,10 @@
+owner = MAC
+controller = MAC
+add_core = MAC
+
+
+
+trade_goods = fish
+life_rating = 35
+
+set_province_flag = farm

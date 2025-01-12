@@ -1,8 +1,0 @@
-owner = BON
-controller = BON
-add_core = BON
-
-trade_goods = timber
-life_rating = 35
-
-set_province_flag = farm

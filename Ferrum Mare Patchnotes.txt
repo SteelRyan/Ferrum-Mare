@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.6
-Date: 11/01/25
-Checksum: SZBR
+Current Version: 1.0.7
+Date: 12/01/25
+Checksum: CAWW
 
 Acknowledgments
 My deepest gratitude to...
@@ -18,6 +18,40 @@ My deepest gratitude to...
 
 ...for helping me so much with the development of this mod
 
+The Base of this mod is CoRGI_puir 18.0
+VERSION 1.0.7 BELOW THIS LINE Checksum ( CAWW )
+
+	Fixed Issues:
+
+		Fixed Tier 2 Focus Event Spam
+
+		Removed Macerian eccepted from Varan (oversight)
+
+		Fixed unciv reactionaries crash bug (on victory insatntly lose 1 years of RP instead of gaining a -20% RP modifier for 5 years)
+
+		Fixed missed 1% Literacy
+
+		UNCIV reactionaries cause crash
+
+		Fixed change RGO decisions (did not show because of a missing flag)
+
+
+
+Gameplay Balance:
+
+		Added Economic boost (RGO  output and tax eficiency) to all countries after concerns of funding issues
+
+		Assim exception for Haatos in sinray colonies
+
+		Lower early pera cb cost to 32WS
+
+		Raised pluralism of Pera Culture techs for faster westernization
+
+		Added craftsmen to empty factory in Haatos
+
+		added 500k more pops to pergard (forgot to add to 1.06 changelog)
+
+		Lowered infamy for taking Trade ports to 2 Infamy
 
 The Base of this mod is CoRGI_puir 18.0
 VERSION 1.0.6 BELOW THIS LINE Checksum ( SZBR )

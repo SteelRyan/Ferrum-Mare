@@ -1,8 +1,0 @@
-owner = AMI
-controller = AMI
-add_core = AMI
-
-trade_goods = timber
-life_rating = 35
-
-set_province_flag = farm

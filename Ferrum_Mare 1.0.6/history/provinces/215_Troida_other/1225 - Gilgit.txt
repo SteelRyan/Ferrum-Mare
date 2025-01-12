@@ -1,8 +1,0 @@
-owner = M19
-controller = M19
-add_core = M19
-
-trade_goods = tea
-life_rating = 35
-
-set_province_flag = farm
