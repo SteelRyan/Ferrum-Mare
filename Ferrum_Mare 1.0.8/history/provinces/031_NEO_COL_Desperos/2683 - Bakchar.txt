@@ -1,0 +1,13 @@
+owner = NEO
+controller = NEO
+
+
+colonial = 2
+
+trade_goods = coal
+
+
+
+life_rating = 35
+
+set_province_flag = mine

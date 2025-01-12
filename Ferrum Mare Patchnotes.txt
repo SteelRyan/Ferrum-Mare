@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.7
+Current Version: 1.0.8
 Date: 12/01/25
-Checksum: CAWW
+Checksum: WMZG
 
 Acknowledgments
 My deepest gratitude to...
@@ -17,6 +17,13 @@ My deepest gratitude to...
 - Proxy
 
 ...for helping me so much with the development of this mod
+
+The Base of this mod is CoRGI_puir 18.0
+VERSION 1.0.8 BELOW THIS LINE Checksum ( WMZG )
+
+		Fixed False Vanilla Wars at gamestart
+
+		Fixed missing crossings
 
 The Base of this mod is CoRGI_puir 18.0
 VERSION 1.0.7 BELOW THIS LINE Checksum ( CAWW )

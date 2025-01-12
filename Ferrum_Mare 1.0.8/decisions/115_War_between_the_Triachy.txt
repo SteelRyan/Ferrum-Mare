@@ -1,0 +1,40 @@
+political_decisions = {
+	war_between_the_triachy = {
+		picture = sign_treaty_of_london
+		potential = {
+			tag = PAL
+			NOT = { 
+				PAL = { has_country_flag = war_between_the_triachy }
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+		}
+		effect = { 
+			PAL = { 
+				set_country_flag = war_between_the_triachy
+	            any_owned = { 
+					limit = { pop_majority_culture = haldosi }
+					add_province_modifier = {
+			            name = haldosi_assim_boost
+			            duration = -1
+			        }
+		        }
+			    add_country_modifier = {
+			        name = haldosi_assim_boost
+			        duration = -1
+			    }
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = haldosi }
+					add_province_modifier = {
+			            name = haldosi_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+}

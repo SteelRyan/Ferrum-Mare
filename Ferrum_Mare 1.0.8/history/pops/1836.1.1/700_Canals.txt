@@ -1,0 +1,33 @@
+#
+
+2442 = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 40622
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3729
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 208
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 5397
+    }
+}

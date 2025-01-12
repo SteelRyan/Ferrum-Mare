@@ -1,9 +1,0 @@
-owner = M25
-controller = M25
-add_core = M25
-
-trade_goods = cattle
-
-life_rating = 35
-
-set_province_flag = farm
