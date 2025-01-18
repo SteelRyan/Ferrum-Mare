@@ -1,0 +1,23 @@
+owner = HER
+controller = HER
+add_core = HER
+
+trade_goods = grain
+
+life_rating = 35
+
+set_province_flag = farm
+
+naval_base = 1
+
+	state_building = {
+		level = 2
+		building = steel_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = ammunition_factory
+		upgrade = yes
+	}

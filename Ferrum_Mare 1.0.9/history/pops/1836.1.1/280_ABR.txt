@@ -1,0 +1,1431 @@
+#
+
+1421  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 40622
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3729
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 208
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 5397
+    }
+}
+
+1422  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 29822
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2649
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 208
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 5397
+    }
+}
+
+1423  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 23342
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3081
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 208
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 5397
+    }
+}
+
+1424  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 31982
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3081
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 208
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 5397
+    }
+}
+
+1425  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 589
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 2489
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 252
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 68702
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 6537
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 208
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 5397
+    }
+}
+
+1606  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 36908
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3180
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 108
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2811
+    }
+}
+
+1607  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 417
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 1817
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 183
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 32408
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3068
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 108
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2811
+    }
+}
+
+1608  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 25658
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2393
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 108
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2811
+    }
+}
+
+1609  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 29033
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2730
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 108
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2811
+    }
+}
+
+1610  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 25658
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2280
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 108
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2811
+    }
+}
+
+1611  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 20312
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1865
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 105
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2699
+    }
+}
+
+1612  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 14912
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1325
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 105
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2699
+    }
+}
+
+1613  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 11672
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1541
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 105
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2699
+    }
+}
+
+1614  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 15992
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1541
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 105
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2699
+    }
+}
+
+1615  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 245
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 1245
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 126
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 34352
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3269
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 105
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2699
+    }
+}
+
+1616  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 190
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 690
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 70
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 18256
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1743
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1617  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 22169
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1971
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 96
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2430
+    }
+}
+
+1618  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 9616
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 879
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1619  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 7996
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 717
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1620  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 6916
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 609
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1636  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 22326
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2094
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 87
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2249
+    }
+}
+
+1637  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 25926
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2454
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 87
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2249
+    }
+}
+
+1638  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 26826
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2544
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 87
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2249
+    }
+}
+
+1639  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 495
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 1595
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 161
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 31326
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2994
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 87
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2249
+    }
+}
+
+1640  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 25926
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 2454
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 87
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 2249
+    }
+}
+
+1641  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 697
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 2697
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 271
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 61641
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 5942
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 139
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 3598
+    }
+
+    craftsmen = {
+        culture = abradorean
+        religion = catholic
+        size = 1000
+    }
+
+}
+
+1642  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 41481
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3926
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 139
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 3598
+    }
+
+    craftsmen = {
+        culture = abradorean
+        religion = catholic
+        size = 1000
+    }
+
+}
+
+1643  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 45801
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 4358
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 139
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 3598
+    }
+
+    craftsmen = {
+        culture = abradorean
+        religion = catholic
+        size = 1000
+    }
+
+}
+
+1644  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 35721
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3350
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 139
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 3598
+    }
+
+    craftsmen = {
+        culture = abradorean
+        religion = catholic
+        size = 1000
+    }
+
+}
+
+1645  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 40041
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 3782
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 139
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 3598
+    }
+
+    craftsmen = {
+        culture = abradorean
+        religion = catholic
+        size = 1000
+    }
+
+}
+
+1646  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 15556
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1473
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1647  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 13396
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1257
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1648  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 10696
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 987
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1649  = {
+    bureaucrats = {
+        culture = abradorean
+        religion = catholic
+        size = 251
+    }
+    aristocrats = {
+        culture = abradorean
+        religion = catholic
+        size = 851
+    } 
+    officers = {
+        culture = abradorean
+        religion = catholic
+        size = 86
+    }
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 16636
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1527
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1650  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 13396
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1257
+    }
+    
+    soldiers = {
+        culture = abradorean
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+        culture = abradorean
+        religion = catholic
+        size = 1350
+    }
+}
+
+1656  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 15908
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1569
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 14
+    }
+}
+
+1657  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 11408
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1143
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 14
+    }
+}
+
+1658  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 6458
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 626
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 14
+    }
+}
+
+1659  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 7583
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 738
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 14
+    }
+}
+
+1660  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 11858
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1143
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 14
+    }
+}
+
+1666  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 19215
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1926
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 27
+    }
+}
+
+1667  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 7065
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 666
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 27
+    }
+}
+
+1668  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 9315
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 891
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 27
+    }
+}
+
+1669  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 11565
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 1116
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 27
+    }
+}
+
+1670  = {
+    farmers = {
+        culture = abradorean
+        religion = catholic
+        size = 4365
+    }
+    
+    artisans = {
+        culture = abradorean
+        religion = catholic
+        size = 396
+    }
+
+    clergymen = {
+        culture = abradorean
+        religion = catholic
+        size = 27
+    }
+}

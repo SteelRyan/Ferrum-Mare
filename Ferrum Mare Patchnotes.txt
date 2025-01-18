@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.8
-Date: 12/01/25
-Checksum: WMZG
+Current Version: 1.0.9
+Date: 18/01/25
+Checksum: FZSQ
 
 Acknowledgments
 My deepest gratitude to...
@@ -15,8 +15,56 @@ My deepest gratitude to...
 - SirRunner
 - KevinG
 - Proxy
+- Dempsey
 
 ...for helping me so much with the development of this mod
+
+The Base of this mod is CoRGI_puir 18.0
+VERSION 1.0.9 UNOFFICIAL DEMPSEY GAME PATCH - BELOW THIS LINE Checksum ( FZSQ )
+
+Fixed Issues:
+
+    	Various localization fixes
+
+    	Adjusted the Second Rising (MTTH requires additional work)
+
+    	Fixed oil spawn occurring immediately on a statewide scale (removed tech requirements)
+
+    	Fixed build unit screen queue position
+
+Gameplay Balance:
+
+    	Added a slight bureaucrat promotion boost, activated by the host nation
+
+    	Disabled overseas maintenance (mid-game ship issue resolution pending)
+
+    	Moved the pera_late CB's unlock to 1850
+
+    	Adjusted rubber spawn events for a more consistent timing (removed tech requirements)
+
+    	Raised Lesetre and Mamaxis pluralism (does not apply to current savegames)
+
+    	Reduced AI aggression
+
+    	Decreased emigration from militancy (non accepted only)
+			from +0.1% from 1 to 9.9 militancy to
+			+0.00% for 1 militancy
+			+0.03% for 2 militancy
+			+0.05% for 3 to 9.9 militancy
+
+    	Added a safeguard to prevent LCT from bankrupting in single-player
+
+    	Changed presidential_dictatorship to allow conservative orientation
+
+Economic Adjustments:
+
+    	Switched the life_needs promotion bonus trigger from 70%-80%-90% fulfillment to 50%-60%-70%
+
+    	Disabled the negative promotion effect of slavery
+
+    	Added the following to eco_boost:
+        	poor_life_needs: -0.3
+        	supply_consumption: -0.2
 
 The Base of this mod is CoRGI_puir 18.0
 VERSION 1.0.8 BELOW THIS LINE Checksum ( WMZG )

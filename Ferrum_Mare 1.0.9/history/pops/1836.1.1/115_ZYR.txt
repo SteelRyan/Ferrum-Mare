@@ -1,0 +1,176 @@
+#
+
+856  = {
+    bureaucrats = {
+        culture = zyrosie
+        religion = catholic
+        size = 2141
+    }
+    aristocrats = {
+        culture = zyrosie
+        religion = catholic
+        size = 2141
+    } 
+    officers = {
+        culture = zyrosie
+        religion = catholic
+        size = 214
+    }
+    farmers = {
+        culture = zyrosie
+        religion = catholic
+        size = 40800
+    }
+	
+	artisans = {
+        culture = zyrosie
+        religion = catholic
+        size = 2400
+    }
+	
+    soldiers = {
+        culture = zyrosie
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = zyrosie
+        religion = catholic
+        size = 80
+    }
+
+    slaves = {
+		culture = zyrosie
+        religion = catholic
+		size = 1740
+	}
+}
+
+857  = {
+    farmers = {
+        culture = zyrosie
+        religion = catholic
+        size = 32800
+    }
+	
+	artisans = {
+        culture = zyrosie
+        religion = catholic
+        size = 2400
+    }
+	
+    soldiers = {
+        culture = zyrosie
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = zyrosie
+        religion = catholic
+        size = 80
+    }
+
+    slaves = {
+		culture = zyrosie
+        religion = catholic
+		size = 1740
+	}
+}
+
+858  = {
+    farmers = {
+        culture = zyrosie
+        religion = catholic
+        size = 30800
+    }
+	
+	artisans = {
+        culture = zyrosie
+        religion = catholic
+        size = 2000
+    }
+	
+    soldiers = {
+        culture = zyrosie
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = zyrosie
+        religion = catholic
+        size = 80
+    }
+
+    slaves = {
+		culture = zyrosie
+        religion = catholic
+		size = 1740
+	}
+}
+
+859  = {
+    farmers = {
+        culture = zyrosie
+        religion = catholic
+        size = 40800
+    }
+	
+	artisans = {
+        culture = zyrosie
+        religion = catholic
+        size = 2400
+    }
+	
+    soldiers = {
+        culture = zyrosie
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = zyrosie
+        religion = catholic
+        size = 80
+    }
+
+    slaves = {
+		culture = zyrosie
+        religion = catholic
+		size = 1740
+	}
+}
+
+860  = {
+    farmers = {
+        culture = zyrosie
+        religion = catholic
+        size = 43800
+    }
+	
+	artisans = {
+        culture = zyrosie
+        religion = catholic
+        size = 2800
+    }
+	
+    soldiers = {
+        culture = zyrosie
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = zyrosie
+        religion = catholic
+        size = 80
+    }
+
+    slaves = {
+		culture = zyrosie
+        religion = catholic
+		size = 1740
+	}
+}
