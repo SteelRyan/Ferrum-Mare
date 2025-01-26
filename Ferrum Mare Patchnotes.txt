@@ -1,7 +1,9 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.9
-Date: 18/01/25
-Checksum: FZSQ
+Current Version: 1.0.10
+Date: 26/01/25
+Checksum: KVZE
+
+The Base of this mod is CoRGI_puir 18.0
 
 Acknowledgments
 My deepest gratitude to...
@@ -16,10 +18,26 @@ My deepest gratitude to...
 - KevinG
 - Proxy
 - Dempsey
+- GODOG
 
 ...for helping me so much with the development of this mod
 
-The Base of this mod is CoRGI_puir 18.0
+VERSION 1.0.10 BELOW THIS LINE Checksum ( KVZE )
+
+Fixed Issues
+    Added an immediate to the Infamy Event so the effect cannot be prevented
+    Changed the rebel flag back to the original Rebel Flag
+    Fixed broken adjacency for the South Desperos Islands
+
+Gameplay Balance
+
+    Reworked the Overseas Imperium mechanic for better consitancy in terms of results
+    	/Overseas imperium now subtracts -1LR from all Troida provinces owned by the colonizer
+    	 and then adds it back to the cores of said colonizer
+
+    Enabled stating of the South Desperos Islands via decisions
+        / Assimilation in colonies is hardcoded to be disabled poptypes.txt had 0 influence previously
+
 VERSION 1.0.9 UNOFFICIAL DEMPSEY GAME PATCH - BELOW THIS LINE Checksum ( FZSQ )
 
 Fixed Issues:
@@ -66,14 +84,12 @@ Economic Adjustments:
         	poor_life_needs: -0.3
         	supply_consumption: -0.2
 
-The Base of this mod is CoRGI_puir 18.0
 VERSION 1.0.8 BELOW THIS LINE Checksum ( WMZG )
 
 		Fixed False Vanilla Wars at gamestart
 
 		Fixed missing crossings
 
-The Base of this mod is CoRGI_puir 18.0
 VERSION 1.0.7 BELOW THIS LINE Checksum ( CAWW )
 
 	Fixed Issues:
@@ -89,8 +105,6 @@ VERSION 1.0.7 BELOW THIS LINE Checksum ( CAWW )
 		UNCIV reactionaries cause crash
 
 		Fixed change RGO decisions (did not show because of a missing flag)
-
-
 
 Gameplay Balance:
 
@@ -108,7 +122,6 @@ Gameplay Balance:
 
 		Lowered infamy for taking Trade ports to 2 Infamy
 
-The Base of this mod is CoRGI_puir 18.0
 VERSION 1.0.6 BELOW THIS LINE Checksum ( SZBR )
 
 Changelog	
@@ -244,8 +257,7 @@ Changelog
 			
 
 VERSION 1.0.0 BELOW THIS LINE Checksum ( XDQP )
-
-# **Changelog**
+The Base of this mod is CoRGI_puir 18.0
 
 Map
 	Channels

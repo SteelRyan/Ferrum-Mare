@@ -1,0 +1,1 @@
+owner = HAAcontroller = HAAadd_core = HAAtrade_goods = grainlife_rating = 35set_province_flag = farm

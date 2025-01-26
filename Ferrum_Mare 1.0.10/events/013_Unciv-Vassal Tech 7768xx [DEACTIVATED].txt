@@ -1,0 +1,26 @@
+#country_event = {
+#	id = 776801
+#	title = "EVTNAME776801"
+#	desc = "EVTDESC776801"
+#	picture = "Unite"
+#	
+#	trigger = {
+#		civilized = no
+#		OR = {
+#			
+#			is_vassal = yes
+#			is_substate = yes
+#		}
+#		NOT = { water_wheel_power = 1 }
+#		overlord = { water_wheel_power = 1 }
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#	}
+#	
+#	option = {
+#		name = "EVTOPTA776801"
+#		activate_technology = water_wheel_power
+#	}
+#}

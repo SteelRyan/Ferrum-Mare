@@ -1,0 +1,153 @@
+political_decisions = {
+	state_M24 = {
+		potential = {
+			OR = {
+				tag = HAA
+				tag = HER
+			}
+			M24 = { any_core = { owned_by = THIS } }
+		}
+		allow = {
+			M24 = { exists = no }
+			state_n_government = 1
+		}
+		effect = { 
+			release_vassal = M24
+			M24 = { civilized = yes }
+			inherit = M24
+			M24 = { all_core = { remove_core = M24 } }
+		}
+	}
+	state_M25 = {
+		potential = {
+			OR = {
+				tag = HAA
+				tag = HER
+			}
+			M25 = { any_core = { owned_by = THIS } }
+		}
+		allow = {
+			M25 = { exists = no }
+			state_n_government = 1
+		}
+		effect = { 
+			release_vassal = M25
+			M25 = { civilized = yes }
+			inherit = M25
+			M25 = { all_core = { remove_core = M25 } }
+		}
+	}
+	state_M26 = {
+		potential = {
+			OR = {
+				tag = HAA
+				tag = HER
+			}
+			STA_521 = { is_colonial = yes }
+			STA_522 = { is_colonial = yes }
+			STA_523 = { is_colonial = yes }
+			STA_524 = { is_colonial = yes }
+		}
+		allow = {
+			STA_521 = { owned_by = THIS }
+			STA_522 = { owned_by = THIS }
+			STA_523 = { owned_by = THIS }
+			STA_524 = { owned_by = THIS }
+			state_n_government = 1
+		}
+		effect = {
+			ZBK = { civilized = no }
+			STA_521 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_521 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_522 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_522 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_523 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_523 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_524 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_524 = { secede_province = THIS }
+		}
+	}
+	state_M07 = {
+		potential = {
+			OR = {
+				tag = M12
+				tag = LAY
+			}
+			M07 = { any_core = { owned_by = THIS } }
+		}
+		allow = {
+			M07 = { exists = no }
+			state_n_government = 1
+		}
+		effect = { 
+			release_vassal = M07
+			M07 = { civilized = yes }
+			inherit = M07
+			M07 = { all_core = { remove_core = M07 } }
+		}
+	}
+	state_M08 = {
+		potential = {
+			OR = {
+				tag = M12
+				tag = LAY
+			}
+			M08 = { any_core = { owned_by = THIS } }
+		}
+		allow = {
+			M08 = { exists = no }
+			state_n_government = 1
+		}
+		effect = { 
+			release_vassal = M08
+			M08 = { civilized = yes }
+			inherit = M08
+			M08 = { all_core = { remove_core = M08 } }
+		}
+	}
+	state_M09 = {
+		potential = {
+			OR = {
+				tag = M12
+				tag = LAY
+			}
+			M09 = { any_core = { owned_by = THIS } }
+		}
+		allow = {
+			M09 = { exists = no }
+			state_n_government = 1
+		}
+		effect = { 
+			release_vassal = M09
+			M09 = { civilized = yes }
+			inherit = M09
+			M09 = { all_core = { remove_core = M09 } }
+		}
+	}
+	state_M23 = {
+		potential = {
+			OR = {
+				tag = M12
+				tag = LAY
+			}
+			M23 = { any_core = { owned_by = THIS } }
+		}
+		allow = {
+			M23 = { exists = no }
+			state_n_government = 1
+		}
+		effect = { 
+			release_vassal = M23
+			M23 = { civilized = yes }
+			inherit = M23
+			M23 = { all_core = { remove_core = M23 } }
+		}
+	}
+}

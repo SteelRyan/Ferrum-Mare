@@ -1,0 +1,15 @@
+owner = EMA
+controller = EMA
+add_core = EMA
+
+trade_goods = grain
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = machine_parts_factory
+		upgrade = yes
+	}

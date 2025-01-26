@@ -1,0 +1,12 @@
+owner = ESE
+controller = ESE
+add_core = ESE
+
+trade_goods = iron
+
+
+
+
+life_rating = 35
+
+set_province_flag = mine

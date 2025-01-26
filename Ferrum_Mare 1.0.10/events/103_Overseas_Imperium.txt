@@ -1,0 +1,89 @@
+country_event = {
+    title = "Overseas Imperium"
+    desc = "Today Trocia prospers more!"
+    picture = ""    
+    
+    id = 4760105
+
+    trigger = {
+        tag = BOT
+        BOT = {
+            check_variable = {
+                which = TRO_overseas_imperium_score
+                value = 1
+            }
+        }
+    }
+
+    mean_time_to_happen =  {
+        days = 1
+    }
+
+    immediate = {
+    }
+
+    option = {
+        name = "For Empress and Council!"
+        TRO = {
+            random_owned = {
+                limit = {
+                    continent = pillar
+                    is_core = TRO
+                    NOT = { life_rating = 39 }
+                }
+                life_rating = 2
+            }
+        }
+        BOT = {
+            change_variable = {
+                which = TRO_overseas_imperium_score
+                value = -2
+            }
+        }
+    }
+}
+
+country_event = {
+    title = "Overseas Imperium"
+    desc = "Today Verspodia prospers more!"
+    picture = ""    
+    
+    id = 4760106
+
+    trigger = {
+        tag = BOT
+        BOT = {
+            check_variable = {
+                which = VER_overseas_imperium_score
+                value = 1
+            }
+        }
+    }
+
+    mean_time_to_happen =  {
+        days = 1
+    }
+
+    immediate = {
+    }
+
+    option = {
+        name = "By the watchfull eye of the prince-governors"
+        VER = {
+            random_owned = {
+                limit = {
+                    continent = pillar
+                    is_core = VER
+                    NOT = { life_rating = 39 }
+                }
+                life_rating = 2
+            }
+        }
+        BOT = {
+            change_variable = {
+                which = VER_overseas_imperium_score
+                value = -2
+            }
+        }
+    }
+}

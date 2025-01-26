@@ -1,0 +1,8 @@
+owner = M03
+controller = M03
+add_core = M03
+
+trade_goods = timber
+life_rating = 35
+
+set_province_flag = farm

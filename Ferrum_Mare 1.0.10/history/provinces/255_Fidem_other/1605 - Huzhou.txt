@@ -1,0 +1,8 @@
+owner = CAH
+controller = CAH
+add_core = CAH
+
+trade_goods = fish
+life_rating = 35
+
+set_province_flag = farm

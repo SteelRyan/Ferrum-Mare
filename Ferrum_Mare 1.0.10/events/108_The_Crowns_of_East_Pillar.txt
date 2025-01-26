@@ -1,0 +1,976 @@
+country_event = {
+	id = 4760086
+	title = "The Crown of Terilem"
+	desc = "4760086_desc"
+	major = yes
+
+	trigger = { has_country_modifier = dissolve_Terilem_event }
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Endorse Terilem's dissolution"
+		remove_country_modifier = dissolve_terilem_event
+
+	}
+	option = {
+		name = "Defend Terilem's sovereignty"
+		remove_country_modifier = dissolve_terilem_event
+		BOT = {
+			change_variable = {
+				which = TER_score
+				value = -1.000
+			}
+		}	 
+	}
+}
+
+country_event = {
+	id = 4760087
+	title = "Total Opposition to Terilem's Dissolution"
+	desc = "The proposal to dissolve the legal status of Terilem has been rejected by all relevant powers, preserving its nominal existence despite its lack of true sovereignty."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = EMA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		EMA = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		NOT = { has_country_flag = dissolve_terilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_terilem 
+			NOT = { 
+				check_variable = {
+					which = TER_score
+					value = 1
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_terilem_resolved
+	}
+
+	option = {
+		name = "Terilem’s status remains"
+	}
+}
+
+country_event = {
+	id = 4760088
+	title = "Minimal Support for Terilem's Dissolution"
+	desc = "Only one significant power has supported the proposal to end Terilem's legal status, leaving the initiative largely unsupported and unlikely to progress."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = EMA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		EMA = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		NOT = { has_country_flag = dissolve_terilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_terilem 
+			check_variable = {
+				which = TER_score
+				value = 1
+			}
+			NOT = { 
+				check_variable = {
+					which = TER_score
+					value = 2
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_terilem_resolved
+		set_country_flag = terilem_crown_lvl_1
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = terilem
+				}
+				add_province_modifier = {
+			        name = terilem_assim_boost_lvl_1
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = terilem
+				}
+				add_province_modifier = {
+			        name = terilem_assim_boost_lvl_1
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = terilem_assim_boost_lvl_1
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = terilem_assim_boost_lvl_1
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = terilem_assim_boost_lvl_1
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Terilem endures"
+
+	}
+}
+
+country_event = {
+	id = 4760089
+	title = "Widespread Support for Terilem's Dissolution"
+	desc = "The proposal to dissolve Terilem’s legal status has gained significant momentum, with two major powers backing the initiative and pushing it to becoming a reality."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = EMA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		EMA = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		NOT = { has_country_flag = dissolve_terilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_terilem 
+			check_variable = {
+				which = TER_score
+				value = 2
+			}
+			NOT = { 
+				check_variable = {
+					which = TER_score
+					value = 3
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_terilem_resolved
+		set_country_flag = terilem_crown_lvl_2
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = terilem
+				}
+				add_province_modifier = {
+			        name = terilem_assim_boost_lvl_2
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = terilem
+				}
+				add_province_modifier = {
+			        name = terilem_assim_boost_lvl_2
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = terilem_assim_boost_lvl_2
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = terilem_assim_boost_lvl_2
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = terilem_assim_boost_lvl_2
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Terilem’s end looms"
+
+	}
+}
+
+country_event = {
+	id = 4760090
+	title = "Unanimous Support for Terilem's Dissolution"
+	desc = "All major powers have agreed to formally dissolve Terilem’s legal status, bringing a conclusive end to its existence even as a nominal entity."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = EMA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		EMA = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_terilem_event } }
+		NOT = { has_country_flag = dissolve_terilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_terilem 
+			check_variable = {
+				which = TER_score
+				value = 3
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_terilem_resolved
+		set_country_flag = terilem_crown_lvl_3
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = terilem
+				}
+				add_province_modifier = {
+			        name = terilem_assim_boost_lvl_3
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = terilem
+				}
+				add_province_modifier = {
+			        name = terilem_assim_boost_lvl_3
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = terilem_assim_boost_lvl_3
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = terilem_assim_boost_lvl_3
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = terilem_assim_boost_lvl_3
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Terilem is no more"
+
+	}
+}
+
+country_event = {
+	id = 4760091
+	title = "The Crown of Ormal"
+	desc = "4760091_desc"
+	major = yes
+
+	trigger = { has_country_modifier = dissolve_ormal_event }
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Endorse Ormal's dissolution"
+		remove_country_modifier = dissolve_ormal_event
+
+	}
+	option = {
+		name = "Defend Ormal's sovereignty"
+		remove_country_modifier = dissolve_ormal_event
+		BOT = {
+			change_variable = {
+				which = ORM_score
+				value = -1.000
+			}
+		}	 
+	}
+}
+
+country_event = {
+	id = 4760092
+	title = "Total Opposition to Ormal's Dissolution"
+	desc = "The proposal to dissolve the legal status of Ormal has been rejected by all relevant powers, preserving its nominal existence despite its lack of true sovereignty."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = HAA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		HAA = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		NOT = { has_country_flag = dissolve_ormal_resolved }
+		BOT = { 
+			has_country_flag = dissolve_ormal 
+			NOT = { 
+				check_variable = {
+					which = ORM_score
+					value = 1
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_ormal_resolved
+	}
+
+	option = {
+		name = "Ormal’s status remains"
+
+	}
+}
+
+country_event = {
+	id = 4760093
+	title = "Minimal Support for Ormal's Dissolution"
+	desc = "Only one significant power has supported the proposal to end Ormal's legal status, leaving the initiative largely unsupported and unlikely to progress."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = HAA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		HAA = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		NOT = { has_country_flag = dissolve_ormal_resolved }
+		BOT = { 
+			has_country_flag = dissolve_ormal 
+			check_variable = {
+				which = ORM_score
+				value = 1
+			}
+			NOT = { 
+				check_variable = {
+					which = ORM_score
+					value = 2
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_ormal_resolved
+		set_country_flag = ormal_crown_lvl_1
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = ormale_assim_boost_lvl_1
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = ormale_assim_boost_lvl_1
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = ormale_assim_boost_lvl_1
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = ormale_assim_boost_lvl_1
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = ormale_assim_boost_lvl_1
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Ormal endures"
+
+	}
+}
+
+country_event = {
+	id = 4760094
+	title = "Widespread Support for Ormal's Dissolution"
+	desc = "The proposal to dissolve Ormal’s legal status has gained significant momentum, with two major powers backing the initiative and pushing it to becoming a reality."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = HAA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		HAA = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		NOT = { has_country_flag = dissolve_ormal_resolved }
+		BOT = { 
+			has_country_flag = dissolve_ormal 
+			check_variable = {
+				which = ORM_score
+				value = 2
+			}
+			NOT = { 
+				check_variable = {
+					which = ORM_score
+					value = 3
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_ormal_resolved
+		set_country_flag = ormal_crown_lvl_2
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = ormale_assim_boost_lvl_2
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = ormale_assim_boost_lvl_2
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = ormale_assim_boost_lvl_2
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = ormale_assim_boost_lvl_2
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = ormale_assim_boost_lvl_2
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Ormal’s end looms"
+
+	}
+}
+
+country_event = {
+	id = 4760095
+	title = "Unanimous Support for Ormal's Dissolution"
+	desc = "All major powers have agreed to formally dissolve Ormal’s legal status, bringing a conclusive end to its existence even as a nominal entity."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = RE1
+			tag = HAA
+			tag = DEV
+		}
+		RE1 = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		HAA = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_ormal_event } }
+		NOT = { has_country_flag = dissolve_ormal_resolved }
+		BOT = { 
+			has_country_flag = dissolve_ormal 
+			check_variable = {
+				which = ORM_score
+				value = 3
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_ormal_resolved
+		set_country_flag = ormal_crown_lvl_3
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = ormale_assim_boost_lvl_3
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = ormale_assim_boost_lvl_3
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = ormale_assim_boost_lvl_3
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = ormale_assim_boost_lvl_3
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = ormale_assim_boost_lvl_3
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Ormal is no more"
+
+	}
+}
+
+country_event = {
+	id = 4760096
+	title = "The Crown of Nadorilem"
+	desc = "4760091_desc"
+	major = yes
+
+	trigger = { has_country_modifier = dissolve_nadorilem_event }
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Endorse Nadorilem's dissolution"
+		remove_country_modifier = dissolve_nadorilem_event
+
+	}
+	option = {
+		name = "Defend Nadorilem's sovereignty"
+		remove_country_modifier = dissolve_nadorilem_event
+		BOT = {
+			change_variable = {
+				which = NAD_score
+				value = -1.000
+			}
+		}	 
+	}
+}
+
+country_event = {
+	id = 4760097
+	title = "Total Opposition to Nadorilem's Dissolution"
+	desc = "The proposal to dissolve the legal status of Nadorilem has been rejected by all relevant powers, preserving its nominal existence despite its lack of true sovereignty."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = EMA
+			tag = HER
+			tag = DEV
+		}
+		EMA = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		HER = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		NOT = { has_country_flag = dissolve_nadorilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_nadorilem 
+			NOT = { 
+				check_variable = {
+					which = NAD_score
+					value = 1
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_nadorilem_resolved
+	}
+
+	option = {
+		name = "Nadorilem’s status remains"
+
+	}
+}
+
+country_event = {
+	id = 4760098
+	title = "Minimal Support for Nadorilem's Dissolution"
+	desc = "Only one significant power has supported the proposal to end Nadorilem's legal status, leaving the initiative largely unsupported and unlikely to progress."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = EMA
+			tag = HER
+			tag = DEV
+		}
+		EMA = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		HER = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		NOT = { has_country_flag = dissolve_nadorilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_nadorilem 
+			check_variable = {
+				which = NAD_score
+				value = 1
+			}
+			NOT = { 
+				check_variable = {
+					which = NAD_score
+					value = 2
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_nadorilem_resolved
+		set_country_flag = nadorilem_crown_lvl_1
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = nadorilem_assim_boost_lvl_1
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = nadorilem_assim_boost_lvl_1
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = nadorilem_assim_boost_lvl_1
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = nadorilem_assim_boost_lvl_1
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = nadorilem_assim_boost_lvl_1
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Nadorilem endures"
+
+	}
+}
+
+country_event = {
+	id = 4760099
+	title = "Widespread Support for Nadorilem's Dissolution"
+	desc = "The proposal to dissolve Nadorilem’s legal status has gained significant momentum, with two major powers backing the initiative and pushing it to becoming a reality."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = EMA
+			tag = HER
+			tag = DEV
+		}
+		EMA = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		HER = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		NOT = { has_country_flag = dissolve_nadorilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_nadorilem 
+			check_variable = {
+				which = NAD_score
+				value = 2
+			}
+			NOT = { 
+				check_variable = {
+					which = NAD_score
+					value = 3
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_nadorilem_resolved
+		set_country_flag = nadorilem_crown_lvl_2
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = nadorilem_assim_boost_lvl_2
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = nadorilem_assim_boost_lvl_2
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = nadorilem_assim_boost_lvl_2
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = nadorilem_assim_boost_lvl_2
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = nadorilem_assim_boost_lvl_2
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Nadorilem’s end looms"
+
+	}
+}
+
+country_event = {
+	id = 4760100
+	title = "Unanimous Support for Nadorilem's Dissolution"
+	desc = "All major powers have agreed to fnadorilemly dissolve Nadorilem’s legal status, bringing a conclusive end to its existence even as a nominal entity."
+	major = yes
+
+	trigger = {
+		OR = {
+			tag = EMA
+			tag = HER
+			tag = DEV
+		}
+		EMA = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		HER = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		DEV = { NOT = { has_country_modifier = dissolve_nadorilem_event } }
+		NOT = { has_country_flag = dissolve_nadorilem_resolved }
+		BOT = { 
+			has_country_flag = dissolve_nadorilem 
+			check_variable = {
+				which = NAD_score
+				value = 3
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		set_country_flag = dissolve_nadorilem_resolved
+		set_country_flag = nadorilem_crown_lvl_3
+		THIS = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = nadorilem_assim_boost_lvl_3
+			        duration = -1
+			    }
+			}
+		}
+		any_country = {
+			any_owned_province = {
+				limit = {
+					pop_majority_culture = ormale
+				}
+				add_province_modifier = {
+			        name = nadorilem_assim_boost_lvl_3
+			        duration = -1
+			    }
+			}
+		}
+		RE1 = { 
+			add_country_modifier = {
+				name = nadorilem_assim_boost_lvl_3
+				duration = -1
+			}
+		}
+		EMA = { 
+			add_country_modifier = {
+			    name = nadorilem_assim_boost_lvl_3
+			    duration = -1
+			}
+		}
+		DEV = { 
+			add_country_modifier = {
+			    name = nadorilem_assim_boost_lvl_3
+			    duration = -1
+			}
+		}
+	}
+
+	option = {
+		name = "Nadorilem is no more"
+
+	}
+}

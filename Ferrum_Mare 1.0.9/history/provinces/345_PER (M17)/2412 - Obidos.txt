@@ -1,9 +1,0 @@
-owner = M17
-controller = M17
-add_core = M17
-
-trade_goods = iron
-
-life_rating = 35
-
-set_province_flag = mine

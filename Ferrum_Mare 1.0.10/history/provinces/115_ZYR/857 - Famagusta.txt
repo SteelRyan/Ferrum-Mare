@@ -1,0 +1,8 @@
+owner = ZYR
+controller = ZYR
+add_core = ZYR
+
+trade_goods = wool
+life_rating = 35
+
+set_province_flag = farm
