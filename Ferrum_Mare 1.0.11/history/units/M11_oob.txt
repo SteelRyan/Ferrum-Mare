@@ -1,0 +1,164 @@
+army = {
+	name = "Army 1"
+	location = 2638
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = irregular
+		home = 2636
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = irregular
+		home = 2636
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = irregular
+		home = 2637
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = irregular
+		home = 2637
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = irregular
+		home = 2638
+	}
+	
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = irregular
+		home = 2638
+	}
+	
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = irregular
+		home = 2639
+	}
+	
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = irregular
+		home = 2639
+	}
+	
+	regiment = {
+		name= "9th Infantry Regiment"
+		type = irregular
+		home = 2640
+	}
+	
+	regiment = {
+		name= "10th Infantry Regiment"
+		type = irregular
+		home = 2640
+	}
+}
+
+army = {
+	name = "Army 1"
+	location = 2636
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = irregular
+		home = 2636
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = irregular
+		home = 2636
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = irregular
+		home = 2637
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = irregular
+		home = 2637
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = irregular
+		home = 2638
+	}
+	
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = irregular
+		home = 2638
+	}
+	
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = irregular
+		home = 2639
+	}
+	
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = irregular
+		home = 2639
+	}
+	
+	regiment = {
+		name= "9th Infantry Regiment"
+		type = irregular
+		home = 2640
+	}
+	
+	regiment = {
+		name= "10th Infantry Regiment"
+		type = irregular
+		home = 2640
+	}
+}
+
+army = {
+	name = "Army 3"
+	location = 2584
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2581
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2582
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2583
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2584
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2585
+	}
+}

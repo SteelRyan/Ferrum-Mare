@@ -1,0 +1,9 @@
+owner = BON
+controller = BON
+add_core = BON
+
+trade_goods = cattle
+
+life_rating = 35
+  
+set_province_flag = farm

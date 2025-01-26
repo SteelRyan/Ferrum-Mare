@@ -1,0 +1,8 @@
+owner = M24
+controller = M24
+add_core = M24
+
+trade_goods = fish
+life_rating = 35
+
+set_province_flag = farm

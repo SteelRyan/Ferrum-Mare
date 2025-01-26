@@ -1,0 +1,10 @@
+owner = M10
+controller = M10
+add_core = M10
+
+
+trade_goods = fruit
+
+life_rating = 35
+
+set_province_flag = farm

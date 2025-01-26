@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.10
+Current Version: 1.0.11
 Date: 26/01/25
-Checksum: KVZE
+Checksum: PBPK
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -21,6 +21,11 @@ My deepest gratitude to...
 - GODOG
 
 ...for helping me so much with the development of this mod
+
+VERSION 1.0.11 UNOFFICIAL DEMPSEY GAME PATCH - BELOW THIS LINE Checksum ( PBPK )
+
+Fixed Issues
+	removed the HER stating for south desperos islands
 
 VERSION 1.0.10 BELOW THIS LINE Checksum ( KVZE )
 

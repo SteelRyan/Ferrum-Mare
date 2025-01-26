@@ -1,0 +1,195 @@
+country_event = {
+	id = 4760072
+	title = "TP-Check"
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	immediate = {
+		any_country = {
+			set_variable = {
+				which = TP_score
+				value = 0.001
+			} 
+		}	
+	}
+
+	option = {
+		3295 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3285 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3282 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3274 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3256 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2660 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2659 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2658 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2657 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2485 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2484 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2483 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2481 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2445 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2444 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2443 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1335 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1333 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1332 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1331 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1267 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1266 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+
+
+
+trade_goods = fruit
+
+
+
+life_rating = 20
+
+	
+	
+
+
+
+set_province_flag = farm
+
+
