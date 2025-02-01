@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.11
-Date: 26/01/25
-Checksum: PBPK
+Current Version: 1.0.12
+Date: 1/02/25
+Checksum: SGUL
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -21,6 +21,34 @@ My deepest gratitude to...
 - GODOG
 
 ...for helping me so much with the development of this mod
+
+VERSION 1.0.12 BELOW THIS LINE Checksum ( SGUL )
+
+	Reverted all previous economic changes to CoRGI 18.0
+
+	Life Needs:
+
+	    Increased Cattle to 3.2
+
+	Other:
+
+	    Increased Coffee to 2.2
+	    Increased Opium to 1.5
+	    Increased Silk to 0.6
+	    Increased Tea to 1.8
+	    Increased Tobacco to 3.3
+
+	Explanation:
+
+	After a lot of experimenting (with the help of CE, thank you once more dear friend) we realized that:
+
+	1. A lot of goods never reach the world bank.
+	2. Life need goods must reach the world bank, or POPs starve.
+	3. Non-life need goods may not reach the world bank but must be produced in quantities that allow the
+	   fulfillment of their producing POPs' life needs.
+
+	Equipped with this simple yet not easily reached realization, I proceeded with these changes, which
+	were carefully controlled and repeatedly tested to achieve the conditions outlined above.
 
 VERSION 1.0.11 UNOFFICIAL DEMPSEY GAME PATCH - BELOW THIS LINE Checksum ( PBPK )
 

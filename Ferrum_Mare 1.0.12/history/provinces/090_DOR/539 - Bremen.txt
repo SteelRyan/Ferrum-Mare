@@ -1,0 +1,9 @@
+owner = DOR
+controller = DOR
+add_core = DOR
+
+trade_goods = silk
+life_rating = 35
+
+
+set_province_flag = farm

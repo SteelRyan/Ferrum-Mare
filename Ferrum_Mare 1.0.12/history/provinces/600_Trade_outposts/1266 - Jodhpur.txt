@@ -1,0 +1,9 @@
+owner = LUD
+controller = LUD
+
+trade_goods = iron
+
+
+life_rating = 35
+
+set_province_flag = tradeport

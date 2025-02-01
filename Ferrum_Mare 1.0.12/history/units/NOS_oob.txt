@@ -1,0 +1,64 @@
+army = {
+	name = "Army 1"
+	location = 613
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 606
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 607
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 608
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 609
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 610
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 611
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 612
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 613
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 614
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 615
+	}
+}

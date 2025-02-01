@@ -1,0 +1,256 @@
+political_decisions = {
+	end_of_gardian_independents = {
+		picture = Milogard_rising
+		potential = {
+			tag = BOT
+			NOT = { has_country_flag = gardian_cores_wiped }
+		}
+		allow = {
+			GAR = { exists = no }
+			AGR = { exists = no }
+			AMI = { exists = no }
+			BON = { exists = no }
+			BRR = { exists = no }
+			DAM = { exists = no }
+			DEL = { exists = no }
+			EMO = { exists = no }
+			ESM = { exists = no }
+			ESO = { exists = no }
+			FED = { exists = no }
+			FER = { exists = no }
+			FRE = { exists = no }
+			GEO = { exists = no }
+			HEL = { exists = no }
+			OLI = { exists = no }
+			SAH = { exists = no }
+			TOL = { exists = no }
+			UMB = { exists = no }
+			VAN = { exists = no }
+			VOR = { exists = no }
+			ZER = { exists = no }
+		}
+		effect = {
+			GAR = { all_core = { remove_core = GAR } }
+			AGR = { all_core = { remove_core = AGR } }
+			AMI = { all_core = { remove_core = AMI } }
+			BON = { all_core = { remove_core = BON } }
+			BRR = { all_core = { remove_core = BRR } }
+			DAM = { all_core = { remove_core = DAM } }
+			DEL = { all_core = { remove_core = DEL } }
+			EMO = { all_core = { remove_core = EMO } }
+			ESM = { all_core = { remove_core = ESM } }
+			ESO = { all_core = { remove_core = ESO } }
+			FED = { all_core = { remove_core = FED } }
+			FER = { all_core = { remove_core = FER } }
+			FRE = { all_core = { remove_core = FRE } }
+			GEO = { all_core = { remove_core = GEO } }
+			HEL = { all_core = { remove_core = HEL } }
+			OLI = { all_core = { remove_core = OLI } }
+			SAH = { all_core = { remove_core = SAH } }
+			TOL = { all_core = { remove_core = TOL } }
+			UMB = { all_core = { remove_core = UMB } }
+			VAN = { all_core = { remove_core = VAN } }
+			VOR = { all_core = { remove_core = VOR } }
+			ZER = { all_core = { remove_core = ZER } }
+			set_country_flag = gardian_cores_wiped
+		}
+	}
+
+	the_concordant_realm_FO1 = {
+		picture = Milogard_rising
+		potential = {
+			tag = FO1
+			NOT = { has_country_flag = the_concordant_realm }
+			GAR = { exists = no }
+		}
+		allow = {
+			owns = 386
+			owns = 396
+			owns = 393
+			owns = 391
+			owns = 190
+			owns = 199
+			owns = 197
+			owns = 185
+			owns = 181		
+			owns = 152
+			owns = 153
+			owns = 166
+			owns = 171
+			owns = 174
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_HER = {
+		picture = Milogard_rising
+		potential = {
+			tag = HER
+			NOT = { has_country_flag = the_concordant_realm }
+			GAR = { exists = no }
+		}
+		allow = {
+			owns = 386
+			owns = 396
+			owns = 393
+			owns = 391
+			owns = 401
+			owns = 404
+			owns = 410
+			owns = 190
+			owns = 191
+			owns = 231
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_NEO = {
+		picture = Milogard_rising
+		potential = {
+			tag = NEO
+			NOT = { has_country_flag = the_concordant_realm }
+			GAR = { exists = no }
+		}
+		allow = {
+			owns = 396
+			owns = 401
+			owns = 404
+			owns = 410
+			owns = 190
+			owns = 191
+			owns = 205
+			owns = 204
+			owns = 231
+			owns = 199
+			owns = 197
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_PAL = {
+		picture = Milogard_rising
+		potential = {
+			tag = PAL
+			NOT = { has_country_flag = the_concordant_realm }
+			GAR = { exists = no }
+		}
+		allow = {
+			owns = 179
+			owns = 181
+			owns = 185
+			owns = 213
+			owns = 212
+			owns = 152
+			owns = 153
+			owns = 197
+			owns = 199
+			owns = 201
+			owns = 205
+			owns = 191
+			owns = 231
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_VER = {
+		picture = Milogard_rising
+		potential = {
+			tag = VER
+			NOT = { has_country_flag = the_concordant_realm }
+			GAR = { exists = no }
+		}
+		allow = {
+			owns = 179
+			owns = 213
+			owns = 212
+			owns = 205
+			owns = 201
+			owns = 199
+			owns = 197
+			owns = 185
+			owns = 181	
+			owns = 152
+			owns = 153
+			owns = 166
+			owns = 171
+			owns = 174
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+}

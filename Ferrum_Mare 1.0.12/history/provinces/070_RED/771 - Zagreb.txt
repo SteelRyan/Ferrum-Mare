@@ -1,0 +1,21 @@
+owner = RE1
+controller = RE1
+add_core = RE1
+
+trade_goods = silk
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = luxury_clothes_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = cement_factory
+		upgrade = yes
+	}
