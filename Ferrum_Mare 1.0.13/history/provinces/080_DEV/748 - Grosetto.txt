@@ -1,0 +1,15 @@
+owner = DEV
+controller = DEV
+add_core = NAD
+
+trade_goods = cattle
+
+life_rating = 35
+
+set_province_flag = farm
+
+	state_building = {
+		level = 2
+		building = artillery_factory
+		upgrade = yes
+	}

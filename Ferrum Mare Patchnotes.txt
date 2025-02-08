@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.12
-Date: 1/02/25
-Checksum: SGUL
+Current Version: 1.0.13
+Date: 8/02/25
+Checksum: RSIG
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -19,8 +19,31 @@ My deepest gratitude to...
 - Proxy
 - Dempsey
 - GODOG
+- Moon 		(for convincing my sturborn ass that assimilation of culture-cores was in-fact BROKEN)
 
 ...for helping me so much with the development of this mod
+
+VERSION 1.0.13 BELOW THIS LINE
+
+Checksum: RSIG
+Gameplay Balance
+
+    Emigration Adjustments
+        Removed the emigration boost from War Exhaustion
+        Decreased the emigration base factor from 1.0 to 0.3
+
+    POP Needs Adjustments
+        Decreased everyday needs of the poor strata by 35%
+        	/ This is to reach CoRGI levels of Everday goods fulfillment to hopefully improve promotion further
+
+Bug Fixes
+
+    Fixed a bug affecting assimilation of all non-culture-core POPs
+        	/ The condition has_culture_core = yes was not functioning as expected, leading to unintended no assimilation
+        	/ The line was removed from poptypes.txt, keeping only the negation has_culture_core = no
+       		/ Assimilation now works as originally intended, ensuring correct cultural integration mechanics
+
+    Fixed bad province positioning for Trieste (#736)
 
 VERSION 1.0.12 BELOW THIS LINE Checksum ( SGUL )
 

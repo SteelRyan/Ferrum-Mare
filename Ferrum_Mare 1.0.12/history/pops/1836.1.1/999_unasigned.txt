@@ -1,8 +1,0 @@
-
-1334 = {
-    farmers = {
-        culture = map_crack_addict
-        religion = catholic
-        size = 100
-    }
-}

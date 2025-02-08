@@ -1,0 +1,11 @@
+owner = UMB
+controller = UMB
+add_core = UMB
+
+trade_goods = coal
+
+
+
+life_rating = 35
+
+set_province_flag = mine

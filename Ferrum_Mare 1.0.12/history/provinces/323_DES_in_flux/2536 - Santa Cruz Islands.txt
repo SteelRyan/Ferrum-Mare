@@ -1,9 +1,0 @@
-owner = M15
-controller = M15
-add_core = M15
-
-
-trade_goods = grain
-life_rating = 35
-
-set_province_flag = farm

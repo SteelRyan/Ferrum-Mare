@@ -1,0 +1,391 @@
+#
+
+2006  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 42700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 4180
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2007  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 60700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 6080
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2008  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 27700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 180
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2009  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 36700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 3680
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2010  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 76700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 7280
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2011  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 20700
+    }
+	
+	artisans = {
+        culture = namar
+        religion = catholic
+        size = 2070
+    }
+	
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2012  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 16700
+    }
+	
+	artisans = {
+        culture = namar
+        religion = catholic
+        size = 1670
+    }
+	
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2013  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 58700
+    }
+	
+	artisans = {
+        culture = namar
+        religion = catholic
+        size = 5870
+    }
+	
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2014  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 33700
+    }
+	
+	artisans = {
+        culture = namar
+        religion = catholic
+        size = 3370
+    }
+	
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2015  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 8700
+    }
+	
+	artisans = {
+        culture = namar
+        religion = catholic
+        size = 870
+    }
+	
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+	
+	clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2026  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 38700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 3780
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2027  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 88700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 8780
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2028  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 50700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 4780
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 60
+    }
+}
+
+2029  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 50700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 5070
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 30
+    }
+}
+
+2030  = {
+    farmers = {
+        culture = namar
+        religion = catholic
+        size = 85700
+    }
+    
+    artisans = {
+        culture = namar
+        religion = catholic
+        size = 8070
+    }
+    
+    soldiers = {
+        culture = namar
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = namar
+        religion = catholic
+        size = 30
+    }
+}
