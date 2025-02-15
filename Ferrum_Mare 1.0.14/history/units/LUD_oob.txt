@@ -1,0 +1,216 @@
+army = {
+	name = "Army 1"
+	location = 1162
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1151
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1153
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1154
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1161
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1162
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1164
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1165
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1166
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1168
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1169
+	}
+}
+
+army = {
+	name = "Army 1"
+	location = 1176
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1171
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1172
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1173
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1174
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1175
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1176
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1178
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1179
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1186
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1187
+	}
+}
+
+army = {
+	name = "Army 1"
+	location = 1196
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1188
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1189
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1181
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1182
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1183
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1185
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1206
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1207
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1209
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1210
+	}
+}
+
+
+
+
+
+navy = {
+	name = "Ludosie Flotilla"
+	location = 1174
+	
+	# 10 clipper_transport ships
+	ship = { name= "Ship 1" type = clipper_transport }
+	ship = { name= "Ship 2" type = clipper_transport }
+	ship = { name= "Ship 3" type = clipper_transport }
+	ship = { name= "Ship 4" type = clipper_transport }
+	ship = { name= "Ship 5" type = clipper_transport }
+	ship = { name= "Ship 6" type = clipper_transport }
+	ship = { name= "Ship 7" type = clipper_transport }
+	ship = { name= "Ship 8" type = clipper_transport }
+	ship = { name= "Ship 9" type = clipper_transport }
+	ship = { name= "Ship 10" type = clipper_transport }
+
+}

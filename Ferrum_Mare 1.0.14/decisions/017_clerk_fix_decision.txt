@@ -1,0 +1,25 @@
+political_decisions = {
+    spherso_clerks_fix = {
+        picture = unite_the_principalities
+		potential = {
+            tag = LCT
+            ai = no
+        }
+        allow = {
+            tag = LCT
+            ai = no
+        }
+        effect = {
+            SPH = {
+                any_owned = {
+                    any_pop = {
+                        limit = { 
+                            type = clerks
+                        }
+                        pop_type = craftsmen
+                    }
+                }
+            }
+        }
+    }
+}

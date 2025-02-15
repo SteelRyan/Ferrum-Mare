@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.13
-Date: 8/02/25
-Checksum: RSIG
+Current Version: 1.0.14
+Date: 15/02/25
+Checksum: DUKM
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -19,22 +19,43 @@ My deepest gratitude to...
 - Proxy
 - Dempsey
 - GODOG
-- Moon 		(for convincing my sturborn ass that assimilation of culture-cores was in-fact BROKEN)
+- Moon 
 
 ...for helping me so much with the development of this mod
+
+VERSION 1.0.14 BELOW THIS LINE
+
+Checksum: DUKM
+
+Bug Fixes
+
+    Fixed port positions for multiple islands and the Canal province (#2442)
+        / Adjusted province files to correct graphical and gameplay discrepancies caused by incorrect port locations.
+
+    Fix Decision for Spherso Clerks available for host nation
+        / Decision now properly converts Spherso Clerks into Craftsmen when taken by the host nation.
+
+    State sizing CB from CE (to have the correct pops to size according to the loci)
+        / Adjusted CB mechanics to ensure state sizes scale correctly with population distribution based on loci.
+
+    Removed the militancy delays on the core integrated event
+        / Core integrated event no longer has artificial militancy delays, allowing smoother integration mechanics.
+
 
 VERSION 1.0.13 BELOW THIS LINE
 
 Checksum: RSIG
-Gameplay Balance
-
-    Emigration Adjustments
-        Removed the emigration boost from War Exhaustion
-        Decreased the emigration base factor from 1.0 to 0.3
+Economic Adjustment
 
     POP Needs Adjustments
         Decreased everyday needs of the poor strata by 35%
         	/ This is to reach CoRGI levels of Everday goods fulfillment to hopefully improve promotion further
+
+Migration Adjustment
+
+    Emigration Adjustments
+        Removed the emigration boost from War Exhaustion
+        Decreased the emigration base factor from 1.0 to 0.3
 
 Bug Fixes
 

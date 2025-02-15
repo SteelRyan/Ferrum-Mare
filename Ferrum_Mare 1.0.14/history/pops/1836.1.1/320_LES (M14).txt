@@ -1,0 +1,1049 @@
+1541 = {
+    bureaucrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 1623
+    }
+    aristocrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 8500
+    } 
+    officers = {
+        culture = lesetrani
+        religion = catholic
+        size = 850
+    }
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 97013
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 8804
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1350
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 10041
+    }
+}
+
+1542 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 184132
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 16836
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1350
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 10041
+    }
+}
+
+1543 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 150664
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 14158
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1350
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 10041
+    }
+}
+
+1544 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 130582
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 11481
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1350
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 10041
+    }
+}
+
+1545 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 150664
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 13489
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1350
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 10041
+    }
+}
+
+2511  = {
+    farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 93075
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 8033
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2512  = {
+    bureaucrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 2623
+    }
+    aristocrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 12623
+    } 
+    officers = {
+        culture = lesetrani
+        religion = catholic
+        size = 1263
+    }
+    farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 364013
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 34808
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2513  = {
+    farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 211013
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 29708
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2514  = {
+       farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 172763
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 29708
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2515  = {
+        farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 236513
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 29708
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2516 = {
+    bureaucrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 1623
+    }
+    aristocrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 9800
+    } 
+    officers = {
+        culture = lesetrani
+        religion = catholic
+        size = 980
+    }
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 124364
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 11572
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2517 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 156239
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 16034
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2518 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 137114
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 10934
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2519 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 156239
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 14122
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2520 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 270989
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 25597
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2521 = {
+    bureaucrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 1223
+    }
+    aristocrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 8000
+    } 
+    officers = {
+        culture = lesetrani
+        religion = catholic
+        size = 800
+    }
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 92489
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 8384
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2522 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 175364
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 16034
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2523 = {
+     farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 143489
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 13484
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2524 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 124364
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 10934
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2525 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 143489
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 12847
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2541 = {
+    farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 103275
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 9308
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2542 = {
+    farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 223763
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 16958
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2543 = {
+    farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 198263
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 19508
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2544 = {
+    bureaucrats = {
+        culture = soldrai
+        religion = catholic
+        size = 3093
+    }
+    aristocrats = {
+        culture = soldrai
+        religion = catholic
+        size = 11093
+    } 
+    officers = {
+        culture = soldrai
+        religion = catholic
+        size = 1110
+    }
+       farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 262013
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 29708
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2545 = {
+       farmers = {
+        culture = soldrai
+        religion = catholic
+        size = 179138
+    }
+    
+    artisans = {
+        culture = soldrai
+        religion = catholic
+        size = 16958
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = soldrai
+        religion = catholic
+        size = 1275
+    }
+
+    slaves = {
+        culture = soldrai
+        religion = catholic
+        size = 5100
+    }
+}
+
+2651 = {
+    bureaucrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 1223
+    }
+    aristocrats = {
+        culture = lesetrani
+        religion = catholic
+        size = 9000
+    } 
+    officers = {
+        culture = lesetrani
+        religion = catholic
+        size = 900
+    }
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 105239
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 9659
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2652 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 98864
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 9022
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2653 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 181739
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 16034
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2654 = {
+     farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 245489
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 23047
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}
+
+2655 = {
+    farmers = {
+        culture = lesetrani
+        religion = catholic
+        size = 149864
+    }
+    
+    artisans = {
+        culture = lesetrani
+        religion = catholic
+        size = 14122
+    }
+    
+    soldiers = {
+        culture = lesetrani
+        religion = catholic
+        size = 2500
+    }
+    
+    clergymen = {
+        culture = lesetrani
+        religion = catholic
+        size = 1286
+    }
+
+    slaves = {
+        culture = lesetrani
+        religion = catholic
+        size = 9563
+    }
+}

@@ -1,0 +1,12 @@
+owner = DAM
+controller = DAM
+add_core = DAM
+
+trade_goods = iron
+
+
+
+
+life_rating = 35
+
+set_province_flag = mine

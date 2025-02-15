@@ -1,9 +1,0 @@
-owner = NEO
-controller = NEO
-add_core = NEO
-
-trade_goods = cattle
-
-life_rating = 35
-
-set_province_flag = farm

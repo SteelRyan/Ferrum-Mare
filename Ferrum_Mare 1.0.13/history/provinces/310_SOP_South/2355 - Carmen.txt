@@ -1,1 +1,0 @@
-owner = PRAcontroller = PRAadd_core = PRAtrade_goods = tealife_rating = 35set_province_flag = mine

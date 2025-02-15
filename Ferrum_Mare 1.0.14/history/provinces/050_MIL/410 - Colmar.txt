@@ -1,0 +1,11 @@
+owner = BON
+controller = BON
+add_core = BON
+
+trade_goods = coal
+
+
+
+life_rating = 35
+  
+set_province_flag = mine

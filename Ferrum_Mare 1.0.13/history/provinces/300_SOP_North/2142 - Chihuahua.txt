@@ -1,8 +1,0 @@
-owner = JOG
-controller = JOG
-add_core = JOG
-
-trade_goods = timber
-life_rating = 35
-
-set_province_flag = farm
