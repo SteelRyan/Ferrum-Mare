@@ -1,0 +1,34 @@
+army = {
+	name = "Army 1"
+	location = 2030
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 2026
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 2027
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 2028
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 2029
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 2030
+	}
+}

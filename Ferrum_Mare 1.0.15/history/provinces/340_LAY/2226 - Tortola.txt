@@ -1,0 +1,8 @@
+owner = LAY
+controller = LAY
+add_core = LAY
+
+trade_goods = tea
+life_rating = 35
+
+set_province_flag = farm

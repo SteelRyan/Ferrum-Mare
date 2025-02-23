@@ -1,0 +1,8 @@
+owner = EMO
+controller = EMO
+add_core = EMO
+
+trade_goods = timber
+life_rating = 35
+
+set_province_flag = farm

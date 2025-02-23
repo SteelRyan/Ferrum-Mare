@@ -1,0 +1,8 @@
+owner = VER
+controller = VER
+add_core = VER
+
+trade_goods = wool
+life_rating = 35
+
+set_province_flag = farm

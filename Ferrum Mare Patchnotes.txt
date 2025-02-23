@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.14
-Date: 15/02/25
-Checksum: DUKM
+Current Version: 1.0.15
+Date: 23/02/25
+Checksum: BHYV
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -22,6 +22,28 @@ My deepest gratitude to...
 - Moon 
 
 ...for helping me so much with the development of this mod
+
+VERSION 1.0.15 BELOW THIS LINE
+
+Checksum: BHYV
+
+Bug Fixes
+
+	Fixed State 322 prov positioning in Taizhou
+
+	Fixed Faulty port in Oran province (in south Servile)
+
+Migration Adjustment
+
+	Changed the emigration back to base 1 factor
+
+Quality of live
+
+	Added host swap decision
+
+Other
+	
+	Added decision to nuke all clerks worldwide and turn them into craftsmen (clerk issue with assimilation found WIP)
 
 VERSION 1.0.14 BELOW THIS LINE
 
