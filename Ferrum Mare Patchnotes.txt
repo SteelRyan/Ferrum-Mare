@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.15
-Date: 23/02/25
-Checksum: BHYV
+Current Version: 1.0.16
+Date: 2/03/25
+Checksum: VAHO
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -23,9 +23,27 @@ My deepest gratitude to...
 
 ...for helping me so much with the development of this mod
 
-VERSION 1.0.15 BELOW THIS LINE
+VERSION 1.0.16 BELOW THIS LINE Checksum ( VAHO )
 
-Checksum: BHYV
+Gameplay/Flavor
+
+	Readded all events concerning Government changes (these were missing due to being pulled from basegame Vic2 events, which were blocked out in FM)
+	
+Bug Fixes
+    
+    Fixed province positioning in Troppau; a sea tile had ship positioning in a land province
+    Fixed Trade Port 8 - invalid port position
+    Fixed a faulty canal in Kiel province (wrong target province in the effect section of the Canal decision)
+    Fixed the host kick decision
+    Fixed unit positioning in Vinchina
+	Fixed ghost country mobo removal
+	Fixed for Clerk hyper promotion caused by assimilation (My gratitude to Godog for the help!)
+
+Other	
+	Moved the Uncolonized tag into the heart of Servile (1836) to make room for the ghost country fix
+	Added security decisions to the World Bank so it wont shutdown again via money overflow
+
+VERSION 1.0.15 BELOW THIS LINE Checksum (BHYV)
 
 Bug Fixes
 
@@ -45,9 +63,7 @@ Other
 	
 	Added decision to nuke all clerks worldwide and turn them into craftsmen (clerk issue with assimilation found WIP)
 
-VERSION 1.0.14 BELOW THIS LINE
-
-Checksum: DUKM
+VERSION 1.0.14 BELOW THIS LINE Checksum ( DUKM )
 
 Bug Fixes
 
@@ -64,9 +80,8 @@ Bug Fixes
         / Core integrated event no longer has artificial militancy delays, allowing smoother integration mechanics.
 
 
-VERSION 1.0.13 BELOW THIS LINE
+VERSION 1.0.13 BELOW THIS LINE Checksum ( RSIG )
 
-Checksum: RSIG
 Economic Adjustment
 
     POP Needs Adjustments

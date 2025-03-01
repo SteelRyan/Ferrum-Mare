@@ -1,8 +1,0 @@
-owner = NES
-controller = NES
-add_core = NES
-
-trade_goods = tea
-life_rating = 35
-
-set_province_flag = mine

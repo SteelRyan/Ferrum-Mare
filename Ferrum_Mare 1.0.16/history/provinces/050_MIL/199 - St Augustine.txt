@@ -1,0 +1,10 @@
+owner = OLI
+controller = OLI
+add_core = OLI
+
+trade_goods = grain
+
+
+life_rating = 35
+
+set_province_flag = farm

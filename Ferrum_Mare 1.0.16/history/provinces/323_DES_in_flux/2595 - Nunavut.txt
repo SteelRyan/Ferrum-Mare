@@ -1,0 +1,12 @@
+owner = M16
+controller = M16
+add_core = M16
+
+
+
+
+
+trade_goods = fish
+life_rating = 35
+
+set_province_flag = farm

@@ -1,0 +1,522 @@
+#
+
+1056   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 6864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1057   = {
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 11864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1058   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 11864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1059   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 3864
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 10000
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1060   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 9000
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 9864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1061   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 13864
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 12000
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1062   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 17864
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 16000
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1063   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 12000
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 9864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1064   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 5000
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 12864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1065   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 4864
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 10000
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1066   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 12864
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 8000
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1067   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 9864
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 14000
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1068   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 5000
+    }
+
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 12864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1069   = {
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 22864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}
+
+1070   = {
+    farmers = {
+        culture = synocean
+        religion = catholic
+        size = 9000
+    }
+    farmers = {
+        culture = pinaro
+        religion = catholic
+        size = 9864
+    }
+	
+	artisans = {
+        culture = pinaro
+        religion = catholic
+        size = 396
+    }
+	
+    soldiers = {
+        culture = pinaro
+        religion = catholic
+        size = 500
+    }
+	
+	clergymen = {
+        culture = pinaro
+        religion = catholic
+        size = 88
+    }
+
+    slaves = {
+        culture = pinaro
+        religion = catholic
+        size = 961
+    }
+}

@@ -1,0 +1,2105 @@
+#
+
+106  = {
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 3800
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 3800
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 380
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 75600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+
+}
+
+107  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 58600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 4600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+
+}
+
+108  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 62600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5200
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+
+}
+
+109  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 72600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+
+}
+
+110  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 74600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+
+}
+
+251  = {
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 3750
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 3750
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 375
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 73600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5900
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+252  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 64600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+253  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 66600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+254  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 60600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+255  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 66000
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+291  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 77600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+292  = {
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 4070
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 4070
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 407
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 84600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+293  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 64000
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+294  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 72600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+295  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 62600
+    }
+    
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5400
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 1050
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+}
+
+496  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 66300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+497  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 70300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5600
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+498  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 72300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6000
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+499  = {
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 3992
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 399
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 74300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+500  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 68300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+621  = {
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 4404
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 440
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 83300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6700
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 4050
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+622  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 80300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6500
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 4050
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+623  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 84300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6800
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 4050
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+624  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 75300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6200
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 4050
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+625  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 67300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5500
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 4050
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+766  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 82160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7260
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+767  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 122160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 11260
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+768  = {
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 5957
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 595
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 138160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 12860
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+769  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 89160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7860
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+770  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 102160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 9260
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+771  = {
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 4417
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 4417
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 441
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 110160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 9760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+772  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 88160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+773  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 64160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 4760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+774  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 70160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6260
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+775  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 62160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5060
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+776  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 80300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+777  = {
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 5112
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 5112
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 511
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 102300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 9300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+778  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 93300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+779  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 40300
+    }
+
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 40000
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+780  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 98300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+781  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 84300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6900
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+782  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 45300
+    }
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 4908
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 4908
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 490
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 50000
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 6300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+783  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 80000
+    }
+
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 12300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 8300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+784  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 60000
+    }
+
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 23300
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+785  = {
+    farmers = {
+        culture = opales
+        religion = catholic
+        size = 61300
+    }
+
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 20000
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7300
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 2000
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 900
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 392
+    }
+}
+
+916  = {
+    bureaucrats = {
+        culture = redrean
+        religion = catholic
+        size = 4379
+    }
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 4379
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 437
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 98160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 8760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+917  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 62160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5110
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+918  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 80160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7060
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+919  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 68160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+920  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 82160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 7060
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+    craftsmen = {
+        culture = redrean
+        religion = catholic
+        size = 2700
+    }
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+921  = {
+    aristocrats = {
+        culture = redrean
+        religion = catholic
+        size = 5729
+    } 
+    officers = {
+        culture = redrean
+        religion = catholic
+        size = 572
+    }
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 55160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 4460
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+922  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 62160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 4760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+923  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 52160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 4060
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+924  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 67160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 5760
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}
+
+925  = {
+    farmers = {
+        culture = redrean
+        religion = catholic
+        size = 54160
+    }
+
+    artisans = {
+        culture = redrean
+        religion = catholic
+        size = 4260
+    }
+    
+    soldiers = {
+        culture = redrean
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = redrean
+        religion = catholic
+        size = 680
+    }
+    
+
+    
+    slaves = {
+        culture = redrean
+        religion = catholic
+        size = 296
+    }
+}

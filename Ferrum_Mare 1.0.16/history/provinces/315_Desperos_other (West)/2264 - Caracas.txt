@@ -1,0 +1,11 @@
+owner = M02
+controller = M02
+add_core = M02
+
+trade_goods = fruit
+
+
+
+life_rating = 35
+
+set_province_flag = farm

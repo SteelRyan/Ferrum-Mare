@@ -1,0 +1,7 @@
+# During Dark continent resoltuion in 60 or 61 (flag check)
+# Fire Decisions from UNC before desolution based on the level of Slaver migration
+# On level 1 change nothing
+# On level 2 change 5% to Esdorean and decrease pop by 20% + change all Servile pop to slaves
+# On level 3 change 15% to Esdorean and decrease pop by 40% + change all Servile pop to slaves
+# On level 4 change 30% to Esdorean and decrease pop by 60% + change all Servile pop to slaves + Establish the Slaver republics in the center
+# On level 5 change 45% to Esdorean and decrease pop by 50% + change all Servile pop to slaves + Establish the Slaver republics in the center, north and south

@@ -1,0 +1,22 @@
+owner = FO1
+controller = FO1
+add_core = FO1
+
+trade_goods = iron
+
+life_rating = 35
+
+set_province_flag = mine
+
+	state_building = {
+		level = 1
+		building = small_arms_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 2
+		building = lumber_mill
+		upgrade = yes
+	}
+

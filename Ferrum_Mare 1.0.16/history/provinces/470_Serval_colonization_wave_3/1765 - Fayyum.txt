@@ -1,0 +1,12 @@
+
+
+
+trade_goods = coal
+
+
+
+life_rating = 10
+
+set_province_flag = mine
+
+
