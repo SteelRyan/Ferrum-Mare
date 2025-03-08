@@ -1,0 +1,11 @@
+owner = PIN
+controller = PIN
+add_core = PIN
+
+trade_goods = sulphur
+
+
+
+life_rating = 35
+
+set_province_flag = mine

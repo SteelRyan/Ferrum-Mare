@@ -1,0 +1,2335 @@
+#
+#	Start -	ABCD, EFGH, BCDH, AEFG, BCGH, ADEF,  - next row
+#			BCFH, ADEG, ABFH, CDEG, ABDH, CEFG,  - next row
+#			BDEH, ACFG, CDEH, ABFG, ACEH, BDFG,  - next row
+#			ACEG, BDFH, AEGH, BCDF, ABGH, CDEF,  - next row
+#			ABCH, DEFG, ACGH, BDEF, CFGH, ABDE,  - next row 
+#			CDFG, ABEH, ADFG, BCEH, ABDF, AAAA,  - next row
+#			CEGH, ABEF, CDGH, BEFH, ACDG, DEFH,  - next row
+#			ABCG, DFGH, ABCE, BFGH, ACDE, BEGH,  - next row
+#			ACDF, BCEG, ADFH, BCDG, AEFH, BDEG,  - next row
+#			ACFH, ABEG, CDFH, ABDG, CEFH, ADGH,  - next row
+#			BCEF, AFGH, BCDE, ACEF, BDGH, ABCF,  - next row
+#			DEGH, BCFG, ADEH, BEFG, ACDH, ZZZZ,  - Back to the start
+#
+#			72 Combinations
+#			(2 minor Rotation)
+#			6 Year Pattern
+#			~15 Rotation’s per game
+# 
+# 			AAAA = XER + ESD + DAC + MAC
+#			ZZZZ = HAR + SOD + VIB + M18 + M19 + M20
+#
+# A= VAR
+# B= PIN
+# C= LUD
+# D= SPH + HAM and CAL
+# E= ELI
+# F= STR
+# G= ABR
+# H= BEL
+#
+political_decisions = {
+	immigration_ABCD = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ZZZZ
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			HAR = { clr_country_flag = new_world_nation }
+			SOD = { clr_country_flag = new_world_nation }
+			VIB = { clr_country_flag = new_world_nation }
+			M18 = { clr_country_flag = new_world_nation }
+			M19 = { clr_country_flag = new_world_nation }
+			M20 = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ZZZZ }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABCD }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_EFGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABCD
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABCD }
+
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_EFGH }	
+		}
+		ai_will_do = {
+			factor = 1		
+		}
+	}
+
+	immigration_BCDH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_EFGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_EFGH }
+		PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCDH }	
+		}
+		ai_will_do = {
+			factor = 1		
+		}
+	}
+
+	immigration_AEFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCDH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCDH }
+
+			VAR = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_AEFG }	
+		}
+		ai_will_do = {
+			factor = 1		
+		}
+	}
+
+	immigration_BCGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_AEFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_AEFG }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCGH }	
+		}
+		ai_will_do = {
+			factor = 1		
+		}
+	}
+
+	immigration_ADEF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ADEF }	
+		}
+		ai_will_do = {
+			factor = 1		
+		}
+	}
+
+	immigration_BCFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ADEF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ADEF }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCFH }	
+		}
+		ai_will_do = {
+			factor = 1		
+		}
+	}
+
+	immigration_ADEG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ADEG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+
+	immigration_ABFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ADEG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ADEG }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+
+	immigration_CDEG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABFH }
+
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CDEG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABDH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CDEG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CDEG }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABDH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CEFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABDH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABDH }
+
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CEFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BDEH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CEFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CEFG }
+
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BDEH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BDEH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BDEH }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CDEH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACFG }
+
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CDEH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CDEH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CDEH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACEH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABFG }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACEH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BDFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACEH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACEH }
+
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BDFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACEG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BDFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BDFG }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACEG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BDFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACEG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACEG }
+
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BDFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_AEGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BDFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BDFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_AEGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCDF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_AEGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_AEGH }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCDF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCDF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCDF }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CDEF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABGH }
+
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CDEF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABCH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CDEF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CDEF }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABCH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_DEFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABCH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABCH }
+
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_DEFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_DEFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_DEFG }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BDEF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACGH }
+
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BDEF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CFGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BDEF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BDEF }
+
+			LUD = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CFGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABDE = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CFGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CFGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABDE }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CDFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABDE
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABDE }
+
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CDFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABEH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CDFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CDFG }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABEH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ADFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABEH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABEH }
+
+			VAR = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ADFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCEH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ADFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ADFG }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCEH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABDF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCEH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCEH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABDF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_AAAA = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABDF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 10
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABDF }
+
+			XER = { set_country_flag = new_world_nation }
+			ESD = { set_country_flag = new_world_nation }
+			DAC = { set_country_flag = new_world_nation }
+			MAC = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_AAAA }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CEGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_AAAA
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			XER = { clr_country_flag = new_world_nation }
+			ESD = { clr_country_flag = new_world_nation }
+			DAC = { clr_country_flag = new_world_nation }
+			MAC = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_AAAA }
+
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CEGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABEF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CEGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CEGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABEF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CDGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABEF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABEF }
+
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CDGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BEFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CDGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CDGH }
+
+			PIN = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BEFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACDG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BEFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BEFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACDG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_DEFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACDG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACDG }
+
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_DEFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABCG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_DEFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_DEFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABCG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_DFGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABCG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABCG }
+
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_DFGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABCE = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_DFGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_DFGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABCE }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BFGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABCE
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABCE }
+
+			PIN = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BFGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACDE = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BFGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BFGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACDE }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BEGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACDE
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACDE }
+
+			PIN = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BEGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACDF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BEGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BEGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACDF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCEG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACDF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACDF }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCEG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ADFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCEG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCEG }
+
+			VAR = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ADFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCDG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ADFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ADFH }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCDG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_AEFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCDG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCDG }
+
+			VAR = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_AEFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BDEG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_AEFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_AEFH }
+
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BDEG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BDEG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BDEG }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABEG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABEG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CDFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABEG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABEG }
+
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CDFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABDG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CDFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CDFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABDG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_CEFH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABDG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABDG }
+
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_CEFH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ADGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_CEFH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_CEFH }
+
+			VAR = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ADGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCEF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ADGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ADGH }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCEF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_AFGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCEF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCEF }
+
+			VAR = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_AFGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCDE = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_AFGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_AFGH }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCDE }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACEF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCDE
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCDE }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACEF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BDGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACEF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACEF }
+
+			PIN = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BDGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ABCF = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BDGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BDGH }
+
+			VAR = { set_country_flag = new_world_nation }
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ABCF }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_DEGH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ABCF
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ABCF }
+
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_DEGH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BCFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_DEGH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_DEGH }
+
+			PIN = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BCFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ADEH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BCFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BCFG }
+
+			VAR = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ADEH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_BEFG = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ADEH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ADEH }
+
+			PIN = { set_country_flag = new_world_nation }
+			ELI = { set_country_flag = new_world_nation }
+			STR = { set_country_flag = new_world_nation }
+			ABR = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_BEFG }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ACDH = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_BEFG
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 30
+			}
+			PIN = { clr_country_flag = new_world_nation }
+			ELI = { clr_country_flag = new_world_nation }
+			STR = { clr_country_flag = new_world_nation }
+			ABR = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_BEFG }
+
+			VAR = { set_country_flag = new_world_nation }
+			LUD = { set_country_flag = new_world_nation }
+			SPH = { set_country_flag = new_world_nation }
+			HAM = { set_country_flag = new_world_nation }
+			CAL = { set_country_flag = new_world_nation }
+			BEL = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ACDH }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	immigration_ZZZZ = {
+		potential = {
+			tag = BOT
+			has_country_flag = Phase_ACDH
+		}
+		allow = {
+			NOT = { has_country_modifier = immigration_clock }
+		}
+		effect = {
+			add_country_modifier = {
+				name = immigration_clock
+				duration = 9
+			}
+			VAR = { clr_country_flag = new_world_nation }
+			LUD = { clr_country_flag = new_world_nation }
+			SPH = { clr_country_flag = new_world_nation }
+			HAM = { clr_country_flag = new_world_nation }
+			CAL = { clr_country_flag = new_world_nation }
+			BEL = { clr_country_flag = new_world_nation }
+			BOT = { clr_country_flag = Phase_ACDH }
+
+			HAR = { set_country_flag = new_world_nation }
+			SOD = { set_country_flag = new_world_nation }
+			VIB = { set_country_flag = new_world_nation }
+			M18 = { set_country_flag = new_world_nation }
+			M19 = { set_country_flag = new_world_nation }
+			M20 = { set_country_flag = new_world_nation }
+			BOT = {	set_country_flag = Phase_ZZZZ }	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

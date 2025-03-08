@@ -1,9 +1,0 @@
-owner = ABR
-controller = ABR
-add_core = ABR
-
-trade_goods = timber
-
-life_rating = 35
-
-set_province_flag = farm

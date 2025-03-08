@@ -1,0 +1,8 @@
+owner = M08
+controller = M08
+
+trade_goods = timber
+
+life_rating = 35
+
+set_province_flag = tradeport

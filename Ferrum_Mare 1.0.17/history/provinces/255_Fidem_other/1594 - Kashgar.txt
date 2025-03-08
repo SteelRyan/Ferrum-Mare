@@ -1,0 +1,8 @@
+owner = NIK
+controller = NIK
+add_core = NIK
+
+trade_goods = tea
+life_rating = 35
+
+set_province_flag = farm

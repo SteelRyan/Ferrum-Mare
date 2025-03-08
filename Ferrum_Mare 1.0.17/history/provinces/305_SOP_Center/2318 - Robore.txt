@@ -1,0 +1,1 @@
+owner = SOPcontroller = SOPadd_core = SOPtrade_goods = silklife_rating = 35set_province_flag = farm

@@ -1,9 +1,0 @@
-owner = VAR
-controller = VAR
-
-trade_goods = iron
-
-
-life_rating = 35
-
-set_province_flag = tradeport

@@ -1,0 +1,52 @@
+political_decisions = {
+	contest_over_zyrosie = {
+		picture = Zyros_contest
+		potential = {
+			OR = {
+				tag = HAA
+				tag = ESP
+			}
+			NOT = { has_country_flag = contest_over_zyros }
+		}
+		allow = {
+			owns = 846
+			owns = 854
+			owns = 856
+			owns = 861
+			year = 1870
+			NOT = { exists = ZYR }
+			war = no
+		}
+		effect = { 
+			ZYR = { all_core = { remove_core = ZYR } }
+			HAA = { 
+				set_country_flag = contest_over_zyros
+				any_owned = { 
+					limit = { pop_majority_culture = zyrosie }
+					add_province_modifier = {
+		                name = zyrosie_assim_boost
+		                duration = -1
+		            }
+	            }
+		        add_country_modifier = {
+		            name = zyrosie_assim_boost
+		            duration = -1
+		        }
+		    }
+			ESP = { 
+				set_country_flag = contest_over_zyros
+				any_owned = { 
+					limit = { pop_majority_culture = zyrosie }
+					add_province_modifier = {
+		                name = zyrosie_assim_boost
+		                duration = -1
+		            }
+	            }
+		        add_country_modifier = {
+		            name = zyrosie_assim_boost
+		            duration = -1
+		        }
+		    }
+		}
+	}
+}

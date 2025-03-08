@@ -1,0 +1,8 @@
+owner = SOD
+controller = SOD
+add_core = SOD
+
+trade_goods = grain
+life_rating = 35
+
+set_province_flag = mine

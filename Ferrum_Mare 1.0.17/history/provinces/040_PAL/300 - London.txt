@@ -1,0 +1,10 @@
+owner = PAL
+controller = PAL
+add_core = PAL
+
+add_core = DOR
+
+trade_goods = timber
+life_rating = 35
+
+set_province_flag = farm

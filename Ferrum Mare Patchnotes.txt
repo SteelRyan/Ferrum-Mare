@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.16
-Date: 2/03/25
-Checksum: VAHO
+Current Version: 1.0.17
+Date: 08/03/25
+Checksum: VPFB
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -22,6 +22,17 @@ My deepest gratitude to...
 - Moon 
 
 ...for helping me so much with the development of this mod
+
+VERSION 1.0.17 BELOW THIS LINE Checksum ( VPFB )
+
+Bug Fixes
+
+	Fixed the aquire state cb's for pera-primary-culture-tags, on pera-land, owned by non-pera-primary-culture-tags
+	/If you ask me what this means, then I will send you to SP-ED
+
+Removed
+
+	Deleted the Americas small state cb (not in use in FM)	
 
 VERSION 1.0.16 BELOW THIS LINE Checksum ( VAHO )
 

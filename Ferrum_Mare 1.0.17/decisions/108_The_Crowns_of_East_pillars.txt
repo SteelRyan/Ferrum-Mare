@@ -1,0 +1,170 @@
+political_decisions = {
+	dissolve_the_crown_of_terilem = {
+		picture = TER
+		potential = {
+			OR = { 
+				tag = DEV
+				tag = RE1
+				tag = EMA
+			}
+			NOT = { BOT = { has_country_flag = dissolve_terilem } }
+		}
+		allow = {
+			TER = { exists = no }
+			any_owned_province = { is_core = TER }
+			year = 1860
+			war = no
+		}
+		effect = {
+			TER = { all_core = { remove_core = TER } } 
+			any_country = { 
+				limit = { 
+					OR = { 
+						tag = DEV
+						tag = RE1
+						tag = EMA
+					}
+					any_owned_province = { is_core = TER }
+				}
+				country_event = { id=4760086 days=0 }
+				add_country_modifier = {
+					name = dissolve_terilem_event
+					duration = 100
+				}
+			}
+			THIS = {
+				country_event = { id=4760086 days=0 }
+				add_country_modifier = {
+					name = dissolve_terilem_event
+					duration = 100
+				}
+			}
+			BOT = {
+				change_variable = {
+					which = TER_score
+					value = 3.001
+				}
+				set_country_flag = dissolve_terilem
+			}			
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 100
+				year = 1863
+			}
+		}
+	}
+	dissolve_the_crown_of_ormal = {
+		picture = ORM
+		potential = {
+			OR = { 
+				tag = DEV
+				tag = RE1
+				tag = HAA
+			}
+			NOT = { BOT = { has_country_flag = dissolve_ormal } }
+		}
+		allow = {
+			ORM = { exists = no }
+			any_owned_province = { is_core = ORM }
+			year = 1860
+			war = no
+		}
+		effect = {
+			ORM = { all_core = { remove_core = ORM } } 
+			any_country = { 
+				limit = { 
+					OR = { 
+						tag = DEV
+						tag = RE1
+						tag = HAA
+					}
+					any_owned_province = { is_core = ORM }
+				}
+				country_event = { id=4760091 days=0 }
+				add_country_modifier = {
+					name = dissolve_ormal_event
+					duration = 100
+				}
+			}
+			THIS = {
+				country_event = { id=4760091 days=0 }
+				add_country_modifier = {
+					name = dissolve_ormal_event
+					duration = 100
+				}
+			}
+			BOT = {
+				change_variable = {
+					which = ORM_score
+					value = 3.001
+				}
+				set_country_flag = dissolve_ormal
+			}			
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 100
+				year = 1863
+			}
+		}
+	}
+	dissolve_the_crown_of_nadorilem = {
+		picture = NAD
+		potential = {
+			OR = { 
+				tag = DEV
+				tag = EMA
+				tag = HER
+			}
+			NOT = { BOT = { has_country_flag = dissolve_nadorilem } }
+		}
+		allow = {
+			NAD = { exists = no }
+			any_owned_province = { is_core = NAD }
+			year = 1860
+			war = no
+		}
+		effect = {
+			NAD = { all_core = { remove_core = NAD } } 
+			any_country = { 
+				limit = { 
+					OR = { 
+						tag = DEV
+						tag = EMA
+						tag = HER
+					}
+					any_owned_province = { is_core = NAD }
+				}
+				country_event = { id=4760096 days=0 }
+				add_country_modifier = {
+					name = dissolve_nadorilem_event
+					duration = 100
+				}
+			}
+			THIS = {
+				country_event = { id=4760096 days=0 }
+				add_country_modifier = {
+					name = dissolve_nadorilem_event
+					duration = 100
+				}
+			}
+			BOT = {
+				change_variable = {
+					which = NAD_score
+					value = 3.001
+				}
+				set_country_flag = dissolve_nadorilem
+			}			
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 100
+				year = 1863
+			}
+		}
+	}
+}

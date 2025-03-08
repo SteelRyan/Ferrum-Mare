@@ -1,0 +1,75 @@
+#############################################;;;;;;;;;;;;;;x
+#############SteelRyan Unciv Rework##############;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+No_Cul;No Culture Reform;;;;;;;;;;;;;;x
+No_Mil;No Military Reform;;;;;;;;;;;;;;x
+No_Eco;No Economic Reform;;;;;;;;;;;;;;x
+No_Cul_desc;We have not yet reformed our cultural institutions;;;;;;;;;;;;;;x
+No_Mil_desc;We have not yet reformed our military institutions;;;;;;;;;;;;;;x
+No_Eco_desc;We have not yet reformed our economic institutions;;;;;;;;;;;;;;x
+unciv_perk_1;§YUnciv Perk§W;;;;;;;;;;;;;;x
+unciv_perk_2;§YUnciv Perk§W;;;;;;;;;;;;;;x
+unciv_perk_3;§YUnciv Perk§W;;;;;;;;;;;;;;x
+unciv_perk_4;§YUnciv Perk§W;;;;;;;;;;;;;;x
+unciv_perk_5;§YUnciv Perk + Westernize§W;;;;;;;;;;;;;;x
+unciv_perk_1_desc;§YWe may use this point to acquire a rare reform;;;;;;;;;;;;;;x
+unciv_perk_2_desc;§YWe may use this point to acquire a rare reform;;;;;;;;;;;;;;x
+unciv_perk_3_desc;§YWe may use this point to acquire a rare reform;;;;;;;;;;;;;;x
+unciv_perk_4_desc;§YWe may use this point to acquire a rare reform;;;;;;;;;;;;;;x
+unciv_perk_5_desc;§YWe may use this point to acquire a rare reform;;;;;;;;;;;;;;x
+army_command_principle_desc; ;;;;;;;;;;;;;;x
+military_staff_system_desc; ;;;;;;;;;;;;;;x
+flintlock_rifles_desc; ;;;;;;;;;;;;;;x
+post_napoleonic_thought_desc; ;;;;;;;;;;;;;;x
+bronze_muzzle_loaded_artillery_desc; ;;;;;;;;;;;;;;x
+water_wheel_power_desc; ;;;;;;;;;;;;;;x
+no_standard_desc; ;;;;;;;;;;;;;;x
+basic_chemistry_desc; ;;;;;;;;;;;;;;x
+private_banks_desc; ;;;;;;;;;;;;;;x
+freedom_of_trade_desc; ;;;;;;;;;;;;;;x
+naval_reform_desc; ;;;;;;;;;;;;;;x
+mechanized_mining_desc; ;;;;;;;;;;;;;;x
+guild_based_production_desc; ;;;;;;;;;;;;;;x
+early_classical_theory_and_critique_desc; ;;;;;;;;;;;;;;x
+publishing_industry_desc; ;;;;;;;;;;;;;;x
+enlightenment_thought_desc; ;;;;;;;;;;;;;;x
+introspectionism_desc; ;;;;;;;;;;;;;;x
+late_enlightenment_philosophy_desc; ;;;;;;;;;;;;;;x
+classicism_n_early_romanticism_desc; ;;;;;;;;;;;;;;x
+malthusian_thought_desc; ;;;;;;;;;;;;;;x
+naval_reform;§BNaval Reform§W;;;;;;;;;;;;;;x
+REF_1;Hospitals;;;;;;;;;;;;;;x
+REF_2;Railroad Bonds;;;;;;;;;;;;;;x
+REF_3;Age of Ideas;;;;;;;;;;;;;;x
+REF_4;Mint Reform;;;;;;;;;;;;;;x
+REF_5;Military Doctrine;;;;;;;;;;;;;;x
+REF_6;Firepower;;;;;;;;;;;;;;x
+REF_7;Field Infantry;;;;;;;;;;;;;;x
+REF_8;Mining Charter;;;;;;;;;;;;;;x
+REF_9;Enlightened Path;;;;;;;;;;;;;;x
+REF_10;Market Initiative;;;;;;;;;;;;;;x
+REF_11;Industrial Charter;;;;;;;;;;;;;;x
+REF_12;Military Drill;;;;;;;;;;;;;;x
+REF_13;Military Reforms;;;;;;;;;;;;;;x
+REF_14;Base Reforms;;;;;;;;;;;;;;x
+REF_15;Academic Reforms;;;;;;;;;;;;;;x
+1_0;Not Reformed;;;;;;;;;;;;;;x
+1_1;§RProgressing§!;;;;;;;;;;;;;;x
+2_0;Not Reformed;;;;;;;;;;;;;;x
+3_0;Not Reformed;;;;;;;;;;;;;;x
+4_0;Not Reformed;;;;;;;;;;;;;;x
+5_0;Not Reformed;;;;;;;;;;;;;;x
+5_1;§RProgressing;;;;;;;;;;;;;;x
+6_0;Not Reformed;;;;;;;;;;;;;;x
+6_1;§RProgressing§!;;;;;;;;;;;;;;x
+7_0;Not Reformed;;;;;;;;;;;;;;x
+8_0;Not Reformed;;;;;;;;;;;;;;x
+9_0;Not Reformed;;;;;;;;;;;;;;x
+10_0;Not Reformed;;;;;;;;;;;;;;x
+11_0;Not Reformed;;;;;;;;;;;;;;x
+12_0;Not Reformed;;;;;;;;;;;;;;x
+12_1;§RProgressing§!;;;;;;;;;;;;;;x
+1_1_desc;The intricate nature of this reform calls for additional time and investment before its benefits can be realized;;;;;;;;;;;;;;x
+5_1_desc;The intricate nature of this reform calls for additional time and investment before its benefits can be realized;;;;;;;;;;;;;;x
+6_1_desc;The intricate nature of this reform calls for additional time and investment before its benefits can be realized;;;;;;;;;;;;;;x
+12_1_desc;The intricate nature of this reform calls for additional time and investment before its benefits can be realized;;;;;;;;;;;;;;x
