@@ -1,0 +1,12 @@
+owner = GE1
+controller = GE1
+add_core = GE1
+
+trade_goods = iron
+
+
+
+
+life_rating = 38
+
+set_province_flag = mine

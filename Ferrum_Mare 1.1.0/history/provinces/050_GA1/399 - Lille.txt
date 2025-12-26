@@ -1,0 +1,8 @@
+owner = HE3
+controller = HE3
+add_core = HE3
+
+trade_goods = timber
+life_rating = 38
+
+set_province_flag = farm

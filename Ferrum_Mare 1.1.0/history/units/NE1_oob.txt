@@ -1,0 +1,444 @@
+army = {
+	name = "Army 1"
+	location = 417
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 416
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 417
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 418
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 419
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 420
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 426
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 427
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 428
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 429
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 430
+	}
+}
+
+army = {
+	name = "Army 2"
+	location = 432
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 431
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 432
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 433
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 434
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 435
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 236
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 237
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 238
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 239
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 240
+	}
+}
+
+army = {
+	name = "Army 3"
+	location = 437
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 411
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 412
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 413
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 414
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 415
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 436
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 437
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 438
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 439
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 440
+	}
+}
+
+army = {
+	name = "Army 4"
+	location = 450
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 441
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 442
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 443
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 444
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 445
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 446
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 447
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 448
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 449
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 450
+	}
+}
+
+army = {
+	name = "Army 5"
+	location = 455
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 451
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 452
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 453
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 454
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 455
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 456
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 457
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 458
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 459
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 460
+	}
+}
+
+#Sphere of Influence
+#TAG = {
+#	value = 125		#relation
+#	level = 4		#3=cordial, 4 = friendly, 5 sphere
+#	influence_value = 25
+#}
+
+ES4 = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+BO1 = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+ZE2 = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+
+navy = {
+	name = "Neodroean Great Fleet"
+	location = 452
+
+	# 30 Manowar ships
+	ship = { name= "Ship 1" type = manowar }
+	ship = { name= "Ship 2" type = manowar }
+	ship = { name= "Ship 3" type = manowar }
+	ship = { name= "Ship 4" type = manowar }
+	ship = { name= "Ship 5" type = manowar }
+	ship = { name= "Ship 6" type = manowar }
+	ship = { name= "Ship 7" type = manowar }
+	ship = { name= "Ship 8" type = manowar }
+	ship = { name= "Ship 9" type = manowar }
+	ship = { name= "Ship 10" type = manowar }
+	ship = { name= "Ship 11" type = manowar }
+	ship = { name= "Ship 12" type = manowar }
+	ship = { name= "Ship 13" type = manowar }
+	ship = { name= "Ship 14" type = manowar }
+	ship = { name= "Ship 15" type = manowar }
+	ship = { name= "Ship 16" type = manowar }
+	ship = { name= "Ship 17" type = manowar }
+	ship = { name= "Ship 18" type = manowar }
+	ship = { name= "Ship 19" type = manowar }
+	ship = { name= "Ship 20" type = manowar }
+	ship = { name= "Ship 21" type = manowar }
+	ship = { name= "Ship 22" type = manowar }
+	ship = { name= "Ship 23" type = manowar }
+	ship = { name= "Ship 24" type = manowar }
+	ship = { name= "Ship 25" type = manowar }
+	ship = { name= "Ship 26" type = manowar }
+	ship = { name= "Ship 27" type = manowar }
+	ship = { name= "Ship 28" type = manowar }
+	ship = { name= "Ship 29" type = manowar }
+	ship = { name= "Ship 30" type = manowar }
+
+	# 20 Frigate ships
+	ship = { name= "Ship 41" type = frigate }
+	ship = { name= "Ship 42" type = frigate }
+	ship = { name= "Ship 43" type = frigate }
+	ship = { name= "Ship 44" type = frigate }
+	ship = { name= "Ship 45" type = frigate }
+	ship = { name= "Ship 46" type = frigate }
+	ship = { name= "Ship 47" type = frigate }
+	ship = { name= "Ship 48" type = frigate }
+	ship = { name= "Ship 49" type = frigate }
+	ship = { name= "Ship 50" type = frigate }
+	ship = { name= "Ship 51" type = frigate }
+	ship = { name= "Ship 52" type = frigate }
+	ship = { name= "Ship 53" type = frigate }
+	ship = { name= "Ship 54" type = frigate }
+	ship = { name= "Ship 55" type = frigate }
+	ship = { name= "Ship 56" type = frigate }
+	ship = { name= "Ship 57" type = frigate }
+	ship = { name= "Ship 58" type = frigate }
+	ship = { name= "Ship 59" type = frigate }
+	ship = { name= "Ship 60" type = frigate }
+
+	# 20 Clipper Transport ships
+	ship = { name= "Ship 81" type = clipper_transport }
+	ship = { name= "Ship 82" type = clipper_transport }
+	ship = { name= "Ship 83" type = clipper_transport }
+	ship = { name= "Ship 84" type = clipper_transport }
+	ship = { name= "Ship 85" type = clipper_transport }
+	ship = { name= "Ship 86" type = clipper_transport }
+	ship = { name= "Ship 87" type = clipper_transport }
+	ship = { name= "Ship 88" type = clipper_transport }
+	ship = { name= "Ship 89" type = clipper_transport }
+	ship = { name= "Ship 90" type = clipper_transport }
+	ship = { name= "Ship 91" type = clipper_transport }
+	ship = { name= "Ship 92" type = clipper_transport }
+	ship = { name= "Ship 93" type = clipper_transport }
+	ship = { name= "Ship 94" type = clipper_transport }
+	ship = { name= "Ship 95" type = clipper_transport }
+	ship = { name= "Ship 96" type = clipper_transport }
+	ship = { name= "Ship 97" type = clipper_transport }
+	ship = { name= "Ship 98" type = clipper_transport }
+	ship = { name= "Ship 99" type = clipper_transport }
+	ship = { name= "Ship 100" type = clipper_transport }
+}
+
+JE1 = { value = -200 }
+LE2 = { value = -200 }
+TH3 = { value = -200 }
+AD1 = { value = -200 }
+LU2 = { value = -200 }
+
+SK1 = { value = -200 }
+SK2 = { value = -200 }
+TA1 = { value = -200 }
+TH2 = { value = -200 }
+WA1 = { value = -200 }
+RU1 = { value = -200 }
+FE1 = { value = -200 }

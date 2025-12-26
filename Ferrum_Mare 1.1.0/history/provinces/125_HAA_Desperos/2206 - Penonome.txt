@@ -1,0 +1,11 @@
+owner = IL1
+controller = IL1
+add_core = IL1
+
+trade_goods = coal
+
+
+
+life_rating = 36
+
+set_province_flag = mine

@@ -1,0 +1,1305 @@
+#
+
+2136  = {
+     farmers = {
+        culture = sinray
+        religion = catholic
+        size = 33500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2137  = {
+   farmers = {
+        culture = sinray
+        religion = catholic
+        size = 43500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2138  = {
+     farmers = {
+        culture = sinray
+        religion = catholic
+        size = 28500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1800
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2139  = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 22500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2140  = {
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 2040
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 2040
+    } 
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 204
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 52500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 4200
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2186 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 27500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2187 = {
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 1590
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 1590
+    }
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 155
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 32500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3000
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2188 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 45000
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 4500
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 3300
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 7500
+    }
+}
+
+2189 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 12500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1000
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2190 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 12500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1000
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2191 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 32500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2192 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 12500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1000
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2193 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 42500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3500
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2194 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 22500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 2000
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2195 = {
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 2540
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 2540
+    }
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 250
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 77500
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 7500
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+}
+
+2206  = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 65500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 5500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2207  = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 85500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 7500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2208  = {
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 5063
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 5063
+    } 
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 506
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 172500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 16500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2209  = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 58500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 4800
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2210  = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 73500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 6500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+2196 = {
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 3035
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 3035
+    } 
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 303
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 83300
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 6840
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1320
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 600
+    }
+}
+
+2197 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 54800
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 4960
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1320
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 600
+    }
+}
+
+2198 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 35800
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3500
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1320
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 600
+    }
+}
+
+2199 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 44200
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3450
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1320
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 600
+    }
+}
+
+2200 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 13500
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 12800
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3050
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1320
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 600
+    }
+}
+
+2211 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 74800
+    }
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 4068
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 4068
+    } 
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 407
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 48000
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 11600
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 880
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 400
+    }
+}
+
+2212 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 58800
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 5200
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 880
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 400
+    }
+}
+
+2213 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 34800
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 24000
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 5200
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 880
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 400
+    }
+}
+
+2214 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 42800
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 3600
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 880
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 400
+    }
+}
+
+2215 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 82800
+    }
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 7200
+    }
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 880
+    }
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 400
+    }
+}
+
+2641 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 28500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1800
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2642 = {
+    bureaucrats = {
+        culture = sinray
+        religion = catholic
+        size = 2833
+    }
+    aristocrats = {
+        culture = sinray
+        religion = catholic
+        size = 2833
+    } 
+    officers = {
+        culture = sinray
+        religion = catholic
+        size = 283
+    }
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 73500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 6500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2643 = {
+     farmers = {
+        culture = sinray
+        religion = catholic
+        size = 53500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 4500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2644 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 63500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 5500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2645 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 33500
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 2500
+    }
+    
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+}
+
+2646 = {
+    bureaucrats = {
+        culture = esdosi
+        religion = catholic
+        size = 3008
+    }
+    aristocrats = {
+        culture = esdosi
+        religion = catholic
+        size = 3008
+    } 
+    officers = {
+        culture = esdosi
+        religion = catholic
+        size = 301
+    }
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 117338
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 10238
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 825
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 263
+    }
+}
+
+2647 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 49087
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 4463
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 825
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 263
+    }
+}
+
+2648 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 33338
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 2887
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 825
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 263
+    }
+}
+
+2649 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 43837
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 3938
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 825
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 263
+    }
+}
+
+2650 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 28088
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 2363
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 825
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 263
+    }
+}
+
+2471 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 40612
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 3792
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 1375
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 587
+    }
+    bureaucrats = {
+        culture = esdosi
+        religion = catholic
+        size = 201
+    }
+    aristocrats = {
+        culture = esdosi
+        religion = catholic
+        size = 201
+    }
+    officers = {
+        culture = esdosi
+        religion = catholic
+        size = 20
+    }
+}
+
+2472 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 35612
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 3192
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 1375
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 587
+    }
+    bureaucrats = {
+        culture = esdosi
+        religion = catholic
+        size = 201
+    }
+    aristocrats = {
+        culture = esdosi
+        religion = catholic
+        size = 201
+    }
+    officers = {
+        culture = esdosi
+        religion = catholic
+        size = 20
+    }
+}
+
+2473 = {
+    bureaucrats = {
+        culture = esdosi
+        religion = catholic
+        size = 1830
+    }
+    aristocrats = {
+        culture = esdosi
+        religion = catholic
+        size = 1830
+    }
+    officers = {
+        culture = esdosi
+        religion = catholic
+        size = 183
+    }
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 63612
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 6092
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 1375
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 587
+    }
+}
+
+2474 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 51612
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 4792
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 1375
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 587
+    }
+    bureaucrats = {
+        culture = esdosi
+        religion = catholic
+        size = 200
+    }
+    aristocrats = {
+        culture = esdosi
+        religion = catholic
+        size = 200
+    }
+    officers = {
+        culture = esdosi
+        religion = catholic
+        size = 20
+    }
+}
+
+2475 = {
+    farmers = {
+        culture = esdosi
+        religion = catholic
+        size = 38612
+    }
+    artisans = {
+        culture = esdosi
+        religion = catholic
+        size = 3592
+    }
+    soldiers = {
+        culture = esdosi
+        religion = catholic
+        size = 1375
+    }
+    clergymen = {
+        culture = esdosi
+        religion = catholic
+        size = 587
+    }
+    bureaucrats = {
+        culture = esdosi
+        religion = catholic
+        size = 200
+    }
+    aristocrats = {
+        culture = esdosi
+        religion = catholic
+        size = 200
+    }
+    officers = {
+        culture = esdosi
+        religion = catholic
+        size = 20
+    }
+}

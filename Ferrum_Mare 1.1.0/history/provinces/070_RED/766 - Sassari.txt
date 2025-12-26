@@ -1,0 +1,10 @@
+owner = RE1
+controller = RE1
+add_core = RE1
+
+
+trade_goods = sulphur
+
+life_rating = 36
+
+set_province_flag = mine

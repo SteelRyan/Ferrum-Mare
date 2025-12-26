@@ -1,0 +1,7 @@
+owner = WE1
+controller = WE1
+add_core = WE1
+
+trade_goods = timber
+
+life_rating = 36

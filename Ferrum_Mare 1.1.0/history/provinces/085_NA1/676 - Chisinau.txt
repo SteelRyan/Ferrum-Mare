@@ -1,0 +1,9 @@
+owner = NE3
+controller = NE3
+add_core = NE3
+add_core = NA1
+
+trade_goods = timber
+life_rating = 36
+
+set_province_flag = farm

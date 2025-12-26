@@ -1,0 +1,9 @@
+owner = HA4
+controller = HA4
+add_core = HA4
+
+trade_goods = cattle
+
+life_rating = 36
+
+set_province_flag = farm

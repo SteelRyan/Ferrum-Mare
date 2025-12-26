@@ -1,0 +1,331 @@
+		#STA 78
+		# owns = 388 # DAMBORG
+		# owns = 391 # VAN
+
+		#STA 80
+		# owns = 401 # GEORDIA
+		# owns = 396 # HELIO
+
+		#STA 82
+		# owns = 404 # BON
+
+		#STA 38
+		# owns = 190 # EMORE
+
+		#STA 39
+		# owns = 250 # ZERGARD
+		# owns = 201 # SAHRDE
+
+		#STA 47
+		# owns = 231 # ESOR
+
+		#STA 40
+		# owns = 199 # OLIA
+		# owns = 197 # AGROS
+
+		#STA 34
+		# owns = 166 # BRREDA
+		# owns = 153 # FRESA 
+
+		#STA 31
+		# owns = 152 # TOLIRE
+		# owns = 181 # FEDAFORE
+		# owns = 185 # DELIOMERE
+
+		#STA 43
+		# owns = 213 # AMIO 
+		# owns = 212 # FERK
+
+		#STA 35
+		# owns = 171 # ESMA 
+		# owns = 174 # VORAM
+
+		#STA 36
+		# owns = 179 # UMBREN
+
+political_decisions = {
+	wipe_gardian_tags = {
+		picture = Milogard_rising
+		potential = {
+			tag = BOT
+			OR = {
+				MI1 = { exists = yes }
+				has_country_flag = second_rising
+			}
+		}
+		allow = {
+			OR = {
+				AND = {
+				AG1 = { exists = no }
+				AG1 = { any_core = { is_core = AG1 } }
+				}
+				AND = {
+				AM1 = { exists = no }
+				AM1 = { any_core = { is_core = AM1 } }
+				}
+			}
+		}
+		effect = {
+			AG1 = { limit = { exists = no }
+			any_country = { any_owned = { remove_core = AG1 } }
+			}
+			AM1 = { limit = { exists = no }
+			any_country = { any_owned = { remove_core = AM1 } }
+			}
+		}
+	}
+	the_concordant_realm_FO1 = {
+		picture = the_concordant_realm_FO1
+		potential = {
+			tag = FO1
+			NOT = { has_country_flag = the_concordant_realm }
+			MI1 = { exists = no }
+		}
+		allow = {
+
+		#STA 78
+		owns = 388 # DAMBORG
+		owns = 391 # VAN
+
+		#STA 80
+		owns = 401 # GEORDIA
+		owns = 396 # HELIO
+
+		#STA 38
+		owns = 190 # EMORE
+
+		#STA 34
+		owns = 166 # BRREDA
+		owns = 153 # FRESA 
+
+		#STA 40
+		owns = 199 # OLIA
+		owns = 197 # AGROS
+
+		#STA 31
+		owns = 152 # TOLIRE
+		owns = 181 # FEDAFORE
+		owns = 185 # DELIOMERE
+
+		#STA 35
+		owns = 171 # ESMA 
+		owns = 174 # VORAM		
+
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_HER = {
+		picture = the_concordant_realm_HE1
+		potential = {
+			tag = HE1
+			NOT = { has_country_flag = the_concordant_realm }
+			MI1 = { exists = no }
+		}
+		allow = {
+
+		#STA 78
+		owns = 388 # DAMBORG
+		owns = 391 # VAN
+
+		#STA 80
+		owns = 401 # GEORDIA
+		owns = 396 # HELIO
+
+		#STA 82
+		owns = 404 # BON
+
+		#STA 38
+		owns = 190 # EMORE
+
+		#STA 39
+		owns = 250 # ZERGARD
+		owns = 201 # SAHRDE
+
+		#STA 40
+		owns = 199 # OLIA
+		owns = 197 # AGROS
+
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_NEO = {
+		picture = the_concordant_realm_NE1
+		potential = {
+			tag = NE1
+			NOT = { has_country_flag = the_concordant_realm }
+			MI1 = { exists = no }
+		}
+		allow = {
+
+		#STA 80
+		owns = 401 # GEORDIA
+		owns = 396 # HELIO
+
+		#STA 82
+		owns = 404 # BON
+
+		#STA 38
+		owns = 190 # EMORE
+
+		#STA 39
+		owns = 250 # ZERGARD
+		owns = 201 # SAHRDE
+
+		#STA 47
+		owns = 231 # ESOR
+
+		#STA 40
+		owns = 199 # OLIA
+		owns = 197 # AGROS
+
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_PAL = {
+		picture = the_concordant_realm_PA1
+		potential = {
+			tag = PA1
+			NOT = { has_country_flag = the_concordant_realm }
+			MI1 = { exists = no }
+		}
+		allow = {
+		
+		#STA 39
+		owns = 250 # ZERGARD
+		owns = 201 # SAHRDE
+
+		#STA 47
+		owns = 231 # ESOR
+
+		#STA 40
+		owns = 199 # OLIA
+		owns = 197 # AGROS
+
+		#STA 31
+		owns = 152 # TOLIRE
+		owns = 181 # FEDAFORE
+		owns = 185 # DELIOMERE
+
+		#STA 43
+		owns = 213 # AMIO 
+		owns = 212 # FERK
+
+		#STA 36
+		owns = 179 # UMBREN
+
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+	the_concordant_realm_VER = {
+		picture = the_concordant_realm_VE1
+		potential = {
+			tag = VE1
+			NOT = { has_country_flag = the_concordant_realm }
+			MI1 = { exists = no }
+		}
+		allow = {
+
+		#STA 40
+		owns = 199 # OLIA
+		owns = 197 # AGROS
+
+		#STA 34
+		owns = 166 # BRREDA
+		owns = 153 # FRESA 
+
+		#STA 31
+		owns = 152 # TOLIRE
+		owns = 181 # FEDAFORE
+		owns = 185 # DELIOMERE
+
+		#STA 35
+		owns = 171 # ESMA 
+		owns = 174 # VORAM
+
+		#STA 36
+		owns = 179 # UMBREN
+
+			war = no
+		}
+		effect = { 
+			set_country_flag = the_concordant_realm
+			add_country_modifier = {
+			    name = concordance_assim_boost
+			    duration = -1
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_province_modifier = {
+			            name = concordance_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }
+		}
+	}
+}

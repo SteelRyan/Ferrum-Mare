@@ -1,0 +1,12 @@
+owner = TA1
+controller = TA1
+add_core = TA1
+
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm

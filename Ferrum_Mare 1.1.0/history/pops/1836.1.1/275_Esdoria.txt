@@ -1,0 +1,2724 @@
+#
+
+1651  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 21566
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2158
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+}
+
+1652  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 66884
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 6691
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 82
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1653  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 25063
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2508
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+}
+
+1654  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 40800
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4080
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1655  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 420
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1848
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 182
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 50710
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5071
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1916  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1082
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 5366
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 538
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 35381
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3540
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1917  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 32058
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3206
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1918  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 46834
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4684
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1919  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 48770
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4877
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 10
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1920  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 99494
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 9950
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1936  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 372
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1494
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 149
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 35263
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3527
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1937  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 16234
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1624
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+}
+
+1938  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 32640
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3264
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1939  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 21858
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2186
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+}
+
+1940  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 29726
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2974
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1941  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 33662
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3367
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1942  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 57631
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5764
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1943  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 595
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 2533
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 253
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 56101
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5611
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1944  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 30601
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3062
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1945  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 52021
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5204
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1946  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 53550
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5354
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1947  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 818
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 3878
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 388
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 99809
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 9982
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1948  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 81602
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 8161
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1949  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 48451
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4847
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1950  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 68851
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 6887
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 32
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 1020
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1951  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 22733
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2275
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+}
+
+1952  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 46630
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4663
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1953  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 61200
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 6120
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1954  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 34973
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3499
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1955  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 491
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1409
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 140
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 45172
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4518
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1986  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 39053
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3835
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 36
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1987  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 536
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1862
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 186
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 89090
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 8476
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1988  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 30804
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2851
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1989  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14776
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1160
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+}
+
+1992  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 590
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 2120
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 211
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 64990
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 6499
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 18
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+#
+
+1421  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 18280
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1678
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 94
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2429
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1422  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 26839
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2384
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 187
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4858
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1423  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 42014
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5546
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 374
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 9715
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1424  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 28783
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2773
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 187
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4858
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1425  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 265
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1121
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 113
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 30916
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2942
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 94
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2429
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1606  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 66434
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5724
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 194
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 5059
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1607  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 376
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1636
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 164
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 29167
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2761
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 97
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2530
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1608  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 23093
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2154
+    }
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 97
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2530
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1609  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 26130
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2458
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 97
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2530
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1610  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 23093
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2052
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 97
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2530
+    }
+}
+
+1611  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 36562
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3358
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 190
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4858
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1612  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 16104
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1430
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 113
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2915
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1613  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 12605
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1664
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 113
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2915
+    }
+}
+
+1614  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14393
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1387
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 95
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2429
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1615  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 442
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 2242
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 226
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 61834
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5885
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 190
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4858
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1616  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 170
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 622
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 62
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 16430
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1568
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 48
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 1214
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1617  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 19952
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1774
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 86
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2186
+    }
+}
+
+1619  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 7196
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 646
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 48
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 1214
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1636  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 30139
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2826
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 118
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3036
+    }
+}
+
+1637  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 23333
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2208
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 78
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2024
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1638  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 48288
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4579
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 156
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4049
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1639  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 667
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 2153
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 218
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 42289
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4043
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 118
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3036
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1640  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 23333
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2208
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 78
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2024
+    }
+}
+
+1641  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 628
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 2428
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 244
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 55477
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 5347
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 125
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3238
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1642  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 37333
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3533
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 125
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3238
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1643  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 41221
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3922
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 125
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3238
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1644  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 32149
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3014
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 125
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3238
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1645  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 36037
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3403
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 125
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3238
+    }
+
+    craftsmen = {
+        culture = esdorean
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1646  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 28001
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2652
+    }
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 96
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2429
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1647  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 24113
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2263
+    }
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 96
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2429
+    }
+}
+
+1648  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 38506
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3552
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 192
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4858
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1649  = {
+    bureaucrats = {
+        culture = esdorean
+        religion = catholic
+        size = 451
+    }
+    aristocrats = {
+        culture = esdorean
+        religion = catholic
+        size = 1531
+    } 
+    officers = {
+        culture = esdorean
+        religion = catholic
+        size = 154
+    }
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 29945
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2748
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 96
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 2429
+    }
+}
+
+1650  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 48226
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 4526
+    }
+    
+    
+    
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 192
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 4858
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1656  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14317
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1412
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 12
+    }
+}
+
+1657  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 10267
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1028
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 12
+    }
+}
+
+1658  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 5813
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 564
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 12
+    }
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1659  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 6824
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 665
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 12
+    }
+}
+
+1660  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 21346
+    }
+    
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 2057
+    }
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 24
+    }
+}
+
+#NEW
+
+1618  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+}
+
+
+1620  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+}
+
+1621  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+
+1622  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+}
+
+
+1623  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+
+1624  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+}
+
+
+1625  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 29240
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 731
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 7310
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+1627  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}
+
+
+1628  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 14620
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 1827
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 365
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+}
+
+1630  = {
+    farmers = {
+        culture = esdorean
+        religion = catholic
+        size = 29240
+    }
+
+    artisans = {
+        culture = esdorean
+        religion = catholic
+        size = 3655
+    }
+
+
+    clergymen = {
+        culture = esdorean
+        religion = catholic
+        size = 731
+    }
+
+    slaves = {
+        culture = esdorean
+        religion = catholic
+        size = 7310
+    }
+
+    soldiers = {
+        culture = esdorean
+        religion = catholic
+        size = 1100
+    }
+}

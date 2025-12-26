@@ -1,0 +1,9 @@
+owner = HE1
+controller = HE1
+
+colonial = 2
+
+trade_goods = tropical_wood
+life_rating = 36
+
+set_province_flag = farm

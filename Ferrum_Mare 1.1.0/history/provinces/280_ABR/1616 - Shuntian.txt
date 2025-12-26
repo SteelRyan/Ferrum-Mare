@@ -1,0 +1,9 @@
+owner = EC1
+controller = EC1
+add_core = EC1
+
+trade_goods = cotton
+
+life_rating = 36
+
+set_province_flag = farm

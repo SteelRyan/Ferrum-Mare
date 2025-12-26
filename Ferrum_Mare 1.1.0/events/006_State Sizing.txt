@@ -1,0 +1,603 @@
+country_event = {
+	id = 700700
+	title = "State Sizing Early Game"
+
+	trigger = {
+		tag = BOT
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1836
+		Month = 0
+		NOT = { Month = 1 }
+		NOT = { year = 1870 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 32
+		}
+	}
+
+	option = {
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { NOT = { is_core = ZBK continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						NOT = { total_pops = 100000 }
+					}
+				}
+				add_core = ZT1
+				remove_core = ZS1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { NOT = { is_core = ZBK continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 100000
+						NOT = { total_pops = 400000 }
+					}
+				}
+				add_core = ZS1 
+				remove_core = ZT1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { NOT = { is_core = ZBK continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 400000 
+						NOT = { total_pops = 700000 }
+					} 
+				} 
+				add_core = ZM1
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = { NOT = { is_core = ZBK continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 700000 
+						NOT = { total_pops = 1000000 }
+					} 
+				} 
+			add_core = ZL1
+			remove_core = ZT1
+			remove_core = ZS1 
+			remove_core = ZM1 
+			remove_core = ZH1 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { NOT = { is_core = ZBK continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 1000000
+					}
+				}
+				add_core = ZH1 
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZM1 
+				remove_core = ZL1 
+			} 
+		}
+
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { OR = { continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						NOT = { total_pops = 50000 }
+					}
+				}
+				add_core = ZT1
+				remove_core = ZS1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { OR = { continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 50000
+						NOT = { total_pops = 200000 }
+					}
+				}
+				add_core = ZS1 
+				remove_core = ZT1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { OR = { continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 200000 
+						NOT = { total_pops = 400000 }
+					} 
+				} 
+				add_core = ZM1
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = { OR = { continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 400000 
+						NOT = { total_pops = 600000 }
+					} 
+				} 
+			add_core = ZL1
+			remove_core = ZT1
+			remove_core = ZS1 
+			remove_core = ZM1 
+			remove_core = ZH1 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = { OR = { continent = troida continent = fidem continent = servile }
+					state_scope = { 
+						total_pops = 600000
+					}
+				}
+				add_core = ZH1 
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZM1 
+				remove_core = ZL1 
+			} 
+		}
+	}
+}	
+
+country_event = {
+	id = 700701
+	title = "State Sizing Mid Game"
+
+	trigger = {
+		tag = BOT
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1870
+		Month = 0
+		NOT = { Month = 1 }
+		NOT = { year = 1900 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 32
+		}
+	}
+
+	option = {
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						NOT = { total_pops = 150000 }
+					}
+				}
+				add_core = ZT1
+				remove_core = ZS1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 150000
+						NOT = { total_pops = 600000 }
+					}
+				}
+				add_core = ZS1 
+				remove_core = ZT1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 600000 
+						NOT = { total_pops = 1000000 }
+					} 
+				} 
+				add_core = ZM1
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 1000000 
+						NOT = { total_pops = 1500000 }
+					} 
+				} 
+			add_core = ZL1
+			remove_core = ZT1
+			remove_core = ZS1 
+			remove_core = ZM1 
+			remove_core = ZH1 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 1500000
+					}
+				}
+				add_core = ZH1 
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZM1 
+				remove_core = ZL1 
+			} 
+		}
+	}
+}
+
+country_event = {
+	id = 700702
+	title = "State Sizing Late Game"
+
+	trigger = {
+		tag = BOT
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1900
+		Month = 0
+		NOT = { Month = 1 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 32
+		}
+	}
+
+	option = {
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						NOT = { total_pops = 200000 }
+					}
+				}
+				add_core = ZT1
+				remove_core = ZS1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 200000
+						NOT = { total_pops = 800000 }
+					}
+				}
+				add_core = ZS1 
+				remove_core = ZT1
+				remove_core = ZM1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			}
+		}
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 800000 
+						NOT = { total_pops = 1400000 }
+					} 
+				} 
+				add_core = ZM1
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZL1 
+				remove_core = ZH1 
+			} 
+		}		
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 1400000 
+						NOT = { total_pops = 2000000 }
+					} 
+				} 
+			add_core = ZL1
+			remove_core = ZT1
+			remove_core = ZS1 
+			remove_core = ZM1 
+			remove_core = ZH1 
+			} 
+		}
+		any_country = {
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
+						}
+					}
+				}
+				
+			}
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 2000000
+					}
+				}
+				add_core = ZH1 
+				remove_core = ZT1
+				remove_core = ZS1 
+				remove_core = ZM1 
+				remove_core = ZL1 
+			} 
+		}
+	}
+}

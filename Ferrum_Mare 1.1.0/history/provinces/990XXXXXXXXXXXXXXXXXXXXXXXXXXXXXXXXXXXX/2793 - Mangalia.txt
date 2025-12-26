@@ -1,0 +1,7 @@
+owner = SW1
+controller = SW1
+add_core = SW1
+
+trade_goods = grain
+
+life_rating = 36

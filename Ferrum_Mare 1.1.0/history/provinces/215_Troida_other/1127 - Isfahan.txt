@@ -1,0 +1,11 @@
+owner = VI1
+controller = VI1
+add_core = VI1
+
+trade_goods = sulphur
+
+
+
+life_rating = 36
+
+set_province_flag = mine

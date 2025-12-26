@@ -1,0 +1,81 @@
+country_event = {
+	id = 9991121
+	title = "Don't Sphere BOT"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	trigger = {
+		BOT = {
+			part_of_sphere = yes
+		}
+		tag = BOT
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		random_country = {
+			limit = {
+				is_sphere_leader_of = BOT
+			}
+			diplomatic_influence = {
+			who = BOT
+			value = -400
+			}
+			relation = {
+				who = BOT
+				value = -200
+			}
+		}
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 9991122
+	title = "Don't Sphere the Host Nation"
+	desc = "Prevents some issues down the road"
+	picture = "dixie"
+	
+	trigger = {
+		LCT = {
+			part_of_sphere = yes
+		}
+		tag = BOT
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		random_country = {
+			limit = {
+				is_sphere_leader_of = LCT
+			}
+			diplomatic_influence = {
+			who = LCT
+			value = -400
+			}
+			relation = {
+				who = LCT
+				value = -200
+			}
+		}
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}

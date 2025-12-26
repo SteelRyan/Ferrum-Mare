@@ -1,0 +1,9 @@
+owner = SK1
+controller = SK1
+add_core = SK1
+
+
+trade_goods = tea
+life_rating = 36
+
+set_province_flag = farm

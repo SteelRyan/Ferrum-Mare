@@ -1,0 +1,11 @@
+owner = LU2
+controller = LU2
+add_core = LU2
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm

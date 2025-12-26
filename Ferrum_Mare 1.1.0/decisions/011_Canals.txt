@@ -1,0 +1,57 @@
+political_decisions = {
+
+	build_east_ocean_canal  = {
+		picture = suezcanal
+		potential = {
+			NOT = { is_canal_enabled = 1 }
+			OR = { 
+				is_greater_power = yes
+				owns = 906
+			}
+		}
+		allow = {
+			OR = {
+				906 = { owner = { in_sphere = THIS } }
+				owns = 906
+			}		
+			invention = machine_tools
+			invention = nitroglycerin
+			steel_steamers = 1
+			mechanical_production = 1
+		}
+		effect = {
+			treasury = -200000
+			enable_canal = 1
+			369 = { set_province_flag = 1_canal }
+			prestige = 10
+		}
+	}
+	
+	build_troida_servile_canal = {
+		picture = suezcanal
+		potential = {
+			NOT = { is_canal_enabled = 2 }
+			OR = { 
+				is_greater_power = yes
+				owns = 2442
+			}
+		}
+		allow = {
+			OR = {
+				2442 = { owner = { in_sphere = THIS } }
+				owns = 2442
+			}
+			invention = machine_tools
+			invention = nitroglycerin		
+			iron_steamers = 1
+			mechanical_production = 1
+		}
+		effect = {
+			treasury = -200000
+			enable_canal = 2
+			2442 = { set_province_flag = 2_canal }
+			prestige = 10
+		}
+	}
+
+}

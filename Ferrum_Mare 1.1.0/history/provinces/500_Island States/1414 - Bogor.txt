@@ -1,0 +1,9 @@
+owner = VE1
+controller = VE1
+colonial = 2
+
+trade_goods = cotton
+
+life_rating = 36
+
+set_province_flag = farm

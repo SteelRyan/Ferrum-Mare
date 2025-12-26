@@ -1,0 +1,11 @@
+owner = HA4
+controller = HA4
+add_core = HA4
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm

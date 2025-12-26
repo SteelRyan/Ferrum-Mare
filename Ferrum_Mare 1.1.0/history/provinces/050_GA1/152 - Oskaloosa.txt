@@ -1,0 +1,15 @@
+owner = TO1
+controller = TO1
+add_core = TO1
+
+trade_goods = grain
+
+life_rating = 38
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}

@@ -1,0 +1,8 @@
+owner = UM1
+controller = UM1
+add_core = UM1
+
+trade_goods = timber
+life_rating = 38
+
+set_province_flag = farm

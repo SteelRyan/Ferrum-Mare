@@ -1,0 +1,315 @@
+army = {
+	name = "Army 1"
+	location = 525
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery_offensive
+		home = 516
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery_offensive
+		home = 516
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery_offensive
+		home = 517
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery_offensive
+		home = 517
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery_offensive
+		home = 518
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 518
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 519
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 519
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 520
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 520
+	}
+}
+
+army = {
+	name = "Army 2"
+	location = 520
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery_offensive
+		home = 511
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery_offensive
+		home = 511
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery_offensive
+		home = 512
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery_offensive
+		home = 512
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery_offensive
+		home = 513
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 513
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 514
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 514
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 515
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 515
+	}
+}
+
+army = {
+	name = "Army 3"
+	location = 523
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 531
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 531
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 532
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 532
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 533
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 533
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 534
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 534
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 535
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 535
+	}
+}
+
+army = {
+	name = "Army 4"
+	location = 538
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 536
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 536
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 537
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 537
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 538
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 538
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 539
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 539
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 540
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 540
+	}
+}
+
+army = {
+	name = "Army 5"
+	location = 524
+
+	regiment = {
+		name= "6th Artillery Regiment"
+		type = artillery
+		home = 526
+	}
+
+	regiment = {
+		name= "7th Artillery Regiment"
+		type = artillery
+		home = 527
+	}
+	
+	regiment = {
+		name= "8th Artillery Regiment"
+		type = artillery
+		home = 528
+	}
+	
+	regiment = {
+		name= "9th Artillery Regiment"
+		type = artillery
+		home = 529
+	}
+	
+	regiment = {
+		name= "10th Artillery Regiment"
+		type = artillery
+		home = 530
+	}
+}
+
+
+
+
+
+navy = {
+	name = "Doridian Armada"
+	location = 524
+	
+	# 10 Clipper Transport ships
+	ship = { name= "Ship 51" type = clipper_transport }
+	ship = { name= "Ship 52" type = clipper_transport }
+	ship = { name= "Ship 53" type = clipper_transport }
+	ship = { name= "Ship 54" type = clipper_transport }
+	ship = { name= "Ship 55" type = clipper_transport }
+	ship = { name= "Ship 56" type = clipper_transport }
+	ship = { name= "Ship 57" type = clipper_transport }
+	ship = { name= "Ship 58" type = clipper_transport }
+	ship = { name= "Ship 59" type = clipper_transport }
+	ship = { name= "Ship 60" type = clipper_transport }
+}

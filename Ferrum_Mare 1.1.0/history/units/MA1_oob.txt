@@ -1,0 +1,184 @@
+army = {
+	name = "Army 1"
+	location = 2557
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 2491
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 2492
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 2493
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 2494
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 2495
+	}
+	
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = irregular
+		home = 1586
+	}
+	
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = irregular
+		home = 1587
+	}
+	
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = irregular
+		home = 1588
+	}
+	
+	regiment = {
+		name= "9th Infantry Regiment"
+		type = irregular
+		home = 1589
+	}
+	
+	regiment = {
+		name= "10th Infantry Regiment"
+		type = irregular
+		home = 1590
+	}
+}
+
+army = {
+	name = "Army 2"
+	location = 2560
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 2556
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 2557
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 2558
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 2559
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 2560
+	}
+}
+
+	
+army = {
+	name = "Army 3"
+	location = 2510
+
+	regiment = {
+		name= "1st Cavalry Regiment"
+		type = cavalry
+		home = 2631
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = cavalry
+		home = 2632
+	}
+	
+	regiment = {
+		name= "3rd Cavalry Regiment"
+		type = cavalry
+		home = 2633
+	}
+	
+	regiment = {
+		name= "4th Cavalry Regiment"
+		type = cavalry
+		home = 2634
+	}
+	
+	regiment = {
+		name= "5th Cavalry Regiment"
+		type = cavalry
+		home = 2635
+	}
+}
+
+army = {
+	name = "Army 5"
+	location = 1586
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 2506
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 2507
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 2508
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 2509
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 2510
+	}
+}
+
+JE1 = { value = -200 }
+LE2 = { value = -200 }
+TH3 = { value = -200 }
+AD1 = { value = -200 }
+LU2 = { value = -200 }
+
+SK1 = { value = -200 }
+SK2 = { value = -200 }
+TA1 = { value = -200 }
+TH2 = { value = -200 }
+WA1 = { value = -200 }
+RU1 = { value = -200 }
+FE1 = { value = -200 }

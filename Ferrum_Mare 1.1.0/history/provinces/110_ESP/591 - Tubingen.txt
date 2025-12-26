@@ -1,0 +1,18 @@
+owner = ES1
+controller = ES1
+add_core = ES1
+
+add_core = EM3
+add_core = TR1
+
+trade_goods = coal
+
+life_rating = 36
+
+set_province_flag = mine
+
+	state_building = {
+		level = 2
+		building = steel_factory
+		upgrade = yes
+	}

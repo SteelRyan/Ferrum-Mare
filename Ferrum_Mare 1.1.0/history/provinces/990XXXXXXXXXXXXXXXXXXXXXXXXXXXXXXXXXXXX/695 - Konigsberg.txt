@@ -1,0 +1,11 @@
+owner = NI3
+controller = NI3
+add_core = NI3
+
+trade_goods = coal
+
+
+
+life_rating = 36
+
+set_province_flag = mine

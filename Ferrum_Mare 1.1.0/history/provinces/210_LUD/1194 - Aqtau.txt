@@ -1,0 +1,8 @@
+owner = LU1
+controller = LU1
+add_core = LU1
+
+trade_goods = tea
+life_rating = 36
+
+set_province_flag = farm

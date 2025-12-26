@@ -1,0 +1,8 @@
+owner = NI1
+controller = NI1
+add_core = NI1
+
+trade_goods = fish
+life_rating = 36
+
+set_province_flag = farm

@@ -1,0 +1,11 @@
+owner = FE3
+controller = FE3
+add_core = FE3
+
+trade_goods = coal
+
+
+
+life_rating = 38
+
+set_province_flag = mine

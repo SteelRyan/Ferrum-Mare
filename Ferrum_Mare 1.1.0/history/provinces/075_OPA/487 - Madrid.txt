@@ -1,0 +1,17 @@
+owner = SO3
+controller = SO3
+add_core = SO3
+
+add_core = DO1
+
+trade_goods = grain
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}

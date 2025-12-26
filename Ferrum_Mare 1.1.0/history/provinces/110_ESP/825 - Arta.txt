@@ -1,0 +1,9 @@
+owner = ES1
+controller = ES1
+add_core = ES1
+add_core = DE3
+
+trade_goods = wool
+life_rating = 36
+
+set_province_flag = farm

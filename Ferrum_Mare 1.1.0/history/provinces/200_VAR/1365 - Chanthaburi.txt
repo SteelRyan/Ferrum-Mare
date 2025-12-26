@@ -1,0 +1,8 @@
+owner = VA1
+controller = VA1
+add_core = VA1
+
+trade_goods = tobacco
+life_rating = 36
+
+set_province_flag = farm

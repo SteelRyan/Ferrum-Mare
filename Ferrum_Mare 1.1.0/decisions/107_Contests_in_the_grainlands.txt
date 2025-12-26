@@ -1,0 +1,118 @@
+political_decisions = {
+	contest_over_zyrosie = {
+		picture = Zyros_contest
+		potential = {
+			OR = {
+				tag = HA1
+				tag = ES1
+			}
+			NOT = { has_country_flag = contest_over_zyros }
+		}
+		allow = {
+			STA_170 = { owned_by = THIS }
+			STA_124 = { owned_by = THIS }
+			NEW_2 = { owned_by = THIS }
+			year = 1860
+			NOT = { exists = ZY1 }
+			NOT = { exists = EX1 }
+			war = no
+		}
+		effect = { 
+			ZY1 = { all_core = { remove_core = ZY1 } }
+			EX1 = { all_core = { remove_core = EX1 } }
+			HA1 = { 
+				set_country_flag = contest_over_zyros
+				any_owned = { 
+					limit = { pop_majority_culture = zyrosie }
+					add_province_modifier = {
+		                name = zyrosie_assim_boost
+		                duration = -1
+		            }
+	            }
+		        add_country_modifier = {
+		            name = zyrosie_assim_boost
+		            duration = -1
+		        }
+		    }
+			ES1 = { 
+				set_country_flag = contest_over_zyros
+				any_owned = { 
+					limit = { pop_majority_culture = zyrosie }
+					add_province_modifier = {
+		                name = zyrosie_assim_boost
+		                duration = -1
+		            }
+	            }
+		        add_country_modifier = {
+		            name = zyrosie_assim_boost
+		            duration = -1
+		        }
+		    }
+		}
+	}
+contest_over_myham = {
+    picture = Myhamaria_contest
+    potential = {
+        OR = {
+            tag = ES1
+            tag = RE1
+            tag = HA1
+        }
+        NOT = { has_country_flag = contest_over_myhamaria }
+    }
+    allow = {
+        STA_168 = { owned_by = THIS }
+        STA_169 = { owned_by = THIS }
+        STA_153 = { owned_by = THIS }
+        year = 1860
+        NOT = { exists = MY1 }
+        war = no
+    }
+    effect = { 
+        MY1 = { 
+            all_core = { remove_core = MY1 }
+        }
+        ES1 = {
+            set_country_flag = contest_over_myhamaria
+            any_owned = { 
+                limit = { pop_majority_culture = myham }
+                add_province_modifier = {
+                    name = myham_assim_boost
+                    duration = -1
+                }
+            }
+            add_country_modifier = {
+                name = myham_assim_boost
+                duration = -1
+            }
+        }
+        RE1 = {
+            set_country_flag = contest_over_myhamaria
+            any_owned = { 
+                limit = { pop_majority_culture = myham }
+                add_province_modifier = {
+                    name = myham_assim_boost
+                    duration = -1
+                }
+            }
+            add_country_modifier = {
+                name = myham_assim_boost
+                duration = -1
+            }
+        }
+        HA1 = {
+            set_country_flag = contest_over_myhamaria
+            any_owned = { 
+                limit = { pop_majority_culture = myham }
+                add_province_modifier = {
+                    name = myham_assim_boost
+                    duration = -1
+                }
+            }
+            add_country_modifier = {
+                name = myham_assim_boost
+                duration = -1
+            }
+        }
+    }
+}

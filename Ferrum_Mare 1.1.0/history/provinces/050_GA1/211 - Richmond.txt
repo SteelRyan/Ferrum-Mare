@@ -1,0 +1,15 @@
+owner = FE2
+controller = FE2
+add_core = FE2
+
+trade_goods = iron
+
+life_rating = 38
+
+set_province_flag = mine
+
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}

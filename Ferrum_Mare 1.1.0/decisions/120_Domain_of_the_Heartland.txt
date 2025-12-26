@@ -1,0 +1,17 @@
+political_decisions = {
+	domain_of_the_heartland = {
+		picture = domain_of_the_heartland
+		potential = {
+			tag = RE1
+			NOT = { state_n_government = 1 }
+		}
+		allow = {
+			year = 1840
+			ideological_thought = 1
+			rank = 5
+		}
+		effect = { 
+			activate_technology = state_n_government
+		}
+	}
+}

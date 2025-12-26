@@ -1,0 +1,9 @@
+owner = XE1
+controller = XE1
+add_core = XE1
+
+trade_goods = cattle
+
+life_rating = 36
+
+set_province_flag = farm

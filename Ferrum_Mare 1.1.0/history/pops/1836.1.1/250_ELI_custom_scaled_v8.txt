@@ -1,0 +1,2068 @@
+#
+1311  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 35000
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 3326
+    }
+
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 702
+    }
+
+}
+1312  = {
+    bureaucrats = {
+        culture = lothradem
+        religion = catholic
+        size = 490
+    }
+    aristocrats = {
+        culture = lothradem
+        religion = catholic
+        size = 2020
+    } 
+    officers = {
+        culture = lothradem
+        religion = catholic
+        size = 202
+    }
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 47668
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 4593
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1683
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 702
+    }
+
+}
+1313  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 30777
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 2904
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1683
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 702
+    }
+
+}
+1314  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 33592
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 3185
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1683
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 702
+    }
+
+}
+1315  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 29370
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 2763
+    }
+
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 702
+    }
+
+}
+1316  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 26505
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 2506
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 578
+    }
+
+    craftsmen = {
+        culture = lothradem
+        religion = catholic
+        size = 630
+    }
+
+}
+1317  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 23027
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 2159
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 578
+    }
+
+    craftsmen = {
+        culture = lothradem
+        religion = catholic
+        size = 630
+    }
+
+}
+1318  = {
+    bureaucrats = {
+        culture = lothradem
+        religion = catholic
+        size = 555
+    }
+    aristocrats = {
+        culture = lothradem
+        religion = catholic
+        size = 1752
+    } 
+    officers = {
+        culture = lothradem
+        religion = catholic
+        size = 176
+    }
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 49689
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 4825
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 578
+    }
+
+    craftsmen = {
+        culture = lothradem
+        religion = catholic
+        size = 630
+    }
+
+}
+1319  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 31142
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 2970
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 578
+    }
+
+    craftsmen = {
+        culture = lothradem
+        religion = catholic
+        size = 630
+    }
+
+}
+1320  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 23027
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 2159
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 578
+    }
+
+    craftsmen = {
+        culture = lothradem
+        religion = catholic
+        size = 630
+    }
+
+}
+1321  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 18276
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1714
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 459
+    }
+
+}
+1322  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 15516
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1438
+    }
+
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 459
+    }
+
+}
+1323  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 19196
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1806
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 459
+    }
+
+}
+1324  = {
+    bureaucrats = {
+        culture = lothradem
+        religion = catholic
+        size = 278
+    }
+    aristocrats = {
+        culture = lothradem
+        religion = catholic
+        size = 1178
+    } 
+    officers = {
+        culture = lothradem
+        religion = catholic
+        size = 118
+    }
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 33916
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 3278
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 459
+    }
+
+}
+1325  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 15516
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1438
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 459
+    }
+
+}
+1326  = {
+    bureaucrats = {
+        culture = lothradem
+        religion = catholic
+        size = 258
+    }
+    aristocrats = {
+        culture = lothradem
+        religion = catholic
+        size = 948
+    } 
+    officers = {
+        culture = lothradem
+        religion = catholic
+        size = 94
+    }
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 18901
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1759
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 528
+    }
+
+}
+1327  = {
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 11495
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1019
+    }
+
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 528
+    }
+
+}
+1328  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 8827
+    }
+
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 6900
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1442
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 528
+    }
+
+}
+1329  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 11035
+    }
+
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 5750
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1548
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 528
+    }
+
+}
+1330  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 9793
+    }
+
+    farmers = {
+        culture = lothradem
+        religion = catholic
+        size = 8050
+    }
+    
+    artisans = {
+        culture = lothradem
+        religion = catholic
+        size = 1654
+    }
+
+    soldiers = {
+        culture = lothradem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = lothradem
+        religion = catholic
+        size = 528
+    }
+
+}
+1506  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 13980
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1278
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1507  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 24468
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 2106
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1508  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 21708
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1830
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1509  = {
+    bureaucrats = {
+        culture = halladian
+        religion = catholic
+        size = 579
+    }
+    aristocrats = {
+        culture = halladian
+        religion = catholic
+        size = 1479
+    } 
+    officers = {
+        culture = halladian
+        religion = catholic
+        size = 1479
+    }
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 32748
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 2934
+    }
+
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 3300
+    }
+    
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1510  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 27228
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 2382
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1511  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 17128
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1474
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 964
+    }
+
+}
+1512  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 422
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 1157
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 1157
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 26788
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2440
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 964
+    }
+
+}
+1513  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 15196
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1281
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 964
+    }
+
+}
+1514  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 17128
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1474
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1155
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 964
+    }
+
+}
+1515  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 19060
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1667
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1155
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 964
+    }
+
+}
+1521  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 19057
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1723
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 739
+    }
+
+}
+1522  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 16094
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 982
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 739
+    }
+
+}
+1523  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 22019
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2019
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 739
+    }
+
+}
+1524  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 437
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 1127
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 113
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 23500
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2168
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 739
+    }
+
+}
+1525  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 14612
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1279
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1265
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 739
+    }
+
+}
+1526  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 38775
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 3574
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1218
+    }
+
+}
+1527  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 21667
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1862
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1218
+    }
+
+}
+1528  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 26555
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2352
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1218
+    }
+
+}
+1529  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 38775
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 3574
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1218
+    }
+
+}
+1530  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 641
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 2027
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 200
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 46107
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 4305
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1218
+    }
+
+}
+1531  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 14733
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1342
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 530
+    }
+
+}
+1532  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 16859
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1554
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 530
+    }
+
+}
+1533  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 16859
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1554
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 530
+    }
+
+}
+1534  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 235
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 865
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 86
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 16292
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1510
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1155
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 482
+    }
+
+}
+1535  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 14733
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1342
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 530
+    }
+
+}
+1536  = {
+    bureaucrats = {
+        culture = halladian
+        religion = catholic
+        size = 483
+    }
+    aristocrats = {
+        culture = halladian
+        religion = catholic
+        size = 1683
+    } 
+    officers = {
+        culture = halladian
+        religion = catholic
+        size = 168
+    }
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 41028
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 3762
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1537  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 8728
+    }
+
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 8400
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1474
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 964
+    }
+
+}
+1538  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 8560
+    }
+
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 10500
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1667
+    }
+
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 964
+    }
+
+}
+1539  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 10996
+    }
+
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 4200
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 1281
+    }
+
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 2310
+    }
+    
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 964
+    }
+
+}
+1540  = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 24468
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 2106
+    }
+
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 3300
+    }
+    
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 1377
+    }
+
+}
+1561  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 230
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 230
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 23
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 4476
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 334
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1562  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 4476
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 334
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1563  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 3556
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 334
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1564  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 1716
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1565  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 1716
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 159
+    }
+ 
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1566  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 5396
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 462
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1567  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 7420
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 646
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1568  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 7236
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 610
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1569  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 5396
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 426
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1570  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 253
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 453
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 46
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 10916
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1070
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1571  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 9076
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 794
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1572  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 221
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 621
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 62
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 13676
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1254
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1573  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 11836
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1070
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1574  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 8156
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 702
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1575  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 9076
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 794
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 459
+    }
+
+}
+1576  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 461
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 1196
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 119
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 22794
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2112
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1616
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 674
+    }
+
+}
+1577  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 17921
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1661
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1270
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 530
+    }
+
+}
+1578  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 17806
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1595
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 748
+    }
+
+}
+1579  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 17932
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1654
+    }
+
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 563
+    }
+
+}
+1580  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 10416
+    }
+
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 6192
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 1513
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 1432
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 598
+    }
+
+}
+1581  = {
+    bureaucrats = {
+        culture = eliadem
+        religion = catholic
+        size = 384
+    }
+    aristocrats = {
+        culture = eliadem
+        religion = catholic
+        size = 1359
+    } 
+    officers = {
+        culture = eliadem
+        religion = catholic
+        size = 135
+    }
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 26721
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2462
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 597
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 839
+    }
+
+    craftsmen = {
+        culture = eliadem
+        religion = catholic
+        size = 1084
+    }
+
+}
+1582  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 27831
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2515
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 767
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1077
+    }
+
+    craftsmen = {
+        culture = eliadem
+        religion = catholic
+        size = 1394
+    }
+
+}
+1583  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 27385
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2425
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 893
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1256
+    }
+
+    craftsmen = {
+        culture = eliadem
+        religion = catholic
+        size = 1624
+    }
+
+}
+1584  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 28166
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2581
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 670
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 944
+    }
+
+    craftsmen = {
+        culture = eliadem
+        religion = catholic
+        size = 1220
+    }
+
+}
+1585  = {
+    farmers = {
+        culture = eliadem
+        religion = catholic
+        size = 28019
+    }
+    
+    artisans = {
+        culture = eliadem
+        religion = catholic
+        size = 2546
+    }
+
+    soldiers = {
+        culture = eliadem
+        religion = catholic
+        size = 715
+    }
+    
+    clergymen = {
+        culture = eliadem
+        religion = catholic
+        size = 1004
+    }
+
+    craftsmen = {
+        culture = eliadem
+        religion = catholic
+        size = 1298
+    }
+
+}

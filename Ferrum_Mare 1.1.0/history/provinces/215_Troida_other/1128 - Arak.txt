@@ -1,0 +1,8 @@
+owner = VI1
+controller = VI1
+add_core = VI1
+
+trade_goods = cotton
+life_rating = 36
+
+set_province_flag = farm

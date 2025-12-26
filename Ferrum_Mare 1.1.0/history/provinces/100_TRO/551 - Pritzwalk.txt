@@ -1,0 +1,21 @@
+owner = TR1
+controller = TR1
+add_core = TR1
+
+trade_goods = grain
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = transport_shipyard
+		upgrade = yes
+	}

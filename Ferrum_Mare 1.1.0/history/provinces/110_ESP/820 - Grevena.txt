@@ -1,0 +1,12 @@
+owner = ES1
+controller = ES1
+add_core = ES1
+add_core = DE3
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm

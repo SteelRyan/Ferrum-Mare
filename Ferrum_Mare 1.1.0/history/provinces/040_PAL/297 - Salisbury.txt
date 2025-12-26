@@ -1,0 +1,10 @@
+owner = PA1
+controller = PA1
+add_core = PA1
+add_core = DO1
+
+trade_goods = fruit
+
+life_rating = 36
+
+set_province_flag = farm

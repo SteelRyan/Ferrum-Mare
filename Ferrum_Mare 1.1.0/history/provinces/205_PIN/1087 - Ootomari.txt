@@ -1,0 +1,15 @@
+owner = PI1
+controller = PI1
+add_core = PI1
+
+trade_goods = tropical_wood
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = ammunition_factory
+		upgrade = yes
+	}

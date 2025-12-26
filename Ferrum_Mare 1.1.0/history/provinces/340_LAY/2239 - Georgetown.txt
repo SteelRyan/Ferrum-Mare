@@ -1,0 +1,8 @@
+owner = LA1
+controller = LA1
+add_core = LA1
+
+trade_goods = timber
+life_rating = 36
+ 
+set_province_flag = farm

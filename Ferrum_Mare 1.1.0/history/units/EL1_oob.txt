@@ -1,0 +1,213 @@
+army = {
+	name = "Army 1"
+	location = 1318
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1312
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1313
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1314
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1316
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1317
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1318
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1319
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1320
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1321
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1323
+	}
+}
+
+army = {
+	name = "Army 2"
+	location = 1325
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1324
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1325
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1328
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1329
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1330
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1522
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1523
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1524
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1525
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1526
+	}
+}
+
+army = {
+	name = "Army 3"
+	location = 1523
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1527
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1528
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1529
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1530
+	}
+	
+	regiment = {
+		name= "50th Artillery Regiment"
+		type = artillery
+		home = 1509
+	}
+}
+
+
+
+
+
+navy = {
+	name = "Eliadem Flotilla"
+	location = 1582
+
+	# 10 clipper_transport ships
+	ship = { name= "Ship 1" type = clipper_transport }
+	ship = { name= "Ship 2" type = clipper_transport }
+	ship = { name= "Ship 3" type = clipper_transport }
+	ship = { name= "Ship 4" type = clipper_transport }
+	ship = { name= "Ship 5" type = clipper_transport }
+	ship = { name= "Ship 6" type = clipper_transport }
+	ship = { name= "Ship 7" type = clipper_transport }
+	ship = { name= "Ship 8" type = clipper_transport }
+	ship = { name= "Ship 9" type = clipper_transport }
+	ship = { name= "Ship 10" type = clipper_transport }
+
+}
+
+#Relations New world
+
+HA3 = { value = -200 }
+SO2 = { value = -200 }
+HE2 = { value = -200 }
+SP2 = { value = -200 }
+TI1 = { value = -200 }
+SO1 = { value = -200 }
+VI1 = { value = -200 }
+NY1 = { value = -200 }
+MA2 = { value = -200 }
+MA3 = { value = -200 }
+EL3 = { value = -200 }
+ES2 = { value = -200 }
+CA2 = { value = -200 }
+NE2 = { value = -200 }
+NI1 = { value = -200 }
+XE1 = { value = -200 }
+DA1 = { value = -200 }
+ES5 = { value = -200 }
+OR2 = { value = -200 }
+PR1 = { value = -200 }
+BE1 = { value = -200 }
+AB1 = { value = -200 }
+OR3 = { value = -200 }
+EC1 = { value = -200 }

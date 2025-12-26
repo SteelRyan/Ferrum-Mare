@@ -1,0 +1,21 @@
+owner = PA1
+controller = PA1
+add_core = PA1
+
+trade_goods = grain
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = machine_parts_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}

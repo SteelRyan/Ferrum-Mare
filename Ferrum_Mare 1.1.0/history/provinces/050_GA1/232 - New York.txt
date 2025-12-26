@@ -1,0 +1,1 @@
+owner = ES4controller = ES4add_core = ES4trade_goods = grainlife_rating = 38set_province_flag = farm

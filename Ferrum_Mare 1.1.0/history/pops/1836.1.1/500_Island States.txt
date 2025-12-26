@@ -1,0 +1,852 @@
+#
+
+1268 = {
+    farmers = {
+        culture = serman
+        religion = catholic
+        size = 11438
+    }
+	
+	artisans = {
+        culture = serman
+        religion = catholic
+        size = 1064
+    }
+	
+    soldiers = {
+        culture = serman
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = serman
+        religion = catholic
+        size = 534
+    }
+	
+
+	
+	slaves = {
+		culture = serman
+        religion = catholic
+		size = 232
+	}
+}
+
+1269 = {
+    farmers = {
+        culture = serman
+        religion = catholic
+        size = 8578
+    }
+    
+    artisans = {
+        culture = serman
+        religion = catholic
+        size = 798
+    }
+    
+    soldiers = {
+        culture = serman
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = serman
+        religion = catholic
+        size = 400
+    }
+    
+    slaves = {
+        culture = serman
+        religion = catholic
+        size = 174
+    }
+}
+
+1270 = {
+    farmers = {
+        culture = halladian
+        religion = catholic
+        size = 9076
+    }
+    
+    artisans = {
+        culture = halladian
+        religion = catholic
+        size = 794
+    }
+
+    soldiers = {
+        culture = halladian
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = halladian
+        religion = catholic
+        size = 459
+    }
+    
+
+}
+
+1336 = {
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 11920
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 1120
+    }
+
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 80
+    }
+}
+
+1337 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 13099
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1192
+    }
+
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 197
+    }
+
+    slaves = {
+        culture = sinray
+        religion = catholic
+        size = 1019
+    }
+}
+
+1338 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 13099
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1192
+    }
+
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 197
+    }
+
+    slaves = {
+        culture = sinray
+        religion = catholic
+        size = 1019
+    }
+}
+
+1411   = {
+    farmers = {
+        culture = zeekan
+        religion = catholic
+        size = 6920
+    }
+
+    artisans = {
+        culture = zeekan
+        religion = catholic
+        size = 620
+    }
+
+    soldiers = {
+        culture = zeekan
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = zeekan
+        religion = catholic
+        size = 40
+    }
+}
+
+1412   = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 6099
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 692
+    }
+
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 97
+    }
+
+    slaves = {
+        culture = sinray
+        religion = catholic
+        size = 519
+    }
+}
+
+1413   = {
+    farmers = {
+        culture = zeekan
+        religion = catholic
+        size = 11920
+    }
+
+    artisans = {
+        culture = zeekan
+        religion = catholic
+        size = 1120
+    }
+
+    soldiers = {
+        culture = zeekan
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = zeekan
+        religion = catholic
+        size = 80
+    }
+}
+
+1414   = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 6099
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 692
+    }
+
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 97
+    }
+
+    slaves = {
+        culture = sinray
+        religion = catholic
+        size = 519
+    }
+}
+
+1415   = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 11920
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1120
+    }
+
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 80
+    }
+}
+
+2441 = {
+    farmers = {
+        culture = synocian
+        religion = catholic
+        size = 12600
+    }
+    
+    artisans = {
+        culture = synocian
+        religion = catholic
+        size = 11600
+    }
+    
+    soldiers = {
+        culture = synocian
+        religion = catholic
+        size = 1500
+    }
+    
+    clergymen = {
+        culture = synocian
+        religion = catholic
+        size = 800
+    }
+    
+
+    
+    slaves = {
+        culture = synocian
+        religion = catholic
+        size = 348
+    }
+}
+
+2656 = {
+    farmers = {
+        culture = sinray
+        religion = catholic
+        size = 13099
+    }
+
+    artisans = {
+        culture = sinray
+        religion = catholic
+        size = 1192
+    }
+
+    soldiers = {
+        culture = sinray
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = sinray
+        religion = catholic
+        size = 197
+    }
+
+    slaves = {
+        culture = sinray
+        religion = catholic
+        size = 1019
+    }
+}
+
+2696 = {
+	farmers = {
+        culture = elysan
+        religion = catholic
+        size = 48480
+    }
+	
+
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1920
+    }
+	
+
+}
+
+2697 = {
+	farmers = {
+        culture = elysan
+        religion = catholic
+        size = 48480
+    }
+	
+
+	
+	artisans = {
+        culture = elysan
+        religion = catholic
+        size = 3200
+    }
+	
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 1920
+    }
+	
+
+}
+
+2698 = {
+    farmers = {
+        culture = elysan
+        religion = catholic
+        size = 24240
+    }
+
+
+
+    artisans = {
+        culture = elysan
+        religion = catholic
+        size = 1600
+    }
+
+    soldiers = {
+        culture = elysan
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = elysan
+        religion = catholic
+        size = 960
+    }
+
+
+}
+
+2699 = {
+    farmers = {
+        culture = synocian
+        religion = catholic
+        size = 55950
+    }
+
+    farmers = {
+        culture = verspodian
+        religion = catholic
+        size = 20000
+    }
+
+	artisans = {
+        culture = verspodian
+        religion = catholic
+        size = 5950
+    }
+	
+    soldiers = {
+        culture = verspodian
+        religion = catholic
+        size = 2000
+    }
+	
+	clergymen = {
+        culture = verspodian
+        religion = catholic
+        size = 850
+    }
+	
+
+	
+	slaves = {
+		culture = verspodian
+        religion = catholic
+		size = 370
+	}
+}
+
+2700 = {
+    farmers = {
+        culture = synocian
+        religion = catholic
+        size = 20000
+    }
+
+    farmers = {
+        culture = verspodian
+        religion = catholic
+        size = 22867
+    }
+
+    artisans = {
+        culture = verspodian
+        religion = catholic
+        size = 3867
+    }
+
+    soldiers = {
+        culture = verspodian
+        religion = catholic
+        size = 1000
+    }
+
+    clergymen = {
+        culture = verspodian
+        religion = catholic
+        size = 552
+    }
+
+
+
+    slaves = {
+        culture = verspodian
+        religion = catholic
+        size = 240
+    }
+}
+
+
+2701 = {
+    farmers = {
+        culture = synocian
+        religion = catholic
+        size = 12600
+    }
+	
+	artisans = {
+        culture = synocian
+        religion = catholic
+        size = 11600
+    }
+	
+    soldiers = {
+        culture = synocian
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = synocian
+        religion = catholic
+        size = 800
+    }
+	
+
+	
+	slaves = {
+		culture = synocian
+        religion = catholic
+		size = 348
+	}
+}
+
+2702 = {
+    farmers = {
+        culture = quardorian
+        religion = catholic
+        size = 18570
+    }
+    
+    artisans = {
+        culture = quardorian
+        religion = catholic
+        size = 1704
+    }
+    
+    soldiers = {
+        culture = quardorian
+        religion = catholic
+        size = 500
+    }
+    
+    clergymen = {
+        culture = quardorian
+        religion = catholic
+        size = 282
+    }
+    
+    slaves = {
+        culture = quardorian
+        religion = catholic
+        size = 1457
+    }
+}
+
+2703 = {
+    farmers = {
+        culture = quardorian
+        religion = catholic
+        size = 13099
+    }
+
+    artisans = {
+        culture = quardorian
+        religion = catholic
+        size = 1192
+    }
+
+    soldiers = {
+        culture = quardorian
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = quardorian
+        religion = catholic
+        size = 197
+    }
+
+    slaves = {
+        culture = quardorian
+        religion = catholic
+        size = 1019
+    }
+}
+
+2704 = {
+    farmers = {
+        culture = quardorian
+        religion = catholic
+        size = 7428
+    }
+
+    artisans = {
+        culture = quardorian
+        religion = catholic
+        size = 681
+    }
+
+    clergymen = {
+        culture = quardorian
+        religion = catholic
+        size = 112
+    }
+
+    slaves = {
+        culture = quardorian
+        religion = catholic
+        size = 582
+    }
+}
+
+2705 = {
+    farmers = {
+        culture = forsean
+        religion = catholic
+        size = 12120
+    }
+
+
+
+    artisans = {
+        culture = forsean
+        religion = catholic
+        size = 800
+    }
+
+    soldiers = {
+        culture = forsean
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = forsean
+        religion = catholic
+        size = 480
+    }
+
+
+}
+
+2706 = {
+    farmers = {
+        culture = synocian
+        religion = catholic
+        size = 12600
+    }
+	
+	artisans = {
+        culture = synocian
+        religion = catholic
+        size = 11600
+    }
+	
+    soldiers = {
+        culture = synocian
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = synocian
+        religion = catholic
+        size = 800
+    }
+	
+
+	
+	slaves = {
+		culture = synocian
+        religion = catholic
+		size = 348
+	}
+}
+
+2707 = {
+    farmers = {
+        culture = neodorean
+        religion = catholic
+        size = 19460
+    }
+
+	artisans = {
+        culture = neodorean
+        religion = catholic
+        size = 1060
+    }
+	
+    soldiers = {
+        culture = neodorean
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = neodorean
+        religion = catholic
+        size = 580
+    }
+	
+
+	
+	slaves = {
+		culture = neodorean
+        religion = catholic
+		size = 252
+	}
+}
+
+2708 = {
+    farmers = {
+        culture = neodorean
+        religion = catholic
+        size = 19460
+    }
+
+	artisans = {
+        culture = neodorean
+        religion = catholic
+        size = 1060
+    }
+	
+    soldiers = {
+        culture = neodorean
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = neodorean
+        religion = catholic
+        size = 580
+    }
+	
+
+	
+	slaves = {
+		culture = neodorean
+        religion = catholic
+		size = 252
+	}
+}
+
+2709 = {
+    farmers = {
+        culture = neodorean
+        religion = catholic
+        size = 19460
+    }
+
+	artisans = {
+        culture = neodorean
+        religion = catholic
+        size = 1060
+    }
+	
+    soldiers = {
+        culture = neodorean
+        religion = catholic
+        size = 1500
+    }
+	
+	clergymen = {
+        culture = neodorean
+        religion = catholic
+        size = 580
+    }
+	
+
+	
+	slaves = {
+		culture = neodorean
+        religion = catholic
+		size = 252
+	}
+}
+
+2712 = {
+	farmers = {
+		culture = servile
+		religion = catholic
+		size = 300
+	}
+}
+
+2713 = {
+	farmers = {
+		culture = servile
+		religion = catholic
+		size = 300
+	}
+}

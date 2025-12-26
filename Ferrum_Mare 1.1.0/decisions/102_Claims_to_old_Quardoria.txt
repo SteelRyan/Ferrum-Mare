@@ -1,0 +1,65 @@
+political_decisions = {
+	claims_to_old_quardoria = {
+		picture = claims_to_old_quardoria
+		potential = {
+			OR = {
+				tag = VA1
+				tag = PI1
+			}
+			NOT = { 
+				OR = {
+					VA1 = { has_country_flag = claims_to_old_Quardoria }
+					PI1 = { has_country_flag = claims_to_old_Quardoria } 
+				}
+			}
+		}
+		allow = {
+			STA_188 = { owned_by = THIS }
+			STA_189 = { owned_by = THIS }
+			STA_191 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			war = no
+		}
+		effect = { 
+			HA3 = { all_core = { remove_core = HA3 } }
+			SO2 = { all_core = { remove_core = SO2 } }
+			VA1 = {
+				set_country_flag = claims_to_old_Quardoria
+				any_owned = { 
+					limit = { pop_majority_culture = quardorian }
+					add_province_modifier = {
+		                name = quardorian_assim_boost
+		                duration = -1
+		            }
+	            }
+				add_country_modifier = {
+		            name = quardorian_assim_boost
+		            duration = -1
+		        }
+			}
+			PI1 = {
+				set_country_flag = claims_to_old_Quardoria
+				any_owned = { 
+					limit = { pop_majority_culture = quardorian }
+					add_province_modifier = {
+		                name = quardorian_assim_boost
+		                duration = -1
+		            }
+	            }
+				add_country_modifier = {
+		            name = quardorian_assim_boost
+		            duration = -1
+		        }
+			}
+			any_country = {
+	            any_owned = { 
+					limit = { pop_majority_culture = quardorian }
+					add_province_modifier = {
+			            name = quardorian_assim_boost
+			            duration = -1
+			        }
+		        }
+		    }			
+		}
+	}
+}

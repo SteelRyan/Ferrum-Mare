@@ -1,0 +1,30 @@
+owner = NE1
+controller = NE1
+add_core = NE1
+add_core = HA4
+
+trade_goods = coal
+
+life_rating = 36
+
+set_province_flag = mine
+
+	state_building = {
+		level = 1
+		building = ammunition_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}
+	
+naval_base = 1

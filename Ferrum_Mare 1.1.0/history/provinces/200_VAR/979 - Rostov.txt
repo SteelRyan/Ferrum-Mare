@@ -1,0 +1,17 @@
+owner = VA1
+controller = VA1
+add_core = VA1
+
+trade_goods = fish
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+	}
+
+naval_base = 1

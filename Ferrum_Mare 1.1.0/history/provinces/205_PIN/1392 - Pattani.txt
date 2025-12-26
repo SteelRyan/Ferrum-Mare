@@ -1,0 +1,8 @@
+owner = PI1
+controller = PI1
+add_core = PI1
+
+trade_goods = tea
+life_rating = 36
+
+set_province_flag = mine

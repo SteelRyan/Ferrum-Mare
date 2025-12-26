@@ -1,8 +1,0 @@
-owner = DEV
-controller = DEV
-add_core = DEV
-
-trade_goods = fish
-life_rating = 35
-
-set_province_flag = farm

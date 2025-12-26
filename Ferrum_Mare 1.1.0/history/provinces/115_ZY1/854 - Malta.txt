@@ -1,0 +1,8 @@
+owner = ZY1
+controller = ZY1
+add_core = ZY1
+
+trade_goods = wool
+life_rating = 36
+
+set_province_flag = farm

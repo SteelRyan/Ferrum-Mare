@@ -1,0 +1,11 @@
+owner = NO1
+controller = NO1
+add_core = NO1
+
+add_core = DO1
+
+trade_goods = fish
+
+life_rating = 36
+
+set_province_flag = farm

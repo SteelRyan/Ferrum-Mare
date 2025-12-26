@@ -1,0 +1,9 @@
+owner = OE1
+controller = OE1
+add_core = OE1
+
+add_core = DO1
+
+trade_goods = cattle
+
+life_rating = 36

@@ -1,0 +1,70 @@
+# Country unit colors.
+
+# Verspodia
+DE1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+DO1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+EM1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+ES1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+FOR = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+HA1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+HE1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+NE1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+PA1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+RE1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+TRI = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+VE1 = {
+    color1= { 62 122 189  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Liechtenstein
+LCT = {
+    color1= { 123 183 244  }
+    color2= { 255 255 255  }
+    color3= { 188 80 87  }
+}

@@ -1,0 +1,2032 @@
+#
+1136  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 16667
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1566
+    }
+
+
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1137  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 23267
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 2226
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1138  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 25467
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 2446
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1139  = {
+    bureaucrats = {
+        culture = elowaar
+        religion = catholic
+        size = 531
+    }
+    aristocrats = {
+        culture = elowaar
+        religion = catholic
+        size = 1301
+    } 
+    officers = {
+        culture = elowaar
+        religion = catholic
+        size = 129
+    }
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 30967
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 3106
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1140  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 18867
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1786
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1141  = {
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 19967
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 2006
+    }
+
+    
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1142  = {
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 26567
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 2446
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1143  = {
+    bureaucrats = {
+        culture = macerian
+        religion = catholic
+        size = 795
+    }
+    aristocrats = {
+        culture = macerian
+        religion = catholic
+        size = 1675
+    } 
+    officers = {
+        culture = macerian
+        religion = catholic
+        size = 167
+    }
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 34267
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 3326
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1144  = {
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 40867
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 3986
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1145  = {
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 27667
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 2666
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1148  = {
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 42021
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 3855
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 207
+    }
+    
+    craftsmen = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+}
+
+1162  = {
+    bureaucrats = {
+        culture = ludosie
+        religion = catholic
+        size = 1406
+    }
+    aristocrats = {
+        culture = ludosie
+        religion = catholic
+        size = 1626
+    } 
+    officers = {
+        culture = ludosie
+        religion = catholic
+        size = 161
+    }
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 38667
+    }
+
+	artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 3766
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+	
+	craftsmen = {
+		culture = ludosie
+        religion = catholic
+		size = 250
+	}
+}
+
+1164  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 29867
+    }
+
+	artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 2886
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+	
+	craftsmen = {
+		culture = ludosie
+        religion = catholic
+		size = 250
+	}
+}
+
+1166  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 19967
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 1896
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1167  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 16667
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 1566
+    }
+
+
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1168  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 24367
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 2336
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1169  = {
+    bureaucrats = {
+        culture = ludosie
+        religion = catholic
+        size = 1359
+    }
+    aristocrats = {
+        culture = ludosie
+        religion = catholic
+        size = 1469
+    } 
+    officers = {
+        culture = ludosie
+        religion = catholic
+        size = 146
+    }
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 43067
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 4206
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1170  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 26567
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 2556
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1171  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 24874
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 2347
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 176
+    }
+
+}
+
+1172  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 34114
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 3271
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 176
+    }
+
+}
+
+1173  = {
+    bureaucrats = {
+        culture = ludosie
+        religion = catholic
+        size = 2278
+    }
+    aristocrats = {
+        culture = ludosie
+        religion = catholic
+        size = 2278
+    } 
+    officers = {
+        culture = ludosie
+        religion = catholic
+        size = 226
+    }
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 60294
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 5889
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 176
+    }
+
+}
+
+1174  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 43354
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 4195
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 176
+    }
+
+}
+
+1175  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 40274
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 3887
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 176
+    }
+
+}
+
+1176  = {
+    bureaucrats = {
+        culture = ludosie
+        religion = catholic
+        size = 465
+    }
+    aristocrats = {
+        culture = ludosie
+        religion = catholic
+        size = 905
+    } 
+    officers = {
+        culture = ludosie
+        religion = catholic
+        size = 90
+    }
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 22167
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 2116
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1177  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 17767
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 1676
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1178  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 19307
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 1786
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1179  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 12267
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 1126
+    }
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1180  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 7867
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 686
+    }
+
+
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1181  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 13367
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1236
+    }
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1182  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 10067
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 906
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1183  = {
+    bureaucrats = {
+        culture = elowaar
+        religion = catholic
+        size = 388
+    }
+    aristocrats = {
+        culture = elowaar
+        religion = catholic
+        size = 828
+    } 
+    officers = {
+        culture = elowaar
+        religion = catholic
+        size = 82
+    }
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 22167
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 2116
+    }
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1184  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 10067
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 906
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1185  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 16667
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1566
+    }
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1186  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 39426
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 3810
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 166
+    }
+
+}
+
+1187  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 26357
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 2503
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 166
+    }
+
+}
+
+1188  = {
+    bureaucrats = {
+        culture = ludosie
+        religion = catholic
+        size = 1183
+    }
+    aristocrats = {
+        culture = ludosie
+        religion = catholic
+        size = 2503
+    } 
+    officers = {
+        culture = ludosie
+        religion = catholic
+        size = 250
+    }
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 56850
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 5552
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 166
+    }
+
+}
+
+1189  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 35070
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 3229
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 166
+    }
+
+}
+
+1190  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 49590
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 4826
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 166
+    }
+
+}
+
+1191  = {
+    farmers = {
+        culture = macerian
+        religion = catholic
+        size = 41508
+    }
+
+    artisans = {
+        culture = macerian
+        religion = catholic
+        size = 3930
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = macerian
+        religion = catholic
+        size = 582
+    }
+    clergymen = {
+        culture = macerian
+        religion = catholic
+        size = 276
+    }
+    
+    craftsmen = {
+        culture = macerian
+        religion = catholic
+        size = 2200
+    }
+}
+
+1192  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 56028
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 5382
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 276
+    }
+    
+    craftsmen = {
+        culture = ludosie
+        religion = catholic
+        size = 2200
+    }
+}
+
+1193  = {
+    bureaucrats = {
+        culture = ludosie
+        religion = catholic
+        size = 1228
+    }
+    aristocrats = {
+        culture = ludosie
+        religion = catholic
+        size = 4308
+    } 
+    officers = {
+        culture = ludosie
+        religion = catholic
+        size = 431
+    }
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 128628
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 12642
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 276
+    }
+    
+    craftsmen = {
+        culture = ludosie
+        religion = catholic
+        size = 2200
+    }
+}
+
+1194  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 77808
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 7560
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 276
+    }
+    
+    craftsmen = {
+        culture = ludosie
+        religion = catholic
+        size = 2200
+    }
+}
+
+1195  = {
+    farmers = {
+        culture = ludosie
+        religion = catholic
+        size = 53608
+    }
+
+    artisans = {
+        culture = ludosie
+        religion = catholic
+        size = 5140
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = ludosie
+        religion = catholic
+        size = 210
+    }
+
+
+    
+    clergymen = {
+        culture = ludosie
+        religion = catholic
+        size = 276
+    }
+    
+    craftsmen = {
+        culture = ludosie
+        religion = catholic
+        size = 2200
+    }
+}
+
+1196  = {
+    bureaucrats = {
+        culture = elowaar
+        religion = catholic
+        size = 376
+    }
+    aristocrats = {
+        culture = elowaar
+        religion = catholic
+        size = 1256
+    } 
+    officers = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 29867
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 2886
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1197  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 19967
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1896
+    }
+
+
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1198  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 15567
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1456
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1199  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 15567
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1456
+    }
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1200  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 17767
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1676
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1206  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 11167
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1016
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1207  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 13367
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1236
+    }
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1208  = {
+    bureaucrats = {
+        culture = elowaar
+        religion = catholic
+        size = 572
+    }
+    aristocrats = {
+        culture = elowaar
+        religion = catholic
+        size = 1232
+    } 
+    officers = {
+        culture = elowaar
+        religion = catholic
+        size = 123
+    }
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 32067
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 3106
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1209  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 21067
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 2006
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1210  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 18867
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1786
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1211  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 11167
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1016
+    }
+
+
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1212  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 8967
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 796
+    }
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1213  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 13367
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1236
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1214  = {
+    bureaucrats = {
+        culture = elowaar
+        religion = catholic
+        size = 465
+    }
+    aristocrats = {
+        culture = elowaar
+        religion = catholic
+        size = 905
+    } 
+    officers = {
+        culture = elowaar
+        religion = catholic
+        size = 90
+    }
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 17767
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1676
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+	
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1215  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 15567
+    }
+
+	artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 1456
+    }
+
+
+	clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 125
+    }
+
+}
+
+1216  = {
+    bureaucrats = {
+        culture = elowaar
+        religion = catholic
+        size = 1365
+    }
+    aristocrats = {
+        culture = elowaar
+        religion = catholic
+        size = 3235
+    } 
+    officers = {
+        culture = elowaar
+        religion = catholic
+        size = 323
+    }
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 80515
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 7791
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 326
+    }
+
+}
+
+1217  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 63355
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 6075
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 326
+    }
+
+}
+
+1218  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 49055
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 4645
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 326
+    }
+
+}
+
+1219  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 37615
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 3501
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1100
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 326
+    }
+
+}
+
+1220  = {
+    farmers = {
+        culture = elowaar
+        religion = catholic
+        size = 23315
+    }
+
+    artisans = {
+        culture = elowaar
+        religion = catholic
+        size = 2071
+    }
+    soldiers = {
+        culture = elowaar
+        religion = catholic
+        size = 1003
+    }
+
+
+    
+    clergymen = {
+        culture = elowaar
+        religion = catholic
+        size = 326
+    }
+
+}

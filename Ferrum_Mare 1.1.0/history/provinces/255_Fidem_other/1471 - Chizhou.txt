@@ -1,0 +1,11 @@
+owner = ES5
+controller = ES5
+add_core = ES5
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm

@@ -1,0 +1,15 @@
+owner = DE1
+controller = DE1
+add_core = OR1
+
+trade_goods = cattle
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 2
+		building = ammunition_factory
+		upgrade = yes
+	}

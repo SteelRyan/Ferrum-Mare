@@ -1,0 +1,8 @@
+owner = WA1
+controller = WA1
+add_core = WA1
+
+trade_goods = iron
+life_rating = 36
+
+set_province_flag = mine

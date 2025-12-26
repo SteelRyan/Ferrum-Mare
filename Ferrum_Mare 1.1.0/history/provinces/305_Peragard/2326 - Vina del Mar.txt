@@ -1,0 +1,15 @@
+owner = PE1
+controller = PE1
+
+#add_core = JO1
+#add_core = TH1
+#add_core = AS1
+
+
+
+trade_goods = grain
+
+
+life_rating = 36
+
+set_province_flag = farm

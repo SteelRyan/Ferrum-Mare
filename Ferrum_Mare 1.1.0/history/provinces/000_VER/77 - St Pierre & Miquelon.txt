@@ -1,0 +1,16 @@
+owner = VE1
+controller = VE1
+add_core = VE1
+
+trade_goods = grain
+
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}

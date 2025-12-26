@@ -1,0 +1,10 @@
+owner = NE2
+controller = NE2
+add_core = NE2
+
+trade_goods = grain
+
+
+life_rating = 36
+
+set_province_flag = farm

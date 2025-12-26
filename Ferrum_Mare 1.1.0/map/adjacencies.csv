@@ -1,0 +1,2060 @@
+#From;To;Type;Through;Data;Comment
+#
+#
+# TEST
+#
+#
+623;253;sea;0;0;Meme-River 1
+#
+# The canals
+#
+#
+#
+#Sea-Tile-1;Sea-Tile-2;canal;control-province;Number;Name
+#
+#
+#
+3385;3068;canal;906;1;Inner Sea Canal 3
+2927;3261;canal;2442;2;Northern Troida-Servile Canal
+#
+364;366;sea;2928;0;Strait of Herra South
+366;364;sea;3178;0;Strait of Herra South
+3178;3313;canal;364;3;Southern Herra Canal 1
+2928;3315;canal;366;4;Southern Herra Canal 2
+3315;3313;impassable;0;0;Shallow Sea Bed
+3315;366;impassable;0;0;Cliff
+3313;364;impassable;0;0;Cliff
+#
+326;314;sea;3381;0;Strait of Herra North
+326;314;sea;3262;0;Strait of Herra North
+3262;3317;canal;314;5;Northern Herra Canal 1
+3381;3312;canal;326;6;Northern Herra Canal 2
+3312;3317;impassable;0;0;Shallow Sea Bed
+3312;326;impassable;0;0;Cliff
+3317;314;impassable;0;0;Cliff
+#
+2823;643;sea;3236;0;Emadem-Nadorilem West
+2823;643;sea;2896;0;Emadem-Nadorilem West
+2896;3397;canal;643;7;Emadem-Nadorilem West Canal 1
+3236;3066;canal;2823;8;Emadem-Nadorilem West Canal 2
+3066;3397;impassable;0;0;Shallow Sea Bed
+3066;2823;impassable;0;0;Cliff
+3397;643;impassable;0;0;Cliff
+#
+666;751;sea;3304;0;Terilem-Nadorilem
+666;751;sea;3398;0;Terilem-Nadorilem
+3398;3400;canal;751;9;Terilem-Nadorilem Canal 1
+3304;3357;canal;666;10;Terilem-Nadorilem Canal 2
+3357;3400;impassable;0;0;Shallow Sea Bed
+3357;666;impassable;0;0;Cliff
+3400;751;impassable;0;0;Cliff
+#
+667;685;sea;3383;0;Terilem-Ormal
+667;685;sea;3304;0;Terilem-Ormal
+3304;3401;canal;685;11;Terilem-Ormal Canal 1
+3383;3358;canal;667;12;Terilem-Ormal Canal 2
+3358;3401;impassable;0;0;Shallow Sea Bed
+3358;667;impassable;0;0;Cliff
+3401;685;impassable;0;0;Cliff
+#
+766;2830;sea;3356;0;Redro-Devo 1
+766;2830;sea;3393;0;Redro-Devo 1
+3393;3413;canal;2830;13;Redro-Devo 1 Canal 1
+3356;3412;canal;766;14;Redro-Devo 1 Canal 2
+3412;3413;impassable;0;0;Shallow Sea Bed
+3412;766;impassable;0;0;Cliff
+3413;2830;impassable;0;0;Cliff
+#
+767;2828;sea;3310;0;Redro-Devo 2
+767;2828;sea;3356;0;Redro-Devo 2
+3356;3414;canal;2828;15;Redro-Devo 2 Canal 1
+3310;3415;canal;767;16;Redro-Devo 2 Canal 2
+3415;3414;impassable;0;0;Shallow Sea Bed
+3415;767;impassable;0;0;Cliff
+3414;2828;impassable;0;0;Cliff
+#
+1380;1607;sea;2991;0;Fidem-Servile
+1380;1607;sea;2992;0;Fidem-Servile
+2992;3316;canal;1607;17;Fidem-Servile Canal 1
+2991;3314;canal;1380;18;Fidem-Servile Canal 2
+3316;3314;impassable;0;0;Shallow Sea Bed
+3316;1607;impassable;0;0;Cliff
+3314;1380;impassable;0;0;Cliff
+#
+989;1004;sea;3395;0;North Varan Canal
+989;1004;sea;3394;0;North Varan Canal
+3394;3347;canal;1004;19;North Varan Canal 1
+3395;3346;canal;989;20;North Varan Canal 2
+3347;3346;impassable;0;0;Shallow Sea Bed
+3347;1004;impassable;0;0;Cliff
+3346;989;impassable;0;0;Cliff
+#
+1160;984;sea;3392;0;South Varan Canal
+1160;984;sea;3391;0;South Varan Canal
+3392;3348;canal;1160;21;South Varan Canal 1
+3391;3349;canal;984;22;South Varan Canal 2
+3348;3349;impassable;0;0;Shallow Sea Bed
+3348;1160;impassable;0;0;Cliff
+3349;984;impassable;0;0;Cliff
+#
+2360;2616;sea;3080;0;Thyna-Sinray
+2360;2616;sea;3285;0;Thyna-Sinray
+3080;3350;canal;2360;23;Thyna-Sinray Canal 1
+3285;3351;canal;2616;24;Thyna-Sinray Canal 2
+3350;3351;impassable;0;0;Shallow Sea Bed
+3350;2360;impassable;0;0;Cliff
+3351;2616;impassable;0;0;Cliff
+#
+2608;2649;sea;3264;0;Sinray-Esdosi
+2608;2649;sea;3390;0;Sinray-Esdosi
+3264;3366;canal;2608;25;Sinray-Esdosi Canal 1
+3390;3365;canal;2649;26;Sinray-Esdosi Canal 2
+3366;3365;impassable;0;0;Shallow Sea Bed
+3366;2608;impassable;0;0;Cliff
+3365;2649;impassable;0;0;Cliff
+#
+2136;2607;sea;3390;0;Sinray-Sinray
+2136;2607;sea;3172;0;Sinray-Sinray
+3390;3352;canal;2136;27;Sinray-Sinray Canal 1
+3172;3353;canal;2607;28;Sinray-Sinray Canal 2
+3352;3353;impassable;0;0;Shallow Sea Bed
+3352;2136;impassable;0;0;Cliff
+3353;2607;impassable;0;0;Cliff
+#
+2192;2562;sea;3246;0;Sinray-Mamaxis
+2192;2562;sea;2388;0;Sinray-Mamaxis
+3246;3354;canal;2192;29;Sinray-Mamaxis Canal 1
+2388;3355;canal;2562;30;Sinray-Mamaxis Canal 2
+3354;3355;impassable;0;0;Shallow Sea Bed
+3354;2192;impassable;0;0;Cliff
+3355;2562;impassable;0;0;Cliff
+#
+752;649;sea;3398;0;Emadem-Nadorilem East
+752;649;sea;3307;0;Emadem-Nadorilem East
+3307;3359;canal;649;31;Emadem-Nadorilem East Canal 1
+3398;3360;canal;752;32;Emadem-Nadorilem East Canal 2
+3360;3359;impassable;0;0;Shallow Sea Bed
+3360;752;impassable;0;0;Cliff
+3359;649;impassable;0;0;Cliff
+#
+# Straits
+#
+373;430;sea;3242;0;Strait of the Gulf
+#
+558;561;sea;3198;0;Strait of Trocaria
+#
+733;910;sea;3385;0;Strait of the Inner Sea North
+731;908;sea;3385;0;Strait of the Inner Sea North
+#
+892;2481;sea;3341;0;
+895;2481;sea;3341;0;
+#
+2136;2607;sea;3247;0;
+#
+#Removing Canals causes crashes at loading History
+#Going to search the history files at the original starting canal countries/provinces
+#
+# Closed Meme-River-Sea connections
+#
+3320;3418;impassable;0;0;Shallow River Bed
+3339;3442;impassable;0;0;Shallow River Bed
+3423;3388;impassable;0;0;Shallow River Bed
+3301;3422;impassable;0;0;Shallow River Bed
+3298;3421;impassable;0;0;Shallow River Bed
+2899;3447;impassable;0;0;Shallow River Bed
+3328;3419;impassable;0;0;Shallow River Bed
+2965;3449;impassable;0;0;Shallow River Bed
+2965;3448;impassable;0;0;Shallow River Bed
+3203;3446;impassable;0;0;Shallow River Bed
+2985;3445;impassable;0;0;Shallow River Bed
+2991;3444;impassable;0;0;Shallow River Bed
+2879;3439;impassable;0;0;Shallow River Bed
+2879;3440;impassable;0;0;Shallow River Bed
+3281;3438;impassable;0;0;Shallow River Bed
+3280;3417;impassable;0;0;Shallow River Bed
+3297;3417;impassable;0;0;Shallow River Bed
+3297;3416;impassable;0;0;Shallow River Bed
+#
+# Meme-River 1
+#
+1810;1811;sea;0;0;Meme-River 1
+1807;1811;sea;0;0;Meme-River 1
+1807;1839;sea;0;0;Meme-River 1
+1807;1845;sea;0;0;Meme-River 1
+1804;1845;sea;0;0;Meme-River 1
+1803;1845;sea;0;0;Meme-River 1
+1803;1841;sea;0;0;Meme-River 1
+1803;1847;sea;0;0;Meme-River 1
+1802;1847;sea;0;0;Meme-River 1
+1800;1847;sea;0;0;Meme-River 1
+1796;1847;sea;0;0;Meme-River 1
+1796;1846;sea;0;0;Meme-River 1
+1797;1846;sea;0;0;Meme-River 1
+1797;1852;sea;0;0;Meme-River 1
+1782;1855;sea;0;0;Meme-River 1
+1782;1769;sea;0;0;Meme-River 1
+1783;1769;sea;0;0;Meme-River 1
+1783;1768;sea;0;0;Meme-River 1
+1784;1768;sea;0;0;Meme-River 1
+1771;1768;sea;0;0;Meme-River 1
+1772;1768;sea;0;0;Meme-River 1
+1772;1766;sea;0;0;Meme-River 1
+1750;1766;sea;0;0;Meme-River 1
+1750;1770;sea;0;0;Meme-River 1
+1750;1756;sea;0;0;Meme-River 1
+1747;1756;sea;0;0;Meme-River 1
+1747;1758;sea;0;0;Meme-River 1
+1746;1758;sea;0;0;Meme-River 1
+1746;1751;sea;0;0;Meme-River 1
+1746;1755;sea;0;0;Meme-River 1
+1736;1755;sea;0;0;Meme-River 1
+1700;1755;sea;0;0;Meme-River 1
+1700;1754;sea;0;0;Meme-River 1
+1696;1754;sea;0;0;Meme-River 1
+#
+# Meme-River 2
+#
+# Meme-River 2
+#
+755;684;sea;0;0;Meme-River 2
+755;2740;sea;0;0;Meme-River 2
+
+750;2740;sea;0;0;Meme-River 2
+
+2748;2740;sea;0;0;Meme-River 2
+
+2786;2740;sea;0;0;Meme-River 2
+2786;2742;sea;0;0;Meme-River 2
+
+755;684;sea;0;0;Meme River 2
+755;2740;sea;0;0;Meme River 2
+
+750;2740;sea;0;0;Meme River 2
+
+2748;2740;sea;0;0;Meme River 2
+
+2786;2740;sea;0;0;Meme River 2
+2786;2742;sea;0;0;Meme River 2
+
+2787;2742;sea;0;0;Meme River 2
+2787;2739;sea;0;0;Meme River 2
+2787;724;sea;0;0;Meme River 2
+2787;723;sea;0;0;Meme River 2
+
+2784;723;sea;0;0;Meme River 2
+
+2788;723;sea;0;0;Meme River 2
+2788;722;sea;0;0;Meme River 2
+
+2789;722;sea;0;0;Meme River 2
+
+755;684;sea;0;0;Meme River 2
+755;2740;sea;0;0;Meme River 2
+
+750;2740;sea;0;0;Meme River 2
+
+2748;2740;sea;0;0;Meme River 2
+
+2786;2740;sea;0;0;Meme River 2
+2786;2742;sea;0;0;Meme River 2
+
+2787;2742;sea;0;0;Meme River 2
+2787;2739;sea;0;0;Meme River 2
+2787;724;sea;0;0;Meme River 2
+2787;723;sea;0;0;Meme River 2
+
+2784;723;sea;0;0;Meme River 2
+
+2788;723;sea;0;0;Meme River 2
+2788;722;sea;0;0;Meme River 2
+
+2789;722;sea;0;0;Meme River 2
+
+727;722;sea;0;0;Meme River 2
+727;2847;sea;0;0;Meme River 2
+727;729;sea;0;0;Meme River 2
+#
+# Meme-River 3
+#
+2542;2524;sea;0;0;Meme-River 3
+2543;2524;sea;0;0;Meme-River 3
+2543;2521;sea;0;0;Meme-River 3
+2543;1545;sea;0;0;Meme-River 3
+2543;2514;sea;0;0;Meme-River 3
+2544;2514;sea;0;0;Meme-River 3
+2544;2512;sea;0;0;Meme-River 3
+2544;2537;sea;0;0;Meme-River 3
+2492;2537;sea;0;0;Meme-River 3
+2494;2537;sea;0;0;Meme-River 3
+2495;2537;sea;0;0;Meme-River 3
+2495;2536;sea;0;0;Meme-River 3
+2495;2593;sea;0;0;Meme-River 3
+2495;2595;sea;0;0;Meme-River 3
+1590;2595;sea;0;0;Meme-River 3
+1588;2594;sea;0;0;Meme-River 3
+2509;2594;sea;0;0;Meme-River 3
+2509;2591;sea;0;0;Meme-River 3
+2509;2592;sea;0;0;Meme-River 3
+2590;2592;sea;0;0;Meme-River 3
+2590;2585;sea;0;0;Meme-River 3
+#
+# Meme-River 4
+#
+2437;2654;sea;0;0;Meme-River 4
+2440;2654;sea;0;0;Meme-River 4
+2440;2651;sea;0;0;Meme-River 4
+2439;2651;sea;0;0;Meme-River 4
+2439;1542;sea;0;0;Meme-River 4
+2439;2513;sea;0;0;Meme-River 4
+2439;2515;sea;0;0;Meme-River 4
+2438;2515;sea;0;0;Meme-River 4
+2438;2540;sea;0;0;Meme-River 4
+2476;2540;sea;0;0;Meme-River 4
+2476;2538;sea;0;0;Meme-River 4
+2476;2638;sea;0;0;Meme-River 4
+2480;2638;sea;0;0;Meme-River 4
+2480;2640;sea;0;0;Meme-River 4
+2580;2640;sea;0;0;Meme-River 4
+2580;2639;sea;0;0;Meme-River 4
+#
+# Meme-River 5 wiped during East Pillar rework
+#
+769;624;sea;0;0;Meme-River 5
+769;622;sea;0;0;Meme-River 5
+497;622;sea;0;0;Meme-River 5
+497;623;sea;0;0;Meme-River 5
+497;255;sea;0;0;Meme-River 5
+498;255;sea;0;0;Meme-River 5
+498;775;sea;0;0;Meme-River 5
+499;775;sea;0;0;Meme-River 5
+922;775;sea;0;0;Meme-River 5
+922;772;sea;0;0;Meme-River 5
+922;293;sea;0;0;Meme-River 5
+924;293;sea;0;0;Meme-River 5
+838;293;sea;0;0;Meme-River 5
+840;293;sea;0;0;Meme-River 5
+840;291;sea;0;0;Meme-River 5
+840;295;sea;0;0;Meme-River 5
+840;835;sea;0;0;Meme-River 5
+# Meme-River 5
+#
+769;624;sea;0;0;Meme-River 5
+769;622;sea;0;0;Meme-River 5
+497;622;sea;0;0;Meme-River 5
+497;623;sea;0;0;Meme-River 5
+497;255;sea;0;0;Meme-River 5
+498;255;sea;0;0;Meme-River 5
+498;775;sea;0;0;Meme-River 5
+499;775;sea;0;0;Meme-River 5
+922;775;sea;0;0;Meme-River 5
+922;772;sea;0;0;Meme-River 5
+922;293;sea;0;0;Meme-River 5
+924;293;sea;0;0;Meme-River 5
+838;293;sea;0;0;Meme-River 5
+840;293;sea;0;0;Meme-River 5
+840;291;sea;0;0;Meme-River 5
+840;295;sea;0;0;Meme-River 5
+839;835;sea;0;0;Meme-River 5
+843;835;sea;0;0;Meme-River 5
+843;833;sea;0;0;Meme-River 5
+841;833;sea;0;0;Meme-River 5
+841;830;sea;0;0;Meme-River 5
+841;2734;sea;0;0;Meme-River 5
+844;2734;sea;0;0;Meme-River 5
+846;2734;sea;0;0;Meme-River 5
+846;2736;sea;0;0;Meme-River 5
+850;2736;sea;0;0;Meme-River 5
+850;2737;sea;0;0;Meme-River 5
+849;2737;sea;0;0;Meme-River 5
+620;2737;sea;0;0;Meme-River 5
+616;2737;sea;0;0;Meme-River 5
+616;2724;sea;0;0;Meme-River 5
+616;2726;sea;0;0;Meme-River 5
+#
+
+#
+# Meme-River 6
+#
+382;384;sea;0;0;Meme-River 6
+381;384;sea;0;0;Meme-River 6
+381;383;sea;0;0;Meme-River 6
+380;383;sea;0;0;Meme-River 6
+378;383;sea;0;0;Meme-River 6
+378;401;sea;0;0;Meme-River 6
+403;401;sea;0;0;Meme-River 6
+404;401;sea;0;0;Meme-River 6
+404;402;sea;0;0;Meme-River 6
+407;402;sea;0;0;Meme-River 6
+407;399;sea;0;0;Meme-River 6
+407;406;sea;0;0;Meme-River 6
+407;408;sea;0;0;Meme-River 6
+409;408;sea;0;0;Meme-River 6
+409;410;sea;0;0;Meme-River 6
+416;410;sea;0;0;Meme-River 6
+416;231;sea;0;0;Meme-River 6
+418;231;sea;0;0;Meme-River 6
+232;231;sea;0;0;Meme-River 6
+235;231;sea;0;0;Meme-River 6
+235;233;sea;0;0;Meme-River 6
+235;234;sea;0;0;Meme-River 6
+228;234;sea;0;0;Meme-River 6
+230;234;sea;0;0;Meme-River 6
+211;234;sea;0;0;Meme-River 6
+211;205;sea;0;0;Meme-River 6
+212;205;sea;0;0;Meme-River 6
+212;204;sea;0;0;Meme-River 6
+212;201;sea;0;0;Meme-River 6
+213;204;sea;0;0;Meme-River 6
+213;201;sea;0;0;Meme-River 6
+213;185;sea;0;0;Meme-River 6
+180;185;sea;0;0;Meme-River 6
+180;183;sea;0;0;Meme-River 6
+180;181;sea;0;0;Meme-River 6
+#
+# Meme-River 7
+#
+105;126;sea;0;0;Meme-River 7
+119;126;sea;0;0;Meme-River 7
+119;127;sea;0;0;Meme-River 7
+119;120;sea;0;0;Meme-River 7
+118;120;sea;0;0;Meme-River 7
+116;120;sea;0;0;Meme-River 7
+116;117;sea;0;0;Meme-River 7
+162;117;sea;0;0;Meme-River 7
+162;161;sea;0;0;Meme-River 7
+162;165;sea;0;0;Meme-River 7
+164;165;sea;0;0;Meme-River 7
+168;165;sea;0;0;Meme-River 7
+169;165;sea;0;0;Meme-River 7
+169;145;sea;0;0;Meme-River 7
+169;150;sea;0;0;Meme-River 7
+170;150;sea;0;0;Meme-River 7
+170;149;sea;0;0;Meme-River 7
+170;187;sea;0;0;Meme-River 7
+196;187;sea;0;0;Meme-River 7
+196;189;sea;0;0;Meme-River 7
+199;189;sea;0;0;Meme-River 7
+195;189;sea;0;0;Meme-River 7
+195;190;sea;0;0;Meme-River 7
+192;190;sea;0;0;Meme-River 7
+408;190;sea;0;0;Meme-River 7
+406;190;sea;0;0;Meme-River 7
+406;188;sea;0;0;Meme-River 7
+400;188;sea;0;0;Meme-River 7
+400;398;sea;0;0;Meme-River 7
+#
+# Meme-River 8
+#
+15;21;sea;0;0;Meme-River 8
+24;21;sea;0;0;Meme-River 8
+22;21;sea;0;0;Meme-River 8
+22;23;sea;0;0;Meme-River 8
+115;25;sea;0;0;Meme-River 8
+112;25;sea;0;0;Meme-River 8
+112;27;sea;0;0;Meme-River 8
+112;34;sea;0;0;Meme-River 8
+112;33;sea;0;0;Meme-River 8
+114;33;sea;0;0;Meme-River 8
+163;33;sea;0;0;Meme-River 8
+171;33;sea;0;0;Meme-River 8
+171;172;sea;0;0;Meme-River 8
+171;173;sea;0;0;Meme-River 8
+153;173;sea;0;0;Meme-River 8
+155;173;sea;0;0;Meme-River 8
+152;173;sea;0;0;Meme-River 8
+177;173;sea;0;0;Meme-River 8
+69;173;sea;0;0;Meme-River 8
+#
+# Meme-River 9
+#
+41;30;sea;0;0;Meme-River 9
+42;30;sea;0;0;Meme-River 9
+40;30;sea;0;0;Meme-River 9
+39;30;sea;0;0;Meme-River 9
+39;29;sea;0;0;Meme-River 9
+39;38;sea;0;0;Meme-River 9
+80;38;sea;0;0;Meme-River 9
+77;38;sea;0;0;Meme-River 9
+77;37;sea;0;0;Meme-River 9
+76;37;sea;0;0;Meme-River 9
+76;62;sea;0;0;Meme-River 9
+76;75;sea;0;0;Meme-River 9
+76;74;sea;0;0;Meme-River 9
+76;73;sea;0;0;Meme-River 9
+79;73;sea;0;0;Meme-River 9
+83;73;sea;0;0;Meme-River 9
+37;62;sea;0;0;Meme-River 9
+36;62;sea;0;0;Meme-River 9
+#
+# Meme-River 10
+#
+298;259;sea;0;0;Meme-River 10
+298;264;sea;0;0;Meme-River 10
+297;264;sea;0;0;Meme-River 10
+297;265;sea;0;0;Meme-River 10
+297;289;sea;0;0;Meme-River 10
+297;287;sea;0;0;Meme-River 10
+300;287;sea;0;0;Meme-River 10
+515;287;sea;0;0;Meme-River 10
+505;287;sea;0;0;Meme-River 10
+505;290;sea;0;0;Meme-River 10
+505;495;sea;0;0;Meme-River 10
+501;495;sea;0;0;Meme-River 10
+501;491;sea;0;0;Meme-River 10
+502;491;sea;0;0;Meme-River 10
+488;491;sea;0;0;Meme-River 10
+489;491;sea;0;0;Meme-River 10
+489;485;sea;0;0;Meme-River 10
+489;483;sea;0;0;Meme-River 10
+490;483;sea;0;0;Meme-River 10
+490;626;sea;0;0;Meme-River 10
+490;424;sea;0;0;Meme-River 10
+487;424;sea;0;0;Meme-River 10
+487;421;sea;0;0;Meme-River 10
+612;421;sea;0;0;Meme-River 10
+615;421;sea;0;0;Meme-River 10
+615;425;sea;0;0;Meme-River 10
+614;425;sea;0;0;Meme-River 10
+614;278;sea;0;0;Meme-River 10
+614;785;sea;0;0;Meme-River 10
+2872;785;sea;0;0;Meme-River 10
+607;785;sea;0;0;Meme-River 10
+607;783;sea;0;0;Meme-River 10
+608;783;sea;0;0;Meme-River 10
+610;783;sea;0;0;Meme-River 10
+610;784;sea;0;0;Meme-River 10
+#
+# Meme-River 11
+#
+1955;1947;sea;0;0;Meme-River 11
+1953;1947;sea;0;0;Meme-River 11
+1986;1947;sea;0;0;Meme-River 11
+1986;1950;sea;0;0;Meme-River 11
+1987;1950;sea;0;0;Meme-River 11
+1987;1946;sea;0;0;Meme-River 11
+1987;1948;sea;0;0;Meme-River 11
+1992;1948;sea;0;0;Meme-River 11
+1992;1946;sea;0;0;Meme-River 11
+1992;1938;sea;0;0;Meme-River 11
+1993;1938;sea;0;0;Meme-River 11
+1993;1940;sea;0;0;Meme-River 11
+1993;1996;sea;0;0;Meme-River 11
+1994;1996;sea;0;0;Meme-River 11
+1994;2000;sea;0;0;Meme-River 11
+2003;2000;sea;0;0;Meme-River 11
+2005;2000;sea;0;0;Meme-River 11
+2017;2000;sea;0;0;Meme-River 11
+2016;2000;sea;0;0;Meme-River 11
+2016;1998;sea;0;0;Meme-River 11
+2016;1999;sea;0;0;Meme-River 11
+1926;1999;sea;0;0;Meme-River 11
+1926;1934;sea;0;0;Meme-River 11
+1926;1933;sea;0;0;Meme-River 11
+1930;1933;sea;0;0;Meme-River 11
+1930;1932;sea;0;0;Meme-River 11
+1924;1932;sea;0;0;Meme-River 11
+1924;1662;sea;0;0;Meme-River 11
+1924;1913;sea;0;0;Meme-River 11
+1924;1915;sea;0;0;Meme-River 11
+1923;1915;sea;0;0;Meme-River 11
+1906;1915;sea;0;0;Meme-River 11
+1907;1915;sea;0;0;Meme-River 11
+#
+# Meme-River 12
+#
+1423;1645;sea;0;0;Meme-River 12
+1423;1641;sea;0;0;Meme-River 12
+1422;1641;sea;0;0;Meme-River 12
+1617;1641;sea;0;0;Meme-River 12
+1637;1641;sea;0;0;Meme-River 12
+1637;1643;sea;0;0;Meme-River 12
+1639;1643;sea;0;0;Meme-River 12
+1638;1643;sea;0;0;Meme-River 12
+1638;1642;sea;0;0;Meme-River 12
+1638;1649;sea;0;0;Meme-River 12
+1638;1650;sea;0;0;Meme-River 12
+1638;1660;sea;0;0;Meme-River 12
+1636;1660;sea;0;0;Meme-River 12
+1636;1656;sea;0;0;Meme-River 12
+1669;1656;sea;0;0;Meme-River 12
+1667;1656;sea;0;0;Meme-River 12
+1667;1657;sea;0;0;Meme-River 12
+1667;1664;sea;0;0;Meme-River 12
+1674;1664;sea;0;0;Meme-River 12
+1674;1665;sea;0;0;Meme-River 12
+1671;1665;sea;0;0;Meme-River 12
+1671;1914;sea;0;0;Meme-River 12
+1673;1914;sea;0;0;Meme-River 12
+#
+# Meme-River 13
+#
+1002;1012;sea;0;0;Meme-River 13
+1002;1011;sea;0;0;Meme-River 13
+1005;1011;sea;0;0;Meme-River 13
+966;1011;sea;0;0;Meme-River 13
+966;967;sea;0;0;Meme-River 13
+970;967;sea;0;0;Meme-River 13
+1021;967;sea;0;0;Meme-River 13
+1021;963;sea;0;0;Meme-River 13
+1022;963;sea;0;0;Meme-River 13
+1022;961;sea;0;0;Meme-River 13
+1022;1018;sea;0;0;Meme-River 13
+1022;1017;sea;0;0;Meme-River 13
+1025;1017;sea;0;0;Meme-River 13
+1025;1020;sea;0;0;Meme-River 13
+957;1020;sea;0;0;Meme-River 13
+#
+# Meme-River 14
+#
+1130;1144;sea;0;0;Meme-River 14
+1139;1144;sea;0;0;Meme-River 14
+1138;1144;sea;0;0;Meme-River 14
+1138;1145;sea;0;0;Meme-River 14
+1137;1145;sea;0;0;Meme-River 14
+1137;1141;sea;0;0;Meme-River 14
+1137;1191;sea;0;0;Meme-River 14
+1214;1191;sea;0;0;Meme-River 14
+1214;1192;sea;0;0;Meme-River 14
+1198;1192;sea;0;0;Meme-River 14
+1197;1192;sea;0;0;Meme-River 14
+1197;1193;sea;0;0;Meme-River 14
+1196;1193;sea;0;0;Meme-River 14
+1196;1189;sea;0;0;Meme-River 14
+1183;1189;sea;0;0;Meme-River 14
+1182;1189;sea;0;0;Meme-River 14
+1182;1187;sea;0;0;Meme-River 14
+1182;1179;sea;0;0;Meme-River 14
+#
+# Meme-River 15
+#
+1217;1226;sea;0;0;Meme-River 15
+1219;1226;sea;0;0;Meme-River 15
+1219;1227;sea;0;0;Meme-River 15
+1220;1227;sea;0;0;Meme-River 15
+1220;1225;sea;0;0;Meme-River 15
+1211;1225;sea;0;0;Meme-River 15
+1134;1225;sea;0;0;Meme-River 15
+1134;1221;sea;0;0;Meme-River 15
+1133;1221;sea;0;0;Meme-River 15
+#
+# Meme-River 16/1
+#
+1311;1319;sea;0;0;Meme-River 16/1
+1315;1319;sea;0;0;Meme-River 16/1
+1315;1323;sea;0;0;Meme-River 16/1
+1315;1324;sea;0;0;Meme-River 16/1
+1313;1324;sea;0;0;Meme-River 16/1
+1305;1324;sea;0;0;Meme-River 16/1
+#
+# Meme-River 16/2
+#
+1329;1497;sea;0;0;Meme-River 16/2
+1329;1506;sea;0;0;Meme-River 16/2
+1328;1506;sea;0;0;Meme-River 16/2
+1328;1508;sea;0;0;Meme-River 16/2
+1523;1508;sea;0;0;Meme-River 16/2
+1521;1508;sea;0;0;Meme-River 16/2
+
+#
+# Meme-River 17
+#
+2447;2450;sea;0;0;Meme-River 17
+2447;2446;sea;0;0;Meme-River 17
+2447;2449;sea;0;0;Meme-River 17
+2597;2449;sea;0;0;Meme-River 17
+2597;2599;sea;0;0;Meme-River 17
+2600;2599;sea;0;0;Meme-River 17
+2600;2416;sea;0;0;Meme-River 17
+2600;2425;sea;0;0;Meme-River 17
+2596;2425;sea;0;0;Meme-River 17
+2422;2425;sea;0;0;Meme-River 17
+2422;2421;sea;0;0;Meme-River 17
+2423;2421;sea;0;0;Meme-River 17
+2423;2424;sea;0;0;Meme-River 17
+2462;2424;sea;0;0;Meme-River 17
+2462;2572;sea;0;0;Meme-River 17
+2463;2572;sea;0;0;Meme-River 17
+2205;2202;sea;0;0;Meme-River 17
+2204;2202;sea;0;0;Meme-River 17
+2204;2430;sea;0;0;Meme-River 17
+2204;2429;sea;0;0;Meme-River 17
+2435;2429;sea;0;0;Meme-River 17
+2626;2429;sea;0;0;Meme-River 17
+2227;2429;sea;0;0;Meme-River 17
+2227;2426;sea;0;0;Meme-River 17
+2228;2426;sea;0;0;Meme-River 17
+2228;2427;sea;0;0;Meme-River 17
+2229;2427;sea;0;0;Meme-River 17
+2225;2427;sea;0;0;Meme-River 17
+2225;2219;sea;0;0;Meme-River 17
+2217;2219;sea;0;0;Meme-River 17
+2217;2220;sea;0;0;Meme-River 17
+2231;2220;sea;0;0;Meme-River 17
+#
+#Landing_penalties
+#
+2935;1563;sea;0;0;#Coast
+3266;1563;sea;0;0;#Coast
+3266;1562;sea;0;0;#Coast
+3266;1561;sea;0;0;#Coast
+3267;1561;sea;0;0;#Coast
+3267;1568;sea;0;0;#Coast
+3275;1568;sea;0;0;#Coast
+3275;1567;sea;0;0;#Coast
+3275;1570;sea;0;0;#Coast
+3277;1570;sea;0;0;#Coast
+3277;1587;sea;0;0;#Coast
+3277;1590;sea;0;0;#Coast
+3277;1588;sea;0;0;#Coast
+3279;1588;sea;0;0;#Coast
+3279;1589;sea;0;0;#Coast
+3279;1582;sea;0;0;#Coast
+3279;1331;sea;0;0;#Coast
+3279;1584;sea;0;0;#Coast
+3280;1584;sea;0;0;#Coast
+3280;1583;sea;0;0;#Coast
+3280;1585;sea;0;0;#Coast
+3280;1581;sea;0;0;#Coast
+3280;1579;sea;0;0;#Coast
+3280;1576;sea;0;0;#Coast
+3280;1577;sea;0;0;#Coast
+3280;1532;sea;0;0;#Coast
+3280;1531;sea;0;0;#Coast
+3280;1526;sea;0;0;#Coast
+3280;1530;sea;0;0;#Coast
+3280;1320;sea;0;0;#Coast
+3280;1318;sea;0;0;#Coast
+3280;1316;sea;0;0;#Coast
+3280;1319;sea;0;0;#Coast
+3280;1311;sea;0;0;#Coast
+3280;1312;sea;0;0;#Coast
+3283;1312;sea;0;0;#Coast
+3283;1314;sea;0;0;#Coast
+3283;1301;sea;0;0;#Coast
+3283;1310;sea;0;0;#Coast
+3283;1306;sea;0;0;#Coast
+3283;1261;sea;0;0;#Coast
+3283;1263;sea;0;0;#Coast
+3283;1264;sea;0;0;#Coast
+3283;1444;sea;0;0;#Coast
+3283;1442;sea;0;0;#Coast
+3283;1441;sea;0;0;#Coast
+3283;1238;sea;0;0;#Coast
+3281;1238;sea;0;0;#Coast
+3281;1237;sea;0;0;#Coast
+3281;1236;sea;0;0;#Coast
+3281;1229;sea;0;0;#Coast
+3281;1228;sea;0;0;#Coast
+3281;1226;sea;0;0;#Coast
+3281;1217;sea;0;0;#Coast
+3281;1216;sea;0;0;#Coast
+3281;1210;sea;0;0;#Coast
+3281;1209;sea;0;0;#Coast
+3281;1208;sea;0;0;#Coast
+3278;1208;sea;0;0;#Coast
+3278;1206;sea;0;0;#Coast
+3278;1185;sea;0;0;#Coast
+3278;1181;sea;0;0;#Coast
+3278;1178;sea;0;0;#Coast
+3276;1178;sea;0;0;#Coast
+3276;1171;sea;0;0;#Coast
+3276;1175;sea;0;0;#Coast
+3276;1173;sea;0;0;#Coast
+3371;1173;sea;0;0;#Coast
+3371;1591;sea;0;0;#Coast
+3371;1595;sea;0;0;#Coast
+3268;1591;sea;0;0;#Coast
+3269;1591;sea;0;0;#Coast
+3269;1593;sea;0;0;#Coast
+2930;1593;sea;0;0;#Coast
+2930;1592;sea;0;0;#Coast
+2930;1600;sea;0;0;#Coast
+2930;1599;sea;0;0;#Coast
+3270;1599;sea;0;0;#Coast
+3270;1602;sea;0;0;#Coast
+3270;1603;sea;0;0;#Coast
+
+3372;1595;sea;0;0;#Coast
+3372;1596;sea;0;0;#Coast
+3372;1597;sea;0;0;#Coast
+3372;1173;sea;0;0;#Coast
+3372;1174;sea;0;0;#Coast
+3372;1167;sea;0;0;#Coast
+3372;1168;sea;0;0;#Coast
+3372;1166;sea;0;0;#Coast
+3372;1169;sea;0;0;#Coast
+3372;1162;sea;0;0;#Coast
+3372;1163;sea;0;0;#Coast
+3372;1161;sea;0;0;#Coast
+
+3373;1597;sea;0;0;#Coast
+3373;1598;sea;0;0;#Coast
+3373;1605;sea;0;0;#Coast
+3373;1601;sea;0;0;#Coast
+3373;1604;sea;0;0;#Coast
+3373;1161;sea;0;0;#Coast
+3373;1159;sea;0;0;#Coast
+3373;1157;sea;0;0;#Coast
+3373;1362;sea;0;0;#Coast
+3373;1365;sea;0;0;#Coast
+
+3374;1603;sea;0;0;#Coast
+3374;1604;sea;0;0;#Coast
+3374;1365;sea;0;0;#Coast
+
+3375;1365;sea;0;0;#Coast
+3375;1364;sea;0;0;#Coast
+3375;978;sea;0;0;#Coast
+3375;979;sea;0;0;#Coast
+3375;976;sea;0;0;#Coast
+3375;991;sea;0;0;#Coast
+3375;1267;sea;0;0;#Coast
+3375;992;sea;0;0;#Coast
+3375;993;sea;0;0;#Coast
+
+2940;993;sea;0;0;#Coast
+2940;994;sea;0;0;#Coast
+2940;1383;sea;0;0;#Coast
+2940;1381;sea;0;0;#Coast
+2940;1010;sea;0;0;#Coast
+2940;1006;sea;0;0;#Coast
+2940;1008;sea;0;0;#Coast
+
+3392;1157;sea;0;0;#Coast
+3392;1156;sea;0;0;#Coast
+3392;1160;sea;0;0;#Coast
+3392;1362;sea;0;0;#Coast
+3392;1361;sea;0;0;#Coast
+3392;984;sea;0;0;#Coast
+
+3391;1160;sea;0;0;#Coast
+3391;1156;sea;0;0;#Coast
+3391;1158;sea;0;0;#Coast
+3391;1152;sea;0;0;#Coast
+3391;1153;sea;0;0;#Coast
+3391;1150;sea;0;0;#Coast
+3391;1147;sea;0;0;#Coast
+3391;1266;sea;0;0;#Coast
+3391;1149;sea;0;0;#Coast
+3391;984;sea;0;0;#Coast
+
+2879;1149;sea;0;0;#Coast
+2879;1142;sea;0;0;#Coast
+2879;1143;sea;0;0;#Coast
+2879;1144;sea;0;0;#Coast
+2879;1130;sea;0;0;#Coast
+2879;1126;sea;0;0;#Coast
+2879;984;sea;0;0;#Coast
+2879;982;sea;0;0;#Coast
+2879;985;sea;0;0;#Coast
+2879;988;sea;0;0;#Coast
+
+3376;1126;sea;0;0;#Coast
+3376;1128;sea;0;0;#Coast
+3376;1014;sea;0;0;#Coast
+3376;1012;sea;0;0;#Coast
+3376;1002;sea;0;0;#Coast
+3376;988;sea;0;0;#Coast
+3376;986;sea;0;0;#Coast
+
+3394;1002;sea;0;0;#Coast
+3394;1004;sea;0;0;#Coast
+3394;986;sea;0;0;#Coast
+3394;989;sea;0;0;#Coast
+
+3395;1004;sea;0;0;#Coast
+3395;1001;sea;0;0;#Coast
+3395;989;sea;0;0;#Coast
+3395;990;sea;0;0;#Coast
+
+3265;1001;sea;0;0;#Coast
+3265;1003;sea;0;0;#Coast
+3265;971;sea;0;0;#Coast
+3265;975;sea;0;0;#Coast
+3265;990;sea;0;0;#Coast
+3265;997;sea;0;0;#Coast
+3265;998;sea;0;0;#Coast
+
+3309;975;sea;0;0;#Coast
+3309;972;sea;0;0;#Coast
+3309;943;sea;0;0;#Coast
+3309;944;sea;0;0;#Coast
+3309;931;sea;0;0;#Coast
+3309;932;sea;0;0;#Coast
+
+2942;998;sea;0;0;#Coast
+2942;996;sea;0;0;#Coast
+2942;1009;sea;0;0;#Coast
+2942;1008;sea;0;0;#Coast
+
+3369;1008;sea;0;0;#Coast
+3369;932;sea;0;0;#Coast
+3369;933;sea;0;0;#Coast
+3369;935;sea;0;0;#Coast
+3370;935;sea;0;0;#Coast
+3370;934;sea;0;0;#Coast
+3370;930;sea;0;0;#Coast
+2979;930;sea;0;0;#Coast
+2979;928;sea;0;0;#Coast
+2979;929;sea;0;0;#Coast
+2966;929;sea;0;0;#Coast
+2966;939;sea;0;0;#Coast
+2966;938;sea;0;0;#Coast
+2966;951;sea;0;0;#Coast
+2966;955;sea;0;0;#Coast
+2966;953;sea;0;0;#Coast
+2966;954;sea;0;0;#Coast
+3291;954;sea;0;0;#Coast
+3291;953;sea;0;0;#Coast
+3291;959;sea;0;0;#Coast
+3291;958;sea;0;0;#Coast
+3291;1038;sea;0;0;#Coast
+3291;1036;sea;0;0;#Coast
+2961;1036;sea;0;0;#Coast
+2961;1039;sea;0;0;#Coast
+2961;1046;sea;0;0;#Coast
+2961;1047;sea;0;0;#Coast
+2961;1051;sea;0;0;#Coast
+2961;1053;sea;0;0;#Coast
+2961;1056;sea;0;0;#Coast
+3294;1056;sea;0;0;#Coast
+3294;1060;sea;0;0;#Coast
+3294;1061;sea;0;0;#Coast
+
+3295;1061;sea;0;0;#Coast
+3295;1062;sea;0;0;#Coast
+
+2927;1062;sea;0;0;#Coast
+2927;1957;sea;0;0;#Coast
+
+3261;1957;sea;0;0;#Coast
+3261;1958;sea;0;0;#Coast
+3261;1062;sea;0;0;#Coast
+3261;1063;sea;0;0;#Coast
+
+2984;1063;sea;0;0;#Coast
+2984;1067;sea;0;0;#Coast
+2984;1066;sea;0;0;#Coast
+2984;1078;sea;0;0;#Coast
+2984;1079;sea;0;0;#Coast
+2984;1076;sea;0;0;#Coast
+2984;1954;sea;0;0;#Coast
+2984;1959;sea;0;0;#Coast
+2984;1958;sea;0;0;#Coast
+
+2895;1076;sea;0;0;#Coast
+2895;1080;sea;0;0;#Coast
+2895;1084;sea;0;0;#Coast
+2895;1335;sea;0;0;#Coast
+2895;1083;sea;0;0;#Coast
+2895;1082;sea;0;0;#Coast
+2895;1093;sea;0;0;#Coast
+2895;1094;sea;0;0;#Coast
+2895;2706;sea;0;0;#Coast
+2988;1094;sea;0;0;#Coast
+2988;1095;sea;0;0;#Coast
+2988;1092;sea;0;0;#Coast
+2988;1254;sea;0;0;#Coast
+2988;1252;sea;0;0;#Coast
+2988;1466;sea;0;0;#Coast
+2988;1470;sea;0;0;#Coast
+2988;1332;sea;0;0;#Coast
+2988;1469;sea;0;0;#Coast
+2988;1273;sea;0;0;#Coast
+2988;1276;sea;0;0;#Coast
+2988;1277;sea;0;0;#Coast
+2988;1278;sea;0;0;#Coast
+2988;1282;sea;0;0;#Coast
+2988;1283;sea;0;0;#Coast
+2989;1283;sea;0;0;#Coast
+2989;1285;sea;0;0;#Coast
+2989;1281;sea;0;0;#Coast
+2989;1290;sea;0;0;#Coast
+2989;1289;sea;0;0;#Coast
+2989;1353;sea;0;0;#Coast
+2989;1354;sea;0;0;#Coast
+2989;1356;sea;0;0;#Coast
+2989;1359;sea;0;0;#Coast
+2989;1369;sea;0;0;#Coast
+2989;2445;sea;0;0;#Coast
+2990;2445;sea;0;0;#Coast
+2990;1369;sea;0;0;#Coast
+2990;1370;sea;0;0;#Coast
+2990;1367;sea;0;0;#Coast
+2990;1371;sea;0;0;#Coast
+2990;1376;sea;0;0;#Coast
+2990;1378;sea;0;0;#Coast
+2991;1378;sea;0;0;#Coast
+2991;1380;sea;0;0;#Coast
+2991;2442;sea;0;0;#Coast
+2991;1606;sea;0;0;#Coast
+2991;1607;sea;0;0;#Coast
+2991;1609;sea;0;0;#Coast
+2991;1610;sea;0;0;#Coast
+2991;1616;sea;0;0;#Coast
+2991;1641;sea;0;0;#Coast
+2991;1643;sea;0;0;#Coast
+2991;1644;sea;0;0;#Coast
+2986;1644;sea;0;0;#Coast
+2986;1646;sea;0;0;#Coast
+2986;1647;sea;0;0;#Coast
+2986;1649;sea;0;0;#Coast
+2986;1652;sea;0;0;#Coast
+2986;1944;sea;0;0;#Coast
+2986;1943;sea;0;0;#Coast
+2986;1942;sea;0;0;#Coast
+2985;1942;sea;0;0;#Coast
+2985;1949;sea;0;0;#Coast
+2985;1947;sea;0;0;#Coast
+2985;1955;sea;0;0;#Coast
+2985;1954;sea;0;0;#Coast
+2894;2706;sea;0;0;#Coast
+2987;1954;sea;0;0;#Coast
+2926;1957;sea;0;0;#Coast
+2926;1956;sea;0;0;#Coast
+2926;1960;sea;0;0;#Coast
+2926;1965;sea;0;0;#Coast
+2926;1963;sea;0;0;#Coast
+2926;1968;sea;0;0;#Coast
+2926;1970;sea;0;0;#Coast
+2926;1974;sea;0;0;#Coast
+2926;2880;sea;0;0;#Coast
+2900;2880;sea;0;0;#Coast
+3321;2698;sea;0;0;#Coast
+3323;2698;sea;0;0;#Coast
+3323;2697;sea;0;0;#Coast
+2959;2698;sea;0;0;#Coast
+2701;3321;sea;0;0;#Coast
+2701;3322;sea;0;0;#Coast
+2701;2964;sea;0;0;#Coast
+2937;1974;sea;0;0;#Coast
+2937;1971;sea;0;0;#Coast
+2943;1971;sea;0;0;#Coast
+2943;1975;sea;0;0;#Coast
+3196;1975;sea;0;0;#Coast
+3196;1973;sea;0;0;#Coast
+3196;1977;sea;0;0;#Coast
+3196;1980;sea;0;0;#Coast
+3196;2700;sea;0;0;#Coast
+3208;1980;sea;0;0;#Coast
+3208;1983;sea;0;0;#Coast
+3208;1985;sea;0;0;#Coast
+3208;1984;sea;0;0;#Coast
+3208;2001;sea;0;0;#Coast
+3208;2002;sea;0;0;#Coast
+3208;2005;sea;0;0;#Coast
+3208;2009;sea;0;0;#Coast
+3208;2006;sea;0;0;#Coast
+3208;2007;sea;0;0;#Coast
+3329;2007;sea;0;0;#Coast
+3329;2010;sea;0;0;#Coast
+3199;2010;sea;0;0;#Coast
+3199;2013;sea;0;0;#Coast
+3199;2029;sea;0;0;#Coast
+3201;2029;sea;0;0;#Coast
+3201;2030;sea;0;0;#Coast
+3201;2027;sea;0;0;#Coast
+3201;2441;sea;0;0;#Coast
+3202;2027;sea;0;0;#Coast
+3202;819;sea;0;0;#Coast
+3202;817;sea;0;0;#Coast
+3202;816;sea;0;0;#Coast
+3202;812;sea;0;0;#Coast
+3202;811;sea;0;0;#Coast
+3202;1333;sea;0;0;#Coast
+3202;803;sea;0;0;#Coast
+3202;801;sea;0;0;#Coast
+3202;792;sea;0;0;#Coast
+3202;791;sea;0;0;#Coast
+3202;593;sea;0;0;#Coast
+3202;592;sea;0;0;#Coast
+3202;591;sea;0;0;#Coast
+3202;582;sea;0;0;#Coast
+3202;580;sea;0;0;#Coast
+3200;2441;sea;0;0;#Coast
+3200;580;sea;0;0;#Coast
+3200;579;sea;0;0;#Coast
+3200;578;sea;0;0;#Coast
+3200;577;sea;0;0;#Coast
+3200;570;sea;0;0;#Coast
+3200;568;sea;0;0;#Coast
+3200;565;sea;0;0;#Coast
+3200;562;sea;0;0;#Coast
+3200;561;sea;0;0;#Coast
+3198;561;sea;0;0;#Coast
+3198;557;sea;0;0;#Coast
+3198;558;sea;0;0;#Coast
+3198;560;sea;0;0;#Coast
+3198;2700;sea;0;0;#Coast
+3198;2699;sea;0;0;#Coast
+3205;560;sea;0;0;#Coast
+3205;559;sea;0;0;#Coast
+3205;556;sea;0;0;#Coast
+3244;556;sea;0;0;#Coast
+3244;555;sea;0;0;#Coast
+3244;553;sea;0;0;#Coast
+3244;551;sea;0;0;#Coast
+3244;2714;sea;0;0;#Coast
+3244;550;sea;0;0;#Coast
+3244;546;sea;0;0;#Coast
+3203;546;sea;0;0;#Coast
+3203;544;sea;0;0;#Coast
+3203;543;sea;0;0;#Coast
+3203;542;sea;0;0;#Coast
+3203;540;sea;0;0;#Coast
+3203;538;sea;0;0;#Coast
+3203;524;sea;0;0;#Coast
+3203;520;sea;0;0;#Coast
+3203;519;sea;0;0;#Coast
+3203;517;sea;0;0;#Coast
+3203;516;sea;0;0;#Coast
+3203;296;sea;0;0;#Coast
+3203;298;sea;0;0;#Coast
+3203;259;sea;0;0;#Coast
+3203;258;sea;0;0;#Coast
+3203;256;sea;0;0;#Coast
+3203;247;sea;0;0;#Coast
+3203;250;sea;0;0;#Coast
+3203;224;sea;0;0;#Coast
+3203;221;sea;0;0;#Coast
+3203;219;sea;0;0;#Coast
+3245;219;sea;0;0;#Coast
+3245;2716;sea;0;0;#Coast
+3245;217;sea;0;0;#Coast
+3245;216;sea;0;0;#Coast
+3245;179;sea;0;0;#Coast
+3245;69;sea;0;0;#Coast
+3245;70;sea;0;0;#Coast
+3245;68;sea;0;0;#Coast
+3245;71;sea;0;0;#Coast
+3245;72;sea;0;0;#Coast
+3245;81;sea;0;0;#Coast
+3245;91;sea;0;0;#Coast
+3207;91;sea;0;0;#Coast
+3207;92;sea;0;0;#Coast
+3207;93;sea;0;0;#Coast
+3207;95;sea;0;0;#Coast
+3207;96;sea;0;0;#Coast
+3207;98;sea;0;0;#Coast
+3207;99;sea;0;0;#Coast
+3207;100;sea;0;0;#Coast
+3207;2699;sea;0;0;#Coast
+3197;2699;sea;0;0;#Coast
+3197;2700;sea;0;0;#Coast
+3197;100;sea;0;0;#Coast
+3197;98;sea;0;0;#Coast
+3204;98;sea;0;0;#Coast
+3204;97;sea;0;0;#Coast
+3204;90;sea;0;0;#Coast
+3204;87;sea;0;0;#Coast
+3204;60;sea;0;0;#Coast
+3204;59;sea;0;0;#Coast
+3204;57;sea;0;0;#Coast
+3204;51;sea;0;0;#Coast
+3204;52;sea;0;0;#Coast
+3204;54;sea;0;0;#Coast
+3204;55;sea;0;0;#Coast
+2934;55;sea;0;0;#Coast
+2934;54;sea;0;0;#Coast
+2934;53;sea;0;0;#Coast
+2965;53;sea;0;0;#Coast
+2965;50;sea;0;0;#Coast
+2965;49;sea;0;0;#Coast
+2965;46;sea;0;0;#Coast
+2965;2711;sea;0;0;#Coast
+2965;43;sea;0;0;#Coast
+2965;41;sea;0;0;#Coast
+2965;30;sea;0;0;#Coast
+2965;26;sea;0;0;#Coast
+2965;21;sea;0;0;#Coast
+2965;15;sea;0;0;#Coast
+2965;12;sea;0;0;#Coast
+2965;10;sea;0;0;#Coast
+2965;9;sea;0;0;#Coast
+2952;9;sea;0;0;#Coast
+2952;8;sea;0;0;#Coast
+2952;7;sea;0;0;#Coast
+2952;6;sea;0;0;#Coast
+2952;5;sea;0;0;#Coast
+2952;4;sea;0;0;#Coast
+2952;3;sea;0;0;#Coast
+2952;2;sea;0;0;#Coast
+2952;1;sea;0;0;#Coast
+3324;1;sea;0;0;#Coast
+3324;2696;sea;0;0;#Coast
+3324;2697;sea;0;0;#Coast
+3271;2696;sea;0;0;#Coast
+3271;1;sea;0;0;#Coast
+3271;2;sea;0;0;#Coast
+3271;3;sea;0;0;#Coast
+3271;4;sea;0;0;#Coast
+3271;5;sea;0;0;#Coast
+3327;5;sea;0;0;#Coast
+3327;7;sea;0;0;#Coast
+3327;8;sea;0;0;#Coast
+3327;10;sea;0;0;#Coast
+3327;11;sea;0;0;#Coast
+3327;13;sea;0;0;#Coast
+3327;16;sea;0;0;#Coast
+3327;18;sea;0;0;#Coast
+3327;102;sea;0;0;#Coast
+3327;103;sea;0;0;#Coast
+3328;103;sea;0;0;#Coast
+3328;104;sea;0;0;#Coast
+3328;105;sea;0;0;#Coast
+3328;126;sea;0;0;#Coast
+3328;128;sea;0;0;#Coast
+3328;130;sea;0;0;#Coast
+3328;131;sea;0;0;#Coast
+3328;133;sea;0;0;#Coast
+3328;2719;sea;0;0;#Coast
+3328;132;sea;0;0;#Coast
+3328;135;sea;0;0;#Coast
+3328;136;sea;0;0;#Coast
+3328;392;sea;0;0;#Coast
+3328;391;sea;0;0;#Coast
+3328;389;sea;0;0;#Coast
+3328;388;sea;0;0;#Coast
+3272;388;sea;0;0;#Coast
+3272;385;sea;0;0;#Coast
+2909;1339;sea;0;0;#Coast
+2910;1339;sea;0;0;#Coast
+3123;2712;sea;0;0;#Coast
+3127;2712;sea;0;0;#Coast
+3004;2482;sea;0;0;#Coast
+2967;2705;sea;0;0;#Coast
+
+2945;2702;sea;0;0;#Coast
+2946;2702;sea;0;0;#Coast
+2947;2702;sea;0;0;#Coast
+2946;2703;sea;0;0;#Coast
+2947;2703;sea;0;0;#Coast
+2946;2704;sea;0;0;#Coast
+2947;2704;sea;0;0;#Coast
+2948;2704;sea;0;0;#Coast
+#
+#
+#
+#
+3081;301;sea;0;0;#Coast
+3081;302;sea;0;0;#Coast
+3081;311;sea;0;0;#Coast
+3081;1268;sea;0;0;#Coast
+3081;317;sea;0;0;#Coast
+3081;319;sea;0;0;#Coast
+
+3381;311;sea;0;0;#Coast
+3381;312;sea;0;0;#Coast
+3381;314;sea;0;0;#Coast
+3381;326;sea;0;0;#Coast
+3381;328;sea;0;0;#Coast
+3381;317;sea;0;0;#Coast
+3381;1268;sea;0;0;#Coast
+
+3389;305;sea;0;0;#Coast
+3389;304;sea;0;0;#Coast
+3389;311;sea;0;0;#Coast
+3389;313;sea;0;0;#Coast
+3389;315;sea;0;0;#Coast
+
+3262;315;sea;0;0;#Coast
+3262;314;sea;0;0;#Coast
+3262;326;sea;0;0;#Coast
+3262;329;sea;0;0;#Coast
+3262;330;sea;0;0;#Coast
+3262;340;sea;0;0;#Coast
+3262;338;sea;0;0;#Coast
+
+3241;338;sea;0;0;#Coast
+3241;339;sea;0;0;#Coast
+3241;347;sea;0;0;#Coast
+3241;348;sea;0;0;#Coast
+3241;346;sea;0;0;#Coast
+
+2898;346;sea;0;0;#Coast
+2898;356;sea;0;0;#Coast
+2898;357;sea;0;0;#Coast
+2898;358;sea;0;0;#Coast
+2898;360;sea;0;0;#Coast
+2898;363;sea;0;0;#Coast
+2898;365;sea;0;0;#Coast
+2898;372;sea;0;0;#Coast
+
+3382;319;sea;0;0;#Coast
+3382;316;sea;0;0;#Coast
+2962;316;sea;0;0;#Coast
+2962;318;sea;0;0;#Coast
+2962;332;sea;0;0;#Coast
+2962;334;sea;0;0;#Coast
+2899;334;sea;0;0;#Coast
+2899;335;sea;0;0;#Coast
+2899;343;sea;0;0;#Coast
+2899;344;sea;0;0;#Coast
+2899;351;sea;0;0;#Coast
+2899;352;sea;0;0;#Coast
+2899;382;sea;0;0;#Coast
+2899;384;sea;0;0;#Coast
+2899;385;sea;0;0;#Coast
+
+2928;352;sea;0;0;#Coast
+2928;353;sea;0;0;#Coast
+2928;361;sea;0;0;#Coast
+2928;362;sea;0;0;#Coast
+2928;2718;sea;0;0;#Coast
+2928;364;sea;0;0;#Coast
+2928;366;sea;0;0;#Coast
+2928;367;sea;0;0;#Coast
+2928;370;sea;0;0;#Coast
+2928;382;sea;0;0;#Coast
+
+3178;365;sea;0;0;#Coast
+3178;364;sea;0;0;#Coast
+3178;366;sea;0;0;#Coast
+3178;368;sea;0;0;#Coast
+3178;375;sea;0;0;#Coast
+3178;371;sea;0;0;#Coast
+3178;372;sea;0;0;#Coast
+
+3242;2717;sea;0;0;#Coast
+3242;372;sea;0;0;#Coast
+3242;373;sea;0;0;#Coast
+3242;374;sea;0;0;#Coast
+3242;379;sea;0;0;#Coast
+3242;377;sea;0;0;#Coast
+3242;426;sea;0;0;#Coast
+3242;427;sea;0;0;#Coast
+3242;429;sea;0;0;#Coast
+3242;430;sea;0;0;#Coast
+3242;412;sea;0;0;#Coast
+3242;415;sea;0;0;#Coast
+3242;437;sea;0;0;#Coast
+3242;439;sea;0;0;#Coast
+3242;440;sea;0;0;#Coast
+3242;452;sea;0;0;#Coast
+3242;454;sea;0;0;#Coast
+3242;455;sea;0;0;#Coast
+3242;458;sea;0;0;#Coast
+3242;459;sea;0;0;#Coast
+3242;463;sea;0;0;#Coast
+3242;464;sea;0;0;#Coast
+3242;2659;sea;0;0;#Coast
+3243;2659;sea;0;0;#Coast
+3243;464;sea;0;0;#Coast
+3243;465;sea;0;0;#Coast
+
+2896;465;sea;0;0;#Coast
+2896;466;sea;0;0;#Coast
+2896;467;sea;0;0;#Coast
+2896;641;sea;0;0;#Coast
+2896;643;sea;0;0;#Coast
+2896;2823;sea;0;0;#Coast
+2896;2824;sea;0;0;#Coast
+3238;2824;sea;0;0;#Coast
+3238;2827;sea;0;0;#Coast
+3238;679;sea;0;0;#Coast
+3239;679;sea;0;0;#Coast
+3239;678;sea;0;0;#Coast
+3235;678;sea;0;0;#Coast
+3235;677;sea;0;0;#Coast
+3235;2814;sea;0;0;#Coast
+3235;2816;sea;0;0;#Coast
+3234;2816;sea;0;0;#Coast
+3234;2813;sea;0;0;#Coast
+3234;2817;sea;0;0;#Coast
+3233;2817;sea;0;0;#Coast
+3233;2754;sea;0;0;#Coast
+3233;2756;sea;0;0;#Coast
+3232;2756;sea;0;0;#Coast
+3232;2819;sea;0;0;#Coast
+3232;2821;sea;0;0;#Coast
+3232;2822;sea;0;0;#Coast
+3231;2822;sea;0;0;#Coast
+3231;740;sea;0;0;#Coast
+3231;737;sea;0;0;#Coast
+
+3230;737;sea;0;0;#Coast
+3230;736;sea;0;0;#Coast
+3230;687;sea;0;0;#Coast
+3230;690;sea;0;0;#Coast
+3230;689;sea;0;0;#Coast
+3229;689;sea;0;0;#Coast
+3228;689;sea;0;0;#Coast
+3228;2798;sea;0;0;#Coast
+3228;2800;sea;0;0;#Coast
+3228;2808;sea;0;0;#Coast
+3228;745;sea;0;0;#Coast
+3228;2109;sea;0;0;#Coast
+3228;2108;sea;0;0;#Coast
+3227;2108;sea;0;0;#Coast
+3227;2107;sea;0;0;#Coast
+
+3226;2107;sea;0;0;#Coast
+3226;2112;sea;0;0;#Coast
+3380;2112;sea;0;0;#Coast
+3380;2111;sea;0;0;#Coast
+3380;2128;sea;0;0;#Coast
+3380;2135;sea;0;0;#Coast
+3380;2132;sea;0;0;#Coast
+3224;2132;sea;0;0;#Coast
+
+3223;2132;sea;0;0;#Coast
+3223;2133;sea;0;0;#Coast
+3223;2153;sea;0;0;#Coast
+3223;2154;sea;0;0;#Coast
+3222;2154;sea;0;0;#Coast
+3222;2155;sea;0;0;#Coast
+3222;2151;sea;0;0;#Coast
+3170;2151;sea;0;0;#Coast
+3170;2163;sea;0;0;#Coast
+3170;2164;sea;0;0;#Coast
+3170;2162;sea;0;0;#Coast
+3167;2162;sea;0;0;#Coast
+3167;2231;sea;0;0;#Coast
+3167;2235;sea;0;0;#Coast
+3167;2233;sea;0;0;#Coast
+3166;2233;sea;0;0;#Coast
+3166;2248;sea;0;0;#Coast
+3166;2247;sea;0;0;#Coast
+3166;2252;sea;0;0;#Coast
+3181;2252;sea;0;0;#Coast
+3181;2251;sea;0;0;#Coast
+3181;2254;sea;0;0;#Coast
+3181;2408;sea;0;0;#Coast
+3181;2407;sea;0;0;#Coast
+3086;2407;sea;0;0;#Coast
+3086;2401;sea;0;0;#Coast
+3086;2403;sea;0;0;#Coast
+3086;2404;sea;0;0;#Coast
+3086;2405;sea;0;0;#Coast
+3289;2183;sea;0;0;#Coast
+3289;2184;sea;0;0;#Coast
+3289;2185;sea;0;0;#Coast
+3156;2185;sea;0;0;#Coast
+3156;2672;sea;0;0;#Coast
+3156;2673;sea;0;0;#Coast
+3156;2675;sea;0;0;#Coast
+3156;2674;sea;0;0;#Coast
+3156;2677;sea;0;0;#Coast
+3156;2678;sea;0;0;#Coast
+3157;2678;sea;0;0;#Coast
+3157;2676;sea;0;0;#Coast
+3155;2676;sea;0;0;#Coast
+3155;2685;sea;0;0;#Coast
+3155;2682;sea;0;0;#Coast
+3155;2681;sea;0;0;#Coast
+3155;2683;sea;0;0;#Coast
+3155;2684;sea;0;0;#Coast
+3155;2693;sea;0;0;#Coast
+3182;2693;sea;0;0;#Coast
+3182;2695;sea;0;0;#Coast
+3182;2182;sea;0;0;#Coast
+3258;2182;sea;0;0;#Coast
+3258;2183;sea;0;0;#Coast
+3086;2407;sea;0;0;#Coast
+3086;2401;sea;0;0;#Coast
+3086;2403;sea;0;0;#Coast
+3086;2404;sea;0;0;#Coast
+3086;2405;sea;0;0;#Coast
+3120;2405;sea;0;0;#Coast
+3120;2500;sea;0;0;#Coast
+3120;2497;sea;0;0;#Coast
+3120;2499;sea;0;0;#Coast
+3299;2499;sea;0;0;#Coast
+3299;2498;sea;0;0;#Coast
+3306;2498;sea;0;0;#Coast
+3306;2690;sea;0;0;#Coast
+3306;2688;sea;0;0;#Coast
+3306;2444;sea;0;0;#Coast
+3257;2444;sea;0;0;#Coast
+3257;2686;sea;0;0;#Coast
+3257;2689;sea;0;0;#Coast
+3388;2689;sea;0;0;#Coast
+3388;2450;sea;0;0;#Coast
+3388;2447;sea;0;0;#Coast
+3388;2598;sea;0;0;#Coast
+3388;2459;sea;0;0;#Coast
+3079;2459;sea;0;0;#Coast
+3079;2458;sea;0;0;#Coast
+3079;2456;sea;0;0;#Coast
+3079;2658;sea;0;0;#Coast
+3079;2467;sea;0;0;#Coast
+3298;2467;sea;0;0;#Coast
+3298;2469;sea;0;0;#Coast
+3298;2470;sea;0;0;#Coast
+3298;2466;sea;0;0;#Coast
+3298;2201;sea;0;0;#Coast
+3298;2434;sea;0;0;#Coast
+3298;2455;sea;0;0;#Coast
+3298;2660;sea;0;0;#Coast
+3298;2452;sea;0;0;#Coast
+3298;2451;sea;0;0;#Coast
+3298;2453;sea;0;0;#Coast
+3298;2236;sea;0;0;#Coast
+3298;2239;sea;0;0;#Coast
+3298;2237;sea;0;0;#Coast
+3298;2478;sea;0;0;#Coast
+3298;2437;sea;0;0;#Coast
+3298;2654;sea;0;0;#Coast
+3298;2653;sea;0;0;#Coast
+3298;2518;sea;0;0;#Coast
+3298;2520;sea;0;0;#Coast
+3082;2237;sea;0;0;#Coast
+3082;2238;sea;0;0;#Coast
+3082;2244;sea;0;0;#Coast
+3082;2579;sea;0;0;#Coast
+3082;2578;sea;0;0;#Coast
+3082;2577;sea;0;0;#Coast
+3082;2476;sea;0;0;#Coast
+3082;2480;sea;0;0;#Coast
+3082;2479;sea;0;0;#Coast
+3082;2478;sea;0;0;#Coast
+3305;2238;sea;0;0;#Coast
+3305;2627;sea;0;0;#Coast
+3305;2628;sea;0;0;#Coast
+3305;2622;sea;0;0;#Coast
+3305;2159;sea;0;0;#Coast
+3305;2160;sea;0;0;#Coast
+3305;2158;sea;0;0;#Coast
+3305;2280;sea;0;0;#Coast
+3305;2276;sea;0;0;#Coast
+3305;2245;sea;0;0;#Coast
+3305;2244;sea;0;0;#Coast
+3260;2520;sea;0;0;#Coast
+3260;2519;sea;0;0;#Coast
+3260;2528;sea;0;0;#Coast
+3260;2526;sea;0;0;#Coast
+3260;2530;sea;0;0;#Coast
+3260;2532;sea;0;0;#Coast
+3260;2535;sea;0;0;#Coast
+3179;2535;sea;0;0;#Coast
+3179;2533;sea;0;0;#Coast
+3300;2533;sea;0;0;#Coast
+3300;2532;sea;0;0;#Coast
+3300;2531;sea;0;0;#Coast
+3302;2531;sea;0;0;#Coast
+3301;2531;sea;0;0;#Coast
+3301;2534;sea;0;0;#Coast
+3301;2527;sea;0;0;#Coast
+3301;2522;sea;0;0;#Coast
+3301;2523;sea;0;0;#Coast
+3301;2524;sea;0;0;#Coast
+3301;2542;sea;0;0;#Coast
+3301;2443;sea;0;0;#Coast
+3176;2542;sea;0;0;#Coast
+3176;2443;sea;0;0;#Coast
+3176;2541;sea;0;0;#Coast
+3176;2493;sea;0;0;#Coast
+3176;2491;sea;0;0;#Coast
+3176;2505;sea;0;0;#Coast
+3176;2503;sea;0;0;#Coast
+3176;2548;sea;0;0;#Coast
+3176;2546;sea;0;0;#Coast
+3176;2547;sea;0;0;#Coast
+
+3174;2656;sea;0;0;#Coast
+
+3396;709;sea;0;0;#Coast
+3396;707;sea;0;0;#Coast
+3396;705;sea;0;0;#Coast
+3396;702;sea;0;0;#Coast
+3396;2317;sea;0;0;#Coast
+3396;2312;sea;0;0;#Coast
+3396;2315;sea;0;0;#Coast
+
+3237;702;sea;0;0;#Coast
+3237;703;sea;0;0;#Coast
+3237;704;sea;0;0;#Coast
+3237;701;sea;0;0;#Coast
+3237;2793;sea;0;0;#Coast
+3237;2797;sea;0;0;#Coast
+3237;1481;sea;0;0;#Coast
+3237;2117;sea;0;0;#Coast
+3237;2119;sea;0;0;#Coast
+3237;2121;sea;0;0;#Coast
+3237;2122;sea;0;0;#Coast
+3237;2124;sea;0;0;#Coast
+3237;2122;sea;0;0;#Coast
+3237;2125;sea;0;0;#Coast
+3237;2305;sea;0;0;#Coast
+3237;2301;sea;0;0;#Coast
+3237;2319;sea;0;0;#Coast
+3237;2318;sea;0;0;#Coast
+3237;2316;sea;0;0;#Coast
+3237;2317;sea;0;0;#Coast
+
+3337;1336;sea;0;0;#Coast
+3337;2315;sea;0;0;#Coast
+3337;2311;sea;0;0;#Coast
+3337;2484;sea;0;0;#Coast
+
+3077;2311;sea;0;0;#Coast
+3077;2314;sea;0;0;#Coast
+3077;2313;sea;0;0;#Coast
+3077;2490;sea;0;0;#Coast
+3077;2488;sea;0;0;#Coast
+3077;2115;sea;0;0;#Coast
+3077;2282;sea;0;0;#Coast
+3077;2322;sea;0;0;#Coast
+3077;2321;sea;0;0;#Coast
+3077;2323;sea;0;0;#Coast
+
+3076;2484;sea;0;0;#Coast
+3076;2311;sea;0;0;#Coast
+3076;2323;sea;0;0;#Coast
+3076;2341;sea;0;0;#Coast
+3076;2345;sea;0;0;#Coast
+3076;2343;sea;0;0;#Coast
+3076;2359;sea;0;0;#Coast
+
+3080;2359;sea;0;0;#Coast
+3080;2357;sea;0;0;#Coast
+3080;2360;sea;0;0;#Coast
+3080;2616;sea;0;0;#Coast
+
+3172;2616;sea;0;0;#Coast
+3172;2620;sea;0;0;#Coast
+3172;2619;sea;0;0;#Coast
+3172;2605;sea;0;0;#Coast
+3172;2601;sea;0;0;#Coast
+3172;2604;sea;0;0;#Coast
+3172;2610;sea;0;0;#Coast
+3172;2607;sea;0;0;#Coast
+3172;2136;sea;0;0;#Coast
+3172;2138;sea;0;0;#Coast
+
+3392;2607;sea;0;0;#Coast
+3392;2608;sea;0;0;#Coast
+3392;2609;sea;0;0;#Coast
+3392;2650;sea;0;0;#Coast
+3392;2649;sea;0;0;#Coast
+3392;2646;sea;0;0;#Coast
+3392;2230;sea;0;0;#Coast
+3392;2214;sea;0;0;#Coast
+3392;2139;sea;0;0;#Coast
+3392;2136;sea;0;0;#Coast
+
+3171;2138;sea;0;0;#Coast
+3171;2140;sea;0;0;#Coast
+3171;2208;sea;0;0;#Coast
+
+2349;2208;sea;0;0;#Coast
+2349;2206;sea;0;0;#Coast
+2349;2200;sea;0;0;#Coast
+2349;2642;sea;0;0;#Coast
+2349;2645;sea;0;0;#Coast
+
+3125;2645;sea;0;0;#Coast
+3125;2643;sea;0;0;#Coast
+3125;2190;sea;0;0;#Coast
+3125;2189;sea;0;0;#Coast
+3125;2186;sea;0;0;#Coast
+
+3285;2360;sea;0;0;#Coast
+3285;2356;sea;0;0;#Coast
+3285;2350;sea;0;0;#Coast
+3285;2660;sea;0;0;#Coast
+3285;2670;sea;0;0;#Coast
+3285;2618;sea;0;0;#Coast
+3285;2612;sea;0;0;#Coast
+3285;2611;sea;0;0;#Coast
+
+3339;2350;sea;0;0;#Coast
+3339;2348;sea;0;0;#Coast
+3339;2351;sea;0;0;#Coast
+3339;2353;sea;0;0;#Coast
+3339;2352;sea;0;0;#Coast
+3339;2333;sea;0;0;#Coast
+3339;2334;sea;0;0;#Coast
+
+3263;2611;sea;0;0;#Coast
+3263;2615;sea;0;0;#Coast
+
+3259;2334;sea;0;0;#Coast
+3259;2394;sea;0;0;#Coast
+3259;2392;sea;0;0;#Coast
+3259;2395;sea;0;0;#Coast
+3259;2389;sea;0;0;#Coast
+
+3264;2389;sea;0;0;#Coast
+3264;2483;sea;0;0;#Coast
+3264;2386;sea;0;0;#Coast
+3264;2615;sea;0;0;#Coast
+3264;2614;sea;0;0;#Coast
+3264;2609;sea;0;0;#Coast
+3264;2650;sea;0;0;#Coast
+
+3287;2386;sea;0;0;#Coast
+3287;2390;sea;0;0;#Coast
+3287;2387;sea;0;0;#Coast
+3287;2388;sea;0;0;#Coast
+3287;2396;sea;0;0;#Coast
+3287;2398;sea;0;0;#Coast
+3287;2400;sea;0;0;#Coast
+3287;2367;sea;0;0;#Coast
+3287;2370;sea;0;0;#Coast
+3287;2570;sea;0;0;#Coast
+3287;2567;sea;0;0;#Coast
+3287;2580;sea;0;0;#Coast
+3287;2380;sea;0;0;#Coast
+3287;2380;sea;0;0;#Coast
+3287;2380;sea;0;0;#Coast
+3287;2566;sea;0;0;#Coast
+
+3377;2650;sea;0;0;#Coast
+3377;2648;sea;0;0;#Coast
+3377;2471;sea;0;0;#Coast
+3377;2472;sea;0;0;#Coast
+
+3286;2472;sea;0;0;#Coast
+3286;2475;sea;0;0;#Coast
+3286;2473;sea;0;0;#Coast
+
+3264;2566;sea;0;0;#Coast
+3264;2569;sea;0;0;#Coast
+3264;2586;sea;0;0;#Coast
+3264;2588;sea;0;0;#Coast
+3264;2506;sea;0;0;#Coast
+
+3246;2506;sea;0;0;#Coast
+3246;2510;sea;0;0;#Coast
+3246;2634;sea;0;0;#Coast
+3246;2635;sea;0;0;#Coast
+3246;2632;sea;0;0;#Coast
+3246;2564;sea;0;0;#Coast
+3246;2562;sea;0;0;#Coast
+3246;2192;sea;0;0;#Coast
+3246;2193;sea;0;0;#Coast
+3246;2194;sea;0;0;#Coast
+3246;2473;sea;0;0;#Coast
+
+#End
+
+3336;709;sea;0;0;#Coast
+3336;322;sea;0;0;#Coast
+3336;324;sea;0;0;#Coast
+3336;699;sea;0;0;#Coast
+3335;699;sea;0;0;#Coast
+3335;698;sea;0;0;#Coast
+3335;697;sea;0;0;#Coast
+3069;697;sea;0;0;#Coast
+3069;2485;sea;0;0;#Coast
+3069;700;sea;0;0;#Coast
+3069;692;sea;0;0;#Coast
+3399;692;sea;0;0;#Coast
+3399;693;sea;0;0;#Coast
+3399;694;sea;0;0;#Coast
+3399;1501;sea;0;0;#Coast
+3399;1502;sea;0;0;#Coast
+3399;1503;sea;0;0;#Coast
+3399;715;sea;0;0;#Coast
+3399;713;sea;0;0;#Coast
+3399;714;sea;0;0;#Coast
+3399;2833;sea;0;0;#Coast
+3068;2833;sea;0;0;#Coast
+3068;2835;sea;0;0;#Coast
+3068;906;sea;0;0;#Coast
+3068;909;sea;0;0;#Coast
+3068;905;sea;0;0;#Coast
+3068;902;sea;0;0;#Coast
+3068;901;sea;0;0;#Coast
+3068;160;sea;0;0;#Coast
+3068;158;sea;0;0;#Coast
+3068;243;sea;0;0;#Coast
+3068;242;sea;0;0;#Coast
+3067;242;sea;0;0;#Coast
+3067;241;sea;0;0;#Coast
+3067;245;sea;0;0;#Coast
+3067;210;sea;0;0;#Coast
+3067;207;sea;0;0;#Coast
+3067;896;sea;0;0;#Coast
+3067;900;sea;0;0;#Coast
+3067;898;sea;0;0;#Coast
+3341;898;sea;0;0;#Coast
+3341;899;sea;0;0;#Coast
+3341;894;sea;0;0;#Coast
+3341;892;sea;0;0;#Coast
+3341;895;sea;0;0;#Coast
+3341;2481;sea;0;0;#Coast
+3063;895;sea;0;0;#Coast
+3063;893;sea;0;0;#Coast
+3063;878;sea;0;0;#Coast
+3063;876;sea;0;0;#Coast
+3063;879;sea;0;0;#Coast
+3063;122;sea;0;0;#Coast
+3063;121;sea;0;0;#Coast
+3063;125;sea;0;0;#Coast
+3063;859;sea;0;0;#Coast
+3063;857;sea;0;0;#Coast
+3063;856;sea;0;0;#Coast
+3063;854;sea;0;0;#Coast
+3063;855;sea;0;0;#Coast
+3063;2076;sea;0;0;#Coast
+3063;2080;sea;0;0;#Coast
+3062;2080;sea;0;0;#Coast
+3062;2079;sea;0;0;#Coast
+3062;2083;sea;0;0;#Coast
+3062;2085;sea;0;0;#Coast
+3060;2085;sea;0;0;#Coast
+3060;2081;sea;0;0;#Coast
+3060;2094;sea;0;0;#Coast
+3060;2091;sea;0;0;#Coast
+3060;2098;sea;0;0;#Coast
+3060;2097;sea;0;0;#Coast
+3059;2097;sea;0;0;#Coast
+3059;2100;sea;0;0;#Coast
+3059;2101;sea;0;0;#Coast
+3059;2105;sea;0;0;#Coast
+3061;2713;sea;0;0;#Coast
+3065;2713;sea;0;0;#Coast
+3058;2713;sea;0;0;#Coast
+3056;2105;sea;0;0;#Coast
+3056;2102;sea;0;0;#Coast
+3056;2103;sea;0;0;#Coast
+3056;1874;sea;0;0;#Coast
+3055;1874;sea;0;0;#Coast
+3055;1872;sea;0;0;#Coast
+3055;1875;sea;0;0;#Coast
+3055;1868;sea;0;0;#Coast
+3055;1864;sea;0;0;#Coast
+3055;1865;sea;0;0;#Coast
+3049;1865;sea;0;0;#Coast
+3049;1862;sea;0;0;#Coast
+3049;1861;sea;0;0;#Coast
+3049;1860;sea;0;0;#Coast
+3048;1860;sea;0;0;#Coast
+3048;1856;sea;0;0;#Coast
+3048;1849;sea;0;0;#Coast
+3048;1848;sea;0;0;#Coast
+3048;1843;sea;0;0;#Coast
+3048;1842;sea;0;0;#Coast
+3048;1844;sea;0;0;#Coast
+3048;1832;sea;0;0;#Coast
+3048;1833;sea;0;0;#Coast
+3048;1835;sea;0;0;#Coast
+3048;1834;sea;0;0;#Coast
+3048;1828;sea;0;0;#Coast
+3048;1830;sea;0;0;#Coast
+3048;1826;sea;0;0;#Coast
+3047;1826;sea;0;0;#Coast
+3046;1826;sea;0;0;#Coast
+3046;1830;sea;0;0;#Coast
+3046;1827;sea;0;0;#Coast
+3046;1829;sea;0;0;#Coast
+3046;1823;sea;0;0;#Coast
+3046;1824;sea;0;0;#Coast
+3046;1340;sea;0;0;#Coast
+3044;1340;sea;0;0;#Coast
+3044;1824;sea;0;0;#Coast
+3044;1816;sea;0;0;#Coast
+3044;1820;sea;0;0;#Coast
+3033;1820;sea;0;0;#Coast
+3033;1818;sea;0;0;#Coast
+3033;1819;sea;0;0;#Coast
+3033;1813;sea;0;0;#Coast
+3033;1812;sea;0;0;#Coast
+3320;1812;sea;0;0;#Coast
+3320;1811;sea;0;0;#Coast
+3320;1810;sea;0;0;#Coast
+3320;1809;sea;0;0;#Coast
+3320;1806;sea;0;0;#Coast
+3320;1801;sea;0;0;#Coast
+3320;1792;sea;0;0;#Coast
+3320;1795;sea;0;0;#Coast
+3028;1795;sea;0;0;#Coast
+3028;1791;sea;0;0;#Coast
+3028;1794;sea;0;0;#Coast
+3028;1788;sea;0;0;#Coast
+3028;1787;sea;0;0;#Coast
+3318;1787;sea;0;0;#Coast
+3318;1776;sea;0;0;#Coast
+3318;1778;sea;0;0;#Coast
+3318;1779;sea;0;0;#Coast
+3318;1729;sea;0;0;#Coast
+3318;1725;sea;0;0;#Coast
+3318;1724;sea;0;0;#Coast
+3318;1723;sea;0;0;#Coast
+3318;2708;sea;0;0;#Coast
+3023;2708;sea;0;0;#Coast
+3023;2707;sea;0;0;#Coast
+3022;2707;sea;0;0;#Coast
+3022;2709;sea;0;0;#Coast
+3022;2708;sea;0;0;#Coast
+3016;2708;sea;0;0;#Coast
+3016;1723;sea;0;0;#Coast
+3016;1721;sea;0;0;#Coast
+3016;1716;sea;0;0;#Coast
+3345;1716;sea;0;0;#Coast
+3334;1716;sea;0;0;#Coast
+3334;1717;sea;0;0;#Coast
+3334;1714;sea;0;0;#Coast
+3334;1712;sea;0;0;#Coast
+3334;1711;sea;0;0;#Coast
+3007;1711;sea;0;0;#Coast
+3007;1708;sea;0;0;#Coast
+3007;1709;sea;0;0;#Coast
+3007;1704;sea;0;0;#Coast
+3007;1686;sea;0;0;#Coast
+3007;1688;sea;0;0;#Coast
+3007;1687;sea;0;0;#Coast
+3007;1680;sea;0;0;#Coast
+3007;1677;sea;0;0;#Coast
+3007;1634;sea;0;0;#Coast
+3007;1630;sea;0;0;#Coast
+3007;1628;sea;0;0;#Coast
+3006;1628;sea;0;0;#Coast
+3006;1629;sea;0;0;#Coast
+3006;1622;sea;0;0;#Coast
+2993;1622;sea;0;0;#Coast
+2993;1621;sea;0;0;#Coast
+2993;1613;sea;0;0;#Coast
+2993;1614;sea;0;0;#Coast
+2992;1614;sea;0;0;#Coast
+2992;1615;sea;0;0;#Coast
+2992;1611;sea;0;0;#Coast
+2992;1608;sea;0;0;#Coast
+2992;1606;sea;0;0;#Coast
+2992;2442;sea;0;0;#Coast
+2992;1380;sea;0;0;#Coast
+2992;1379;sea;0;0;#Coast
+2992;1373;sea;0;0;#Coast
+2992;1387;sea;0;0;#Coast
+2992;1390;sea;0;0;#Coast
+2992;1388;sea;0;0;#Coast
+2992;1400;sea;0;0;#Coast
+2992;1399;sea;0;0;#Coast
+2992;1396;sea;0;0;#Coast
+2992;1397;sea;0;0;#Coast
+3330;1397;sea;0;0;#Coast
+3330;1402;sea;0;0;#Coast
+3330;1404;sea;0;0;#Coast
+2994;1404;sea;0;0;#Coast
+2995;1404;sea;0;0;#Coast
+2995;1403;sea;0;0;#Coast
+2995;1409;sea;0;0;#Coast
+2995;1406;sea;0;0;#Coast
+2995;1410;sea;0;0;#Coast
+2995;1419;sea;0;0;#Coast
+2996;1419;sea;0;0;#Coast
+2996;1423;sea;0;0;#Coast
+2996;1422;sea;0;0;#Coast
+2996;1429;sea;0;0;#Coast
+2996;1430;sea;0;0;#Coast
+2996;1426;sea;0;0;#Coast
+3343;1426;sea;0;0;#Coast
+2997;1426;sea;0;0;#Coast
+2997;1427;sea;0;0;#Coast
+2997;1428;sea;0;0;#Coast
+2997;1431;sea;0;0;#Coast
+2997;1432;sea;0;0;#Coast
+2997;1474;sea;0;0;#Coast
+2997;1473;sea;0;0;#Coast
+2997;1479;sea;0;0;#Coast
+2997;1478;sea;0;0;#Coast
+2997;1270;sea;0;0;#Coast
+3284;1270;sea;0;0;#Coast
+2998;1478;sea;0;0;#Coast
+2998;1481;sea;0;0;#Coast
+2998;1494;sea;0;0;#Coast
+2998;1493;sea;0;0;#Coast
+2998;1509;sea;0;0;#Coast
+2998;1507;sea;0;0;#Coast
+2998;1508;sea;0;0;#Coast
+2998;1512;sea;0;0;#Coast
+2998;1515;sea;0;0;#Coast
+2998;1270;sea;0;0;#Coast
+2999;1515;sea;0;0;#Coast
+2999;1511;sea;0;0;#Coast
+2999;1538;sea;0;0;#Coast
+2999;1540;sea;0;0;#Coast
+2999;1539;sea;0;0;#Coast
+2999;1544;sea;0;0;#Coast
+2999;1542;sea;0;0;#Coast
+2999;1548;sea;0;0;#Coast
+2999;1549;sea;0;0;#Coast
+2999;1547;sea;0;0;#Coast
+2999;1550;sea;0;0;#Coast
+2999;1551;sea;0;0;#Coast
+2999;1553;sea;0;0;#Coast
+3000;1553;sea;0;0;#Coast
+3000;1554;sea;0;0;#Coast
+3001;1554;sea;0;0;#Coast
+3004;3004;sea;0;0;#Coast
+
+#Inner Seas
+
+3236;643;sea;0;0;#Coast
+3236;645;sea;0;0;#Coast
+3236;647;sea;0;0;#Coast
+3236;646;sea;0;0;#Coast
+3236;2823;sea;0;0;#Coast
+3236;2825;sea;0;0;#Coast
+3236;2826;sea;0;0;#Coast
+3307;646;sea;0;0;#Coast
+3307;649;sea;0;0;#Coast
+3307;2826;sea;0;0;#Coast
+3307;675;sea;0;0;#Coast
+3307;752;sea;0;0;#Coast
+3398;649;sea;0;0;#Coast
+3398;650;sea;0;0;#Coast
+3398;666;sea;0;0;#Coast
+3398;752;sea;0;0;#Coast
+3398;753;sea;0;0;#Coast
+3398;751;sea;0;0;#Coast
+3304;666;sea;0;0;#Coast
+3304;667;sea;0;0;#Coast
+3304;685;sea;0;0;#Coast
+3304;683;sea;0;0;#Coast
+3304;684;sea;0;0;#Coast
+3304;755;sea;0;0;#Coast
+3304;751;sea;0;0;#Coast
+3383;667;sea;0;0;#Coast
+3383;669;sea;0;0;#Coast
+3383;661;sea;0;0;#Coast
+3383;665;sea;0;0;#Coast
+3383;662;sea;0;0;#Coast
+3383;624;sea;0;0;#Coast
+3393;624;sea;0;0;#Coast
+3393;769;sea;0;0;#Coast
+3393;766;sea;0;0;#Coast
+3393;2830;sea;0;0;#Coast
+3393;2829;sea;0;0;#Coast
+3169;2829;sea;0;0;#Coast
+3169;725;sea;0;0;#Coast
+3169;2738;sea;0;0;#Coast
+3169;682;sea;0;0;#Coast
+3169;685;sea;0;0;#Coast
+3356;766;sea;0;0;#Coast
+3356;768;sea;0;0;#Coast
+3356;767;sea;0;0;#Coast
+3356;2828;sea;0;0;#Coast
+3356;2831;sea;0;0;#Coast
+3356;2830;sea;0;0;#Coast
+3310;767;sea;0;0;#Coast
+3310;2773;sea;0;0;#Coast
+3310;2775;sea;0;0;#Coast
+3310;2828;sea;0;0;#Coast
+3310;2832;sea;0;0;#Coast
+3384;2775;sea;0;0;#Coast
+3384;920;sea;0;0;#Coast
+3384;917;sea;0;0;#Coast
+3385;917;sea;0;0;#Coast
+3385;918;sea;0;0;#Coast
+3385;866;sea;0;0;#Coast
+3385;913;sea;0;0;#Coast
+3385;915;sea;0;0;#Coast
+3385;911;sea;0;0;#Coast
+3385;910;sea;0;0;#Coast
+3385;908;sea;0;0;#Coast
+3385;907;sea;0;0;#Coast
+3385;906;sea;0;0;#Coast
+3385;2835;sea;0;0;#Coast
+3385;2834;sea;0;0;#Coast
+3385;731;sea;0;0;#Coast
+3385;733;sea;0;0;#Coast
+3311;733;sea;0;0;#Coast
+3311;735;sea;0;0;#Coast
+3311;734;sea;0;0;#Coast
+3311;728;sea;0;0;#Coast
+3311;726;sea;0;0;#Coast
+3311;2844;sea;0;0;#Coast
+3311;2832;sea;0;0;#Coast

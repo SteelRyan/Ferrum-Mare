@@ -1,0 +1,18 @@
+country_event = {
+    id = 4760000
+    title = "name_4760000"
+    desc = "desc_4760000"
+
+    major = yes
+
+    fire_only_once = yes
+
+    is_triggered_only = yes
+    
+ option = {
+        name = "Well Appreciated"
+    }
+ option = {
+        name = "Okay, Now Stop taking everything personal!"
+    }
+}

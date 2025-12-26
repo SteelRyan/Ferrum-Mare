@@ -1,0 +1,10 @@
+owner = OL1
+controller = OL1
+add_core = OL1
+
+trade_goods = grain
+
+
+life_rating = 38
+
+set_province_flag = farm

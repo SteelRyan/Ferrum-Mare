@@ -1,0 +1,13 @@
+owner = IM1
+controller = IM1
+add_core = IM1
+
+add_core = EM3
+add_core = TR1
+add_core = DO1
+
+trade_goods = timber
+
+life_rating = 36
+
+set_province_flag = farm

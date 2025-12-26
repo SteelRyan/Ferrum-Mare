@@ -1,0 +1,11 @@
+owner = ZE2
+controller = ZE2
+add_core = ZE2
+
+trade_goods = coal
+
+
+
+life_rating = 38
+
+set_province_flag = mine

@@ -1,0 +1,12 @@
+owner = HA1
+controller = HA1
+add_core = HA1
+
+trade_goods = iron
+
+
+
+
+life_rating = 36
+
+set_province_flag = mine

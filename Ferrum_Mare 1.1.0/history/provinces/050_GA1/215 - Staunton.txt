@@ -1,0 +1,9 @@
+owner = FE2
+controller = FE2
+add_core = FE2
+
+trade_goods = cattle
+
+life_rating = 38
+
+set_province_flag = farm

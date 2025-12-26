@@ -1,0 +1,186 @@
+country_event = {
+	id = 4760101
+	title = "Judgement"
+	desc = "The vast and venerable expanse of the ancient Realm, once resplendent in its glory..."
+	
+	major = yes
+	fire_only_once = yes
+
+	trigger = {
+		year = 1851
+		NOT = { year = 1852 }
+		tag = BOT
+		NOT = { DO1 = { has_country_flag = doridias_judgement_pending } }
+		NOT = { DO1 = { has_country_flag = doridias_judgement_done } }
+		
+	}
+
+	mean_time_to_happen = {
+	days = 1
+	}
+
+	immediate = {
+		DO1 = {
+			set_variable = {
+				which = DOR_score
+				value = 41
+			} 
+		}	
+	}
+
+	option = {
+		name = "It is done"
+		DO1 = { 
+			all_core = { 
+				limit = { NOT = { owner = { tag = DO1 } } }
+				remove_core = DO1
+				DO1 = {
+					change_variable = {
+						which = DOR_score
+						value = -1
+					} 
+				}			
+			}
+		set_country_flag = doridias_judgement_pending
+		}
+		511 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		512 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		513 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		514 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		515 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		516 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		517 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		518 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		519 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		520 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		521 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		522 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		523 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		524 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		525 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		526 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		527 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		528 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		529 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		530 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		531 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		532 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		533 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		534 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		535 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		536 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		537 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		538 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		539 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+		540 = { limit = { NOT = { is_core = DO1 } } add_core = DO1 }
+	}
+}
+
+country_event = {
+	id = 4760102
+	title = "It's Grandeur Irretrievably Diminished"
+	desc = "The vast and venerable expanse of the ancient Realm, once resplendent in its glory, now lies forsaken, its grandeur irretrievably diminished by the grievous defeats suffered over the past decades—lost, alas, beyond the hope of reconciliation."
+
+	major = yes
+	fire_only_once = yes
+
+	trigger = {
+		tag = DO1
+		DO1 = { has_country_flag = doridias_judgement_pending }
+		DO1 = { NOT = { has_country_flag = doridias_judgement_done } }
+		NOT = { 
+			check_variable = {
+				which = DOR_score
+				value = 12
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+	days = 1
+	}
+
+	immediate = {
+		DO1 = { set_country_flag = doridias_judgement_done }
+	}
+
+	option = {
+		name = "Sorrow, for what has once been, is no more..."
+		prestige = -10
+	}
+}
+
+country_event = {
+	id = 4760103
+	title = "It's Grandeur Resilient and Resurgent"
+	desc = "The vast and venerable expanse of the ancient Realm, once resplendent in its glory, now risen anew, with lands reclaimed from the depths of past despair. Though diminished, fragments of its former grandeur endure, a testament to resilience amid ruin."
+
+	major = yes
+	fire_only_once = yes
+
+	trigger = {
+		tag = DO1
+		DO1 = { has_country_flag = doridias_judgement_pending }
+		DO1 = { NOT = { has_country_flag = doridias_judgement_done } }
+		NOT = { 
+			check_variable = {
+				which = DOR_score
+				value = 30
+			}
+		}
+		check_variable = {
+			which = DOR_score
+			value = 12
+		}
+	}
+
+	mean_time_to_happen = {
+	days = 1
+	}
+
+	immediate = {
+		DO1 = { set_country_flag = doridias_judgement_done }
+	}
+
+	option = {
+		name = "We remain to fight another day..."
+		prestige = 50
+	}
+}
+
+country_event = {
+	id = 4760104
+	title = "It's Grandeur Born Anew"
+	desc = "The vast and venerable expanse of the ancient Realm, once resplendent in its glory, has been fully restored, its grandeur returned in all its former brilliance. The Realm stands once more, triumphant and whole, a testament to resilience beyond despair."
+
+	major = yes
+	fire_only_once = yes
+
+	trigger = {
+		tag = DO1
+		DO1 = { has_country_flag = doridias_judgement_pending }
+		DO1 = { NOT = { has_country_flag = doridias_judgement_done } }
+		check_variable = {
+			which = DOR_score
+			value = 31
+		}
+	}
+
+	mean_time_to_happen = {
+	days = 1
+	}
+
+	immediate = {
+		DO1 = { set_country_flag = doridias_judgement_done }
+	}
+
+	option = {
+		name = "Unvanquished"
+		DO1 = { 
+			any_owned = {
+				limit = { is_core = DO1 }
+			 	life_rating = 2 
+			}
+		}
+	}
+}

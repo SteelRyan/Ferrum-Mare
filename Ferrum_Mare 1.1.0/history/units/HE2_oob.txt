@@ -1,0 +1,34 @@
+army = {
+	name = "Army 1"
+	location = 1028
+
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1020
+	}
+
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1017
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1018
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1111
+	}
+	
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 1027
+	}
+}

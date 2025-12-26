@@ -1,0 +1,17 @@
+owner = DO1
+controller = DO1
+add_core = DO1
+
+
+
+trade_goods = cattle
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = cement_factory
+		upgrade = yes
+	}

@@ -1,0 +1,904 @@
+country_event = {
+    id = 4760074
+    title = "Whispered Words of Rebellion"
+    desc = "desc_4760074"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "authorize_surveillance_raids_on_salons_4760074"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "fund_loyalist_salons_to_dilute_the_message_4760074"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "treat_the_whispers_as_idle_talk_4760074"
+    }
+}
+
+country_event = {
+    id = 4760075
+    title = "Gathering in the Shadows"
+    desc = "desc_4760075"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "impose_curfews_and_meeting_registries_4760075"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "permit_licensed_assemblies_under_watch_4760075"
+    }
+    option = {
+        name = "sponsor_public_forums_to_deflate_rumor_4760075"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+}
+
+country_event = {
+    id = 4760076
+    title = "Symbols of Resistance"
+    desc = "desc_4760076"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "order_public_cleanings_and_issue_fines_4760076"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "subsidize_artists_to_diversify_symbols_4760076"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "leave_it_to_local_magistrates_4760076"
+    }
+}
+
+country_event = {
+    id = 4760077
+    title = "A Song of Freedom"
+    desc = "desc_4760077"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "ban_the_song_and_seize_performance_licenses_4760077"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "license_performances_with_neutral_lyrics_4760077"
+    }
+    option = {
+        name = "sponsor_loyal_composers_with_new_popular_tunes_4760077"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+}
+
+country_event = {
+    id = 4760078
+    title = "Underground Publications"
+    desc = "desc_4760078"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "conduct_sweeping_searches_and_confiscations_4760078"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "subsidize_loyal_printers_with_preferred_contracts_4760078"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "ignore_the_pamphlets_as_fashion_4760078"
+    }
+}
+
+country_event = {
+    id = 4760079
+    title = "Rally of the Youth"
+    desc = "desc_4760079"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "deploy_soldiers_to_break_up_the_marches_4760079"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "create_aligned_youth_work_and_scholarship_programs_4760079"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "leave_crowd_control_to_local_police_4760079"
+    }
+}
+
+country_event = {
+    id = 4760080
+    title = "Rumors of Foreign Support"
+    desc = "desc_4760080"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        NOT = { any_sphere_member = { primary_culture = gardian } }
+    }
+
+    mean_time_to_happen = { months = 36 }
+
+    option = {
+        name = "denounce_the_rumors_and_expel_suspect_attaches_4760080"
+        BOT = { change_variable = { which = gardian_nationalism value = 3 } }
+    }
+    option = {
+        name = "invite_neutral_observers_to_disprove_the_claims_4760080"
+    }
+    option = {
+        name = "offer_commercial_privileges_to_key_vassals_4760080"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+}
+
+country_event = {
+    id = 4760081
+    title = "Charter of Unity"
+    desc = "desc_4760081"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "threaten_sanctions_on_vassals_that_engage_them_4760081"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "convene_talks_limited_to_municipal_administration_4760081"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "recognize_select_local_rights_to_split_the_coalition_4760081"
+        BOT = { change_variable = { which = gardian_nationalism value = -2 } }
+    }
+}
+
+country_event = {
+    id = 4760108
+    title = "The Seized Banner"
+    desc = "desc_4760108"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "support_the_seizure_to_uphold_order_4760108"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "instruct_the_vassal_to_quietly_return_the_banner_4760108"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "treat_the_matter_as_the_vassals_internal_affair_4760108"
+    }
+}
+
+country_event = {
+    id = 4760109
+    title = "Unified Trade Policy Directive"
+    desc = "desc_4760109"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "enforce_uniform_trade_rules_without_exception_4760109"
+        BOT = { change_variable = { which = gardian_nationalism value = 3 } }
+    }
+    option = {
+        name = "allow_limited_local_exemptions_4760109"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "permit_vassals_to_retain_independent_trade_rules_4760109"
+        BOT = { change_variable = { which = gardian_nationalism value = -2 } }
+    }
+}
+
+country_event = {
+    id = 4760110
+    title = "Language of Administration"
+    desc = "desc_4760110"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "uphold_the_directive_shift_curriculum_to_our_language_4760110"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "balance_the_curriculum_expand_both_languages_4760110"
+    }
+    option = {
+        name = "reverse_the_directive_and_fund_gardian_studies_4760110"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+
+country_event = {
+    id = 4760111
+    title = "The Governor’s Banquet"
+    desc = "desc_4760111"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "defend_the_governors_remarks_4760111"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "force_a_formal_apology_through_the_foreign_office_4760111"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+    option = {
+        name = "let_the_incident_fade_without_comment_4760111"
+    }
+}
+
+country_event = {
+    id = 4760112
+    title = "The Cancelled Festival"
+    desc = "desc_4760112"
+    picture = "Rebellion"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "maintain_the_ban_to_ensure_stability_4760112"
+        BOT = { change_variable = { which = gardian_nationalism value = 3 } }
+    }
+    option = {
+        name = "allow_the_festival_under_supervision_4760112"
+    }
+    option = {
+        name = "sponsor_the_festival_as_a_showcase_4760112"
+        BOT = { change_variable = { which = gardian_nationalism value = -2 } }
+    }
+}
+
+country_event = {
+    id = 4760113
+    title = "The Census Question"
+    desc = "desc_4760113"
+    picture = "Rebellion"
+
+    trigger = {
+        is_greater_power = yes
+        NOT = { BOT = { has_country_flag = second_rising } }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "approve_detailed_ethnic_enumeration_4760113"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "simplify_categories_to_avoid_tension_4760113"
+    }
+    option = {
+        name = "delay_the_census_indefinitely_4760113"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+}
+
+country_event = {
+    id = 4760114
+    title = "The Monument Debate"
+    desc = "desc_4760114"
+    picture = "Rebellion"
+
+    trigger = {
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "approve_the_arch_of_unity_4760114"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "allow_the_old_monument_with_modifications_4760114"
+    }
+    option = {
+        name = "deny_the_petition_entirely_4760114"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+
+country_event = {
+    id = 4760115
+    title = "The Loyalist Exhibition"
+    desc = "desc_4760115"
+    picture = "Rebellion"
+
+    trigger = {
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "praise_the_gardian_artisans_publicly_4760115"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+    option = {
+        name = "minimize_coverage_in_official_gazettes_4760115"
+    }
+    option = {
+        name = "cancel_future_expositions_4760115"
+    }
+}
+
+country_event = {
+    id = 4760116
+    title = "The Exiled Poet"
+    desc = "desc_4760116"
+    picture = "Rebellion"
+
+    trigger = {
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "ban_all_import_of_his_works_4760116"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "permit_his_writings_quietly_4760116"
+    }
+    option = {
+        name = "invite_the_poet_home_under_guard_4760116"
+        BOT = { change_variable = { which = gardian_nationalism value = -1 } }
+    }
+}
+
+country_event = {
+    id = 4760117
+    title = "The Grand Tour"
+    desc = "desc_4760117"
+    picture = "Rebellion"
+
+    trigger = {
+        is_greater_power = yes
+        any_sphere_member = { primary_culture = gardian }
+    }
+
+    mean_time_to_happen = { months = 216 }
+
+    option = {
+        name = "tighten_oversight_of_vassal_students_4760117"
+        BOT = { change_variable = { which = gardian_nationalism value = 2 } }
+    }
+    option = {
+        name = "establish_loyalist_scholarships_4760117"
+        BOT = { change_variable = { which = gardian_nationalism value = -2 } }
+    }
+    option = {
+        name = "ignore_the_issue_4760117"
+        BOT = { change_variable = { which = gardian_nationalism value = 1 } }
+    }
+}
+########################################Vassalize-event########################################
+
+country_event = {
+    id = 47600821
+    title = "47600821_title"
+    desc = "47600821_desc"
+    picture = "greatpowers"
+
+    immediate = { THIS = { create_vassal = FROM } }
+
+    allow_multiple_instances = yes
+    is_triggered_only = yes
+
+    option = {
+        name = "As is expected of them!"
+
+    }
+}
+
+########################################Pre-to-Post-Rising-Line########################################
+
+country_event = {
+    id = 4760082
+    title = "Dark Clouds Gathering spread"
+    desc = "This is a inbetween event"
+    picture = "Factoryattack"
+
+    trigger = {
+        NOT = { BOT = { has_country_flag = second_rising } }
+        tag = BOT
+        OR = {
+            AND = {
+                FO1 = { war = no }
+                PA1 = { war = no }
+                NE1 = { war = no }
+                HE1 = { war = no }
+                VE1 = { war = no }
+                NOT = { year = 1860 }
+            }
+            year = 1860
+        }
+        OR = {
+            AND = {
+            year = 1836
+            BOT = { check_variable = { which = gardian_nationalism value = 100 } }
+            }
+            AND = {
+            year = 1840
+            BOT = { check_variable = { which = gardian_nationalism value = 75 } }
+            }
+            AND = {
+            year = 1845
+            BOT = { check_variable = { which = gardian_nationalism value = 50 } }
+            }
+            AND = {
+            year = 1850
+            BOT = { check_variable = { which = gardian_nationalism value = 25 } }
+            }
+            AND = {
+            year = 1855
+            }           
+        }
+    }
+
+    mean_time_to_happen = { 
+        months = 30
+
+        modifier = {
+            factor = 0.01
+            BOT = { check_variable = { which = gardian_nationalism value = 140 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 130 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 120 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 110 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 100 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 95 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 90 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 85 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 80 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 75 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 70 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 65 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 60 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 55 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 50 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 45 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 40 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 35 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 30 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 25 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 20 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 15 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 10 } }
+        }
+        modifier = {
+            factor = 0.95
+            BOT = { check_variable = { which = gardian_nationalism value = 5 } }
+        }
+        modifier = {
+            factor = 0.9
+            year = 1845
+        }
+        modifier = {
+            factor = 0.7
+            year = 1850
+        }
+        modifier = {
+            factor = 0.5
+            year = 1855
+        }
+        modifier = {
+            factor = 0.3
+            year = 1860
+        }
+        modifier = {
+            factor = 0.01
+            year = 1865
+        }
+    }
+
+    option = {
+        name = "Send the messengers"
+        BOT = { set_country_flag = second_rising }
+        any_country = {
+            limit = { rank = 1 NOT = { rank = 0 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 1 NOT = { rank = 0 } } }
+                set_country_flag = rank_1_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 1 NOT = { rank = 0 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 1 NOT = { rank = 0 } } }
+                clr_country_flag = rank_1_sphere_gardian_target
+                set_country_flag = rank_1_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 2 NOT = { rank = 1 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 2 NOT = { rank = 1 } } }
+                set_country_flag = rank_2_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 2 NOT = { rank = 1 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 2 NOT = { rank = 1 } } }
+                clr_country_flag = rank_2_sphere_gardian_target
+                set_country_flag = rank_2_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 3 NOT = { rank = 2 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 3 NOT = { rank = 2 } } }
+                set_country_flag = rank_3_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 3 NOT = { rank = 2 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 3 NOT = { rank = 2 } } }
+                clr_country_flag = rank_3_sphere_gardian_target
+                set_country_flag = rank_3_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 4 NOT = { rank = 3 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 4 NOT = { rank = 3 } } }
+                set_country_flag = rank_4_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 4 NOT = { rank = 3 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 4 NOT = { rank = 3 } } }
+                clr_country_flag = rank_4_sphere_gardian_target
+                set_country_flag = rank_4_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 5 NOT = { rank = 4 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 5 NOT = { rank = 4 } } }
+                set_country_flag = rank_5_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 5 NOT = { rank = 4 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 5 NOT = { rank = 4 } } }
+                clr_country_flag = rank_5_sphere_gardian_target
+                set_country_flag = rank_5_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 6 NOT = { rank = 5 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 6 NOT = { rank = 5 } } }
+                set_country_flag = rank_6_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 6 NOT = { rank = 5 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 6 NOT = { rank = 5 } } }
+                clr_country_flag = rank_6_sphere_gardian_target
+                set_country_flag = rank_6_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 7 NOT = { rank = 6 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 7 NOT = { rank = 6 } } }
+                set_country_flag = rank_7_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 7 NOT = { rank = 6 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 7 NOT = { rank = 6 } } }
+                clr_country_flag = rank_7_sphere_gardian_target
+                set_country_flag = rank_7_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = { rank = 8 NOT = { rank = 7 } }
+            any_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 8 NOT = { rank = 7 } } }
+                set_country_flag = rank_8_sphere_gardian_target
+            }
+        }
+        any_country = {
+            limit = { rank = 8 NOT = { rank = 7 } }
+            random_country = {
+                limit = { primary_culture = gardian sphere_owner = { rank = 8 NOT = { rank = 7 } } }
+                clr_country_flag = rank_8_sphere_gardian_target
+                set_country_flag = rank_8_sphere_gardian_unifier
+                set_country_flag = gardian_unifier
+            }
+        }
+
+        any_country = {
+            limit = {
+                is_greater_power = yes
+                any_sphere_member = { primary_culture = gardian }
+            }
+            country_event = { id=4760083 days=0 }       
+        }
+    }
+}
+
+country_event = {
+    id = 4760083
+    title = "The Milogardian rising!"
+    desc = "4760083_desc"
+
+    major = yes
+    
+    immediate = {
+        any_country = {
+            limit = {
+                in_sphere = THIS
+                primary_culture = gardian
+                has_country_flag = gardian_unifier 
+            }
+            country_event = { id=4760084 days=0 }
+            add_country_modifier = {
+                name = surge_of_patriotism
+                duration = 730
+            } 
+        }
+    }
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+    option = {
+        name = "this_means_war_4760083"
+
+    }
+}
+
+country_event = {
+    id = 47600831
+    title = "The Milogardian rising!"
+    desc = "4760083_desc"
+
+    major = yes
+    
+    immediate = { FROM = { any_owned = { remove_core = FROM add_core = THIS secede_province = THIS } } }
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+    option = {
+        name = "this_means_war_4760083"
+
+    }
+}
+
+country_event = {
+    id = 4760084
+    title = "Rise up!"
+    desc = "We Gardians declare the reunifcation of Milogard"
+
+    picture = "Factoryattack"
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+    immediate = { release_vassal = THIS }
+
+    option = {
+        name = "ATTACK!"
+        THIS = {
+            sphere_owner = {
+                release = THIS
+                diplomatic_influence = {
+                    who = THIS
+                    value = -200
+                    }
+                }
+            }
+        war = {
+            target = FROM
+            attacker_goal = {
+                casus_belli = second_gardian_rising
+            }
+            defender_goal = {
+                casus_belli = conquest_gardian
+            }
+        }
+        any_country = {
+            limit = { primary_culture = gardian }
+            create_alliance = THIS
+            military_access = THIS
+        }      
+    }
+}

@@ -1,7 +1,7 @@
 Ferrum Mare Patchnotes
-Current Version: 1.0.17
-Date: 08/03/25
-Checksum: VPFB
+Current Version: 1.1.0
+Date: 26/12/25
+Checksum: MIHP
 
 The Base of this mod is CoRGI_puir 18.0
 
@@ -22,6 +22,210 @@ My deepest gratitude to...
 - Moon 
 
 ...for helping me so much with the development of this mod
+
+
+VERSION 1.1.0 BELOW THIS LINE Checksum ( MIHP )
+#MAJOR UPDATE - ALL REGIONS
+
+Map/Scenario - commentary
+
+The changes to Map/Scenario and pops are too extensive to fully count or list, so I decided not to document most details here.  
+The world has been altered so thoroughly that roughly 1/3 of the original roster is now fundamentally different.
+
+
+Map/Scenario - still notable but not obvious
+
+Full state consolidation across the entire map  
+	/state-population sizes now vary significantly between regions
+
+Literacy in Pillar fully overhauled  
+	/previous values were extreme and not at all comparable to standard Victoria 2
+
+Global Liferating increased from 35 to 36  
+	/This is because the step from 35 to 36 does not increase pop growth. The goal was to ensure that events and decisions affecting pop growth remain meaningful and impactful.
+
+Shared cores added between Esperos and Trocia in State 119
+
+Liferating increased in the Milogard region from 36 to 38
+
+The Central Sea (New World) Canal and strait positions swapped  
+	/As correctly pointed out, the southern Canal previously provided access to only a small stretch of largely irrelevant coastline. It now allows significantly faster naval access to half of the New World’s coastal regions.
+
+Player and non-player nation relations set to -200 outside of Pillar  
+	/Regions like the New World and Desperos contain many small, vulnerable nations that would otherwise be eliminated on day 1 if boxed in. (Sorry Proxy <3)
+
+Removed all unique Pera CBs
+
+Major terrain changes in Neodore (eastern mountain line)
+
+New formable nations added  
+	/Esdoria for formerly Belos-Abrador  
+	/Spherso formable by both Hamero and Pinaro  
+	/United Fidem formable by Hamero, Eliadem, or Straya  
+	/Pera Empire  
+	/Adalsian Federation for Zeek-Layonel  
+	/Nadorilem (flavor only)
+
+Added multiple new nationality tags  
+	/Perovania  
+	/Emacia  
+	/Deromados  
+	/Khalros  
+	/Haldem  
+	/Myhamaria  
+	/Eastern Devogard tags  
+	/Multiple Esdorean tags (formerly Abrador-Belos)  
+	/Multiple Coordie tags in Central Troida
+
+Added a large number of new decisions. No list exists, so explore them in-game.  
+All are visible and accessible on day 1. (No hidden decisions)  
+	/I hope the new decision images and descriptions meet the expected quality standard.
+
+
+Day 1 Fleets
+
+Rebalanced all fleets to match each nation’s realistic upkeep capacity  
+NE1 -10 Man'o'Wars -20 Frigates x  
+HE1 -10 Man'o'Wars -20 Frigates x  
+FO1 -5 Frigates x  
+TR1 -10 Man'o'Wars -10 Frigates x  
+ES1 -5 Frigates x  
+HA1 -15 Man'o'Wars -5 Frigates  
+VA1 -10 Man'o'Wars -3 Frigates x  
+HA2 -FULL DELETE
+
+
+Assimilation-Gameplay
+
+Changed Zyrosie assimilation decision start date  
+	/from 1870 to 1860
+
+Increased Gardian Concordance assimilation rate  
+	/from 0.3% to 0.4%
+
+Macerian culture (coastal Varan-Luden culture) significantly expanded  
+	/Can now be assimilated very rapidly on day 1
+
+
+Mechanics-Gameplay
+
+State sizing now uses modified thresholds in the New World until 1870  
+	/Tiny		Less than 50k		instead of	Less than 100k  
+	/Small		50k–200k		instead of	100k–400k  
+	/Medium		200k–400k		instead of	400k–700k  
+	/Large		400k–600k		instead of	700k–1M  
+	/Huge		More than 600k		instead of	More than 1M
+
+Redrogard’s “Sudden Strike” can no longer break truces  
+	/usage window changed from 1870 to 1890
+
+Overseas Imperium reworked  
+	/Now requires Iron Steamers and Island State 8  
+	/Mutually exclusive between Verspodia and Trocia  
+	/Troida, Fidem, and Servile are now valid targets for Overseas Imperium
+
+Reworked the “Three Crowns of East Pillar” into a Prisoner’s Dilemma system  
+	/Contains an extremely detailed description in the decision panel
+
+Reintroduced CoRGI 17 tiered national focuses  
+	/Promotion modifier scaling changed to 5%/4%/3%/2%/1% from Tier 2 to Tier 6  
+	/Later tiers were too powerful without proper counterbalancing. Even the reduced values remain effective due to the increased number of available NF points.
+
+Doridia no longer loses cores on its 1836 starting territories
+
+Gardian Rising mechanics adjusted  
+	/Gardian tags can no longer be annexed before the Rising  
+	/Any sphered Gardian automatically becomes a vassal of its sphere owner, including dynamic vassal transfer  
+	/Improved MTTH for the Rising  
+	/Improved effect indicators for Gardian events  
+	/Gardians now unify before confronting their Sphere Lord
+
+Core creation timing made more consistent  
+	/The initiation event now fires instantly once requirements are met  
+	/Core finalization requires 5+ years with a 12-month MTTH  
+	/This replaces the original 40-month MTTH and removes the extreme randomness, while also shortening average core creation time.
+
+Island States now contribute to the Tradeport system at half strength  
+	/2 Island States now equal 1 Tradeport
+
+Sea tile supply capacity rebalanced  
+	/Previously, transporting 30k troops caused unrealistic attrition. Supply now matches that of a plains province.  
+	/Supply increased from 21 to 40
+
+The “Statue of Li... The Colossus” added to the mod  
+	/Grants exclusive access to a second share of immigration (1 of 8 total shares)
+
+
+Stats-Gameplay
+
+Neodore Tech School modifiers updated  
+	/Phase 1 unchanged (+25% in all categories)  
+	/Phase 2 penalty reduced from -20% to -15% in all categories
+
+Reduced soldier pop death rate  
+	/from 0.23 to 0.20  
+	/(former CoRGI change suggested by CE <3)
+
+Improved Colonial Range from ports  
+	/increased from 50 to 75
+
+Servile colonization wave delayed  
+	/Moved starting year to 1870  
+	/Expansionism invention delayed by 5 years
+
+Infamy block threshold on CBs increased  
+	/from 25 to 30  
+	/Allows limited strategic use beyond 25, preventing the disruptive “CB detected” hard block
+
+Added new factories to Reform Groups 2 and 8  
+	/2-2 Stock Exchange now includes a Machine Parts Factory  
+	/8-1 Cheap Coal now includes a Cement Factory  
+	/8-2 Cheap Iron now includes a Steel Factory
+
+Removed all population size modifiers and compensated by increasing Base Tax Efficiency  
+	/from 0.20 to 0.25
+
+Migration factors rebalanced  
+	/Most notably reduced CoRGI emigration scaling from War Exhaustion
+
+Reduced Revanchism effect values by 33%  
+	/Land Organisation and Mobilisation Size bonuses reduced by 33%
+
+
+Bugs and their unenviable circumstances
+
+The clerk promotion bug affecting multiple nations was identified as a direct result of strong assimilation in recently conquered provinces.  
+The root issue is that assimilation always attaches to the first acceptable pop group in a province.  
+This is widely known as the Craftsmen Bug, but due to the unusually high assimilation rates in this mod, it began affecting multiple pop types across many countries.
+
+“Fix” (as far as it can be fixed)
+
+A background event now fires annually. It scans all provinces for invalid pop ratio outcomes (e.g., clerks exceeding 5% where not possible).  
+When detected, affected pops are permanently converted to Farmers, which prevents further assimilation misalignment in that province.
+
+Crash issue fully resolved  
+	/MY ABSOLUTE AND TOTAL GRATITUDE TO GODOG. He identified the issue faster than I could in tiny amounts of time.
+
+Fixed host decisions being bricked
+
+Added LCT and BOT safeguards for money overflow  
+	/Money overflow occurs at 2.15 billion  
+	/Tax Efficiency becomes -100% at 1.5 billion for 5 years as a protective cap
+
+Fixed ghost country mobilisation cleanup
+
+Fixed “Ghost Country” mobilisation removal
+
+
+Misc
+
+Minimap adjusted and colour-coded by continent and subcontinent
+
+All country tags reworked into a unified system:  
+**First 2 letters of the country name + number (1–9)**  
+Examples: Forse = FO1, Trocia = TR1, Theos = TH2  
+Why? Because it is significantly faster to tag switch using numbers than manually searching countries.txt.  
+This change is purely for quality of life.
 
 VERSION 1.0.17 BELOW THIS LINE Checksum ( VPFB )
 

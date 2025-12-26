@@ -1,0 +1,10 @@
+owner = NE1
+controller = NE1
+
+
+colonial = 2
+
+trade_goods = timber
+life_rating = 36
+
+set_province_flag = farm

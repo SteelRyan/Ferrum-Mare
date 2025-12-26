@@ -1,0 +1,106 @@
+country_event = {
+	id = 40404040
+	title = "Non-Accepted Bureaucrats Forced Into Artisans"
+	desc = "This decision has helped you to clear the way for an improved, and more loyal, administration across your Nation. Perhaps this was a necessary move to incorporating colonial administrations into more formal institutions?"
+	picture = "Opiumwar"
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	option = {
+		name = "Force them into Artisans!"
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}
+				
+		}
+		
+	}
+}
+
+country_event = {
+	id = 004001
+	title = "EVTNAME9999901"
+	desc = "EVTDESC9999901"
+	picture = "Opiumwar"
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	option = {
+		name = "Convert them to Artisans!"
+		any_owned = {
+			is_core = THIS
+				any_pop = {
+					limit = { 
+						AND = {
+							is_primary_culture = no
+							is_accepted_culture = no
+						}
+						type = craftsmen
+					}
+					pop_type = artisans
+				}
+				
+		}
+		
+	}
+}	
+
+country_event = {
+	id = 4760120
+	title = " "
+	desc = " "
+	picture = "Opiumwar"
+
+	is_triggered_only = yes
+	#triggered via event 476119
+
+	option = {
+		name = "Force them into the Farms"
+		any_country = {
+			any_owned = {
+				limit = { 
+					state_scope = { aristocrats = 0.02 }
+				}
+				aristocrats = { pop_type = farmers }
+			}
+			any_owned = {
+				limit = { 
+					state_scope = { bureaucrats = 0.06 }
+				}
+				bureaucrats = { pop_type = farmers }
+			}
+			any_owned = {
+				limit = { 
+					state_scope = { capitalists = 0.02 }
+				}
+				capitalists = { pop_type = farmers }
+			}
+			any_owned = {
+				limit = { 
+					state_scope = { officers = 0.025 }
+				}
+				officers = { pop_type = farmers }
+			}
+			any_owned = {
+				limit = { clergymen = 0.05 }
+				clergymen = { pop_type = farmers }
+			}
+			any_owned = {
+				limit = { soldiers = 0.07 }
+				soldiers = { pop_type = farmers }
+			}
+			any_owned = {
+				limit = { clerks = 0.05 }
+				clerks = { pop_type = farmers }
+			}
+		}
+	}
+}

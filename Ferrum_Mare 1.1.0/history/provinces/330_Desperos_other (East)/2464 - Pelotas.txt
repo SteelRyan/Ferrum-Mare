@@ -1,0 +1,8 @@
+owner = JE1
+controller = JE1
+add_core = JE1
+
+trade_goods = tea
+life_rating = 36
+
+set_province_flag = farm

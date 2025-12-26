@@ -1,0 +1,8 @@
+owner = ES2
+controller = ES2
+
+trade_goods = iron
+
+life_rating = 36
+
+set_province_flag = tradeport

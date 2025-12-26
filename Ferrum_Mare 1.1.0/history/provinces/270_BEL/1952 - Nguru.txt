@@ -1,0 +1,8 @@
+owner = OR2
+controller = OR2
+add_core = OR2
+
+trade_goods = fruit
+life_rating = 36
+
+set_province_flag = farm

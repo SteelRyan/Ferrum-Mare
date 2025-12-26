@@ -1,0 +1,15 @@
+owner = PR1
+controller = PR1
+add_core = PR1
+
+trade_goods = fish
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = small_arms_factory
+		upgrade = yes
+	}

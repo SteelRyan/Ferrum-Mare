@@ -1,0 +1,395 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+
+#eco_boost = {
+#	trigger = {
+#		total_pops = 1
+#	}
+#	poor_life_needs = -0.3
+#	tax_efficiency = 0.10
+#	rgo_output = 0.10
+#	supply_consumption = -0.2
+#	icon = 6
+#}
+
+#Money Hoarding Mallus to Taxes and Tariffs test implementation
+#money_hoard_1 = {
+#	trigger = {
+#		ai = no
+#		money = 10000000
+#		NOT = { tag = GHO }
+#		NOT = { tag = LCT }
+#		economic_policy = laissez_faire
+#	}
+#	max_tax = -0.59
+#	min_tax = 0.01
+#	max_tariff = -0.75
+#	min_tariff = 0.25
+#	icon = 9
+#}
+
+ai_boost = {
+	trigger = { 
+		ai = yes
+		civilized = yes
+		NOT = { literacy = 0.7 }
+	}
+	tax_efficiency = 0.05 #5% increase
+	education_efficiency_modifier = 1.0 #100% boost
+ 	loan_interest = -0.03 #3% less interest on debts
+	icon = 9
+}
+
+tariff_efficiency_boost = {
+	trigger = {
+		exists = yes
+	}
+	tariff_efficiency_modifier = 0.1
+	icon = 9
+}
+
+social_reformed_nation = {
+		trigger = {
+			exists = yes
+			wage_reform = good_minimum_wage
+			work_hours = eight_hours
+			safety_regulations = good_safety
+			unemployment_subsidies = good_subsidies
+			pensions = good_pensions
+			health_care = good_health_care
+			school_reforms = good_schools
+		}
+		
+	social_reform_desire = -1.0
+	icon = 13
+}
+
+political_reformed_nation = {
+		trigger = {
+			exists = yes
+			slavery = no_slavery
+			vote_franschise = universal_voting
+			public_meetings = yes_meeting
+			press_rights = free_press
+			political_parties = secret_ballots
+		}
+		
+	political_reform_desire = -1.0
+	social_reform_desire = 0.5
+	icon = 13
+}
+
+player_unciv_mobilization = {
+	trigger = {
+		ai = no
+		civilized = no
+	}
+
+	mobilisation_size = 0.02
+	icon = 9
+}
+
+vassal_nation = {
+	trigger = {
+		exists = yes
+		is_vassal = yes
+		is_substate = no
+	}
+	icon = 10
+	prestige = -0.1
+}
+
+0_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 0.001 } NOT = { check_variable = { which = TP_score value = 1 } } }
+	factory_output = -0.05
+	icon = 10
+}
+
+1_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 1.001 } NOT = { check_variable = { which = TP_score value = 2 } } }
+	factory_output = -0.03
+	icon = 10
+}
+
+2_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 2.001 } NOT = { check_variable = { which = TP_score value = 3 } } }
+	factory_output = 0.00
+	icon = 10
+}
+
+3_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 3.001 } NOT = { check_variable = { which = TP_score value = 4 } } }
+	factory_output = 0.01
+	icon = 10
+}
+
+4_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 4.001 } NOT = { check_variable = { which = TP_score value = 5 } } }
+	factory_output = 0.02
+	icon = 10
+}
+
+5_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 5.001 } NOT = { check_variable = { which = TP_score value = 6 } } }
+	factory_output = 0.03
+	icon = 10
+}
+
+6_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 6.001 } NOT = { check_variable = { which = TP_score value = 7 } } }
+	factory_output = 0.05
+	icon = 10
+}
+
+7_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 7.001 } NOT = { check_variable = { which = TP_score value = 8 } } }
+	factory_output = 0.07
+	icon = 10
+}
+
+8_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 8.001 } NOT = { check_variable = { which = TP_score value = 9 } } }
+	factory_output = 0.09
+	icon = 10
+}
+
+9_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 9.001 } NOT = { check_variable = { which = TP_score value = 10 } } }
+	factory_output = 0.12
+	icon = 10
+}
+
+10_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 10.001 } }
+	factory_output = 0.16
+	icon = 10
+}
+
+11_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 11.001 } }
+	factory_output = 0.21
+	icon = 10
+}
+
+12_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 12.001 } }
+	factory_output = 0.25
+	icon = 10
+}
+
+13_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 13.001 } }
+	factory_output = 0.28
+	icon = 10
+}
+
+14_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 14.001 } }
+	factory_output = 0.31
+	icon = 10
+}
+
+15_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 15.001 } }
+	factory_output = 0.33
+	icon = 10
+}
+
+16_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 16.001 } }
+	factory_output = 0.35
+	icon = 10
+}
+
+17_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 17.001 } }
+	factory_output = 0.37
+	icon = 10
+}
+
+18_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 18.001 } }
+	factory_output = 0.38
+	icon = 10
+}
+
+19_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 19.001 } }
+	factory_output = 0.39
+	icon = 10
+}
+
+20_trade_ports = {
+	trigger = { check_variable = { which = TP_score value = 20.001 } }
+	factory_output = 0.40
+	icon = 10
+}
+
+save_the_nation0.5  = {
+	trigger = {
+		revanchism = 0.05
+		NOT = { revanchism = 0.10 } 
+	}
+	
+	suppression_points_modifier = 0.05
+	
+	#global_immigrant_attract = -0.15
+	land_organisation = 0.0085
+	mobilisation_size = 0.004
+	#supply_consumption = -0.025
+	icon = 9
+}
+
+save_the_nation1  = {
+	trigger = {
+		revanchism = 0.10
+		NOT = { revanchism = 0.15 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	#global_immigrant_attract = -0.3
+	land_organisation = 0.017
+	mobilisation_size = 0.007
+	#supply_consumption = -0.05
+	icon = 9
+}
+
+save_the_nation1.5  = {
+	trigger = {
+		revanchism = 0.15
+		NOT = { revanchism = 0.20 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -0.45
+	land_organisation = 0.0335
+	mobilisation_size = 0.011
+	#supply_consumption = -0.1
+	mobilization_impact = 0.125
+	mobilisation_economy_impact = -0.0625
+	icon = 9
+}
+
+save_the_nation2  = {
+	trigger = {
+		revanchism = 0.20
+		NOT = { revanchism = 0.25 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -0.60
+	land_organisation = 0.0505
+	mobilisation_size = 0.014
+	#supply_consumption = -0.15
+	mobilization_impact = 0.25
+	mobilisation_economy_impact = -0.125
+	icon = 9
+}
+
+save_the_nation2.5  = {
+	trigger = {
+		revanchism = 0.25
+		NOT = { revanchism = 0.30 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -0.75
+	land_organisation = 0.059
+	mobilisation_size = 0.017
+	#supply_consumption = -0.175
+	mobilization_impact = 0.375
+	mobilisation_economy_impact = -0.19
+	icon = 9
+}
+
+save_the_nation3  = {
+	trigger = {
+		revanchism = 0.30
+		NOT = { revanchism = 0.35 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -0.9
+	land_organisation = 0.067
+	mobilisation_size = 0.021
+	#supply_consumption = -0.20
+	mobilization_impact = 0.5
+	mobilisation_economy_impact = -0.25
+	icon = 9
+}
+
+save_the_nation3.5  = {
+	trigger = {
+		revanchism = 0.35
+		NOT = { revanchism = 0.40 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -1.05
+	land_organisation = 0.1005
+	mobilisation_size = 0.024
+	#supply_consumption = -0.25
+	mobilization_impact = 0.75
+	mobilisation_economy_impact = -0.375
+	icon = 9
+}
+
+save_the_nation4  = {
+	trigger = {
+		revanchism = 0.40
+		NOT = { revanchism = 0.45 } 
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -1.2
+	land_organisation = 0.134
+	mobilisation_size = 0.027
+	#supply_consumption = -0.30
+	mobilization_impact = 1
+	mobilisation_economy_impact = -0.5
+	icon = 9
+}
+
+save_the_nation4.5  = {
+	trigger = {
+		revanchism = 0.45
+		NOT = { revanchism = 0.50 }
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -1.35
+	land_organisation = 0.151
+	land_unit_start_experience = 2.5
+	mobilisation_size = 0.031
+	#supply_consumption = -0.30
+	mobilization_impact = 1
+	mobilisation_economy_impact = -0.58
+	icon = 9
+}
+
+save_the_nation5  = {
+	trigger = {
+		revanchism = 0.50
+	}
+	
+	suppression_points_modifier = 0.10
+	
+	global_immigrant_attract = -1.5
+	land_organisation = 0.1675
+	land_unit_start_experience = 5
+	mobilisation_size = 0.034
+	#supply_consumption = -0.30
+	mobilization_impact = 1
+	mobilisation_economy_impact = -0.66
+	icon = 9
+}

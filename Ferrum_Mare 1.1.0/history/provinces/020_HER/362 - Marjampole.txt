@@ -1,0 +1,27 @@
+owner = HE1
+controller = HE1
+add_core = HE1
+
+trade_goods = grain
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = small_arms_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = steamer_shipyard
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = transport_shipyard
+		upgrade = yes
+	}

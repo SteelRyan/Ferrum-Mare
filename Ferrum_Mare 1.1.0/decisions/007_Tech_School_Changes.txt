@@ -1,0 +1,307 @@
+political_decisions = {
+	change_tech_school_on = {
+		alert = yes
+		picture = lightbulb_off
+		potential = {
+			NOT = { has_country_flag = untouchable }
+			NOT = {	has_country_flag = tech_school_change }
+			civilized = yes
+			ai = no
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = academic_confusion }
+			war = no
+		}
+		
+		effect = { set_country_flag = tech_school_change }
+		
+		ai_will_do = { factor = 0 }
+	}
+
+	change_tech_school_off = {
+		alert = no
+		picture = lightbulb_on
+		potential = {
+			has_country_flag = tech_school_change
+			ai = no
+		}
+		
+		allow = { }
+		
+		effect = { clr_country_flag = tech_school_change }
+		
+		ai_will_do = { factor = 0 }
+	}
+
+	AD2_dry_dock_modernization = {
+		picture = construct_germania_werft
+		potential = {
+			OR = {
+				tag = AD2
+				tag = ZE1
+				tag = LA1
+			}
+			has_country_flag = tech_school_change
+		}
+			
+		allow = {
+			tag = AD2
+			NOT = { has_country_modifier = academic_confusion }
+		}
+			
+		effect = {
+			tech_school = AD2_dry_dock_modernization_tech_school
+			add_country_modifier = {
+			name = academic_confusion
+			duration = 3650
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	EM1_war_industry_directorate = {
+		picture = landship
+		potential = {
+			tag = EM1
+			has_country_flag = tech_school_change
+		}
+			
+		allow = {
+			military_logistics = 1
+			NOT = { has_country_modifier = academic_confusion }
+		}
+			
+		effect = {
+			tech_school = EM1_war_industry_directorate_tech_school
+			add_country_modifier = {
+			name = academic_confusion
+			duration = 3650
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	PI1_professional_officer = {
+		picture = conquest_of_the_desert
+		potential = {
+			OR = {
+				tag = PI1
+				tag = HA2
+				tag = CA1
+				tag = SP1
+			}
+			has_country_flag = tech_school_change
+		}
+			
+		allow = {
+			OR = {
+				tag = PI1
+				tag = SP1
+			}
+			deep_defense_system = 1
+			NOT = { has_country_modifier = academic_confusion }
+		}
+			
+		effect = {
+			tech_school = PI1_professional_officer_tech_school
+			add_country_modifier = {
+			name = academic_confusion
+			duration = 3650
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	pergardian_ethos_of_reinvention  = {
+		picture = galleria_ve
+		potential = {
+			tag = PE1
+			has_country_flag = tech_school_change
+		}
+			
+		allow = {
+			experimental_psychology = 1
+			NOT = { has_country_modifier = academic_confusion }
+		}
+			
+		effect = {
+			tech_school = M17_tech_school
+			add_country_modifier = {
+			name = academic_confusion
+			duration = 3650
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	neodorean_imperial_scientific_aspiration = {
+		picture = Neodore
+		potential = {
+			tag = NE1
+			NOT = { tech_school = NEO1_tech_school }
+			NOT = { tech_school = NEO2_tech_school }
+			NOT = { has_country_modifier = academic_confusion }
+			NOT = { has_country_modifier = neodore_cooldown }
+			has_country_flag = tech_school_change
+		}
+			
+		allow = {
+			nationalism_n_imperialism = 1
+			NOT = { tech_school = NEO1_tech_school }
+			NOT = { tech_school = NEO2_tech_school }
+			NOT = { has_country_modifier = academic_confusion }
+			NOT = { has_country_modifier = neodore_cooldown }
+		}
+			
+		effect = {
+			tech_school = NEO1_tech_school
+			add_country_modifier = {
+			name = academic_confusion
+			duration = 3650
+			}
+			add_country_modifier = {
+			name = neodore_cooldown
+			duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+			
+	switch_to_army_tech = {
+		alert = no
+		potential = {
+			has_country_flag = tech_school_change
+			NOT = { tech_school = army_tech_school }
+			ai = no
+		}
+		allow = {
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+			tech_school = army_tech_school
+			clr_country_flag = tech_school_change
+		}
+	}
+	switch_to_navy_tech = {
+		alert = no
+		potential = {
+			has_country_flag = tech_school_change
+			NOT = { tech_school = naval_tech_school }
+			ai = no
+		}
+		allow = {
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+			tech_school = naval_tech_school
+			clr_country_flag = tech_school_change
+		}
+	}
+	switch_to_culture_tech = {
+		alert = no
+		potential = {
+			has_country_flag = tech_school_change
+			NOT = { tech_school = culture_tech_school }
+			ai = no
+		}
+		allow = {
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+			tech_school = culture_tech_school
+			clr_country_flag = tech_school_change
+		}
+	}
+	switch_to_trade_tech = {
+		alert = no
+		potential = {
+			has_country_flag = tech_school_change
+			NOT = { tech_school = commerce_tech_school }
+			ai = no
+		}
+		allow = {
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+			tech_school = commerce_tech_school
+			clr_country_flag = tech_school_change
+		}
+	}
+	switch_to_industry_tech = {
+		alert = no
+		potential = {
+			has_country_flag = tech_school_change
+			NOT = { tech_school = industrial_tech_school }
+			ai = no
+		}
+		allow = {
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+			tech_school = industrial_tech_school
+			clr_country_flag = tech_school_change
+		}
+	}
+	switch_to_traditional_academic = {
+		alert = no
+		potential = {
+			has_country_flag = tech_school_change
+			NOT = { tech_school = traditional_academic }
+			ai = no
+		}
+		
+		allow = {
+			NOT = {
+				has_country_modifier = academic_confusion
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+			tech_school = traditional_academic
+			clr_country_flag = tech_school_change
+		}
+		ai_will_do = {
+			factor = 0
+		}
+
+		#news = yes
+		#news_title = "SOME_TEXT_TITLE"
+		#news_desc_long = "SOME_TEXT_LONG"
+		#news_desc_medium = "SOME_TEXT_MEDIUM"
+		#news_desc_short = "SOME_TEXT_SHORT"
+	}
+}

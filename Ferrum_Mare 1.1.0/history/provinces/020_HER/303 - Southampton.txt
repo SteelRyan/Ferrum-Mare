@@ -1,0 +1,9 @@
+owner = HE1
+controller = HE1
+add_core = HE1
+
+trade_goods = coal
+
+life_rating = 36
+
+set_province_flag = mine

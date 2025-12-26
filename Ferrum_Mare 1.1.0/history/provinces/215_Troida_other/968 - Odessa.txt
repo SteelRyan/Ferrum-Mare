@@ -1,0 +1,8 @@
+owner = SO2
+controller = SO2
+add_core = SO2
+
+trade_goods = tobacco
+life_rating = 36
+
+set_province_flag = farm

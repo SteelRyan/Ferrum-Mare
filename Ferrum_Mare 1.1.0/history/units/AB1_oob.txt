@@ -1,0 +1,97 @@
+army = {
+	name = "Army 1"
+	location = 1643
+
+	regiment = {
+		name= "1st Artillery Regiment"
+		type = artillery
+		home = 1637
+	}
+
+	regiment = {
+		name= "2nd Artillery Regiment"
+		type = artillery
+		home = 1638
+	}
+	
+	regiment = {
+		name= "3rd Artillery Regiment"
+		type = artillery
+		home = 1639
+	}
+	
+	regiment = {
+		name= "4th Artillery Regiment"
+		type = artillery
+		home = 1641
+	}
+	
+	regiment = {
+		name= "5th Artillery Regiment"
+		type = artillery
+		home = 1642
+	}
+	
+	regiment = {
+		name= "1st Hussar Regiment"
+		type = hussar
+		home = 1643
+	}
+	
+	regiment = {
+		name= "1st Infantry Regiment"
+		type = infantry
+		home = 1644
+	}
+	
+	regiment = {
+		name= "2nd Infantry Regiment"
+		type = infantry
+		home = 1645
+	}
+	
+	regiment = {
+		name= "3rd Infantry Regiment"
+		type = infantry
+		home = 1646
+	}
+	
+	regiment = {
+		name= "4th Infantry Regiment"
+		type = infantry
+		home = 1648
+	}
+}
+
+#Relations New world
+
+HA3 = { value = -200 }
+SO2 = { value = -200 }
+HE2 = { value = -200 }
+SP2 = { value = -200 }
+TI1 = { value = -200 }
+SO1 = { value = -200 }
+VI1 = { value = -200 }
+NY1 = { value = -200 }
+MA2 = { value = -200 }
+MA3 = { value = -200 }
+EL3 = { value = -200 }
+ES2 = { value = -200 }
+CA2 = { value = -200 }
+NE2 = { value = -200 }
+NI1 = { value = -200 }
+XE1 = { value = -200 }
+DA1 = { value = -200 }
+ES5 = { value = -200 }
+OR2 = { value = -200 }
+PR1 = { value = -200 }
+BE1 = { value = -200 }
+AB1 = { value = -200 }
+OR3 = { value = -200 }
+EC1 = { value = -200 }
+ST1 = { value = -200 }
+SP1 = { value = -200 }
+EL1 = { value = -200 }
+PI1 = { value = -200 }
+VA1 = { value = -200 }
+LU1 = { value = -200 }

@@ -1,0 +1,8 @@
+owner = AD1
+controller = AD1
+add_core = AD1
+
+trade_goods = timber
+life_rating = 36
+
+set_province_flag = farm

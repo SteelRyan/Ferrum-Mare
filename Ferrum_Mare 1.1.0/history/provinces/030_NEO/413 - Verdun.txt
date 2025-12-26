@@ -1,0 +1,12 @@
+owner = NE1
+controller = NE1
+add_core = NE1
+
+trade_goods = iron
+
+
+
+
+life_rating = 36
+
+set_province_flag = mine

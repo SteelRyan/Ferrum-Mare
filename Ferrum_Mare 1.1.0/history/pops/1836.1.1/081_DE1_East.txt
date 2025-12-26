@@ -1,0 +1,2195 @@
+321 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 35458
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3206
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 240
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 624
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 104
+    }
+}
+
+322 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 68753
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 5967
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+323 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3906
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3906
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 390
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 76700
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6545
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+324 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 70920
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6545
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+325 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 39377
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3356
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1100
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 313
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 816
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 136
+    }
+}
+
+691 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 49699
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 4401
+    }
+
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1020
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 333
+    }
+
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 340
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 144
+    }
+}
+
+692 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 71038
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6389
+    }
+
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1402
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 459
+    }
+
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 467
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 198
+    }
+}
+
+693 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3159
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3159
+    }
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 315
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 74755
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7152
+    }
+
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1020
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 333
+    }
+
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 340
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 144
+    }
+}
+
+694 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 50190
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 4450
+    }
+
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1020
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 333
+    }
+
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 340
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 144
+    }
+}
+
+695 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 57560
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 5039
+    }
+
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1020
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 333
+    }
+
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 340
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 144
+    }
+}
+
+696 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 86815
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7918
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1700
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+697 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 83902
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7721
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1020
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 392
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1360
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 170
+    }
+}
+
+698 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 5350
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 5350
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 534
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 112103
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 10664
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1700
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+699 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 86815
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7990
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1700
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+700 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 84549
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7740
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1191
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 458
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1589
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 199
+    }
+}
+
+701 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 63828
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 5630
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1147
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 441
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 191
+    }
+}
+
+702 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 88260
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7990
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+
+703 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 73243
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6563
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1402
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 540
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 234
+    }
+}
+
+704 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3492
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3492
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 347
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 76863
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7099
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1083
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 417
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 181
+    }
+}
+
+705 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 104270
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 8900
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 2550
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 982
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 426
+    }
+}
+706 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 66736
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6101
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 368
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1700
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 159
+    }
+}
+
+707 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 82365
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 7442
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1612
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 464
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 2150
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 200
+    }
+}
+
+708 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 68362
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6209
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 368
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1700
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 159
+    }
+}
+
+709 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3035
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3035
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 303
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 64227
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 5877
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1020
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 294
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1360
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 127
+    }
+}
+
+710 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 60776
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 5451
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 1275
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 368
+    }
+    
+    craftsmen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1700
+    }
+    
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 159
+    }
+}
+
+741 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 24724
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1601
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 535
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 618
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 268
+    }
+}
+
+742 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 26379
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2103
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 297
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 343
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 149
+    }
+}
+
+743 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 983
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 983
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 97
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 27379
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2280
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 255
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 294
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 127
+    }
+}
+
+744 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 26460
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1678
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 595
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 687
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 298
+    }
+}
+
+745 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 32685
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2232
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 637
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 736
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 319
+    }
+}
+
+1476 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 65472
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1088
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6014
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 3400
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 2722
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 902
+    }
+}
+
+1477 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 73556
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 979
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6875
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 2677
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 2449
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 811
+    }
+}
+
+
+1478 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 59904
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 725
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 5635
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 2550
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1815
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 601
+    }
+}
+
+1479 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3299
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 3299
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 324
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 70742
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 725
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6719
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 2125
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1815
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 601
+    }
+}
+
+1480 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 68693
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 1014
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 6371
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 2975
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 2541
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 841
+    }
+}
+
+
+1481 = {
+    bureaucrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 1055
+    }
+    aristocrats = {
+        culture = east_devonian
+        religion = catholic
+        size = 1055
+    } 
+    officers = {
+        culture = east_devonian
+        religion = catholic
+        size = 102
+    }
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 22389
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 211
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2133
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 531
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 173
+    }
+}
+
+1482 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 20794
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 211
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1972
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 936
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 531
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 173
+    }
+}
+
+1483 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 24730
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 365
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2293
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 392
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 914
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 302
+    }
+}
+
+1484 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 24730
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 365
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2293
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 392
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 914
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 302
+    }
+}
+
+1485 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 25159
+    }
+
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 304
+    }
+    
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2366
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 326
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 761
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 251
+    }
+}
+
+2793 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 37685
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3005
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 425
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+2794 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 37685
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3005
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 425
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 491
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 213
+    }
+}
+2795 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 26379
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2103
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 297
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 343
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 149
+    }
+}
+2796 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 26379
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2103
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 297
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 343
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 149
+    }
+}
+2797 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 26379
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2103
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 297
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 343
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 149
+    }
+}
+2798 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 22422
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1787
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 252
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 291
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 125
+    }
+}
+2799 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 22422
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1787
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 252
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 291
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 125
+    }
+}
+2800 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 22422
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1787
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 252
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 291
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 125
+    }
+}
+2801 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 30147
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2403
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 340
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 392
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 170
+    }
+}
+2802 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 22422
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 1787
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 252
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 291
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 125
+    }
+}
+2803 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 44845
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3575
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 505
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 583
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 253
+    }
+}
+2804 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 44845
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3575
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 505
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 583
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 253
+    }
+}
+2805 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 43338
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3456
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 488
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 564
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 244
+    }
+}
+2806 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 44845
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3575
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 505
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 583
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 253
+    }
+}
+2807 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 39003
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3110
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 439
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 507
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 220
+    }
+}
+2808 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 30147
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 2403
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 340
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 392
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 170
+    }
+}
+2809 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 39003
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3110
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 439
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 507
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 220
+    }
+}
+2810 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 39003
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3110
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 439
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 507
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 220
+    }
+}
+2811 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 43338
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3456
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 488
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 564
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 244
+    }
+}
+2812 = {
+    farmers = {
+        culture = east_devonian
+        religion = catholic
+        size = 43338
+    }
+
+    artisans = {
+        culture = east_devonian
+        religion = catholic
+        size = 3456
+    }
+    
+    soldiers = {
+        culture = east_devonian
+        religion = catholic
+        size = 488
+    }
+    
+    clergymen = {
+        culture = east_devonian
+        religion = catholic
+        size = 564
+    }
+
+    slaves = {
+        culture = east_devonian
+        religion = catholic
+        size = 244
+    }
+}

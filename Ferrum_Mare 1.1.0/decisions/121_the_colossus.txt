@@ -1,0 +1,41 @@
+political_decisions = {
+	build_the_colossus = {
+		picture = liberty_enlightening_the_world
+		potential = {
+			OR = {
+				tag = DO1
+				tag = FO1
+				tag = PA1
+			}
+			NOT = { 
+				DO1 = { has_country_flag = built_the_colossus } 
+				FO1 = { has_country_flag = built_the_colossus } 
+				PA1 = { has_country_flag = built_the_colossus } 
+			}
+		}
+		allow = {
+			THIS = { money = 2000000 }
+			advanced_metallurgy = 1
+			is_greater_power = yes
+		}
+		effect = {
+			money = -2000000
+			set_country_flag = built_the_colossus
+			set_country_flag = has_the_colossus
+		}
+	}
+	gift_the_colossus = {
+		picture = liberty_enlightening_the_world
+		potential = {
+			has_country_flag = built_the_colossus
+			has_country_flag = has_the_colossus
+		}
+		allow = {
+			has_country_flag = has_the_colossus
+		}
+		effect = {
+			clr_country_flag = has_the_colossus
+			country_event = { id = 7771001 days = 0 }
+		}
+	}
+}

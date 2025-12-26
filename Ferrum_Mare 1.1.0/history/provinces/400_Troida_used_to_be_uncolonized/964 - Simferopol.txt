@@ -1,0 +1,8 @@
+owner = SP2
+controller = SP2
+add_core = SP2
+
+trade_goods = wool
+life_rating = 36
+
+set_province_flag = farm

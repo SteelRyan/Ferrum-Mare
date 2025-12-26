@@ -1,0 +1,10 @@
+owner = PI1
+controller = PI1
+add_core = PI1
+add_core = CA1
+
+trade_goods = grain
+
+life_rating = 36
+
+set_province_flag = farm

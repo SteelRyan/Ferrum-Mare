@@ -1,0 +1,11 @@
+owner = SW1
+controller = SW1
+add_core = SW1
+
+trade_goods = coal
+
+
+
+life_rating = 36
+
+set_province_flag = mine

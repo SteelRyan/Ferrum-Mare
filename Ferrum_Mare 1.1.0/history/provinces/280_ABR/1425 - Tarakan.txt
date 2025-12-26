@@ -1,0 +1,9 @@
+owner = OR3
+controller = OR3
+add_core = OR3
+
+trade_goods = timber
+
+life_rating = 36
+
+set_province_flag = farm

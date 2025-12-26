@@ -1,0 +1,84 @@
+country_event = {
+	id = 7771001
+	title = "Who should get the Colossus?"
+	desc = "Now you have a choice. If you choose a dead / non-existent nation, it bricks!"
+	picture = "dixie"
+	
+	is_triggered_only = yes
+
+	option = { 
+		name = "Varan" 
+		random_country = { limit = { has_country_flag = migration_key_VA1 }
+		country_event = { id=19300 days=0 } 
+		} 
+	}
+
+	option = {
+		name = "Luden"
+		random_country = {
+			limit = { has_country_flag = migration_key_LU1 }
+			country_event = { id=19300 days=0 }
+		}
+	}
+
+	option = {
+		name = "Pinaro"
+		random_country = {
+			limit = { has_country_flag = migration_key_PI1 }
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
+		name = "Hamero"
+		random_country = {
+			limit = { has_country_flag = migration_key_HA2 }
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
+		name = "Eliadem"
+		random_country = {
+			limit = { has_country_flag = migration_key_EL1 }
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
+		name = "Straya"
+		random_country = {
+			limit = { has_country_flag = migration_key_ST1 }
+			country_event = { id=19300 days=0 }
+		}
+	}
+
+	option = {
+		name = "The Esdorean Player"
+		random_country = {
+			limit = { has_country_flag = migration_key_EL1 }
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
+		name = "Nevermind."
+		set_country_flag = has_the_colossus
+	}
+}
+
+# The Colossus
+country_event = {
+	id = 19300
+	title = "The Colossus"
+	desc = "EVTDESC47619300"
+
+	is_triggered_only = yes
+	major = yes
+
+	option = {
+		name = "EVTOPTA19300"
+		prestige = 10
+		set_country_flag = migration_key_special
+	}
+}

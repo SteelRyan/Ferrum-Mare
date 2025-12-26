@@ -1,0 +1,35 @@
+country_event = {
+	id = 4760119
+	title = "yearly_tick"
+	desc = "yearly_tick forced to day 1 of each year"
+	picture = "dixie"
+	
+	trigger = {
+		tag = BOT
+		Month = 0
+		NOT = { Month = 1 }
+		NOT = { has_country_modifier = yearly_tick }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		BOT = {
+			country_event = { id=4760045 days=0 }
+			country_event = { id=4760120 days=0 }
+			country_event = { id=4760121 days=0 }
+		}
+	}
+
+	option = {
+		name = "great"
+		BOT = { 
+			add_country_modifier = {
+				name = yearly_tick
+				duration = 40
+			}
+		}
+	}
+}

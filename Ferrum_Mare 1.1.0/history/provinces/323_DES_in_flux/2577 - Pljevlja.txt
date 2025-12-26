@@ -1,0 +1,10 @@
+owner = SK2
+controller = SK2
+add_core = SK2
+
+
+trade_goods = iron
+
+life_rating = 36
+
+set_province_flag = mine

@@ -1,0 +1,528 @@
+##########################Nation&Cultures###########################;;;;;;;;;;;;;x
+###############Sorted like Ferrum_Mare\common\countires.txt#########;;;;;;;;;;;;;x
+##########################Nation_names###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+LCT;Host Nation;Liechtenstein;Liechtenstein;;Liechtenstein;;;;;;;;;x;;;;;;;;;;;
+LCT_presidential_dictatorship; ;;;;;;;;;;;;;x;;;;;;;;;;;
+REB;Rebels;Rebelles;Partisanen;;Rebeldes;;;;;;;;;x;;;;
+BOT;BOT;;;;;;;;;;;;;x
+UNC;Uncolonized;;;;;;;;;;;;;x
+BOT;BOT;;;;;;;;;;;;;
+BOT_absolute_monarchy;BOT;;;;;;;;;;;;;
+BOT_prussian_constitutionalism;BOT;;;;;;;;;;;;;
+BOT_hms_government;BOT;;;;;;;;;;;;;
+BOT_fascist_dictatorship;BOT;;;;;;;;;;;;;
+BOT_proletarian_dictatorship;BOT;;;;;;;;;;;;;
+BOT_democracy;BOT;;;;;;;;;;;;;
+BOT_presidential_dictatorship;BOT;;;;;;;;;;;;;
+##########################Formables###########################;;;;;;;;;;;;;x
+MI1;Hegemon of Milogard;;;;;;;;;;;;;x
+NA1;Kindgdom of Nadorilem;;;;;;;;;;;;;x
+ES6;Mighty Esdorea;;;;;;;;;;;;;x
+FI1;Union of Fidem;;;;;;;;;;;;;x
+PE3;Pera Empire;;;;;;;;;;;;;x
+AD2;Adalsian Federation;;;;;;;;;;;;;x
+##########################Formables_Adjectives###########################;;;;;;;;;;;;;x
+MI1_ADJ;Gardian;;;;;;;;;;;;;x
+NA1_ADJ;Nadorilemi;;;;;;;;;;;;;x
+ES6_ADJ;Esdorean;;;;;;;;;;;;;x
+FI1_ADJ;Fidemi;;;;;;;;;;;;;x
+PE3_ADJ;Peran;;;;;;;;;;;;;x
+AD2_ADJ;Adalsian;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+DE1;Devogard;;;;;;;;;;;;;x  
+DE1_absolute_monarchy;Centralist Devogard;;;;;;;;;;;;;x  
+DE1_prussian_constitutionalism;Devogard;;;;;;;;;;;;;x  
+DE1_hms_government;Sovereigns Devogard;;;;;;;;;;;;;x  
+DE1_fascist_dictatorship;Devonian Order;;;;;;;;;;;;;x  
+DE1_proletarian_dictatorship;People's Commune of Devogard;;;;;;;;;;;;;x  
+DE1_democracy;Commonwealth of Devogard;;;;;;;;;;;;;x  
+DE1_presidential_dictatorship;Devogardian Federation;;;;;;;;;;;;;x  
+DO1;Doridia;;;;;;;;;;;;;x  
+DO1_absolute_monarchy;Doridian Monarchy;;;;;;;;;;;;;x  
+DO1_prussian_constitutionalism;Grand Duchy of Doridia;;;;;;;;;;;;;x  
+DO1_hms_government;Doridia;;;;;;;;;;;;;x  
+DO1_fascist_dictatorship;Doridian National Union;;;;;;;;;;;;;x  
+DO1_proletarian_dictatorship;People's Republic of Doridia;;;;;;;;;;;;;x  
+DO1_democracy;Free Republic of Doridia;;;;;;;;;;;;;x  
+DO1_presidential_dictatorship;Federal Dominion of Doridia;;;;;;;;;;;;;x  
+EM1;Emadem;;;;;;;;;;;;;x  
+EM1_absolute_monarchy;Realm of Emadem;;;;;;;;;;;;;x  
+EM1_prussian_constitutionalism;Holy Duchy of Emadem;;;;;;;;;;;;;x  
+EM1_hms_government;Principality of Emadem;;;;;;;;;;;;;x  
+EM1_fascist_dictatorship;Emademi National State;;;;;;;;;;;;;x  
+EM1_proletarian_dictatorship;Egalitarian Republic of Emadem;;;;;;;;;;;;;x  
+EM1_democracy;Republic of Emadem;;;;;;;;;;;;;x  
+EM1_presidential_dictatorship;Emademi Federation;;;;;;;;;;;;;x  
+ES1;Esporos;;;;;;;;;;;;;x  
+ES1_absolute_monarchy;Empire of Esporos;;;;;;;;;;;;;x  
+ES1_prussian_constitutionalism;Esporos;;;;;;;;;;;;;x  
+ES1_hms_government;Dualitarian Esporos;;;;;;;;;;;;;x  
+ES1_fascist_dictatorship;Esporosdie Ethnic Realm;;;;;;;;;;;;;x  
+ES1_proletarian_dictatorship;Esporosdie Democratic Republic;;;;;;;;;;;;;x  
+ES1_democracy;Republic of Esporos;;;;;;;;;;;;;x  
+ES1_presidential_dictatorship;Esporosdie Federal Realm;;;;;;;;;;;;;x  
+FO1;Forse;;;;;;;;;;;;;x  
+FO1_absolute_monarchy;The Forsean Crown;;;;;;;;;;;;;x  
+FO1_prussian_constitutionalism;Realm of Forse;;;;;;;;;;;;;x  
+FO1_hms_government;Princedom of Forse;;;;;;;;;;;;;x  
+FO1_fascist_dictatorship;Forsean Super-National State;;;;;;;;;;;;;x  
+FO1_proletarian_dictatorship;Electoral Commune of Forse;;;;;;;;;;;;;x  
+FO1_democracy;Democratic-Republic of Forse;;;;;;;;;;;;;x  
+FO1_presidential_dictatorship;Civic-Federal State of Forse;;;;;;;;;;;;;x  
+HA1;Haatos;;;;;;;;;;;;;x  
+HA1_absolute_monarchy;Kingdom of Haatos;;;;;;;;;;;;;x  
+HA1_prussian_constitutionalism;Grand Duchy of Haatos;;;;;;;;;;;;;x  
+HA1_hms_government;Principality of Haatos;;;;;;;;;;;;;x  
+HA1_fascist_dictatorship;Haatosian Free State;;;;;;;;;;;;;x  
+HA1_proletarian_dictatorship;People's State of Haatos;;;;;;;;;;;;;x  
+HA1_democracy;Republican Haatos;;;;;;;;;;;;;x  
+HA1_presidential_dictatorship;Haatosian Presidential Federation;;;;;;;;;;;;;x  
+HE1;Herradem;;;;;;;;;;;;;x  
+HE1_absolute_monarchy;Grand Realm of Herradem;;;;;;;;;;;;;x  
+HE1_prussian_constitutionalism;Military-Dominion of Herradem;;;;;;;;;;;;;x  
+HE1_hms_government;Principality of Herradem;;;;;;;;;;;;;x  
+HE1_fascist_dictatorship;National Realm of Herradem;;;;;;;;;;;;;x  
+HE1_proletarian_dictatorship;People's Democratic Herradem;;;;;;;;;;;;;x  
+HE1_democracy;Herradosi Unitary-Republic;;;;;;;;;;;;;x  
+HE1_presidential_dictatorship;Herradosi Federation;;;;;;;;;;;;;x  
+NE1;Neodore;;;;;;;;;;;;;x  
+NE1_absolute_monarchy;Soverigns Neodore;;;;;;;;;;;;;x  
+NE1_prussian_constitutionalism;Empire of Neodore;;;;;;;;;;;;;x  
+NE1_hms_government;Crown-Electorate of Neodore;;;;;;;;;;;;;x  
+NE1_fascist_dictatorship;Neodorian Ethnic State;;;;;;;;;;;;;x  
+NE1_proletarian_dictatorship;State Commune of Neodore;;;;;;;;;;;;;x  
+NE1_democracy;Consitutionalist Neodore;;;;;;;;;;;;;x  
+NE1_presidential_dictatorship;Centralist Federal Neodore;;;;;;;;;;;;;x  
+PA1;Palpedia;;;;;;;;;;;;;x  
+PA1_absolute_monarchy;Empire of Palpedia;;;;;;;;;;;;;x  
+PA1_prussian_constitutionalism;Lordship of Palpedia;;;;;;;;;;;;;x  
+PA1_hms_government;Parliamentary Monarchy of Palpedia;;;;;;;;;;;;;x  
+PA1_fascist_dictatorship;Grand Paledia;;;;;;;;;;;;;x  
+PA1_proletarian_dictatorship;People's Republic's in Palpedia;;;;;;;;;;;;;x  
+PA1_democracy;Democratic Palpedian State;;;;;;;;;;;;;x  
+PA1_presidential_dictatorship;Paledian Executive Republic;;;;;;;;;;;;;x  
+RE1;Redrogard;;;;;;;;;;;;;x  
+RE1_absolute_monarchy;Kingdom of Redrogard;;;;;;;;;;;;;x  
+RE1_prussian_constitutionalism;Grand Duchy of Redrogard;;;;;;;;;;;;;x  
+RE1_hms_government;Principality of Redrogard;;;;;;;;;;;;;x  
+RE1_fascist_dictatorship;Redrogardian State;;;;;;;;;;;;;x  
+RE1_proletarian_dictatorship;People's Republic of Redrogard;;;;;;;;;;;;;x  
+RE1_democracy;Republic of Redrogard;;;;;;;;;;;;;x  
+RE1_presidential_dictatorship;Redrogardian Regime;;;;;;;;;;;;;x  
+TR1;Trocia;;;;;;;;;;;;;x  
+TR1_absolute_monarchy;Kingdom of Trocia;;;;;;;;;;;;;x  
+TR1_prussian_constitutionalism;Grand Duchy of Trocia;;;;;;;;;;;;;x  
+TR1_hms_government;Imperial-Republic of Trocia;;;;;;;;;;;;;x  
+TR1_fascist_dictatorship;Trocian State;;;;;;;;;;;;;x  
+TR1_proletarian_dictatorship;People's Democracy of Trocia;;;;;;;;;;;;;x  
+TR1_democracy;Trocian Republic;;;;;;;;;;;;;x  
+TR1_presidential_dictatorship;Trocian Executive Federation;;;;;;;;;;;;;x  
+VE1;Verspodia;;;;;;;;;;;;;x  
+VE1_absolute_monarchy;Verspodian Empire;;;;;;;;;;;;;x  
+VE1_prussian_constitutionalism;Republican Monarchy of Verspodia;;;;;;;;;;;;;x  
+VE1_hms_government;Royal Republic of Verspodia;;;;;;;;;;;;;x  
+VE1_fascist_dictatorship;Verspodian State;;;;;;;;;;;;;x  
+VE1_proletarian_dictatorship;People's Republic of Verspodia;;;;;;;;;;;;;x  
+VE1_democracy;Republic of Verspodia;;;;;;;;;;;;;x  
+VE1_presidential_dictatorship;Verspodian Autocracy State;;;;;;;;;;;;;x  
+##########################;;;;;;;;;;;;;x
+AG1;Agros;;;;;;;;;;;;;x
+AM1;Amio;;;;;;;;;;;;;x
+BO1;Bon;;;;;;;;;;;;;x
+BR1;Brreda;;;;;;;;;;;;;x
+DA2;Damborg;;;;;;;;;;;;;x
+DE2;Deliomere;;;;;;;;;;;;;x
+EM2;Emore;;;;;;;;;;;;;x
+ES3;Esma;;;;;;;;;;;;;x
+ES4;Esor;;;;;;;;;;;;;x
+FE3;Fedafore;;;;;;;;;;;;;x
+FE2;Ferk;;;;;;;;;;;;;x
+FR1;Fresa;;;;;;;;;;;;;x
+GE1;Georida;;;;;;;;;;;;;x
+HE3;Helio;;;;;;;;;;;;;x
+OL1;Olia;;;;;;;;;;;;;x
+SA1;Sahrde;;;;;;;;;;;;;x
+TO1;Tolire;;;;;;;;;;;;;x
+UM1;Umbren;;;;;;;;;;;;;x
+VA2;Van;;;;;;;;;;;;;x
+VO1;Voram;;;;;;;;;;;;;x
+ZE2;Zergard;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+EL2;Elyase;;;;;;;;;;;;;x
+NO1;Kingdom of Nostre;;;;;;;;;;;;;x
+OE1;Duchy of Oestre;;;;;;;;;;;;;x
+SO3;Duchy of Sotre;;;;;;;;;;;;;x
+WE1;Realm of Westre;;;;;;;;;;;;;x
+IM1;Impelia;;;;;;;;;;;;;x
+ZY1;Duchy of Zyros;;;;;;;;;;;;;x
+TE1;Kingdom of Terilem;;;;;;;;;;;;;x
+OR1;Union of Ormal;;;;;;;;;;;;;x
+NE3;Nerdalem;;;;;;;;;;;;;x
+OR4;Ortilem;;;;;;;;;;;;;x
+DA3;Darilem;;;;;;;;;;;;;x
+WE2;Weldalem;;;;;;;;;;;;;x
+DE3;Deromados;;;;;;;;;;;;;x
+MY1;Myhamaria;;;;;;;;;;;;;x
+EX1;Exiros;;;;;;;;;;;;;x
+HA4;Haldem;;;;;;;;;;;;;x
+PE2;Perovania;;;;;;;;;;;;;x
+KH1;Khalros;;;;;;;;;;;;;x
+EM3;Emacia;;;;;;;;;;;;;x
+SW1;Swetrogard;;;;;;;;;;;;;x
+NI3;Nistogard;;;;;;;;;;;;;x
+MI2;Mirmogard;;;;;;;;;;;;;x
+IF1;Iftogard;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+AB1;Abrador;;;;;;;;;;;;;x
+AB1_absolute_monarchy;Crown of Abrador;;;;;;;;;;;;;x
+AB1_prussian_constitutionalism;Noble Dominion of Abrador;;;;;;;;;;;;;x
+AB1_hms_government;Principality of Abrador;;;;;;;;;;;;;x
+AB1_fascist_dictatorship;Abradean National State;;;;;;;;;;;;;x
+AB1_proletarian_dictatorship;People's Commune of Abrador;;;;;;;;;;;;;x
+AB1_democracy;Commonwealth of Abrador;;;;;;;;;;;;;x
+AB1_presidential_dictatorship;Abradean Presidential Federation;;;;;;;;;;;;;x
+BE1;Belos;;;;;;;;;;;;;x
+BE1_absolute_monarchy;Kingdom of Belos;;;;;;;;;;;;;x
+BE1_prussian_constitutionalism;Noble Dominion of Belos;;;;;;;;;;;;;x
+BE1_hms_government;Parliamentary Monarchy of Belos;;;;;;;;;;;;;x
+BE1_fascist_dictatorship;Belosean State;;;;;;;;;;;;;x
+BE1_proletarian_dictatorship;People's Republic of Belos;;;;;;;;;;;;;x
+BE1_democracy;Democratic Republic of Belos;;;;;;;;;;;;;x
+BE1_presidential_dictatorship;Belosean Federal Dominion;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+OR2;Oros;;;;;;;;;;;;;x
+OR3;Oridor;;;;;;;;;;;;;x
+PR1;Pridos;;;;;;;;;;;;;x
+EC1;Ecudor;;;;;;;;;;;;;x
+PY1;Pyr;;;;;;;;;;;;;x
+NI2;Ninor;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+LU1;Luden;;;;;;;;;;;;;x
+LU1_absolute_monarchy;Realm of Luden;;;;;;;;;;;;;x
+LU1_prussian_constitutionalism;Martial State of Luden;;;;;;;;;;;;;x
+LU1_hms_government;Principality of Luden;;;;;;;;;;;;;x
+LU1_fascist_dictatorship;Ludean National Union;;;;;;;;;;;;;x
+LU1_proletarian_dictatorship;People's Democratic Luden;;;;;;;;;;;;;x
+LU1_democracy;Free Republic of Luden;;;;;;;;;;;;;x
+LU1_presidential_dictatorship;Ludean Federal Republic;;;;;;;;;;;;;x
+PI1;Pinaro;;;;;;;;;;;;;x
+PI1_absolute_monarchy;Crown of Pinaro;;;;;;;;;;;;;x
+PI1_prussian_constitutionalism;Pinarian Regal Confederation;;;;;;;;;;;;;x
+PI1_hms_government;Royal Republic of Pinaro;;;;;;;;;;;;;x
+PI1_fascist_dictatorship;Pinari Ethnic State;;;;;;;;;;;;;x
+PI1_proletarian_dictatorship;People's Republic of Pinaro;;;;;;;;;;;;;x
+PI1_democracy;Democratic Union of Pinaro;;;;;;;;;;;;;x
+PI1_presidential_dictatorship;Pinarian Executive Federation;;;;;;;;;;;;;x
+SP1;Spherso;;;;;;;;;;;;;x
+SP1_absolute_monarchy;Empire of Spherso;;;;;;;;;;;;;x
+SP1_prussian_constitutionalism;Noble Federation of Spherso;;;;;;;;;;;;;x
+SP1_hms_government;Crown-Electorate of Spherso;;;;;;;;;;;;;x
+SP1_fascist_dictatorship;Sphersean National State;;;;;;;;;;;;;x
+SP1_proletarian_dictatorship;People's Commune of Spherso;;;;;;;;;;;;;x
+SP1_democracy;Republic of Spherso;;;;;;;;;;;;;x
+SP1_presidential_dictatorship;Federal Union of Spherso;;;;;;;;;;;;;x
+CA1;Calero;;;;;;;;;;;;;x
+CA1_absolute_monarchy;Kingdom of Calero;;;;;;;;;;;;;x
+CA1_prussian_constitutionalism;Republican Monarchy of Calero;;;;;;;;;;;;;x
+CA1_hms_government;Parliamentary Calero;;;;;;;;;;;;;x
+CA1_fascist_dictatorship;Calerean National State;;;;;;;;;;;;;x
+CA1_proletarian_dictatorship;People's Republic of Calero;;;;;;;;;;;;;x
+CA1_democracy;Democratic Republic of Calero;;;;;;;;;;;;;x
+CA1_presidential_dictatorship;Calerean Executive Dominion;;;;;;;;;;;;;x
+VA1;Varan;;;;;;;;;;;;;x
+VA1_absolute_monarchy;Crown of Varan;;;;;;;;;;;;;x
+VA1_prussian_constitutionalism;Realm of Varan;;;;;;;;;;;;;x
+VA1_hms_government;Princedom of Varan;;;;;;;;;;;;;x
+VA1_fascist_dictatorship;Varani State;;;;;;;;;;;;;x
+VA1_proletarian_dictatorship;People's Republic of Varan;;;;;;;;;;;;;x
+VA1_democracy;Democratic Commonwealth of Varan;;;;;;;;;;;;;x
+VA1_presidential_dictatorship;Federal Dominion of Varan;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+HA3;Harcona;;;;;;;;;;;;;x
+MA3;Maceria;;;;;;;;;;;;;x
+SO2;Sodia;;;;;;;;;;;;;x
+VI1;Vibuen;;;;;;;;;;;;;x
+NI1;Nikeraka;;;;;;;;;;;;;x
+CA2;Cahmera;;;;;;;;;;;;;x
+NE2;Nesis;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+HA2;Hamero;;;;;;;;;;;;;x
+HA2_absolute_monarchy;Grand Kingdom of Hamero;;;;;;;;;;;;;x
+HA2_prussian_constitutionalism;Lordship of Hamero;;;;;;;;;;;;;x
+HA2_hms_government;Principality of Hamero;;;;;;;;;;;;;x
+HA2_fascist_dictatorship;Hamerean National Union;;;;;;;;;;;;;x
+HA2_proletarian_dictatorship;People's Democratic Hamero;;;;;;;;;;;;;x
+HA2_democracy;Commonwealth of Hamero;;;;;;;;;;;;;x
+HA2_presidential_dictatorship;Hamerean Federal Republic;;;;;;;;;;;;;x
+EL1;Eliadem;;;;;;;;;;;;;x
+EL1_absolute_monarchy;Realm of Eliadem;;;;;;;;;;;;;x
+EL1_prussian_constitutionalism;Lordship of Eliadem;;;;;;;;;;;;;x
+EL1_hms_government;Royality of Eliadem;;;;;;;;;;;;;x
+EL1_fascist_dictatorship;Elian National Union;;;;;;;;;;;;;x
+EL1_proletarian_dictatorship;People's Democratic Eliadem;;;;;;;;;;;;;x
+EL1_democracy;Republic of Eliadem;;;;;;;;;;;;;x
+EL1_presidential_dictatorship;Elian Federal Republic;;;;;;;;;;;;;x
+ST1;Straya;;;;;;;;;;;;;x
+ST1_absolute_monarchy;Empire of Straya;;;;;;;;;;;;;x
+ST1_prussian_constitutionalism;Grand State of Straya;;;;;;;;;;;;;x
+ST1_hms_government;Crown-Electorate of Straya;;;;;;;;;;;;;x
+ST1_fascist_dictatorship;Strayan National State;;;;;;;;;;;;;x
+ST1_proletarian_dictatorship;People's Democracy of Straya;;;;;;;;;;;;;x
+ST1_democracy;Free Republic of Straya;;;;;;;;;;;;;x
+ST1_presidential_dictatorship;Strayan Federal Commonwealth;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+DA1;Dachor;;;;;;;;;;;;;x
+ES5;Esdia;;;;;;;;;;;;;x
+XE1;Xerxes;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+LA1;Layonnel;;;;;;;;;;;;;x
+PE1;Peragard;;;;;;;;;;;;;x
+ZE1;Zeek;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+AS1;League of Asphat;;;;;;;;;;;;;x
+JO1;League of Jogard;;;;;;;;;;;;;x
+TH1;League of Thyna;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+MA1;Mamaxis;;;;;;;;;;;;;x
+LE1;Lesetra;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+SK1;Skol;;;;;;;;;;;;;x
+SK2;Skela;;;;;;;;;;;;;x
+TH3;Theyra;;;;;;;;;;;;;x
+AD1;Adranal;;;;;;;;;;;;;x
+JE1;Jestus;;;;;;;;;;;;;x
+FE1;Febelem;;;;;;;;;;;;;x
+TA1;Tarstein;;;;;;;;;;;;;x
+TH2;Theos;;;;;;;;;;;;;x
+RU1;Rufican;;;;;;;;;;;;;x
+WA1;Wasah;;;;;;;;;;;;;x
+NY1;Nyrn;;;;;;;;;;;;;x
+ES2;Esuria;;;;;;;;;;;;;x
+HE2;Hermia;;;;;;;;;;;;;x
+SO1;Sordar;;;;;;;;;;;;;x
+SP2;Sporan;;;;;;;;;;;;;x
+TI1;Tilor;;;;;;;;;;;;;x
+MA2;Malma;;;;;;;;;;;;;x
+EL3;Elowaade;;;;;;;;;;;;;x
+LE2;Leda;;;;;;;;;;;;;x
+LU2;Lusita;;;;;;;;;;;;;x
+CH1;Chiray;;;;;;;;;;;;;x
+IL1;Iliray;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################Nation_adjectives###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+LCT_ADJ;Liechtensteiner;Liechtensteiner;Liechtensteiner;;Liechtensteiner;;;;;;;;;x;;;;;;;;;;;
+LCT_presidential_dictatorship_ADJ; ;;;;;;;;;;;;;x;;;;;;;;;;;
+BOT_ADJ;BOT;;;;;;;;;;;;;x
+UNC_ADJ;Uncolonized;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+DE1_ADJ;Devonian;;;;;;;;;;;;;x
+DO1_ADJ;Doridian;;;;;;;;;;;;;x
+EM1_ADJ;Emademi;;;;;;;;;;;;;x
+ES1_ADJ;Esporosdie;;;;;;;;;;;;;x
+FO1_ADJ;Forsean;;;;;;;;;;;;;x
+HA1_ADJ;Haatosi;;;;;;;;;;;;;x
+HE1_ADJ;Herradosi;;;;;;;;;;;;;x
+NE1_ADJ;Neodorean;;;;;;;;;;;;;x
+PA1_ADJ;Palpedian;;;;;;;;;;;;;x
+RE1_ADJ;Redro;;;;;;;;;;;;;x
+TR1_ADJ;Trocian;;;;;;;;;;;;;x
+VE1_ADJ;Verspodian;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+AG1_ADJ;Agrosean;;;;;;;;;;;;;x
+AM1_ADJ;Amioan;;;;;;;;;;;;;x
+BO1_ADJ;Bonean;;;;;;;;;;;;;x
+BR1_ADJ;Brredan;;;;;;;;;;;;;x
+DA2_ADJ;Damborgan;;;;;;;;;;;;;x
+DE2_ADJ;Deliomereen;;;;;;;;;;;;;x
+EM2_ADJ;Emorean;;;;;;;;;;;;;x
+ES3_ADJ;Esmaan;;;;;;;;;;;;;x
+ES4_ADJ;Esori;;;;;;;;;;;;;x
+FE3_ADJ;Fedaforean;;;;;;;;;;;;;x
+FE2_ADJ;Ferkan;;;;;;;;;;;;;x
+FR1_ADJ;Fresai;;;;;;;;;;;;;x
+GE1_ADJ;Georidan;;;;;;;;;;;;;x
+HE3_ADJ;Helioean;;;;;;;;;;;;;x
+OL1_ADJ;Olian;;;;;;;;;;;;;x
+SA1_ADJ;Sahrden;;;;;;;;;;;;;x
+TO1_ADJ;Tolirean;;;;;;;;;;;;;x
+UM1_ADJ;Umbren;;;;;;;;;;;;;x
+VA2_ADJ;Vanean;;;;;;;;;;;;;x
+VO1_ADJ;Voramean;;;;;;;;;;;;;x
+ZE2_ADJ;Zergarden;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+EL2_ADJ;Elyasean;;;;;;;;;;;;;x
+NO1_ADJ;Nostrean;;;;;;;;;;;;;x
+OE1_ADJ;Oestrean;;;;;;;;;;;;;x
+SO3_ADJ;Sottrean;;;;;;;;;;;;;x
+WE1_ADJ;Westrean;;;;;;;;;;;;;x
+IM1_ADJ;Impelian;;;;;;;;;;;;;x
+ZY1_ADJ;Zyrosi;;;;;;;;;;;;;x
+TE1_ADJ;Terilemi;;;;;;;;;;;;;x
+OR1_ADJ;Ormali;;;;;;;;;;;;;x
+NE3_ADJ;Nerdalemi;;;;;;;;;;;;;x
+OR4_ADJ;Ortilemi;;;;;;;;;;;;;x
+DA3_ADJ;Darilemi;;;;;;;;;;;;;x
+WE2_ADJ;Weldalemi;;;;;;;;;;;;;x
+DE3_ADJ;Deromadosi;;;;;;;;;;;;;x
+MY1_ADJ;Myhamarian;;;;;;;;;;;;;x
+EX1_ADJ;Exirosi;;;;;;;;;;;;;x
+HA4_ADJ;Haldosian;;;;;;;;;;;;;x
+PE2_ADJ;Perovani;;;;;;;;;;;;;x
+KH1_ADJ;Khalrosi;;;;;;;;;;;;;x
+EM3_ADJ;Emacian;;;;;;;;;;;;;x
+SW1_ADJ;Swetrogardian;;;;;;;;;;;;;x
+NI3_ADJ;Nistogardian;;;;;;;;;;;;;x
+MI2_ADJ;Mirmogardian;;;;;;;;;;;;;x
+IF1_ADJ;Iftogardian;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+AB1_ADJ;Abradean;;;;;;;;;;;;;x
+BE1_ADJ;Belosean;;;;;;;;;;;;;x
+PR1_ADJ;Pridan;;;;;;;;;;;;;x
+OR2_ADJ;Orosian;;;;;;;;;;;;;x
+OR3_ADJ;Oridoran;;;;;;;;;;;;;x
+EC1_ADJ;Ecudoran;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+PY1_ADJ;Pyrean;;;;;;;;;;;;;x
+NI2_ADJ;Ninorean;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+LU1_ADJ;Ludean;;;;;;;;;;;;;x
+PI1_ADJ;Pinari;;;;;;;;;;;;;x
+SP1_ADJ;Sphersean;;;;;;;;;;;;;x
+CA1_ADJ;Calerean;;;;;;;;;;;;;x
+VA1_ADJ;Varani;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+HA3_ADJ;Harcona;;;;;;;;;;;;;x
+MA3_ADJ;Macerian;;;;;;;;;;;;;x
+SO2_ADJ;Sodian;;;;;;;;;;;;;x
+VI1_ADJ;Vibuen;;;;;;;;;;;;;x
+NI1_ADJ;Nikerakan;;;;;;;;;;;;;x
+CA2_ADJ;Cahmeran;;;;;;;;;;;;;x
+NE2_ADJ;Nesian;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+HA2_ADJ;Hamerean;;;;;;;;;;;;;x
+EL1_ADJ;Elian;;;;;;;;;;;;;x
+ST1_ADJ;Strayan;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+DA1_ADJ;Dachori;;;;;;;;;;;;;x
+ES5_ADJ;Esdian;;;;;;;;;;;;;x
+XE1_ADJ;Xerxean;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+LA1_ADJ;Layonean;;;;;;;;;;;;;x
+PE1_ADJ;Peragardean;;;;;;;;;;;;;x
+ZE1_ADJ;Zeekan;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+AS1_ADJ;Asphatian;;;;;;;;;;;;;x
+ES2_ADJ;Eselasian;;;;;;;;;;;;;x
+JO1_ADJ;Jogardian;;;;;;;;;;;;;x
+TH1_ADJ;Thynaian;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+MA1_ADJ;Mamaxi;;;;;;;;;;;;;x
+LE1_ADJ;Lesetrani;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+SK1_ADJ;Skolean;;;;;;;;;;;;;x
+SK2_ADJ;Skelaean;;;;;;;;;;;;;x
+TH3_ADJ;Theyran;;;;;;;;;;;;;x
+AD1_ADJ;Adranali;;;;;;;;;;;;;x
+JE1_ADJ;Jesti;;;;;;;;;;;;;x
+FE1_ADJ;Febelemean;;;;;;;;;;;;;x
+TA1_ADJ;Tarsean;;;;;;;;;;;;;x
+TH2_ADJ;Theoen;;;;;;;;;;;;;x
+RU1_ADJ;Rufican;;;;;;;;;;;;;x
+WA1_ADJ;Wasahn;;;;;;;;;;;;;x
+NY1_ADJ;Nyrnean;;;;;;;;;;;;;x
+HE2_ADJ;Hermian;;;;;;;;;;;;;x
+SO1_ADJ;Sordian;;;;;;;;;;;;;x
+SP2_ADJ;Sporian;;;;;;;;;;;;;x
+TI1_ADJ;Tilori;;;;;;;;;;;;;x
+MA2_ADJ;Malman;;;;;;;;;;;;;x
+EL3_ADJ;Elowaaden;;;;;;;;;;;;;x
+LE2_ADJ;Ledan;;;;;;;;;;;;;x
+LU2_ADJ;Lusitan;;;;;;;;;;;;;x
+CH1_ADJ;Chiran;;;;;;;;;;;;;x
+IL1_ADJ;Iliran;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################Cultures###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+map_crack_addict;Map-Crack-Addict;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+east_devonian;East Devonian;;;;;;;;;;;;;x
+west_devonian;West Devonian;;;;;;;;;;;;;x
+doridian;Doridian;;;;;;;;;;;;;x
+emademi;Emademi;;;;;;;;;;;;;x
+malordosi;Malordosi;;;;;;;;;;;;;x
+esporosdie;Esporosdie;;;;;;;;;;;;;x
+deromadie;Deromadie;;;;;;;;;;;;;x
+myham;Myham;;;;;;;;;;;;;x
+namar;Namar;;;;;;;;;;;;;x
+haatosi;Haatosi;;;;;;;;;;;;;x
+khalarosie;Khalarosie;;;;;;;;;;;;;x
+esdosi;Esdosi;;;;;;;;;;;;;x
+zyrosie;Zyrosie;;;;;;;;;;;;;x
+forsean;Forsean;;;;;;;;;;;;;x
+elysan;Elysan;;;;;;;;;;;;;x
+herradosi;Herradosi;;;;;;;;;;;;;x
+serman;Serman;;;;;;;;;;;;;x
+gardian;Gardian;;;;;;;;;;;;;x
+fors_gardian;Forsean-Gardian;;;;;;;;;;;;;x
+herran_gardian;Herran-Gardian;;;;;;;;;;;;;x
+neodor_gardian;Neodorean-Gardian;;;;;;;;;;;;;x
+palped_gardian;Palpedian-Gardian;;;;;;;;;;;;;x
+verspod_gardian;Verspodian-Gardian;;;;;;;;;;;;;x
+neodorean;Neodorean;;;;;;;;;;;;;x
+haldosi;Haldosi;;;;;;;;;;;;;x
+oporean;Oporean;;;;;;;;;;;;;x
+ormale;Ormale;;;;;;;;;;;;;x
+terilemi;Terilemi;;;;;;;;;;;;;x
+nadorilemi;Nadorilemi;;;;;;;;;;;;;x
+palpedian;Palpedian;;;;;;;;;;;;;x
+manidia;Manidia;;;;;;;;;;;;;x
+perovania;Perovania;;;;;;;;;;;;;x
+redro;Redro;;;;;;;;;;;;;x
+codrean;Codrean;;;;;;;;;;;;;x
+trocian;Trocian;;;;;;;;;;;;;x
+emacy;Emacy;;;;;;;;;;;;;x
+synocian;Synocian;;;;;;;;;;;;;x
+verspodian;Verspodian;;;;;;;;;;;;;x
+karach;Karach;;;;;;;;;;;;;x
+havisha;Havisha;;;;;;;;;;;;;x
+north_havisha;North Havisha;;;;;;;;;;;;;x
+south_havisha;South Havisha;;;;;;;;;;;;;x
+quardorian;Quardorian;;;;;;;;;;;;;x
+varany;Varany;;;;;;;;;;;;;x
+macerian;Macerian;;;;;;;;;;;;;x
+harbar;Harbar;;;;;;;;;;;;;x
+ludosie;Ludosie;;;;;;;;;;;;;x
+elowaar;Elowaar;;;;;;;;;;;;;x
+coordie;Coordie;;;;;;;;;;;;;x
+far_coordie;Far Coordie;;;;;;;;;;;;;x
+pinaro;Pinaro;;;;;;;;;;;;;x
+spherso;Spherso;;;;;;;;;;;;;x
+calero;Calero;;;;;;;;;;;;;x
+hamero;Hamero;;;;;;;;;;;;;x
+eliadem;Eliadem;;;;;;;;;;;;;x
+lothradem;Lothradem;;;;;;;;;;;;;x
+halladian;Halladian;;;;;;;;;;;;;x
+strayan;Strayan;;;;;;;;;;;;;x
+devayan;Devayan;;;;;;;;;;;;;x
+abradorean;Abradorean;;;;;;;;;;;;;x
+belorean;Belorean;;;;;;;;;;;;;x
+esdorean;Esdorean;;;;;;;;;;;;;x
+servile;Servile;;;;;;;;;;;;;x
+pera;Pera;;;;;;;;;;;;;x
+pergardian;Pergardian;;;;;;;;;;;;;x
+riftogard;Riftogard;;;;;;;;;;;;;x
+dohargard;Dohargard;;;;;;;;;;;;;x
+layonnel;Layonnel;;;;;;;;;;;;;x
+adranai;Adranai;;;;;;;;;;;;;x
+zeekan;Zeekan;;;;;;;;;;;;;x
+lesetrani;Lesetrani;;;;;;;;;;;;;x
+mamaxian;Mamaxian;;;;;;;;;;;;;x
+soldrai;Soldrai;;;;;;;;;;;;;x
+sinray;Sinray;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################Religion###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+catholic;God is dead;;;;;;;;;;;;;x

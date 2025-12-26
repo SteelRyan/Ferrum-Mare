@@ -1,0 +1,93 @@
+political_decisions = {
+	state_east_sinray_island = {
+		picture = state_east_sinray_island
+		potential = {
+			OR = {
+				tag = HA1
+				tag = HE1
+				tag = VE1
+			}
+			NOT = { 
+				OR = { 
+					VE1 = { has_country_flag = state_east_sinray_island } 
+					HE1 = { has_country_flag = state_east_sinray_island } 
+					HA1 = { has_country_flag = state_east_sinray_island }
+				}
+			}
+		}
+		allow = {
+			STA_428 = { owned_by = THIS }
+			STA_442 = { owned_by = THIS }
+			STA_529 = { owned_by = THIS }
+			STA_438 = { owned_by = THIS }
+			STA_439 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			ZBK = { civilized = no }
+			STA_428 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_428 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_442 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_442 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_529 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_529 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_438 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_438 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_439 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_439 = { secede_province = THIS }
+			set_country_flag = state_east_sinray_island
+		}
+	}
+	state_west_sinray_island = {
+		picture = state_west_sinray_island
+		potential = {
+			OR = {
+				tag = HA1
+				tag = HE1
+				tag = VE1
+			}
+			NOT = { 
+				OR = { 
+					VE1 = { has_country_flag = state_west_sinray_island } 
+					HE1 = { has_country_flag = state_west_sinray_island } 
+					HA1 = { has_country_flag = state_west_sinray_island }
+				}
+			}
+		}
+		allow = {
+			STA_521 = { owned_by = THIS }
+			STA_522 = { owned_by = THIS }
+			STA_523 = { owned_by = THIS }
+			STA_524 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			ZBK = { civilized = no }
+			STA_521 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_521 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_522 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_522 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_523 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_523 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_524 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_524 = { secede_province = THIS }
+			set_country_flag = state_west_sinray_island
+		}
+	}
+}

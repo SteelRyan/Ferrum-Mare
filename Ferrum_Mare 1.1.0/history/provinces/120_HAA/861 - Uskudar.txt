@@ -1,0 +1,11 @@
+owner = HA1
+controller = HA1
+add_core = HA1
+
+add_core = ZY1
+
+trade_goods = grain
+
+life_rating = 36
+
+set_province_flag = farm

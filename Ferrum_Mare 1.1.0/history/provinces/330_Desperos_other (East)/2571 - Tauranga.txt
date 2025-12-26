@@ -1,0 +1,11 @@
+owner = TH3
+controller = TH3
+add_core = TH3
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm

@@ -1,0 +1,9 @@
+owner = HA2
+controller = HA2
+add_core = HA2
+add_core = CA1
+
+trade_goods = cotton
+life_rating = 36
+
+set_province_flag = farm

@@ -1,0 +1,11 @@
+owner = TO1
+controller = TO1
+add_core = TO1
+
+trade_goods = coal
+
+
+
+life_rating = 38
+	
+set_province_flag = mine

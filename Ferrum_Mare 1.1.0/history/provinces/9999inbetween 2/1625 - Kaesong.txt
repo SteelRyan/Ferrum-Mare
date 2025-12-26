@@ -1,0 +1,11 @@
+owner = EC1
+controller = EC1
+add_core = EC1
+
+trade_goods = coal
+
+life_rating = 20
+
+set_province_flag = mine
+
+

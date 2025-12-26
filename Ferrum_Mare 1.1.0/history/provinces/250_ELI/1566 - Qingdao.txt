@@ -1,0 +1,9 @@
+owner = EL1
+controller = EL1
+add_core = EL1
+
+trade_goods = cattle
+
+life_rating = 36
+
+set_province_flag = farm

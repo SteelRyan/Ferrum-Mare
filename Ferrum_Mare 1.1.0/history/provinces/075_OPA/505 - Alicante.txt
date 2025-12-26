@@ -1,0 +1,12 @@
+owner = OE1
+controller = OE1
+add_core = OE1
+
+add_core = DO1
+
+
+trade_goods = coal
+
+life_rating = 36
+
+set_province_flag = mine

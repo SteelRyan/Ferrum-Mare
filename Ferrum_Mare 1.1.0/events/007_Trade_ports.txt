@@ -1,0 +1,460 @@
+country_event = {
+	id = 4760072
+	title = "TP-Check"
+
+	is_triggered_only = yes
+
+	immediate = {
+		any_country = {
+			set_variable = {
+				which = TP_score
+				value = 0.001
+			} 
+		}	
+	}
+
+	option = {
+										#1 Traditional Trade Ports First
+		3295 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3285 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3282 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		3274 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2711 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2660 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2659 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2658 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2657 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2485 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2484 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2483 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2481 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2445 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2444 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		2443 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1339 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1335 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1333 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1332 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1331 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1267 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+		1266 = {
+			owner = {
+				change_variable = {
+					which = TP_score
+					value = 1
+				}
+			}
+		}
+										#2 Island Trade Ports Second (half value)
+		2713 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2712 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2710 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2709 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2708 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2707 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2706 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2705 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		3249 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2703 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2702 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2701 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2700 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2699 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2698 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2697 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2696 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2656 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2441 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1340 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1338 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1337 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1336 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1270 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1269 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1268 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		2482 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1411 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1412 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1413 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1414 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+		1415 = {
+		    owner = {
+		        change_variable = {
+		            which = TP_score
+		            value = 0.5
+		        }
+		    }
+		}
+	}
+}

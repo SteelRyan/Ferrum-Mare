@@ -1,0 +1,26 @@
+political_decisions = {
+    day_1_event = {
+        picture = unite_the_principalities
+        alert = yes
+
+        potential = {
+            tag = BOT
+            NOT = { has_country_flag = day_1 }
+        }
+
+        allow = {
+            NOT = { has_country_flag = day_1 }
+        }
+
+        effect = {
+            BOT = {  
+                set_country_flag = day_1 
+                country_event = { id=4760060 days=0 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+}

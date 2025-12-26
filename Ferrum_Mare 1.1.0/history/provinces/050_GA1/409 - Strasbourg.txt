@@ -1,0 +1,11 @@
+owner = BO1
+controller = BO1
+add_core = BO1
+
+trade_goods = coal
+
+
+
+life_rating = 38
+  
+set_province_flag = mine

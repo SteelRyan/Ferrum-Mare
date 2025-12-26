@@ -1,0 +1,15 @@
+owner = VA2
+controller = VA2
+add_core = VA2
+
+trade_goods = grain
+
+life_rating = 38
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = clipper_shipyard
+		upgrade = yes
+	}

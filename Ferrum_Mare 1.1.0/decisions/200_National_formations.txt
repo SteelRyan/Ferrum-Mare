@@ -1,0 +1,169 @@
+political_decisions = {
+	form_MI1 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			MI1 = { exists = no }
+		}
+		allow = {
+			OR = {
+				has_country_flag = won_second_rising
+				rank = 8
+			}
+			war = no
+		}
+		effect = { 
+			clr_country_flag = won_second_rising
+			any_country = {
+				limit = {
+					primary_culture = gardian
+					in_sphere = THIS
+					NOT = { tag = THIS }
+				}
+				annex_to = THIS
+			}
+			THIS = { 
+				any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					remove_core = AG1
+					remove_core = AM1
+					remove_core = BO1
+					remove_core = BR1
+					remove_core = DA2
+					remove_core = DE2
+					remove_core = EM2
+					remove_core = ES3
+					remove_core = ES4
+					remove_core = FE3
+					remove_core = FE2
+					remove_core = FR1
+					remove_core = GE1
+					remove_core = HE3	
+					remove_core = OL1
+					remove_core = SA1	
+					remove_core = TO1	
+					remove_core = UM1		
+					remove_core = VA2	
+					remove_core = VO1		
+					remove_core = ZE2
+					add_core = MI1
+				}
+			change_tag = MI1
+			}				
+			any_country = { 
+				any_owned = { 
+					limit = { pop_majority_culture = gardian }
+					add_core = MI1
+				}
+			}
+		}
+	}
+	form_NA1 = {
+		picture = form_yugoslavia
+		potential = {
+			primary_culture = nadorilemi
+			NA1 = { exists = no }
+		}
+		allow = {
+			NA1 = { all_core = { owned_by = THIS } }
+		}
+		effect = { 
+			NE3 = { all_core = { remove_core = NE3 } }
+			WE2 = { all_core = { remove_core = WE2 } }
+			DA3 = { all_core = { remove_core = DA3 } }
+			OR4 = { all_core = { remove_core = OR4 } }
+			change_tag = NA1
+			any_owned = { 
+				limit = { pop_majority_culture = nadorilemi }
+			 	life_rating = 2 
+			}
+		}
+	}
+	form_ES6 = {
+		picture = form_ES6
+		potential = {
+			primary_culture = esdorean
+			ES6 = { exists = no }
+		}
+		allow = {
+			OR = {
+				AND = {
+					STA_391 = { owned_by = THIS }
+					STA_399 = { owned_by = THIS }
+					STA_390 = { owned_by = THIS }
+					STA_389 = { owned_by = THIS }
+					STA_332 = { owned_by = THIS }			
+				}
+				AND = {
+					STA_390 = { owned_by = THIS }
+					STA_389 = { owned_by = THIS }
+					STA_332 = { owned_by = THIS }	
+					STA_331 = { owned_by = THIS }
+					STA_329 = { owned_by = THIS }			
+				}
+				AND = {
+					STA_332 = { owned_by = THIS }	
+					STA_331 = { owned_by = THIS }
+					STA_329 = { owned_by = THIS }
+					STA_328 = { owned_by = THIS }			
+					STA_322 = { owned_by = THIS }
+				}
+				AND = {
+					STA_329 = { owned_by = THIS }
+					STA_328 = { owned_by = THIS }			
+					STA_322 = { owned_by = THIS }
+					STA_323 = { owned_by = THIS }
+					STA_326 = { owned_by = THIS }			
+				}
+			}
+		}
+		effect = { 
+			change_tag = ES6
+			any_country = {
+				any_owned = { 
+					limit = { pop_majority_culture = esdorean }
+				 	add_core = THIS
+				}
+			}		
+		}
+	}
+	form_FI1 = {
+		picture = form_FI1
+		potential = {
+			OR = {
+				tag = HA2
+				tag = ST1
+				tag = EL1
+			}
+			FI1 = { exists = no }
+		}
+		allow = {
+			STA_299 = { owned_by = THIS }
+
+			STA_271 = { owned_by = THIS }			
+			STA_293 = { owned_by = THIS }
+			STA_274 = { owned_by = THIS }
+
+			STA_305 = { owned_by = THIS }
+			STA_302 = { owned_by = THIS }			
+			STA_264 = { owned_by = THIS }
+			STA_263 = { owned_by = THIS }
+
+			STA_259 = { owned_by = THIS }
+			STA_256 = { owned_by = THIS }			
+			STA_261 = { owned_by = THIS }
+			STA_262 = { owned_by = THIS }
+			STA_257 = { owned_by = THIS }
+		}
+		effect = { 
+			change_tag = FI1
+			ST1 = { all_core = { add_core = THIS } }
+			EL1 = { all_core = { add_core = THIS } }
+			STA_259 = { add_core = THIS }
+			STA_256 = { add_core = THIS }			
+			STA_261 = { add_core = THIS }
+			STA_262 = { add_core = THIS }
+			STA_257 = { add_core = THIS }				
+		}
+	}
+}

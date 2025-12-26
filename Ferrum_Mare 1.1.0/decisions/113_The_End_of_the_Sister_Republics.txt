@@ -1,0 +1,83 @@
+political_decisions = {
+	the_end_of_the_sister_republics = {
+		picture = the_end_of_the_sister_republics
+		potential = {
+			OR = {
+				tag = HA2
+				tag = EL1
+				tag = ST1
+			}
+			NOT = { 
+				OR = {
+					HA2 = { has_country_flag = the_end_of_the_sister_republics }
+					EL1 = { has_country_flag = the_end_of_the_sister_republics }
+					ST1 = { has_country_flag = the_end_of_the_sister_republics } 
+				}
+			}
+		}
+		allow = {
+			NOT = {
+				exists = XE1
+				exists = DA1
+				exists = ES5
+			}
+			year = 1845
+			war = no
+		}
+		effect = { 
+			XE1 = { all_core = { remove_core = XE1 } }
+			DA1 = { all_core = { remove_core = DA1 } }
+			ES5 = { all_core = { remove_core = ES5 } }
+
+			HA2 = { 
+				set_country_flag = the_end_of_the_sister_republics
+	            any_owned = { 
+					limit = { pop_majority_culture = halladian }
+					add_province_modifier = {
+			            name = halladian_assim_boost
+			            duration = -1
+			        }
+		        }
+			    add_country_modifier = {
+			        name = halladian_assim_boost
+			        duration = -1
+			    }
+			}
+			EL1 = { 
+				set_country_flag = the_end_of_the_sister_republics
+	            any_owned = { 
+					limit = { pop_majority_culture = halladian }
+					add_province_modifier = {
+			            name = halladian_assim_boost
+			            duration = -1
+			        }
+		        }
+			    add_country_modifier = {
+			        name = halladian_assim_boost
+			        duration = -1
+			    }
+			}
+			ST1 = {
+				set_country_flag = the_end_of_the_sister_republics
+	            any_owned = { 
+					limit = { pop_majority_culture = halladian }
+					add_province_modifier = {
+			            name = halladian_assim_boost
+			            duration = -1
+			        }
+		        }
+			    add_country_modifier = {
+			        name = halladian_assim_boost
+			        duration = -1
+			    }
+			}
+		}
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				factor = 100
+				year = 1848
+			}
+		}
+	}
+}

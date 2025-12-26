@@ -1,0 +1,23 @@
+owner = VE1
+controller = VE1
+add_core = VE1
+
+trade_goods = fruit
+
+
+
+life_rating = 36
+
+set_province_flag = farm
+
+	state_building = {
+		level = 1
+		building = ammunition_factory
+		upgrade = yes
+	}
+
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}

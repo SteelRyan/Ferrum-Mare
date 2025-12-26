@@ -1,0 +1,11 @@
+owner = EM2
+controller = EM2
+add_core = EM2
+
+trade_goods = fruit
+
+
+
+life_rating = 38
+
+set_province_flag = farm

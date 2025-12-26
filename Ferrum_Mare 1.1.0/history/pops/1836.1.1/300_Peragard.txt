@@ -1,0 +1,5996 @@
+2156  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 28800
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 8134
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3168
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1251
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 318
+    }
+}
+
+2157  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 25200
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 24461
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3567
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1653
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 239
+    }
+}
+
+2158  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 37867
+    }
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 599
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 1799
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 176
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 19000
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5544
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2014
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 159
+    }
+}
+
+2159  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 16067
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 1200
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 1584
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 588
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 159
+    }
+}
+
+2160  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 25200
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 12579
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3567
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1286
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 239
+    }
+}
+
+2166  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 580
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 1780
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 180
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 55210
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4405
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 30
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1865
+    }
+
+}
+
+2167  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 18000
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 16829
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 2475
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 21
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1119
+    }
+
+}
+
+2168  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 16800
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 15358
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 2904
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1087
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 54
+    }
+}
+
+2169  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 28800
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 28074
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4752
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1916
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 162
+    }
+}
+
+2170  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 25920
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 18000
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3960
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1484
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 42
+    }
+}
+
+2256  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 1623
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 2823
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 281
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 64186
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4992
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2302
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 581
+    }
+}
+
+2257  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 70293
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5084
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2353
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 728
+    }
+}
+
+2258  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 45694
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4069
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1556
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 581
+    }
+}
+
+2259  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 40412
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4069
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1393
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 581
+    }
+}
+
+2260  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 47015
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 2748
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1556
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 581
+    }
+}
+
+2266  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 27000
+    }
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 28275
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5778
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 513
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 825
+    }
+    
+
+}
+
+2267  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 60000
+    }
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 28278
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5778
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 773
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 825
+    }
+    
+
+}
+
+2268  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 104775
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5778
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 905
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 825
+    }
+    
+
+}
+
+2269  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 45000
+    }
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 26778
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5778
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 641
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 825
+    }
+    
+
+}
+
+2270  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 37500
+    }
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1919
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4919
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 493
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 83775
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10728
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1135
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 825
+    }
+    
+
+}
+
+2171  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 80784
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 6667
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2860
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 4752
+    }
+    
+
+}
+
+2172  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 78430
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 7128
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2876
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 7128
+    }
+    
+
+}
+
+2173  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 90288
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 8568
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3210
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 4752
+    }
+    
+
+}
+
+2174  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 583
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 2743
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 274
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 64159
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 7135
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2391
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2376
+    }
+    
+
+}
+
+2175  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 92686
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 8554
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3361
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 7128
+    }
+    
+
+}
+
+2176  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 14500
+    }
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 224
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 704
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 71
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 8500
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 2245
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 821
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 330
+    }
+    
+
+}
+
+2177  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 19802
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 1584
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 686
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 792
+    }
+    
+
+}
+
+2178  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 38619
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 2970
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1382
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2970
+    }
+    
+
+}
+
+2179  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 20662
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 13000
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3168
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1159
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 660
+    }
+    
+
+}
+
+2180  = {
+    farmers = {
+        culture = layonnel
+        religion = catholic
+        size = 12440
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 2116
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 801
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1320
+    }
+    
+
+}
+
+2241  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 70622
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5940
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2387
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 660
+    }
+    
+
+}
+
+2242  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 90420
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 7658
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3052
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 660
+    }
+    
+
+}
+
+2243  = {
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 30000
+    }
+
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 63060
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 7922
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3141
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 660
+    }
+    
+
+}
+
+2244  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 2253
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 5853
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 586
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 165660
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 15182
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 5878
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 660
+    }
+    
+
+}
+
+2245  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 106260
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 9242
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3590
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 660
+    }
+    
+
+}
+
+2271  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 92400
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 8452
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3200
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2640
+    }
+    
+
+}
+
+2272  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 60724
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5808
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2141
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2640
+    }
+    
+
+}
+
+2273  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 59400
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4752
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2108
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 3960
+    }
+    
+
+}
+
+2274  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 2337
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 4587
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 458
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 136130
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 8420
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 4775
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2475
+    }
+    
+
+}
+
+2275  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 66004
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5808
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2304
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2640
+    }
+    
+
+}
+
+2276  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 59255
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4068
+    }
+
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1984
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 884
+    }
+
+
+}
+
+2277  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 42895
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3361
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1443
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 442
+    }
+    
+
+}
+
+2278  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 42895
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3185
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1438
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 442
+    }
+    
+
+}
+
+2279  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 94634
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 7960
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 3199
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 884
+    }
+    
+
+}
+
+2280  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 844
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 2452
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 245
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 56159
+    }
+
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4866
+    }
+    
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2009
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 442
+    }
+    
+
+}
+
+2361  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 758
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 2258
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 228
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 41253
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3630
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1323
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1483
+    }
+
+}
+
+2362  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 62700
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5286
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 2646
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2118
+    }
+
+}
+
+2363  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 37953
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3300
+    }
+
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1317
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1323
+    }
+}
+
+2364  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 41253
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 3630
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1323
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1386
+    }
+
+}
+
+2365  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 47853
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4623
+    }
+
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1663
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1323
+    }
+}
+
+2411  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 63833
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5725
+    }
+
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2205
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1763
+    }
+}
+
+2412  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 63833
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5725
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1763
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2139
+    }
+
+}
+
+2413  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 55029
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 4844
+    }
+
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 1905
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1763
+    }
+}
+
+2414  = {
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 63833
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 5725
+    }
+
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2205
+    }
+    
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1763
+    }
+}
+
+2415  = {
+    bureaucrats = {
+        culture = riftogard
+        religion = catholic
+        size = 1119
+    }
+    aristocrats = {
+        culture = riftogard
+        religion = catholic
+        size = 3521
+    } 
+    officers = {
+        culture = riftogard
+        religion = catholic
+        size = 354
+    }
+    farmers = {
+        culture = riftogard
+        religion = catholic
+        size = 66034
+    }
+    
+    artisans = {
+        culture = riftogard
+        religion = catholic
+        size = 6165
+    }
+
+    clergymen = {
+        culture = riftogard
+        religion = catholic
+        size = 1763
+    }
+    soldiers = {
+        culture = riftogard
+        religion = catholic
+        size = 2368
+    }
+
+}
+
+2121  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 66660
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5720
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 646
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 878
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4785
+    }
+}
+
+2122  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 95700
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7480
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 894
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1115
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4785
+    }
+}
+
+2123  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 86900
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7480
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 823
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1026
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4785
+    }
+}
+
+2124  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1579
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5099
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 510
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 113300
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10120
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1115
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1318
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4785
+    }
+}
+
+2125  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 69300
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5720
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 667
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 832
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4785
+    }
+}
+
+2141  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 93960
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8208
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 885
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1174
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4698
+    }
+}
+
+2142  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 76680
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6480
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 731
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 913
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4698
+    }
+}
+
+2143  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 76680
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6480
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 731
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 913
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4698
+    }
+}
+
+2144  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 76680
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6480
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 731
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 913
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4698
+    }
+}
+
+2145  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1584
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5040
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 503
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 102600
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9072
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1019
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1197
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4698
+    }
+}
+
+2146  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 92438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 2125
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 823
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1106
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2147  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1611
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5861
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 586
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 126438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11475
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1237
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1459
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2148  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 109438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9775
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1022
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1272
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2149  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 92438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7650
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 867
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1080
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2150  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 83938
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7225
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 795
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 992
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2281  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 879
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5932
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 593
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 150518
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 13893
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1445
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1797
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4579
+    }
+}
+
+2282  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 74734
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6315
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 712
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 889
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4579
+    }
+}
+
+2283  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 99994
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8843
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 936
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1167
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4579
+    }
+}
+
+2284  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 108416
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9684
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1011
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1260
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4579
+    }
+}
+
+2285  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 74734
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6315
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 712
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 889
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4579
+    }
+}
+
+2286  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 2485
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 6004
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 599
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 130863
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11876
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1286
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1600
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4784
+    }
+}
+
+2287  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 86875
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7477
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 822
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1025
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4784
+    }
+}
+
+2288  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 78078
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6598
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 744
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 928
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4784
+    }
+}
+
+2289  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 104470
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9237
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 978
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1219
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4784
+    }
+}
+
+2290  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 113268
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10117
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1057
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1316
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4784
+    }
+}
+
+2291  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1813
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4949
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 495
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 103235
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8886
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1030
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1285
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5685
+    }
+}
+
+2292  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 82327
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6795
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 786
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 982
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5685
+    }
+}
+
+2293  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 71872
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5750
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 867
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5685
+    }
+}
+
+2294  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 61419
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 4704
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 600
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 752
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5685
+    }
+}
+
+2295  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 92781
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7841
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 879
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1098
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5685
+    }
+}
+
+2296  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 75438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6375
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 720
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 966
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2297  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 66938
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5525
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 644
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 805
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2298  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1458
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4858
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 485
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 109438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8925
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1069
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1264
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2299  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 75438
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6375
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 719
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 898
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2300  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 83938
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7225
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 795
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 991
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 4622
+    }
+}
+
+2306  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 59515
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5410
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 543
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1011
+    }
+}
+
+2307  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 962
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4921
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 491
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 151229
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 13856
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1395
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1011
+    }
+}
+
+2308  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 85248
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7390
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 765
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1011
+    }
+}
+
+2309  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 65453
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5410
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 591
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1011
+    }
+}
+
+2310  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 78650
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6730
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 707
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1011
+    }
+}
+
+2321  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 76440
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6440
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 690
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1213
+    }
+}
+
+2322  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1709
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5909
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 591
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 132440
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 12040
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1248
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1213
+    }
+}
+
+2323  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 118440
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10640
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1059
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1213
+    }
+}
+
+2324  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 90440
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7840
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 813
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1213
+    }
+}
+
+2325  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 111440
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10640
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1003
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1213
+    }
+}
+2326  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1352
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5983
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 598
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 138314
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11732
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1292
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2327  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 122877
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10188
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1093
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2328  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 84285
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7101
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 760
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2329  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 76567
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6329
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 692
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2330  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 115159
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10188
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2331  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 50457
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 4140
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 508
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 943
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5629
+    }
+}
+
+2332  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 71157
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5693
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 686
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 943
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5629
+    }
+}
+
+2333  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1676
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5816
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 581
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 143606
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 12938
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1388
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 943
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5629
+    }
+}
+
+2334  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 122906
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10868
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1141
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 943
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5629
+    }
+}
+
+2335  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 102207
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8798
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 959
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 943
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 5629
+    }
+}
+
+2351  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 121747
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10771
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1090
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2352  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 72787
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5875
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 659
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2353  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 89107
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7507
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 803
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2354  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1085
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5981
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 598
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 129907
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11587
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1223
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2355  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 121747
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10771
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1090
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1229
+    }
+}
+
+2381  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 97020
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8820
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 881
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1236
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1096
+    }
+}
+
+2382  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 97020
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8820
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 881
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1236
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1096
+    }
+}
+
+2383  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 109620
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10080
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 992
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1236
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1096
+    }
+}
+
+2384  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 103320
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9450
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 936
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1236
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1096
+    }
+}
+
+2385  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1498
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5908
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 590
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 122220
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11340
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1167
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1236
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1096
+    }
+}
+
+2551  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 81395
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6196
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 725
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+}
+
+2552  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 3148
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4933
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 491
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 108170
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9068
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+}
+
+2553  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 72470
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5498
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 648
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+}
+
+2554  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 84965
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6568
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 757
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+}
+
+2555  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 99245
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7996
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 882
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1031
+    }
+}
+
+2261  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 2785
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4927
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 492
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 119095
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9596
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1123
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1034
+    }
+}
+
+2262  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 86965
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7026
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 779
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1034
+    }
+}
+
+2263  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 21420
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 54835
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6169
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 686
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1034
+    }
+}
+
+2264  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 84823
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6597
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 759
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1034
+    }
+}
+
+2265  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 76255
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5740
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 683
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1034
+    }
+}
+
+2336  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 92718
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7772
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 826
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1040
+    }
+}
+
+2337  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 71298
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5477
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 636
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1040
+    }
+}
+
+2338  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 66708
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5171
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 597
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1040
+    }
+}
+
+2339  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1947
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5007
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 500
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 137088
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 12362
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1277
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1040
+    }
+}
+
+2340  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 85068
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7007
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 759
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1040
+    }
+}
+
+2366  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 2723
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 4967
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 495
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 124766
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10278
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1174
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1044
+    }
+}
+
+2367  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 61934
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 3994
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 556
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1044
+    }
+}
+
+2368  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 79886
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5565
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 712
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1044
+    }
+}
+
+2369  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 104570
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7809
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 927
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1044
+    }
+}
+
+2370  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 77642
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5565
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 694
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1044
+    }
+}
+
+2371  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 92075
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 6259
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 823
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1253
+    }
+}
+
+2372  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 104111
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7462
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 929
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1253
+    }
+}
+
+2373  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 83048
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 5356
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 744
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1253
+    }
+}
+
+2374  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 2935
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5944
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 590
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 137210
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10772
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1296
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1253
+    }
+}
+
+2375  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 119156
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9268
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1064
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1253
+    }
+}
+
+2376  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 66152
+    }
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 41004
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9328
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 971
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1306
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1250
+    }
+}
+
+2377  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 41004
+    }
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 47973
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7894
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 814
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1306
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1250
+    }
+}
+
+2378  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 117884
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10762
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1068
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1306
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1250
+    }
+}
+
+2379  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 2076
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 6176
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 618
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 124924
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11480
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1201
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1306
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1250
+    }
+}
+
+2380  = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 49544
+    }
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 68340
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 10762
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1068
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1306
+    }
+
+    slaves = {
+        culture = pera
+        religion = catholic
+        size = 1250
+    }
+}
+
+2181 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 143000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1293
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2182 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 68000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2183 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 98000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 913
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2184 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 73000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 733
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2185 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 43000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 493
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2681 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 143000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1293
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2682 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 68000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 693
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2683 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 98000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 913
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2684 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 73000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 733
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+
+
+}
+
+2685 = {
+    farmers = {
+        culture = pergardian
+        religion = catholic
+        size = 100
+    }
+
+
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 43000
+    }
+
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 11200
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 493
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 2400
+    }
+}
+
+2301  = {
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 102963
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 8419
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 901
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1248
+    }
+}
+
+2302  = {
+    bureaucrats = {
+        culture = pera
+        religion = catholic
+        size = 1732
+    }
+    aristocrats = {
+        culture = pera
+        religion = catholic
+        size = 5878
+    } 
+    officers = {
+        culture = pera
+        religion = catholic
+        size = 587
+    }
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 137468
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 12560
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 1278
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1552
+    }
+}
+
+2303  = {
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 96062
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7729
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 838
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1091
+    }
+}
+
+2304  = {
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 109864
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 9109
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 961
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 1242
+    }
+}
+
+2305  = {
+    farmers = {
+        culture = pera
+        religion = catholic
+        size = 82260
+    }
+    
+    artisans = {
+        culture = pera
+        religion = catholic
+        size = 7039
+    }
+    
+    soldiers = {
+        culture = pera
+        religion = catholic
+        size = 721
+    }
+    
+    clergymen = {
+        culture = pera
+        religion = catholic
+        size = 946
+    }
+}

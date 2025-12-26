@@ -1,0 +1,11 @@
+owner = MI2
+controller = MI2
+add_core = MI2
+
+trade_goods = sulphur
+
+
+
+life_rating = 36
+
+set_province_flag = mine

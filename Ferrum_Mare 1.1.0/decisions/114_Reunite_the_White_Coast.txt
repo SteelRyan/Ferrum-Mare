@@ -1,0 +1,39 @@
+political_decisions = {
+	claim_calero  = {
+		picture = claim_CA1
+		potential = {
+			OR = {
+				tag = PI1
+				tag = HA2
+			}
+		}
+		allow = { check_variable = { which = calero_score value = 100 } }
+		effect = {
+			set_country_flag = claim_calero
+			add_accepted_culture = calero
+		}
+	}
+	reunite_the_white_coast  = {
+		picture = form_SP1
+		potential = {
+			OR = {
+				tag = PI1
+				tag = CA1
+				tag = HA2
+			}
+			SP1 = { exists = no }
+		}
+		allow = { 
+			has_country_flag = claim_calero 
+			PI1 = { all_core = { owned_by = THIS } }
+			CA1 = { all_core = { owned_by = THIS } }
+			HA2 = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			change_tag = SP1
+			PI1 = { all_core = { remove_core = PI1 add_core = THIS } }
+			CA1 = { all_core = { remove_core = CA2 add_core = THIS } }
+			HA2 = { all_core = { remove_core = HA2 add_core = THIS } }
+		}
+	}
+}

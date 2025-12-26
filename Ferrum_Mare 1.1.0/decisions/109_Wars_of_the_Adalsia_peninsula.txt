@@ -1,0 +1,151 @@
+political_decisions = {
+	the_eternal_strife_over_adalsia_north = {
+		picture = the_eternal_strife_over_adalsia_north
+		alert = yes
+
+		potential = {
+			OR = {
+				tag = LA1
+				tag = ZE1
+			}
+			NOT = { has_country_flag = the_eternal_strife_over_adalsia_north_done }
+		}
+		allow = {
+			OR = {
+				AND = {
+					tag = LA1
+					has_country_flag = the_eternal_strife_over_adalsia_south_done
+				}
+				tag = ZE1
+			}
+			STA_450 = { owned_by = THIS }
+			STA_485 = { owned_by = THIS }
+			STA_520 = { owned_by = THIS }
+		}
+		effect = { 
+			STA_450 = { add_core = THIS }
+			STA_485 = { add_core = THIS }
+			STA_520 = { add_core = THIS }
+			set_country_flag = the_eternal_strife_over_adalsia_north_done
+
+			ZBK = { civilized = no }
+			STA_450 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_450 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_485 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_485 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_520 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_520 = { secede_province = THIS }
+		}
+	}
+	the_eternal_strife_over_adalsia_south = {
+		picture = the_eternal_strife_over_adalsia_south
+		alert = yes
+		
+		potential = {
+			OR = {
+				tag = LA1
+				tag = ZE1
+			}
+			NOT = { has_country_flag = the_eternal_strife_over_adalsia_south_done }
+		}
+		allow = {
+			OR = {
+				tag = LA1
+				AND = {
+					tag = ZE1
+					has_country_flag = the_eternal_strife_over_adalsia_north_done
+				}
+			}
+			STA_493 = { owned_by = THIS }
+			STA_534 = { owned_by = THIS }
+			STA_494 = { owned_by = THIS }
+			STA_492 = { owned_by = THIS }
+		}
+		effect = { 
+			STA_493 = { add_core = THIS }
+			STA_534 = { add_core = THIS }
+			STA_494 = { add_core = THIS }
+			STA_492 = { add_core = THIS }
+			set_country_flag = the_eternal_strife_over_adalsia_south_done
+
+			ZBK = { civilized = no }
+			STA_493 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_493 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_534 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_534 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_494 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_494 = { secede_province = THIS }
+			ZBK = { civilized = no }
+			STA_492 = { secede_province = ZBK }
+			ZBK = { civilized = yes }
+			STA_492 = { secede_province = THIS }
+		}
+	}
+	form_AD2 = {
+		picture = form_AD2
+		potential = {
+			OR = {
+				tag = LA1
+				tag = AD1
+				tag = ZE1
+			}
+			AD2 = { exists = no }
+		}
+		allow = {
+			has_country_flag = the_eternal_strife_over_adalsia_south_done
+			has_country_flag = the_eternal_strife_over_adalsia_north_done
+			STA_493 = { owned_by = THIS }
+			STA_534 = { owned_by = THIS }
+			STA_494 = { owned_by = THIS }
+			STA_492 = { owned_by = THIS }
+			STA_450 = { owned_by = THIS }
+			STA_493 = { owned_by = THIS }
+			STA_485 = { owned_by = THIS }
+			STA_520 = { owned_by = THIS }
+		}
+		effect = { 
+			change_tag = AD2
+			ZE1 = { all_core = { add_core = THIS remove_core = ZE1 } }
+			LA1 = { all_core = { add_core = THIS remove_core = LA1 } }
+			any_owned = { 
+				limit = { pop_majority_culture = adranai }
+				add_core = THIS 
+			}	
+		}
+	}
+	beyond_adalsia = {
+		picture = beyond_adalsia
+		alert = yes
+		
+		potential = {
+			OR = {
+				tag = LA1
+				tag = ZE1
+				tag = AD2
+			}
+			NOT = { has_country_flag = beyond_adalsia_done }
+		}
+		allow = {
+			STA_432 = { owned_by = THIS }
+			STA_456 = { owned_by = THIS }
+			STA_435 = { owned_by = THIS }
+			NOT = { exists = LA1 }
+			NOT = { exists = ZE1 }
+		}
+		effect = { 
+			set_country_flag = beyond_adalsia_done 
+			add_culture = riftogard
+			add_culture = dohargard
+		}
+	}
+}

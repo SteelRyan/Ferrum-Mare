@@ -1,0 +1,13 @@
+owner = CH1
+controller = CH1
+add_core = CH1
+
+
+trade_goods = iron
+
+
+
+
+life_rating = 36
+
+set_province_flag = mine

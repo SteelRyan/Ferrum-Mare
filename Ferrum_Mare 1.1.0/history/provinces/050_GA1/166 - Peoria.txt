@@ -1,0 +1,15 @@
+owner = BR1
+controller = BR1
+add_core = BR1
+
+trade_goods = coal
+
+life_rating = 38
+  
+set_province_flag = mine
+
+	state_building = {
+		level = 1
+		building = artillery_factory
+		upgrade = yes
+	}

@@ -1,0 +1,140 @@
+# Gardian Vassals
+# Verspodia
+vassal = {
+	first = VE1
+	second = ES3
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = VE1
+	second = VO1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = VE1
+	second = UM1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+# Forse
+vassal = {
+	first = FO1
+	second = EM2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = AG1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = TO1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = FR1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = BR1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = DE2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = FE3
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = SA1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = OL1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = FO1
+	second = VA2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+#Herradem
+vassal = {
+	first = HE1
+	second = GE1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = HE1
+	second = DA2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = HE1
+	second = HE3
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = HE1
+	second = EL2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+
+#Palpedia
+vassal = {
+	first = PA1
+	second = FE2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = PA1
+	second = AM1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+
+#Neodore
+vassal = {
+	first = NE1
+	second = ES4
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = NE1
+	second = BO1
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}
+vassal = {
+	first = NE1
+	second = ZE2
+	start_date = 1743.8.11 
+	end_date = 1870.1.1 
+}

@@ -1,0 +1,11 @@
+owner = EL3
+controller = EL3
+add_core = EL3
+
+trade_goods = sulphur
+
+
+
+life_rating = 36
+
+set_province_flag = mine

@@ -1,0 +1,17 @@
+owner = DO1
+controller = DO1
+add_core = DO1
+
+
+
+trade_goods = sulphur
+
+life_rating = 36
+
+set_province_flag = mine
+
+	state_building = {
+		level = 2
+		building = fabric_factory
+		upgrade = yes
+	}

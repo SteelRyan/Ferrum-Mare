@@ -1,0 +1,9 @@
+owner = LE2
+controller = LE2
+add_core = LE2
+
+trade_goods = cattle
+
+life_rating = 36
+
+set_province_flag = farm

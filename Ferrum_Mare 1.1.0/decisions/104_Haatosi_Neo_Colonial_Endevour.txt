@@ -1,0 +1,29 @@
+political_decisions = {
+	you_too_can_be_haatosi = {
+		potential = {
+			tag = HA1
+			NOT = { HA1 = { has_country_flag = you_too_can_be_haatosi } }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			raider_group_doctrine = 1
+			war = no
+		}
+		effect = { 
+			HA1 = { 
+				any_owned = { 
+					limit = { pop_majority_culture = sinray }
+					add_province_modifier = {
+	                    name = sinray_assim_boost
+	                    duration = -1
+	                }
+	            }
+	            add_country_modifier = {
+	                name = sinray_assim_boost
+	                duration = -1
+	            }
+	            set_country_flag = you_too_can_be_haatosi
+			}
+		}
+	}
+}

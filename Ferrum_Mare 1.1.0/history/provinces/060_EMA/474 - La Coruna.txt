@@ -1,0 +1,15 @@
+owner = EM1
+controller = EM1
+add_core = EM1
+
+trade_goods = iron
+
+life_rating = 36
+
+set_province_flag = mine
+
+	state_building = {
+		level = 1
+		building = furniture_factory
+		upgrade = yes
+	}

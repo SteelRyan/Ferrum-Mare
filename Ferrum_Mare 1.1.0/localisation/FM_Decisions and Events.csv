@@ -1,0 +1,404 @@
+##########################;;;;;;;;;;;;;x
+##########################Decisions###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+neodorean_imperial_scientific_aspiration_title;Neodorean Imperial Scientific Aspirations;;;;;;;;;;;;;;x
+neodorean_imperial_scientific_aspiration_desc;Relentless innovation and imperial ambition have driven Neodore to greatness, shaping a legacy that few can rival. Once more, the leaders of Neodore weigh the choice to initiate a five-year surge, a bold and unrestrained drive to expand its reach and establish supremacy at any cost.\n§RTHIS DECISION WILL CONVERT OUR RESEARCH BONUS INTO A -25%\nPENATLY FOR FIVE YEARS, STARTING FIVE YEARS FROM NOW.\n§RWHILE AT WAR, SWITCHING FROM STAGE 2 TO OTHER OPTIONS WILL BE DISABLED;;;;;;;;;;;;;;x
+AD2_dry_dock_modernization_title;Adalsian Drydock Doctrine;;;;;;;;;;;;;;x
+AD2_dry_dock_modernization_desc;It is paramount that we develop the skills and structures it takes to conquer the seas of which we have so many. It is this that makes us not shy to act swiftly and open all channels to gain the knowledge and the know how to construct, maintain and operate a large and magnificent Navy!;;;;;;;;;;;;;;x
+EM1_war_industry_directorate_title;Emademi Military Industrial Directorate;;;;;;;;;;;;;;x
+EM1_war_industry_directorate_desc;Emadem has in its history experienced many conflicts which have carried their suffering into our heartlands and dealt us unenviable suffering. It is this that motivates us and our military to establish structures which are unrivaled in terms of military acumen. May no enemy invade our lands and not regret it deeply.;;;;;;;;;;;;;;x
+PI1_professional_officer_title;Pinaro Officer Professionalism;;;;;;;;;;;;;;x
+PI1_professional_officer_desc;It was the Militia-Army which established the Republic and it were the officers of the liberal nobility which wrote our constitution. In it, they realized a structure keeping the army beholden to the state, but in a manner which allows no mere politician to insert himself into its command structure. Positions in the army of Pinaro cannot be bought, nor can they be appointed, but rather they are achieved in an environment of meritocratic totality.;;;;;;;;;;;;;;x
+pergardian_ethos_of_reinvention_title;The Pergardean Ethos of Progress;;;;;;;;;;;;;;x
+pergardian_ethos_of_reinvention_desc;Through our relentless commitment to hard work and our willingness to embrace and learn from the innovations of others, Pergard has successfully integrated modern methodologies into our research efforts. With our newly westernized institutions and a culture that values industriousness and knowledge exchange, we stand poised to accelerate our scientific progress and secure a brighter future for our nation.;;;;;;;;;;;;;;x
+you_too_can_be_haatosi;You too can be Haatosi!;;;;;;;;;;;;;;x
+you_too_can_be_haatosi_title;You too can be Haatosi;;;;;;;;;;;;;;x
+you_too_can_be_haatosi_desc;§YHaatos§! will gain a §Y0.6% Assimilation bonus§! on the §YSinray culture§!\n\nThe nation of Haatos has embarked on a daring and controversial mission to integrate the culturally distinct Sinray people into the fabric of Haatosi society. Through a mix of education reforms, economic incentives, and cultural programs, Haatos hopes to encourage Sinray citizens to adopt Haatosi values, traditions, and language.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+contest_over_zyrosie_title;Unite the Zyrosie;;;;;;;;;;;;;;x
+contest_over_zyrosie_desc;Both §YEsperos and Haatos§! will gain a §Y1% Assimilation bonus§! on the §YZyrosie culture§!\n\nWith all Zyrosie lands under our control, their people are now being integrated into the state, their distinct identity gradually loosened and absorbed into our culture.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+contest_over_myham_title;Integrate Myhamaria;;;;;;;;;;;;;;x
+contest_over_myham_desc;§YEsperos§!, §YRedrogard§!, and §YHaatos§! gain a §Y1% Assimilation bonus§! toward §YMyham culture§!.\n\nWith all Myham lands under our rule, their people now enter a new age und our raised flags, local loyalties softened, and the Myham name slowly woven into the fabric of our own, inherited by a greater power.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+elysan_reunion_title;The Elysan Reunion;;;;;;;;;;;;;;x
+elysan_reunion_desc;After securing the Peninsula, §YForse§! proclaims the reunion with the §YElysan people§!, the very root of Forse’s own origin.\n\nNo foreign yoke is lifted today, for the Elysan were never foreign to us. In this gentle reconquest, we do not remake the Elysan, but recall ourselves, a shared cradle, a familiar tongue, and a lineage restored, this seam of history finally stitched closed.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+state_west_sinray_island_title;Found the Western Sinray Island Company;;;;;;;;;;;;;;x
+state_west_sinray_island_desc;We may impose modern administration upon the §YWestern Sinray Island§!.\n\nA land rich in ressources, and equatorial abundance, its people numerous, foreign, and ungoverned by any civilized state. We shall erect ministries where none stood, chart censuses where none were taken, and bind the island’s wealth to the ledgers of rational governance not for their likeness to us, but for their value to us.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+state_east_sinray_island_title;Found the Eastern Sinray Island Company;;;;;;;;;;;;;;x
+state_east_sinray_island_desc;We may impose modern administration upon the §YEstern Sinray Island§!.\n\nHere the sun rises over jungles heavy with promise, where vines coil over soil dense with ores, rivers swollen with fish and gold-flecked silt, and shores bursting with untapped trading potential. Without structure, riches breed only freedom, with structure, they breed dominion. We shall grant it structure, and thus bind its fortune to the sigils of our state.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+new_dorania_title;Invest into New Dorania;;;;;;;;;;;;;;x
+new_dorania_desc;The Empire may invest in the temperate colony of New Dorania.\nThis decision may be taken §Yup to 10 times§!, each investment costing §1 Million§!.\n\ninvesting grants the following effects for §Y5 years§!:\n§G+0.1% population growth§!\n§G+0.2% Assimilation rate§!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+domain_of_the_heartland_title;Domain of the Heartland;;;;;;;;;;;;;;x
+domain_of_the_heartland_desc;§YRedrogard§! stands at the decisive center between east and central Pillar, a state forged through strength and proven through order. The power here has never been the land itself, but the people it sustains, the influence it concentrates, and the rivals it compelled to rise or fall.\n\nNeighbors once stood proud and ambitious, yet they learned quickly that Unity, Discipline, and Competence were not ideals, but necessities under Redrogard’s gaze.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+dissolve_the_crown_of_terilem_title;Dissolve the Crown of Terilem;;;;;;;;;;;;;;x
+dissolve_the_crown_of_terilem_desc;§RHover over my text!§!\n\nThis decision starts a three-way Prisoner's Dilemma between §YDevogard§!, §YRedrogard§!, and §YEmadem§!.\nYou §Rmust§! own at least one §RTerilem core province§! to participate.§!\n\nEach state secretly chooses:\n§GCOOPERATE§! No accusation.\n§RBETRAY§! Accuse one or all rivals.\n\n§YAssimilation outcomes§!:\n§GStab all§! | §GThey trust§! 1.0% Assimilation\n§GStab one§! | §YMutual trust other§! 0.9% Assimilation\n§YMutual trust all§! 0.8% Assimilation\n§GStab one§! | §RMutual stab other§! 0.7% Assimilation\n§GStab one§! | §ROther stabs you§! 0.6% Assimilation\n§YMutual trust one§! | §RMutual stab other§! 0.5% Assimilation\n§YMutual trust one§! | §ROther stabs you§! 0.4% Assimilation\n§RMutual stab all§! 0.3% Assimilation\n§RMutual stab one§! | §ROther stabs you§! 0.2% Assimilation\n§ROthers stab you twice§! 0.1% Assimilation\n\n§YTwo player scenario§!:\n§GStab§! | §YOther trusts§! 1.0% Assimilation\n§YMutual trust§! 0.8% Assimilation\n§RMutual stab§! 0.3% Assimilation\n§ROther stabs§! 0.1% Assimilation\n\nWar resolution:\nAccused state gains a §YCasus Belli of Retribution§!.\n\nVictory via war decides §YTerilemi assimilation§! on a one victim to one accuser basis. Each war result applies only to the country that used a Casus Belli on you, or the one you used the Casus Belli on.\nWinner assimilates §Gfaster§!.\nLoser assimilates §Rslower§!.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x
+dissolve_the_crown_of_ormal_title;Dissolve the Crown of Ormal;;;;;;;;;;;;;;x
+dissolve_the_crown_of_ormal_desc;§RHover over my text!§!\n\nThis decision starts a three-way Prisoner’s Dilemma between §YDevogard§!, §YRedrogard§!, and §YHaatos§!.\nYou §Rmust§! own at least one §ROrmal core province§! to participate.§!\n\nEach state secretly chooses:\n§GCOOPERATE§! No accusation.\n§RBETRAY§! Accuse one or all rivals.\n\n§YAssimilation outcomes§!:\n§GStab all§! | §GThey trust§! 1.0% Assimilation\n§GStab one§! | §YMutual trust other§! 0.9% Assimilation\n§YMutual trust all§! 0.8% Assimilation\n§GStab one§! | §RMutual stab other§! 0.7% Assimilation\n§GStab one§! | §ROther stabs you§! 0.6% Assimilation\n§YMutual trust one§! | §RMutual stab other§! 0.5% Assimilation\n§YMutual trust one§! | §ROther stabs you§! 0.4% Assimilation\n§RMutual stab all§! 0.3% Assimilation\n§RMutual stab one§! | §ROther stabs you§! 0.2% Assimilation\n§ROthers stab you twice§! 0.1% Assimilation\n\n§YTwo player scenario§!:\n§GStab§! | §YOther trusts§! 1.0% Assimilation\n§YMutual trust§! 0.8% Assimilation\n§RMutual stab§! 0.3% Assimilation\n§ROther stabs§! 0.1% Assimilation\n\nWar resolution:\nAccused state gains a §YCasus Belli of Retribution§!.\n\nVictory via war decides §YOrmale assimilation§! on a one victim to one accuser basis. Each war result applies only to the country that used a Casus Belli on you, or the one you used the Casus Belli on.\nWinner assimilates §Gfaster§!.\nLoser assimilates §Rslower§!.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+dissolve_the_crown_of_nadorilem_title;Dissolve the Crown of Nadorilem;;;;;;;;;;;;;;x
+dissolve_the_crown_of_nadorilem_desc;§RHover over my text!§!\n\nThis decision starts a three-way Prisoner’s Dilemma between §YDevogard§!, §YEmadem§!, and §YHerradem§!.\nYou §Rmust§! own at least one §RNadorilem core province§! to participate.§!\n\nEach state secretly chooses:\n§GCOOPERATE§! No accusation.\n§RBETRAY§! Accuse one or all rivals.\n\n§YAssimilation outcomes§!:\n§GStab all§! | §GThey trust§! 1.0% Assimilation\n§GStab one§! | §YMutual trust other§! 0.9% Assimilation\n§YMutual trust all§! 0.8% Assimilation\n§GStab one§! | §RMutual stab other§! 0.7% Assimilation\n§GStab one§! | §ROther stabs you§! 0.6% Assimilation\n§YMutual trust one§! | §RMutual stab other§! 0.5% Assimilation\n§YMutual trust one§! | §ROther stabs you§! 0.4% Assimilation\n§RMutual stab all§! 0.3% Assimilation\n§RMutual stab one§! | §ROther stabs you§! 0.2% Assimilation\n§ROthers stab you twice§! 0.1% Assimilation\n\n§YTwo player scenario§!:\n§GStab§! | §YOther trusts§! 1.0% Assimilation\n§YMutual trust§! 0.8% Assimilation\n§RMutual stab§! 0.3% Assimilation\n§ROther stabs§! 0.1% Assimilation\n\nWar resolution:\nAccused state gains a §YCasus Belli of Retribution§!.\n\nVictory via war decides §YNadorilemi assimilation§! on a one victim to one accuser basis. Each war result applies only to the country that used a Casus Belli on you, or the one you used the Casus Belli on.\nWinner assimilates §Gfaster§!.\nLoser assimilates §Rslower§!.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_eternal_strife_over_adranal_title;The Eternal Strife over Adranal;;;;;;;;;;;;;;x
+the_eternal_strife_over_adranal_desc;Both §YLayonell and Zeek§! will gain a §Y1% Assimilation bonus§! on the §YAdranai culture§!\n\nAfter centuries marked by relentless attempts at conquest and the ravages of countless struggles, the lands of Adranal have at last come under our dominion, kindling the hope that this long era of strife and turmoil may finally draw to a close.;;;;;;;;;;;;;;x;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_HAA_title;Sudden Strike on Haatos;;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_HAA_desc;In a bold and thunderous declaration, the nation of Redrogard has cast diplomacy aside, rallying its armies for a rapid and decisive strike against Haatos. With precision and swiftness as its creed, this campaign aims to subdue the foe before they can marshal their strength, heralding a conflict of unmatched ferocity.\n§RGain a Unique Zero Cost CB on Haatos lasting 90 days!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_DEV_title;Sudden Strike on Devogard;;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_DEV_desc;In a bold and thunderous declaration, the nation of Redrogard has cast diplomacy aside, rallying its armies for a rapid and decisive strike against Devogard. With precision and swiftness as its creed, this campaign aims to subdue the foe before they can marshal their strength, heralding a conflict of unmatched ferocity.\n§RGain a unique zero cost CB on Devogard lasting 90 days!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_ESP_title;Sudden Strike on Esperos;;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_ESP_desc;In a bold and thunderous declaration, the nation of Redrogard has cast diplomacy aside, rallying its armies for a rapid and decisive strike against Esperos. With precision and swiftness as its creed, this campaign aims to subdue the foe before they can marshal their strength, heralding a conflict of unmatched ferocity.\n§RGain a unique zero cost CB on Esperos lasting 90 days!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_EMA_title;Sudden Strike on Emadem;;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_EMA_desc;In a bold and thunderous declaration, the nation of Redrogard has cast diplomacy aside, rallying its armies for a rapid and decisive strike against Emadem. With precision and swiftness as its creed, this campaign aims to subdue the foe before they can marshal their strength, heralding a conflict of unmatched ferocity.\n§RGain a unique zero cost CB on Emadem lasting 90 days!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_DOR_title;Sudden Strike on Doridia;;;;;;;;;;;;;;x
+Redrogard_sudden_strike_against_DOR_desc;In a bold and thunderous declaration, the nation of Redrogard has cast diplomacy aside, rallying its armies for a rapid and decisive strike against Doridia. With precision and swiftness as its creed, this campaign aims to subdue the foe before they can marshal their strength, heralding a conflict of unmatched ferocity.\n§RGain a unique zero cost CB on Doridia lasting 90 days!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+elowaar_realm_blood_and_harvest_title;Our Realm! Our Blood! Our Harvest!;;;;;;;;;;;;;;x
+elowaar_realm_blood_and_harvest_desc;The fertile frontier of Luden thrives under the industrious Elowaar, a proud subculture descended from settlers who embraced the land’s hardships. Calling themselves the "blood of the land," their unity and fecundity have spurred a remarkable population boom, transforming the once-sparse frontier into a vibrant tapestry of homesteads and bustling communities.\n§RAny Elowaar majority province gains +0.1 pop growth!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_end_of_the_sister_republics_title;Absorption of the Sister Republics;;;;;;;;;;;;;;x
+the_end_of_the_sister_republics_desc;§YStraya, Eliadem and Spherso/Hamero§! will gain a §Y1% Assimilation bonus§! on the §YHalladian culture§!\n\nThe Sister Republics, long celebrated as stalwart defenders of frontier liberty, have ceded their independence and been brought under the authority of neighboring powers. Whether achieved through statesmanship or by more forceful measures, the annexation marks a turning point for these once-proud republics. Advocates laud the move as a harbinger of unity and prosperity, while detractors bemoan the dissolution. As the banners of their new rulers rise over these lands, only time will tell what this change holds for the people of the frontier.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+claim_calero_title;Land and Legacy of Calero;;;;;;;;;;;;;;x
+claim_calero_desc;Owner of states 250, 251, 289 or 288 gains §G+1 Legitimacy§! per state each year.\nAt §Y100 Legitimacy§!, this decision may be taken to §Gaccept Calero culture§!.\n§RThe rival continues their Legitimacy progression separately§!.\n\nCalero was born from compromise. In its early years, the elites raised an elective crown, inviting a foreign king to borrow legitimacy and deter northern and southern pressure. The experiment failed. Autonomy was lost, borders erased, the constitution broken, and lands seized by force.\nNow, the conflict for the divided Caleran territories has ended. All former Caleran lands and people have been formally integrated under one sovereign authority, bound inseparably to the victor’s nation.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+claim_pinaro_title;Reconquest of the White Coast;;;;;;;;;;;;;;x
+claim_pinaro_desc;The lands of Pinaro, steeped in riches and storied tradition, now lie at the heart of Spherso’s bold claims over the White Coast. To Spherso, Pinaro represents not merely a neighboring state but a rightful part of their dominion, a vital key to the unity and prosperity of the region. Yet for the proud people of Pinaro, this claim strikes at the core of their identity and independence, stirring both unease and defiance.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+war_between_the_triachy_title;The Triachy and Haldem;;;;;;;;;;;;;;x
+war_between_the_triachy_desc;Owner of states 93, 97, 96, 57, 58 or 99 gains §G+1 Legitimacy§! per state each year.\nAt §Y150 Legitimacy§!, this decision may be taken to §Gaccept Haldosi culture§!.\n§RThe rivals continues their Legitimacy progression separately§!.\n\nThe borderlands shared by the three nations of the Triarchy have become a hotbed of intrigue and strife, with each vying for control over territories which are home to the Haldosi minority. Once a people of a great nation, the Haldosi now find themselves caught in the crossfire of ambition, their lands serving as both as battleground and as prize.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+integration_of_perovania_title;Integration of Perovania;;;;;;;;;;;;;;x
+integration_of_perovania_desc;§YPalpedia§! will gain a §Y0.6% Assimilation bonus§! on the §YPerovania culture§!\n\nThe former kingdom of Perovania, once a fierce rival and steadfast vassal to the hated Milogarde, enemie of all Peoples, now stands on the brink of assimilation into the Realm of Palpedia. Once, their armies ravaged our lands with impunity; now, their territories and people lie subdued. Yet, the task of integration remains fraught with challenges, as old animosities and the scars of conflict linger beneath the surface.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+sovereignty_over_the_devayan_title;Sovereignty over the Devayan;;;;;;;;;;;;;;x
+sovereignty_over_the_devayan_desc;§YSpherso§! / §YHamero§! will gain a §Y1.0% Assimilation bonus§! on the §YDevayan culture§!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+overlordship_over_the_lothradem_title;Overlordship over the Lothradem;;;;;;;;;;;;;;x
+overlordship_over_the_lothradem_desc;§YSpherso§! / §YHamero§! will gain a §Y1.0% Assimilation bonus§! on the §YLothradem culture§!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+rule_over_the_elowaar_title;Rule over the Elowaar;;;;;;;;;;;;;;x
+rule_over_the_elowaar_desc;§YSpherso§! / §YCalero§! will gain a §Y1.5% Assimilation bonus§! on the §YElowaar culture§!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+PI1_expansion_A1_title;PI1 Expansion A1;;;;;;;;;;;;;;x
+PI1_expansion_A1_desc;Pinaro claims by possession and speaks by mandate. Lesser republics, petty crowns and border rivals may quarrel, but the land obeys the authority that governs it, and we are that authority. What Pinaro rules, Pinaro keeps.\nStates: 222, 225, 204 and 208;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+PI1_expansion_A2_title;PI1 Expansion A2;;;;;;;;;;;;;;x
+PI1_expansion_A2_desc;Pinaro claims by possession and speaks by mandate. Lesser republics, petty crowns and border rivals may quarrel, but the land obeys the authority that governs it, and we are that authority. What Pinaro rules, Pinaro keeps.\nStates: 246, 244, 226, 203 and 201;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+LU1_expansion_B1_title;LU1 Expansion B1;;;;;;;;;;;;;;x
+LU1_expansion_B1_desc;Luden claims by right of governance, not debate. Minor states may protest, but the land answers to the crown that administers it. What Luden holds is secured, what is secured is kept, and what is kept is ours by sovereign will.\nStates: 232, 231, 229 and 230;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+LU1_expansion_A1_title;LU1 Expansion A1;;;;;;;;;;;;;;x
+LU1_expansion_A1_desc;Luden claims by right of governance, not debate. Minor states may protest, but the land answers to the crown that administers it. What Luden holds is secured, what is secured is kept, and what is kept is ours by sovereign will.\nStates: 246 and 226;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+LU1_expansion_A2_title;LU1 Expansion A2;;;;;;;;;;;;;;x
+LU1_expansion_A2_desc;Luden claims by right of governance, not debate. Minor states may protest, but the land answers to the crown that administers it. What Luden holds is secured, what is secured is kept, and what is kept is ours by sovereign will.\nStates: 289 and 288;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+LU1_expansion_A3_title;LU1 Expansion A3;;;;;;;;;;;;;;x
+LU1_expansion_A3_desc;Luden claims by right of governance, not debate. Minor states may protest, but the land answers to the crown that administers it. What Luden holds is secured, what is secured is kept, and what is kept is ours by sovereign will.\nStates: 222, 225, 204 and 208;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+LU1_expansion_AB1_title;LU1 Expansion AB1;;;;;;;;;;;;;;x
+LU1_expansion_AB1_desc;Luden claims by right of governance, not debate. Minor states may protest, but the land answers to the crown that administers it. What Luden holds is secured, what is secured is kept, and what is kept is ours by sovereign will.\nStates: 203, 201 and 195;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+LU1_expansion_AB2_title;LU1 Expansion AB2;;;;;;;;;;;;;;x
+LU1_expansion_AB2_desc;Luden claims by right of governance, not debate. Minor states may protest, but the land answers to the crown that administers it. What Luden holds is secured, what is secured is kept, and what is kept is ours by sovereign will.\nStates: 189, 188 and 191;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+VA1_expansion_B1_title;VA1 Expansion B1;;;;;;;;;;;;;;x
+VA1_expansion_B1_desc;Varan asserts by administration. Objections from marginal states carry no weight where authority is exercised, and authority is exercised here. Territory under Varan jurisdiction remains under Varan, now and forever!\nStates: 232, 231, 229 and 230;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+VA1_expansion_A1_title;VA1 Expansion A1;;;;;;;;;;;;;;x
+VA1_expansion_A1_desc;Varan asserts by administration. Objections from marginal states carry no weight where authority is exercised, and authority is exercised here. Territory under Varan jurisdiction remains under Varan, now and forever!\nStates: 201, 195, 203 and 226;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+VA1_expansion_A2_title;VA1 Expansion A2;;;;;;;;;;;;;;x
+VA1_expansion_A2_desc;Varan asserts by administration. Objections from marginal states carry no weight where authority is exercised, and authority is exercised here. Territory under Varan jurisdiction remains under Varan, now and forever!\nStates: 225, 204, 222 and 208;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+VA1_expansion_AB1_title;VA1 Expansion AB1;;;;;;;;;;;;;;x
+VA1_expansion_AB1_desc;Varan asserts by administration. Objections from marginal states carry no weight where authority is exercised, and authority is exercised here. Territory under Varan jurisdiction remains under Varan, now and forever!\nStates: 228, 240, 244 and 246;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+VA1_expansion_AB2_title;VA1 Expansion AB2;;;;;;;;;;;;;;x
+VA1_expansion_AB2_desc;Varan asserts by administration. Objections from marginal states carry no weight where authority is exercised, and authority is exercised here. Territory under Varan jurisdiction remains under Varan claim, now and forever!\nStates: 239, 238, 235 and 234;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+JO1_expansion_1_title;Jogard Expansion 1;;;;;;;;;;;;;;x
+JO1_expansion_1_desc;We have expanded the reach of our state and won more resources and strength to our cause.\nStates: 425, 535, 430, 461;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+JO1_expansion_2_full_title;Jogard Expansion 2;;;;;;;;;;;;;;x
+JO1_expansion_2_full_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 457, 462, 536, 429;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+JO1_expansion_2_TH1_taken_title;Jogard Expansion 2;;;;;;;;;;;;;;x
+JO1_expansion_2_TH1_taken_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 457, 462, 536, 429;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+JO1_expansion_3_title;Jogard Expansion 3;;;;;;;;;;;;;;x
+JO1_expansion_3_desc;Our expansion is complete. The lands we hold are no longer divided and our claim stands singular.\nStates: 475, 458, 460, 459, 466;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_1_title;Thyna Expansion 1;;;;;;;;;;;;;;x
+TH1_expansion_1_desc;We have expanded the reach of our state and won more resources and strength to our cause.\nStates: 465, 477, 471;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_2_full_title;Thyna Expansion 2;;;;;;;;;;;;;;x
+TH1_expansion_2_full_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 457, 475, 466, 467;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_2_JO1_taken_title;Thyna Expansion 2;;;;;;;;;;;;;;x
+TH1_expansion_2_JO1_taken_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 457, 475, 466, 467;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_2_AS1_taken_title;Thyna Expansion 2;;;;;;;;;;;;;;x
+TH1_expansion_2_AS1_taken_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 457, 475, 466, 467;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_2_both_taken_title;Thyna Expansion 2;;;;;;;;;;;;;;x
+TH1_expansion_2_both_taken_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 457, 475, 466, 467;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_3_title;Thyna Expansion 3;;;;;;;;;;;;;;x
+TH1_expansion_3_desc;Our reach has expanded even further. We are now a domineering state in the center of the Pera.\nStates: 458, 460, 459;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+TH1_expansion_4_title;Thyna Expansion 4;;;;;;;;;;;;;;x
+TH1_expansion_4_desc;Our expansion is complete. The lands we hold are no longer divided and our claim stands singular.\nStates: 462, 536, 453, 476;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+AS1_expansion_1_title;Asphat Expansion 1;;;;;;;;;;;;;;x
+AS1_expansion_1_desc;We have expanded the reach of our state and won more resources and strength to our cause.\nStates: 476, 468, 474;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+AS1_expansion_2_full_title;Asphat Expansion 2;;;;;;;;;;;;;;x
+AS1_expansion_2_full_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 467, 453, 454, 511;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+AS1_expansion_2_TH1_taken_title;Asphat Expansion 2;;;;;;;;;;;;;;x
+AS1_expansion_2_TH1_taken_desc;We have expanded to a sizable state and can now wield considerable power and influence for our cause.\nStates: 467, 453, 454, 511;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+AS1_expansion_3_title;Asphat Expansion 3;;;;;;;;;;;;;;x
+AS1_expansion_3_desc;Our expansion is complete. The lands we hold are no longer divided and our claim stands singular.\nStates: 475, 458, 460, 459, 466;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+build_the_colossus_title;Construct the Colossus;;;;;;;;;;;;;;x
+build_the_colossus_desc;You may gift this Colossus to any New world Nation of your choosing.\nThis giant of Steel shall signal greatness toa ll who withness it.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+gift_the_colossus_title;Choose who shall get the Colossus;;;;;;;;;;;;;;x
+gift_the_colossus_desc;This decision activates an event for the target selection of the Colossus.\nBe swift or you may lose it and no one gets the Colossus.;;;;;;;;;;;;;;x
+EVTDESC47619300;We have received the Colossus from $FROMCOUNTRY$. This monument stands as proof that our nation holds legitimacy, strength, and a cause worthy of recognition. The world shall now witness our authority affirmed through triumph and remembrance.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_eternal_strife_over_adalsia_north_title;Conquer North-Central Adalsia;;;;;;;;;;;;;;x
+the_eternal_strife_over_adalsia_north_desc;the_eternal_strife_over_adalsia_north_desc;The states of Leda, Theyra, and Lusita have long stood independent in the center of the Adalsia Peninsula. Their position is vital to any power seeking dominance, and their steppes and mountains have produced resilient soldiers hardened by terrain and scarcity alike. To conquer them is to command the center and secure the keystone of the peninsula.;;;;;;;;;;;;;;x;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_eternal_strife_over_adalsia_south_title;Conquer South-Central Adalsia;;;;;;;;;;;;;;x
+the_eternal_strife_over_adalsia_south_desc;The States of Adranal and Jestus trace their history into ancient centuries, their fertile lands and trade routes long sustaining the Adalsian interior. To take them is to seize the economic heart of the peninsula and close the era of divided rule in its center.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+beyond_adalsia_title;Beyond Adalsia;;;;;;;;;;;;;;x
+beyond_adalsia_desc;Beyond Adalsia lie the lands of the Riftogard, once a migratory people, shaped by similar traditions and transformations as our own. Their state stands as both our most direct threat and our greatest opportunity. Should their populations come under our control, integration into the Adalsian federal structure would follow swiftly, for their society has already undergone the same transitions that made federation possible here.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+form_AD2_title;Form the Adalsian Federation;;;;;;;;;;;;;;x
+form_AD2_desc;Never before has Adalsia stood united. The peninsula’s rugged terrain and internal divisions long made unity a distant ideal rather than an attainable aim. Only with the arrival of modern technologies and political ideas did unification shift from fantasy to possibility. Today, the moment has come. The peninsula is secured under a single authority, its strategic position consolidated, and its future no longer left to fragmentation. The Adalsian Federation shall transform regional strength into national power, asserting itself not as a dream, but as a state capable of shaping the world it now stands ready to enter.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+form_MI1_title;Reformation of Milogard;;;;;;;;;;;;;;x
+form_MI1_desc;From the ruins of a thousand years of strife and the ashes of its final defeat, the Milogardian Empire rises once more. Crushed by a great coalition and splintered into independent duchies, the legacy of Milogard seemed destined for oblivion. Yet, through iron will and unyielding ambition, the disparate lands have been united again under a single banner, restoring the empire’s former glory.With its strength renewed, Milogard now turns its gaze outward, seeking retribution against the neighbors who once dismantled it, vowing to reclaim its rightful place as a dominant power.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+form_FI1_title;Form The Union of Fidem;;;;;;;;;;;;;;x
+form_FI1_desc;The continent of Fidem has long lacked a power capable of shaping history on its own terms. Thinkers across its states once treated unity as theory, a subject for debate among elites and scholars rather than a goal within reach. Yet the idea persisted, that three rival powers, if forged into one, would become a nation capable not merely of enduring history, but of defining it. Said era of speculation has passed. The material means for unification now exist, and the political moment favors action over philosophy. What was once written as conjecture can at last be pursued as policy. To unite Fidem is no longer to imagine greatness, but to aknowledge the possibility of it. The Union of Fidem shall not merely inherit a chapter of history. It shall begin a new one.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+form_ES6_title;Form Esdorea;;;;;;;;;;;;;;x
+form_ES6_desc;On the coasts of Servile, along the Central Sea, frontier settlers long sought a life beyond the reach of kings and their many laws. From these rough and isolated beginnings, a culture of autonomy, labor, and self-rule gave birth to several fiercely independent republics, shaped by desert, jungle, and rugged coastlines alike. Though divided in government, they remained united in language and shared values. Rivalry hardened them, but did not estrange them. Now the question is no longer survival, but ascendance. Should one republic rise to unite the rest, the continent would witness the birth of the first state forged by its own people, commanding both legitimacy and strength. A united Esdorea would not ask for greatness, it would declare it, and few could vanquish a nation created by the harsh frontier itself.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+reunite_the_white_coast_title;Reunite The White Coast;;;;;;;;;;;;;;x
+reunite_the_white_coast_desc;Long ago, the White Coast was governed as one colonial dominion, united in name if not always in leadership. Independence fractured what ambition could not share. Pinaro forged a republic in the north, Hamero yielded to a singular presidential authority in the south, and Calero placed its future in the hands of a foreign elected king, a crown meant to preserve the unity of the center before rival powers unraveled it. Their mandates divided them, but the idea lived on. Born of the same origin, speaking the same language, and carrying the same legacy, they remained kin in spirit. Now the age of rivalry ends. The White Coast is whole again. Spherso inherits the restored authority of the fallen dominion. The White Coast stands united under one sovereign nation.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+form_pera_title;Form Empire of the Pera;;;;;;;;;;;;;;x
+form_pera_desc;200 years ago, the Pera was a region of feuding kingdoms, with shifting coalitions and ceaseless border disputes. This era ended abruptly with the Dohargard invasions, when the conquering hordes adopted the name Peragard and seized all Pera kingdoms by force, permanently destroying ever fortification in their way. Their rule was harsh, their taxes deeply resented, and open resistance seemingly impossible. Only the mountainous peninsulas held out. There, three surviving kingdoms preserved the Pera cause through guerrilla warfare, importing modern arms from abroad and enduring by patience rather than hope. In time, resistance became war, and war became liberation. Now the Peragard has been defeated. From victory rises a new and singular state: a united Pera authority, stronger and broader than any crown or coalition that came before it. The empire is proclaimed not as inheritance, but as the product of survival, resistance, and triumph. May it endure.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+form_NA1_title;Form Nadorilem;;;;;;;;;;;;;;x
+form_NA1_desc;Long ago, we Nadorilemi were one people, united in strength and purpose. Then petty ambition, pride, and rivalry shattered our unity and left our nation weak and divided. Yet through hardship, sacrifice, and perseverance, we endured. Now our land stands whole again, our people bound by shared destiny, and the Kingdom of Nadorilem restored again.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+join_GAR_title;Join Milogard;;;;;;;;;;;;;;x
+join_GAR_desc;This decision triggers re-annexation of all Gardian territories that triumphed during the Second Rising, consolidating them back into Milogard if the empire has already been reformed.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+end_of_gardian_independents_title;Wipe all Gardian cores;;;;;;;;;;;;;;x
+end_of_gardian_independents_desc;This decision wipes out all Gardian cores if no Gardian nation remains;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_concordant_realm_FO1_title;Concordance with the Gardian people;;;;;;;;;;;;;;x
+the_concordant_realm_FO1_desc;§YForse§! will gain a §Y0.4% Assimilation bonus§! on the §YGardian culture§!\n\nAfter centuries of unyielding strife and bitter conflict, the Gardian people of Milogard are to be fully brought into the fold of the Realm of Forse. This momentous decree not only seeks to heal the scars of a tumultuous past but to forge and weaponize the very essence of Milogard’s storied legacy of militarism. Their unwavering spirit and strength shall be molded to serve the cause of Forse, transforming old enmities into a formidable bulwark. With this union, we set forth to claim our rightful place as the hegemon of these lands, ready to face the encroaching might of our neighbors and to secure both our survival and supremacy in the trials that lie ahead.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_concordant_realm_HER_title;Concordance with the Gardian people;;;;;;;;;;;;;;x
+the_concordant_realm_HER_desc;§YHerradem§! will gain a §Y0.4% Assimilation bonus§! on the §YGardian culture§!\n\nAfter centuries of unyielding strife and bitter conflict, the Gardian people of Milogard are to be fully brought into the fold of the Realm of Herradem. This momentous decree not only seeks to heal the scars of a tumultuous past but to forge and weaponize the very essence of Milogard’s storied legacy of militarism. Their unwavering spirit and strength shall be molded to serve the cause of Herradem, transforming old enmities into a formidable bulwark. With this union, we set forth to claim our rightful place as the hegemon of these lands, ready to face the encroaching might of our neighbors and to secure both our survival and supremacy in the trials that lie ahead.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_concordant_realm_NEO_title;Concordance with the Gardian people;;;;;;;;;;;;;;x
+the_concordant_realm_NEO_desc;§YNeodore§! will gain a §Y0.4% Assimilation bonus§! on the §YGardian culture§!\n\nAfter centuries of unyielding strife and bitter conflict, the Gardian people of Milogard are to be fully brought into the fold of the Realm of Neodore. This momentous decree not only seeks to heal the scars of a tumultuous past but to forge and weaponize the very essence of Milogard’s storied legacy of militarism. Their unwavering spirit and strength shall be molded to serve the cause of Neodore, transforming old enmities into a formidable bulwark. With this union, we set forth to claim our rightful place as the hegemon of these lands, ready to face the encroaching might of our neighbors and to secure both our survival and supremacy in the trials that lie ahead.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_concordant_realm_PAL_title;Concordance with the Gardian people;;;;;;;;;;;;;;x
+the_concordant_realm_PAL_desc;§YPalpedia§! will gain a §Y0.4% Assimilation bonus§! on the §YGardian culture§!\n\nAfter centuries of unyielding strife and bitter conflict, the Gardian people of Milogard are to be fully brought into the fold of the Realm of Palpedia. This momentous decree not only seeks to heal the scars of a tumultuous past but to forge and weaponize the very essence of Milogard’s storied legacy of militarism. Their unwavering spirit and strength shall be molded to serve the cause of Palpedia, transforming old enmities into a formidable bulwark. With this union, we set forth to claim our rightful place as the hegemon of these lands, ready to face the encroaching might of our neighbors and to secure both our survival and supremacy in the trials that lie ahead.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+the_concordant_realm_VER_title;Concordance with the Gardian people;;;;;;;;;;;;;;x
+the_concordant_realm_VER_desc;§YVerspodia§! will gain a §Y0.4% Assimilation bonus§! on the §YGardian culture§!\n\nAfter centuries of unyielding strife and bitter conflict, the Gardian people of Milogard are to be fully brought into the fold of the Realm of Verspodia. This momentous decree not only seeks to heal the scars of a tumultuous past but to forge and weaponize the very essence of Milogard’s storied legacy of militarism. Their unwavering spirit and strength shall be molded to serve the cause of Verspodia, transforming old enmities into a formidable bulwark. With this union, we set forth to claim our rightful place as the hegemon of these lands, ready to face the encroaching might of our neighbors and to secure both our survival and supremacy in the trials that lie ahead.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+HAA_Navy_Outer_sea_title;Start Navy in Providence;;;;;;;;;;;;;;x
+HAA_Navy_Outer_sea_desc;This will star our Navy in the Province of Providence;;;;;;;;;;;;;;x
+HAA_Navy_inner_sea_title;Start Navy in Sidon;;;;;;;;;;;;;;x
+HAA_Navy_inner_sea_desc;This will star our Navy in the Province of Sidon;;;;;;;;;;;;;;x
+ESP_Navy_inner_sea_title;Start Navy in Lamia;;;;;;;;;;;;;;x
+ESP_Navy_inner_sea_desc;This will star our Navy in the Province of Lamia;;;;;;;;;;;;;;x
+ESP_Navy_outer_sea_title;Start Navy in Ruse;;;;;;;;;;;;;;x
+ESP_Navy_outer_sea_desc;This will star our Navy in the Province of Ruse;;;;;;;;;;;;;;x
+SPH_Navy_East_Coast_title;Start Navy in Anqing;;;;;;;;;;;;;;x
+SPH_Navy_East_Coast_desc;This will star our Navy in the Province of Anqing;;;;;;;;;;;;;;x
+SPH_Navy_West_Coast_title;Start Navy in Masulipatnam;;;;;;;;;;;;;;x
+SPH_Navy_West_Coast_desc;This will star our Navy in the Province of Masulipatnam;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+over_the_narrow_sea_title;Jewel of the Narrow Sea;;;;;;;;;;;;;;x
+over_the_narrow_sea_desc;Both §YVaran and Luden§! will gain a §Y1% Assimilation bonus§! on the §YMacerian culture§!\n\nThe strategic peninsula of Maceria, nestled between the powers of Varan and Luden, has become the centerpiece of a bitter rivalry. Renowned for its wealth as a thriving trade hub, Maceria’s control of the narrow sea lanes offers unparalleled influence over commerce and military movements. Varan, an ambitious island nation with expansionist aims, seeks to bring Maceria under its dominion, securing dominance over the sea and protecting its interests from the growing threat of Luden. Meanwhile, Luden, a rising continental power on Troida, views Maceria as a gateway to securing its economic future and countering Varan’s maritime supremacy. This decision will determine the fate of the narrow sea: whether Varan solidifies its grip or Luden claims a hegemonical position. The future of the region hangs in the balance, as both powers prepare their gambits.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+claims_to_old_quardoria_title;Dominion Over Quardoria;;;;;;;;;;;;;;x
+claims_to_old_quardoria_desc;\nBoth §YPinaro and Varan§! will gain a §Y1% Assimilation bonus§! on the §YQuardorian culture§!\n\nThe Quardorian nations won their freedom through brutal guerrilla war, led by ambitious warlords who freed the people but shattered the region. Now the coast and interior stand contested by greater powers, so if Quardoria is to have a guardian, it will not be one who hesitates.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+overseas_imperium_VER_title;Overseas Imperium;;;;;;;;;;;;;;x
+overseas_imperium_VER_desc;§RHover over my text!§!\n\n§RAll Colonial provinces§! in §YTroida§!, §YFidem§!, and §YSettled Servile§!\neach lose §R2 Life Rating (-0.01% popgrowth)§!\n\nFor every affected colonial province:\n§G1 core province§! gains §G1 Life Rating (+0.01% popgrowth)§!.\n\n§YMaximum achievable Life Rating§! is\n§Y40 Life Rating (+0.04% popgrowth)§! in all core provinces.\n\n§RLife Rating gains are reversed if Verspodia loses the corresponding colonial provinces!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+overseas_imperium_TRO_title;Overseas Imperium;;;;;;;;;;;;;;x
+overseas_imperium_TRO_desc;§RHover over my text!§!\n\n§RAll Colonial provinces§! in §YTroida§!, §YFidem§!, and §YSettled Servile§!\neach lose §R2 Life Rating (-0.01% popgrowth)§!\n\nFor every affected colonial province:\n§G1 core province§! gains §G1 Life Rating (+0.01% popgrowth)§!.\n\n§YMaximum achievable Life Rating§! is\n§Y40 Life Rating (+0.04% popgrowth)§! in all core provinces.\n\n§RLife Rating gains are reversed if Trocia loses the corresponding colonial provinces!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+contest_over_namar_title;Empire's Edge;;;;;;;;;;;;;;x
+contest_over_namar_desc;Both §YTrocia and Esperos§! will gain a §Y2% Assimilation bonus§! on the §YNamar culture§!\n\nThe coastal region of Namar Once a thriving hub of the transcontinental slave trade, now finds itself in turmoil. For centuries, its city-states prospered as economic conduits for the trade into the Pillars, giving rise to a distinct cultural identity shaped by a fusion of South Pillaren traditions. However, with the global decline of slavery, Namar’s wealth has withered, leaving its states fractured and embroiled in bitter internal rivalries. Seeking stability and protection, the embattled cities have turned to the great powers across the sea: Esperos and Trocia. Both nations, eager to expand their influence, have answered the call, vying for control of the region and its strategic position at the northern edge of Servile. This decision will determine the future of Namar. Will its fractured states find unity under the guidance of Esperos or Trocia, or will the contest for dominance plunge the region into further chaos? The struggle for Namar has begun, and the stakes are high for all involved.;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+build_east_ocean_canal_title;Build the East-Ocean Canal;;;;;;;;;;;;;;x
+build_east_ocean_canal_desc;At long last, with the marvels of modern engineering and the ingenuity of advanced mechanical excavation, the vision of uniting distant waters has become a reality. Through the construction of state-of-the-art canal systems, we now possess the unprecedented capability to ferry vessels across the narrow expanse of land, forging a direct passage between the Seas of Pillas and the opulent expanse of the Wealthy Ocean. This triumph of progress heralds a new era of maritime commerce and prosperity!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+build_troida_servile_canal_title;Build the Troida-Servile Canal;;;;;;;;;;;;;;x
+build_troida_servile_canal_desc;Long ago, the notion of forging a connection between the Iron Sea and the Settler’s Sea lingered as little more than an ambitious dream. Yet today, that dream stands on the brink of glorious reality. With the thunderous advance of modern machinery carving through the narrow strip of land that once divided them, a new world dawns before us. This monumental feat throws open the gates to the rich maritime routes of Fidem, Troida and Servile. A new chapter in trade and prosperity begins!;;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################Unciv_decisions###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+hide_potential_reforms_title;Hide UNCIV Reforms;;;;;;;;;;;;;;x
+hide_potential_reforms_desc;Hide away all unciv reform decisions;;;;;;;;;;;;;;x
+show_potential_reforms_title;Show UNCIV Reforms;;;;;;;;;;;;;;x
+show_potential_reforms_desc;Show all unciv reform decisions;;;;;;;;;;;;;;x
+REF1_title;Hospitals;;;;;;;;;;;;;;x
+REF2_title;Railroad Bonds;;;;;;;;;;;;;;x
+REF3_title;Age of Ideas;;;;;;;;;;;;;;x
+REF4_title;Mint Reform;;;;;;;;;;;;;;x
+REF5_title;Military Doctrine;;;;;;;;;;;;;;x
+REF6_title;Firepower;;;;;;;;;;;;;;x
+REF7_title;Field Infantry;;;;;;;;;;;;;;x
+REF8_title;Mining Charter;;;;;;;;;;;;;;x
+REF9_title;Enlightened Path;;;;;;;;;;;;;;x
+REF10_title;Market Initative;;;;;;;;;;;;;;x
+REF11_title;Industrial Charter;;;;;;;;;;;;;;x
+REF12_title;Military Drill;;;;;;;;;;;;;;x
+REF1_desc;Unlock the reform §YHospitals;;;;;;;;;;;;;;x
+REF2_desc;Unlock the reform §YRailroad Bonds;;;;;;;;;;;;;;x
+REF3_desc;Unlock the reform §YAge of Ideas;;;;;;;;;;;;;;x
+REF4_desc;Unlock the reform §YMint Reform;;;;;;;;;;;;;;x
+REF5_desc;Unlock the reform §YMilitary Doctrine;;;;;;;;;;;;;;x
+REF6_desc;Unlock the reform §YFirepower;;;;;;;;;;;;;;x
+REF7_desc;Unlock the reform §YField Infantry;;;;;;;;;;;;;;x
+REF8_desc;Unlock the reform §YMining Charter;;;;;;;;;;;;;;x
+REF9_desc;Unlock the reform §YEnlightened Path;;;;;;;;;;;;;;x
+REF10_desc;Unlock the reform §YMarket Initative;;;;;;;;;;;;;;x
+REF11_desc;Unlock the reform §YIndustrial Charter;;;;;;;;;;;;;;x
+REF12_desc;Unlock the reform §YMilitary Drill;;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################psychology_decision###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+clear_psychology_bonus_title;§RClear All National Promotion Bonuses;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,
+clear_psychology_bonus_desc;This decision clears all of your current national promotion bonuses, allowing you to choose different options for the bonuses you do have unlocked.;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,
+##########################;;;;;;;;;;;;;x
+##########################Events###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################102_The_Second_Gardian_Rising###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+this_means_war_4760083;§RThis means War!;;;;;;;;;;;;;;x
+4760083_desc;A nationalist rebellion has sparked demands for a unified constitution for all Gardian peoples, invoking their right to self-determination and national unity. This assertion is a direct challenge to our authority and cannot be allowed to proceed. §RThis proclamation amounts to a declaration of war!;;;;;;;;;;;;;;x
+Whispered Words of Rebellion;Whispered Words of Rebellion;;;;;;;;;;;;;;x
+desc_4760074;Envoys report salons in the Aligned Gardian States where talk turns to unity and independence. Local officials ask whether to act under our guidance.;;;;;;;;;;;;;;x
+authorize_surveillance_raids_on_salons_4760074;Authorize surveillance raids on salons [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+fund_loyalist_salons_to_dilute_the_message_4760074;Fund loyalist salons to dilute the message [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+treat_the_whispers_as_idle_talk_4760074;Treat the whispers as idle talk;;;;;;;;;;;;;;x
+desc_4760075;Clandestine meetings in the Aligned Gardian States worry their cabinets. They request a line from the Metropole on assemblies and curfews.;;;;;;;;;;;;;;x
+impose_curfews_and_meeting_registries_4760075;Impose curfews and meeting registries [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+permit_licensed_assemblies_under_watch_4760075;Permit licensed assemblies under watch;;;;;;;;;;;;;;x
+sponsor_public_forums_to_deflate_rumor_4760075;Sponsor public forums to deflate rumor [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760076;Emblems from the Milogard period appear across the Aligned Gardian towns. Officials ask whether to make a show of enforcement or take a subtler course.;;;;;;;;;;;;;;x
+order_public_cleanings_and_issue_fines_4760076;Order public cleanings and issue fines [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+subsidize_artists_to_diversify_symbols_4760076;Subsidize artists to diversify symbols [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+leave_it_to_local_magistrates_4760076;Leave it to local magistrates;;;;;;;;;;;;;;x
+desc_4760077;A West-Gardian tune spreads through taverns and fairs in the Aligned Gardian States. It is not overtly seditious, yet everyone knows what it means.;;;;;;;;;;;;;;x
+ban_the_song_and_seize_performance_licenses_4760077;Ban the song and seize performance licenses [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+license_performances_with_neutral_lyrics_4760077;License performances with neutral lyrics;;;;;;;;;;;;;;x
+sponsor_loyal_composers_with_new_popular_tunes_4760077;Sponsor loyal composers with new popular tunes [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760078;Pamphlets recounting the Milogard period circulate in the Aligned Gardian States. Our representatives propose measures to control the presses.;;;;;;;;;;;;;;x
+conduct_sweeping_searches_and_confiscations_4760078;Conduct sweeping searches and confiscations [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+subsidize_loyal_printers_with_preferred_contracts_4760078;Subsidize loyal printers with preferred contracts [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+ignore_the_pamphlets_as_fashion_4760078;Ignore the pamphlets as fashion;;;;;;;;;;;;;;x
+desc_4760079;Youth clubs across the Aligned Gardian States march under banners of unity and progress. Cabinets look to the Metropole for precedent on crowd control and youth policy.;;;;;;;;;;;;;;x
+deploy_soldiers_to_break_up_the_marches_4760079;Deploy soldiers to break up the marches [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+create_aligned_youth_work_and_scholarship_programs_4760079;Create Aligned Youth Work and Scholarship Programs [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+leave_crowd_control_to_local_police_4760079;Leave crowd control to local police;;;;;;;;;;;;;;x
+desc_4760080;Whispers claim a rival power may back Gardian unification. Our reaction will signal strength or insecurity across the Aligned Gardian States.;;;;;;;;;;;;;;x
+denounce_the_rumors_and_expel_suspect_attaches_4760080;Denounce the rumors and expel suspect attachés [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+invite_neutral_observers_to_disprove_the_claims_4760080;Invite neutral observers to disprove the claims;;;;;;;;;;;;;;x
+offer_commercial_privileges_to_key_vassals_4760080;Offer commercial privileges to key Aligned States [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760081;A Gardian organization in an Aligned State capital proclaims a platform demanding autonomy and coordination among the Aligned Gardian States. Our response will shape their next step.;;;;;;;;;;;;;;x
+threaten_sanctions_on_vassals_that_engage_them_4760081;Threaten sanctions on Aligned States that engage them [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+convene_talks_limited_to_municipal_administration_4760081;Convene talks limited to municipal administration [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+recognize_select_local_rights_to_split_the_coalition_4760081;Recognize select local rights to split the coalition [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760108;At the urging of our advisors, an Aligned Gardian magistrate seizes an old banner from the Milogard period displayed in a town hall as a 'seditious emblem'. Crowds gather and word spreads across the Aligned States.;;;;;;;;;;;;;;x
+support_the_seizure_to_uphold_order_4760108;Support the seizure to uphold order [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+instruct_the_vassal_to_quietly_return_the_banner_4760108;Instruct the Aligned State to quietly return the banner [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+treat_the_matter_as_the_vassals_internal_affair_4760108;Treat the matter as the Aligned State's internal affair;;;;;;;;;;;;;;x
+desc_4760109;Our economic advisors propose aligning tariffs, transit fees, and inspection standards across the Aligned Gardian States to 'simplify commerce' under our guidance. Local elites decry it as an overreach.;;;;;;;;;;;;;;x
+enforce_uniform_trade_rules_without_exception_4760109;Enforce uniform trade rules without exception [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+allow_limited_local_exemptions_4760109;Allow limited local exemptions [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+permit_vassals_to_retain_independent_trade_rules_4760109;Permit Aligned States to retain independent trade rules [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760110;Our cultural envoy recommends shifting the curriculum in a West-Gardian university: more classes in the Metropole’s language, fewer in West-Gardian, to 'standardize official communication'. Students and faculty protest outside the rector’s office.;;;;;;;;;;;;;;x
+uphold_the_directive_shift_curriculum_to_our_language_4760110;Uphold the directive, shift curriculum to our language [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+balance_the_curriculum_expand_both_languages_4760110;Balance the curriculum, expand both languages;;;;;;;;;;;;;;x
+reverse_the_directive_and_fund_gardian_studies_4760110;Reverse the directive and fund West-Gardian studies [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760111;At a banquet in an Aligned Gardian capital, our appointed governor toasts 'unity under one order' and offhandedly mocks local customs. The remark races through the regional press.;;;;;;;;;;;;;;x
+defend_the_governors_remarks_4760111;Defend the governor’s remarks [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+force_a_formal_apology_through_the_foreign_office_4760111;Force a formal apology through the Foreign Office [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+let_the_incident_fade_without_comment_4760111;Let the incident fade without comment;;;;;;;;;;;;;;x
+desc_4760112;Fearing unrest, our diplomats press an Aligned Gardian cabinet to cancel a popular harvest festival. The cancellation becomes a rallying point across the Aligned Gardian States.;;;;;;;;;;;;;;x
+maintain_the_ban_to_ensure_stability_4760112;Maintain the ban to ensure stability [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+allow_the_festival_under_supervision_4760112;Allow the festival under supervision;;;;;;;;;;;;;;x
+sponsor_the_festival_as_a_showcase_4760112;Sponsor the festival as a showcase [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760113;Administrators in the Metropole propose a new empire-wide census distinguishing subjects by language and custom to 'improve governance'. The Aligned Gardian States quietly begin to see themselves recorded as one people once again.;;;;;;;;;;;;;;x
+approve_detailed_ethnic_enumeration_4760113;Approve detailed ethnic enumeration [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+simplify_categories_to_avoid_tension_4760113;Simplify categories to avoid tension;;;;;;;;;;;;;;x
+delay_the_census_indefinitely_4760113;Delay the census indefinitely [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760114;In an Aligned Gardian capital, local councils petition to restore a monument from the Milogard period. Our advisors propose replacing it with a new 'arch of unity'. Both choices threaten to inflame sentiment.;;;;;;;;;;;;;;x
+approve_the_arch_of_unity_4760114;Approve the arch of unity [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+allow_the_old_monument_with_modifications_4760114;Allow the old monument with modifications;;;;;;;;;;;;;;x
+deny_the_petition_entirely_4760114;Deny the petition entirely [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760115;We sponsor a grand exposition in the Aligned Gardian States to display the harmony of imperial culture. West-Gardian artisans and engineers dominate the exhibition, turning it into a rallying point of pride.;;;;;;;;;;;;;;x
+praise_the_gardian_artisans_publicly_4760115;Praise the West-Gardian artisans publicly [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+minimize_coverage_in_official_gazettes_4760115;Minimize coverage in official gazettes;;;;;;;;;;;;;;x
+cancel_future_expositions_4760115;Cancel future expositions;;;;;;;;;;;;;;x
+desc_4760116;A West-Gardian poet, exiled for incitement, publishes abroad. His verses find their way back through smugglers and sympathetic merchants. Every confiscation spreads his legend further.;;;;;;;;;;;;;;x
+ban_all_import_of_his_works_4760116;Ban all import of his works [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+permit_his_writings_quietly_4760116;Permit his writings quietly;;;;;;;;;;;;;;x
+invite_the_poet_home_under_guard_4760116;Invite the poet home under guard [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+desc_4760117;Young nobles from the Aligned Gardian States, educated in the academies of the Metropole, return home speaking of progress, liberty, and sovereignty. They begin to articulate West-Gardian independence in the very language we taught them.;;;;;;;;;;;;;;x
+tighten_oversight_of_vassal_students_4760117;Tighten oversight of Aligned State students [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+establish_loyalist_scholarships_4760117;Establish loyalist scholarships [§BDecrease Nationalism§!];;;;;;;;;;;;;;x
+ignore_the_issue_4760117;Ignore the issue [§RIncrease Nationalism§!];;;;;;;;;;;;;;x
+47600821_title;$FROMCOUNTRY$ Recognize Metropolitan Dominion;;;;;;;;;;;;;;x
+47600821_desc;Our envoys report that $FROMCOUNTRY$ has formally recognized the Metropole’s authority. Their government has dispatched ambassadors pledging alignment with our directives and acknowledging our primacy in their external affairs.;;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################108_The_Crowns_of_East_pillars###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+4760086_desc;A proclamation has been issued from the esteemed government of $FROMCOUNTRY$, proposing that the Kingdom of Terilemi be formally dissolved, its ancient crown and sovereign rights to be rendered null. This proposition has cast a shadow over the affairs of state throughout the region, demanding our measured consideration. Shall we endorse this proposal, aligning with the esteemed $FROMCOUNTRY$ in the pursuit of a stable and unified future? Or shall we reject it, standing in defense of Tterilemi sovereignty and affirming our commitment to the preservation of the region’s independence and heritage? Our response to this solemn matter shall echo across our nation and the annals of history.;;;;;;;;;;;;;;x
+4760091_desc;A proclamation has been issued from the esteemed government of $FROMCOUNTRY$, proposing that the Kingdom of Ormal be formally dissolved, its ancient crown and sovereign rights to be rendered null. This proposition has cast a shadow over the affairs of state throughout the region, demanding our measured consideration. Shall we endorse this proposal, aligning with the esteemed $FROMCOUNTRY$ in the pursuit of a stable and unified future? Or shall we reject it, standing in defense of Ormal’s sovereignty and affirming our commitment to the preservation of the region’s independence and heritage? Our response to this solemn matter shall echo across our nation and the annals of history.;;;;;;;;;;;;;;x
+4760096_desc;A proclamation has been issued from the esteemed government of $FROMCOUNTRY$, proposing that the Kingdom of Nadorilem be formally dissolved, its ancient crown and sovereign rights to be rendered null. This proposition has cast a shadow over the affairs of state throughout the region, demanding our measured consideration. Shall we endorse this proposal, aligning with the esteemed $FROMCOUNTRY$ in the pursuit of a stable and unified future? Or shall we reject it, standing in defense of Nadorilem’s sovereignty and affirming our commitment to the preservation of the region’s independence and heritage? Our response to this solemn matter shall echo across our nation and the annals of history.;;;;;;;;;;;;;;x
+4760107_desc;With the final fall of Milogard, the noble houses and officers of the old brother realm have fled across many border, seeking shelter in Redrogard. Now they stand at our gates, offering their steel, their gold, or simply their blood, pleading for a place among our people. The question falls upon us. What shall be done with the exiles of our fallen brother kin?;;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################112_Peragard_in_crisis###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+traditionalist_4760118;Traditionalist Council [§RAssimilation Increased!];;;;;;;;;;;;;;x
+reformist_4760118;Reformist Council [§BResearch Increased!];;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+##########################998_Credits###########################;;;;;;;;;;;;;x
+##########################;;;;;;;;;;;;;x
+name_4760000;§WThe PUIR Family§!;;;;;;;;;;;x;
+desc_4760000;This is a detailed list of the history of PUIR and the many modders who have worked on the mod and made forks of it over a period longer than a decade. \nAn additional thanks has to go to the Victoria 2 Community as a whole for playing all these mods and giving feedback on them all and the modders for working on them. Alongside the hosts who take up the thankless task of hosting in this community.                              \n§GPUIR History:§!\n§WGaius Marius§! - §BPUIR§!                                              §WIcendoan§! - §Bicen_PUIR§!\n§Wsbmunch§! - §Bicen_PUIR§!                                           §WGod Of Cheese§! - §BGoC_puir§! \n§WNurse Reno§! - §BIGoR_puir§!                                     §WCE§! - §BIGoRC_puir§!                \n§WCE§! - §BCoRGI_puir§!\n§GAdditional Forks along the line:§!\n§WCroaker§! -  §BMurraymod_IGoR_puir§!               §WBestPancakeEver§! - §BIGoRP_puir§!\n§WSteelRyan§!  - §BIGoRS§!                                                 §WOlympion53§!  - §BIGoRSO§!\n§WPero§! - §BRes Publica§!                                                    §WNot A Spambot§! - §BIGoR_infamous§!\n§WNot A Spambot§! - §BIGoR_NvS§!\n§GForks of Res Publica:§!\n§WDemonade§! -  §BRes Slayica PUIR§!                        §WSteelRyan§! - §BGezeitenwende§!;;;;;;;;;;;x;
+;;;;;;;;;;;x;

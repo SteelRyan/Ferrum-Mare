@@ -1,0 +1,10 @@
+owner = EX1
+controller = EX1
+add_core = EX1
+
+
+trade_goods = fruit
+
+life_rating = 36
+
+set_province_flag = farm

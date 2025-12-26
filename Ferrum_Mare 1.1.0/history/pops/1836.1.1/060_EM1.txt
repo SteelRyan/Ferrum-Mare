@@ -1,0 +1,1543 @@
+#
+466  = {
+    bureaucrats = {
+        culture = emademi
+        religion = catholic
+        size = 3628
+    }
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 3628
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 362
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 94000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 8000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+467  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 83000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+468  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 87000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7500
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+469  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 65000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+470  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 68000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+471  = {
+    bureaucrats = {
+        culture = emademi
+        religion = catholic
+        size = 4228
+    }
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 4228
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 422
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 55000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+472  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 85000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+473  = {
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 115000
+    }
+
+    artisans = {
+        culture = haldosi
+        religion = catholic
+        size = 11000
+    }
+
+    soldiers = {
+        culture = haldosi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = haldosi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = haldosi
+        religion = catholic
+        size = 1300    
+    }
+
+}
+474  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 150000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 14000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204    
+    }
+
+}
+475  = {
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 51100
+    }
+
+    artisans = {
+        culture = haldosi
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = haldosi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = haldosi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = haldosi
+        religion = catholic
+        size = 1300    
+    }
+
+}
+481  = {
+    bureaucrats = {
+        culture = haldosi
+        religion = catholic
+        size = 5128
+    }
+    aristocrats = {
+        culture = haldosi
+        religion = catholic
+        size = 5128
+    } 
+    officers = {
+        culture = haldosi
+        religion = catholic
+        size = 512
+    }
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 90000
+    }
+
+    artisans = {
+        culture = haldosi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = haldosi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = haldosi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = haldosi
+        religion = catholic
+        size = 1300
+    }
+
+}
+482  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 70000
+    }
+
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 25000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 8000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 1300
+    }
+
+}
+483  = {
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 70000
+    }
+
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 32000
+    }
+
+    artisans = {
+        culture = haldosi
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = haldosi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = haldosi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = haldosi
+        religion = catholic
+        size = 1300
+    }
+
+}
+484  = {
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 180000
+    }
+
+    artisans = {
+        culture = haldosi
+        religion = catholic
+        size = 17000
+    }
+
+    soldiers = {
+        culture = haldosi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = haldosi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = haldosi
+        religion = catholic
+        size = 1300
+    }
+
+}
+485  = {
+    farmers = {
+        culture = haldosi
+        religion = catholic
+        size = 95000
+    }
+
+    artisans = {
+        culture = haldosi
+        religion = catholic
+        size = 8000
+    }
+
+    soldiers = {
+        culture = haldosi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = haldosi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = haldosi
+        religion = catholic
+        size = 1300
+    }
+
+}
+626  = {
+    bureaucrats = {
+        culture = emademi
+        religion = catholic
+        size = 4728
+    }
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 4728
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 472
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 175000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 16000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+627  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 95000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+628  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 80000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+629  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 110000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+630  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 95000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+631  = {
+    bureaucrats = {
+        culture = emademi
+        religion = catholic
+        size = 5328
+    }
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 5328
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 532
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 211000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 20000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+632  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 65000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+633  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 58000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+634  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 87000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+635  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 95000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+636  = {
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 5528
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 552
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 192000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 18000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+637  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 95000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+638  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 92000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+639  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 102000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+640  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 105000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 11000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+641  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 72000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+642  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 72000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+643  = {
+    bureaucrats = {
+        culture = emademi
+        religion = catholic
+        size = 3128
+    }
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 3128
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 312
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 80000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+644  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 60000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+645  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 62000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 3504
+    }
+
+}
+646  = {
+    bureaucrats = {
+        culture = emademi
+        religion = catholic
+        size = 3928
+    }
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 3928
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 392
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 127000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 11100
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+647  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 82000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+648  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 75000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2204
+    }
+
+}
+649  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 69000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2203
+    }
+
+}
+650  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 62000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = emademi
+        religion = catholic
+        size = 2203
+    }
+
+}
+651  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 85000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+}
+652  = {
+    aristocrats = {
+        culture = emademi
+        religion = catholic
+        size = 3928
+    } 
+    officers = {
+        culture = emademi
+        religion = catholic
+        size = 392
+    }
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 95000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+}
+653  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 80000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+}
+654  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 89000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 8000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 3200
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+}
+655  = {
+    farmers = {
+        culture = emademi
+        religion = catholic
+        size = 65000
+    }
+
+    artisans = {
+        culture = emademi
+        religion = catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = emademi
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = emademi
+        religion = catholic
+        size = 1100
+    }
+}

@@ -1,0 +1,9 @@
+owner = VE1
+controller = VE1
+
+
+trade_goods = timber
+
+life_rating = 36
+
+set_province_flag = farm

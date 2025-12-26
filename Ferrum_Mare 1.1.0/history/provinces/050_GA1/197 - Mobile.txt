@@ -1,0 +1,9 @@
+owner = AG1
+controller = AG1
+add_core = AG1
+
+trade_goods = coal
+
+life_rating = 38
+
+set_province_flag = mine

@@ -1,0 +1,11 @@
+owner = VA2
+controller = VA2
+add_core = VA2
+
+trade_goods = coal
+
+
+
+life_rating = 38
+
+set_province_flag = mine

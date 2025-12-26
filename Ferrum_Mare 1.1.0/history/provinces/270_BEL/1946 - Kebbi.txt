@@ -1,0 +1,8 @@
+owner = PR1
+controller = PR1
+add_core = PR1
+
+trade_goods = tropical_wood
+life_rating = 36
+
+set_province_flag = farm

@@ -1,0 +1,208 @@
+political_decisions = {
+	recognize_metropolitan_dominion = {
+		picture = Milogard_rising
+		potential = {
+			ai = yes
+			primary_culture = gardian
+			NOT = { BOT = { has_country_flag = second_rising } }
+		}
+		allow = {
+			NOT = { BOT = { has_country_flag = second_rising } }
+			OR = {
+				NOT = {
+					AND = {
+						overlord = { rank = 1 NOT = { rank = 0 } }
+						sphere_owner = { rank = 1 NOT = { rank = 0 } }
+					}
+					AND = {
+						overlord = { rank = 2 NOT = { rank = 1 } }
+						sphere_owner = { rank = 2 NOT = { rank = 1 } }
+					}
+					AND = {
+						overlord = { rank = 3 NOT = { rank = 2 } }
+						sphere_owner = { rank = 3 NOT = { rank = 2 } }
+					}
+					AND = {
+						overlord = { rank = 4 NOT = { rank = 3 } }
+						sphere_owner = { rank = 4 NOT = { rank = 3 } }
+					}
+					AND = {
+						overlord = { rank = 5 NOT = { rank = 4 } }
+						sphere_owner = { rank = 5 NOT = { rank = 4 } }
+					}
+					AND = {
+						overlord = { rank = 6 NOT = { rank = 5 } }
+						sphere_owner = { rank = 6 NOT = { rank = 5 } }
+					}
+					AND = {
+						overlord = { rank = 7 NOT = { rank = 6 } }
+						sphere_owner = { rank = 7 NOT = { rank = 6 } }
+					}
+					AND = {
+						overlord = { rank = 8 NOT = { rank = 7 } }
+						sphere_owner = { rank = 8 NOT = { rank = 7 } }
+					}
+					AND = {
+						overlord = { rank = 9 NOT = { rank = 8 } }
+						sphere_owner = { rank = 9 NOT = { rank = 8 } }
+					}
+				}
+			}
+		}
+		effect = { 
+			THIS = { sphere_owner = { country_event = { id=47600821 days=0 } } }
+		}
+	}
+	rising_unification_1 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_1_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_1_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_1_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_1_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_2 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_2_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_2_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_2_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_2_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_3 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_3_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_3_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_3_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_3_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_4 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_4_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_4_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_4_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_4_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_5 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_5_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_5_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_5_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_5_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_6 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_6_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_6_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_6_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_6_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_7 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_7_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_7_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_7_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_7_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+	rising_unification_8 = {
+		picture = Milogard_rising
+		potential = {
+			primary_culture = gardian
+			has_country_flag = rank_8_sphere_gardian_target
+		}
+		allow = {
+			has_country_flag = rank_8_sphere_gardian_target
+		}
+		effect = { 
+			THIS = {
+				clr_country_flag = rank_8_sphere_gardian_target
+				random_country = {
+					limit = { has_country_flag = rank_8_sphere_gardian_unifier }
+					country_event = { id=47600831 days=0 }
+				}
+			}
+		}
+	}
+}

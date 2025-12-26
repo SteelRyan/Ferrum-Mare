@@ -1,0 +1,8 @@
+owner = TH1
+controller = TH1
+add_core = TH1
+
+trade_goods = wool
+life_rating = 36
+
+set_province_flag = farm

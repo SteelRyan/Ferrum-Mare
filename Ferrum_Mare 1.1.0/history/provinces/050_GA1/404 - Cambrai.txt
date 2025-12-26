@@ -1,0 +1,15 @@
+owner = BO1
+controller = BO1
+add_core = BO1
+
+trade_goods = fruit
+
+life_rating = 38
+
+set_province_flag = farm
+
+	state_building = {
+		level = 2
+		building = ammunition_factory
+		upgrade = yes
+	}

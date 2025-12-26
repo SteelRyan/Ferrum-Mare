@@ -1,0 +1,3 @@
+is_releasable_vassal = no
+civilized = yes
+set_country_flag = untouchable

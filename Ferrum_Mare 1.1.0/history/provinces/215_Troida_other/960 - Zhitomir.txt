@@ -1,0 +1,9 @@
+owner = HA3
+controller = HA3
+add_core = HA3
+
+trade_goods = opium
+
+life_rating = 36
+
+set_province_flag = farm
