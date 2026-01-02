@@ -1,8 +1,0 @@
-owner = PA1
-controller = PA1
-add_core = PA1
-add_core = PE2
-
-trade_goods = silk
-
-life_rating = 36

@@ -1,9 +1,0 @@
-owner = FE1
-controller = FE1
-add_core = FE1
-
-
-trade_goods = wool
-life_rating = 36
-
-set_province_flag = farm

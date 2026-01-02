@@ -1,9 +1,0 @@
-owner = MY1
-controller = MY1
-add_core = MY1
-
-trade_goods = cattle
-
-life_rating = 36
-
-set_province_flag = farm

@@ -1,8 +1,0 @@
-owner = HA2
-controller = HA2
-add_core = HA2
-
-trade_goods = wool
-life_rating = 36
-  
-set_province_flag = farm

@@ -1,1 +1,0 @@
-owner = AS1controller = AS1add_core = AS1trade_goods = fishlife_rating = 36set_province_flag = farm

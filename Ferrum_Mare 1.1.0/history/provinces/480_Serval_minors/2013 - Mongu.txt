@@ -1,8 +1,0 @@
-owner = PY1
-controller = PY1
-add_core = PY1
-
-trade_goods = tea
-life_rating = 36
-
-set_province_flag = farm

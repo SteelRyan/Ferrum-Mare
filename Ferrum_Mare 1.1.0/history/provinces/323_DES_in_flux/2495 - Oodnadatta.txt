@@ -1,9 +1,0 @@
-owner = MA1
-controller = MA1
-add_core = MA1
-
-
-trade_goods = fish
-life_rating = 36
-
-set_province_flag = farm

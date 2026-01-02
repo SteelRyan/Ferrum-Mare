@@ -1,8 +1,0 @@
-owner = WE2
-controller = WE2
-add_core = WE2
-add_core = NA1
-
-trade_goods = cattle
-
-life_rating = 36

@@ -1,9 +1,0 @@
-owner = OR3
-controller = OR3
-add_core = OR3
-
-trade_goods = coal
-
-life_rating = 36
-
-set_province_flag = mine

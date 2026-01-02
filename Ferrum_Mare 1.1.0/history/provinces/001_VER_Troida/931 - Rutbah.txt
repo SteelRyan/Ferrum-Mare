@@ -1,8 +1,0 @@
-owner = VE1
-controller = VE1
-
-
-trade_goods = fish
-life_rating = 36
-
-set_province_flag = farm

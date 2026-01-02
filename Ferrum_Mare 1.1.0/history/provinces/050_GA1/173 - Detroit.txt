@@ -1,9 +1,0 @@
-owner = ES3
-controller = ES3
-add_core = ES3
-
-trade_goods = cattle
-
-life_rating = 38
-
-set_province_flag = farm

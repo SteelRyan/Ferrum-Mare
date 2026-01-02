@@ -1,8 +1,0 @@
-owner = ZE1
-controller = ZE1
-add_core = ZE1
-
-trade_goods = tea
-life_rating = 36
-
-set_province_flag = mine

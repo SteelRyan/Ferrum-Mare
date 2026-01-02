@@ -1,8 +1,0 @@
-owner = BO1
-controller = BO1
-add_core = BO1
-
-trade_goods = timber
-life_rating = 38
-
-set_province_flag = farm

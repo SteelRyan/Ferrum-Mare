@@ -1,9 +1,0 @@
-owner = TH2
-controller = TH2
-add_core = TH2
-
-
-trade_goods = sulphur
-life_rating = 36
-
-set_province_flag = mine

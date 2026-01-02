@@ -1,8 +1,0 @@
-owner = FO1
-controller = FO1
-
-trade_goods = fish
-
-life_rating = 36
-  
-set_province_flag = tradeport

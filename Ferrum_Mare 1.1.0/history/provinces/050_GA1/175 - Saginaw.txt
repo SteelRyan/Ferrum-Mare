@@ -1,8 +1,0 @@
-owner = VO1
-controller = VO1
-add_core = VO1
-
-trade_goods = cattle
-life_rating = 38
-	
-set_province_flag = farm

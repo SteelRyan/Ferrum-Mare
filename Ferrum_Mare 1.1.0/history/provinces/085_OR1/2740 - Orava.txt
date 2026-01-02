@@ -1,9 +1,0 @@
-owner = OR1
-controller = OR1
-add_core = OR1
-
-trade_goods = iron
-
-life_rating = 36
-
-set_province_flag = farm

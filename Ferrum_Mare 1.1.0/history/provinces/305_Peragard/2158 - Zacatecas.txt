@@ -1,8 +1,0 @@
-owner = PE1
-controller = PE1
-add_core = PE1
-
-trade_goods = fish
-life_rating = 30
-
-set_province_flag = farm

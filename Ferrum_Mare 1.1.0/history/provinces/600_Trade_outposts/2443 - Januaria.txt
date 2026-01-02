@@ -1,8 +1,0 @@
-owner = LE1
-controller = LE1
-
-trade_goods = iron
-
-life_rating = 36
-
-set_province_flag = tradeport

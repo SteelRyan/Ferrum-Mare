@@ -1,9 +1,0 @@
-owner = SO3
-controller = SO3
-add_core = SO3
-
-add_core = DO1
-
-trade_goods = wool
-
-life_rating = 36

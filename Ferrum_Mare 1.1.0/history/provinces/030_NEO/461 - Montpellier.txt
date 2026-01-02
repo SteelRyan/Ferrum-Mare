@@ -1,9 +1,0 @@
-owner = NE1
-controller = NE1
-add_core = NE1
-add_core = HA4
-
-trade_goods = wool
-life_rating = 36
-
-set_province_flag = farm

@@ -1,8 +1,0 @@
-owner = DE1
-controller = DE1
-add_core = OR1
-
-trade_goods = silk
-life_rating = 36
-
-set_province_flag = farm

@@ -1,8 +1,0 @@
-owner = OR4
-controller = OR4
-add_core = OR4
-add_core = NA1
-
-trade_goods = coal
-
-life_rating = 36

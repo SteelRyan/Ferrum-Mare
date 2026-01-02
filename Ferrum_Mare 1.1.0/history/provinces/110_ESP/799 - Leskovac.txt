@@ -1,8 +1,0 @@
-owner = ES1
-controller = ES1
-add_core = ES1
-
-trade_goods = timber
-life_rating = 36
-
-set_province_flag = farm

@@ -1,8 +1,0 @@
-owner = TE1
-controller = TE1
-add_core = TE1
-
-trade_goods = timber
-life_rating = 36
-
-set_province_flag = farm

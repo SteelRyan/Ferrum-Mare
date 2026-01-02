@@ -1,9 +1,0 @@
-owner = DE2
-controller = DE2
-add_core = DE2
-
-trade_goods = cattle
-
-life_rating = 38
-
-set_province_flag = farm

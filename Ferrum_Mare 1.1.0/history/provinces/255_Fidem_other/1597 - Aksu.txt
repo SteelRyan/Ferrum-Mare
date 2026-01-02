@@ -1,8 +1,0 @@
-owner = NE2
-controller = NE2
-add_core = NE2
-
-trade_goods = tea
-life_rating = 36
-
-set_province_flag = mine

@@ -1,7 +1,0 @@
-owner = NI3
-controller = NI3
-add_core = NI3
-
-trade_goods = grain
-
-life_rating = 36

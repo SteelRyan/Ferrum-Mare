@@ -1,8 +1,0 @@
-name = "Ferrum_Mare 1.1.0"
-path = "mod/Ferrum_Mare 1.1.0"
-user_dir = "Ferrum_Mare 1.1.0"
-replace_path = "history"
-replace_path = "events"
-replace_path = "decisions"
-replace_path = "localisation"
-replace_path = "gfx/flags"

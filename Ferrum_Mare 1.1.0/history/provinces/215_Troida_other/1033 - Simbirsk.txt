@@ -1,9 +1,0 @@
-owner = SO1
-controller = SO1
-add_core = SO1
-
-trade_goods = grain
-
-life_rating = 36
-
-set_province_flag = farm

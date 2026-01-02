@@ -1,7 +1,0 @@
-owner = RE1
-controller = RE1
-add_core = RE1
-
-trade_goods = iron
-
-life_rating = 36

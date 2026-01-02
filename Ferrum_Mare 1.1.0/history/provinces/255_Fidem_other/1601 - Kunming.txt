@@ -1,8 +1,0 @@
-owner = CA2
-controller = CA2
-add_core = CA2
-
-trade_goods = tea
-life_rating = 36
-
-set_province_flag = farm

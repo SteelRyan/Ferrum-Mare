@@ -1,9 +1,0 @@
-owner = DA1
-controller = DA1
-add_core = DA1
-
-trade_goods = cattle
-
-life_rating = 36
-
-set_province_flag = farm

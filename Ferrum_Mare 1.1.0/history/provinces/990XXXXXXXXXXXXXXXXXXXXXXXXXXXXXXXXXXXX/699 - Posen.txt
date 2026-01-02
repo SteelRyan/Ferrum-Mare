@@ -1,8 +1,0 @@
-owner = IF1
-controller = IF1
-add_core = IF1
-
-trade_goods = fish
-life_rating = 36
-
-set_province_flag = farm

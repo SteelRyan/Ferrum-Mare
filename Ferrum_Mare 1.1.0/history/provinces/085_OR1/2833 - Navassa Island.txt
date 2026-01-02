@@ -1,7 +1,0 @@
-owner = DE1
-controller = DE1
-add_core = OR1
-
-trade_goods = fish
-
-life_rating = 36

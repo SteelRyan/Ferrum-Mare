@@ -1,9 +1,0 @@
-owner = DE1
-controller = DE1
-add_core = DE1
-
-trade_goods = sulphur
-
-life_rating = 36
-
-set_province_flag = farm
